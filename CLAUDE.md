@@ -129,8 +129,8 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 3 — Structure i18n + sélecteur de langue | ✅ terminée et validée (commit `031db5b`) |
 | 4a — Traduction de l'interface | ✅ **terminée, 123/123 clés** (commit `1ce7106`) |
 | 4b — Vocabulaire anatomique : mécanisme | ✅ terminé (commit `78f7d48`) |
-| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 9 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire, digestif **terminés**. Prochain : génital 33 (`node scripts/anatomy-todo.mjs reproductive`), qui clôt le périmètre « organes ». Ensuite demander à l'utilisateur : squelette (926) ou s'arrêter ? Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
-| 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
+| 4b — Vocabulaire anatomique : lots | ✅ **terminé : 5 088 / 5 091 (100 %), 76 lots**. Les 15 appareils sont couverts. Restent **3 TODO** (voir ci-dessous). Relecture dans `TRADUCTIONS-VOCABULAIRE.md`. |
+| 5 — Vérification visuelle et liste des TODO | ⬜ **PROCHAINE ÉTAPE** |
 
 ### Vocabulaire — fichiers et commandes
 
@@ -144,10 +144,10 @@ node scripts/translation-coverage.mjs        # avancement par appareil
 node scripts/anatomy-todo.mjs cardiac 40     # les 40 prochains termes d'un appareil, prêts à coller
 ```
 
-**Ordre des prochains lots** : `cardiac` (87, 2 lots) → `respiratory` (158, 4 lots) → `digestive` (151, 4 lots)
-→ `reproductive` (33, 1 lot). Toujours traduire les **noms de pièces** en même temps que les concepts
-du même appareil (le script les liste ensemble), sinon `chosen()` peut afficher un nom de concept
-à la place d'un nom de pièce.
+**Comment le vocabulaire a été produit** : lots 1 à 23 à la main (organes, nerfs), lots 24 à 76 par
+les générateurs à règles de `scripts/generateur-vocabulaire/` (squelette, veines, artères, muscles),
+chaque sortie relue par échantillon avant intégration. `node scripts/anatomy-review.mjs` régénère
+`TRADUCTIONS-VOCABULAIRE.md`, le tableau complet anglais | français par appareil.
 
 ## PROCHAINE ÉTAPE : le vocabulaire anatomique
 

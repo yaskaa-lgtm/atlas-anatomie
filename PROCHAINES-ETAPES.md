@@ -10,166 +10,20 @@ les règles de travail de l'utilisateur, l'architecture i18n et l'état du dép�
 
 ---
 
-## ÉTAPE 4b — Traduire le vocabulaire anatomique ← EN COURS
+## ÉTAPE 4b — Traduire le vocabulaire anatomique ← ✅ TERMINÉE
 
-> **État au commit `78f7d48`** : 4b.1 fait (périmètre choisi : **les organes d'abord**), 4b.2 à 4b.7
-> **faits** (mécanisme, câblage, recherche bilingue, scripts). **Lot 1 fait** : urinaire, lymphatique,
-> endocrinien. **Reste** : la boucle 4b.8 pour `cardiac` (87), `respiratory` (158), `digestive` (151),
-> `reproductive` (33). Commande de départ : `node scripts/anatomy-todo.mjs cardiac 40`.
-> Les sections 4b.2 à 4b.7 ci-dessous sont conservées comme documentation du mécanisme.
+5 088 / 5 091 termes traduits (100 %), 76 lots, 15 appareils. L'utilisateur a finalement demandé
+de **tout traduire** (« tu peux tout continuer y compris squelette »). Détails dans `CLAUDE.md`,
+tableau complet dans `TRADUCTIONS-VOCABULAIRE.md`, outils dans `scripts/generateur-vocabulaire/`.
 
-**C'est le gros chantier restant.** L'interface est traduite à 100 %, mais les **noms de structures**
-affichés (titre du panneau de détail, résultats de recherche, liste des pièces incluses) viennent
-du fichier de données et sont encore en anglais. L'utilisateur l'a déjà signalé comme gênant.
-
-### 4b.1 — Faire choisir le périmètre à l'utilisateur (À FAIRE EN PREMIER)
-
-5 090 termes uniques à 40 par lot = **~127 lots à relire**. Ne pas se lancer sans son accord.
-Lui présenter ces trois options :
-
-| Option | Volume | Commentaire |
-|---|---|---|
-| **(a) Périmètre ciblé** | ~300 à 500 termes, ~10 lots | Les structures réellement rencontrées en imagerie médicale : os, gros vaisseaux, organes, structures thoraciques et abdominales. Le reste reste en anglais par repli. **Recommandé** : immédiatement utile pour son DTS IMRT. |
-| **(b) Tout traduire** | 5 090 termes, ~127 lots | Exhaustif, mais très long et coûteux en crédits. |
-| **(c) Par appareil** | variable | Un système complet à la fois (squelette, puis cœur, puis appareil digestif…). Bon compromis si il veut réviser un appareil précis. |
-
-### 4b.2 — Mettre en place le mécanisme (une seule fois)
-
-**Ne jamais modifier `public/models/atlas.json`.** C'est la donnée source sous licence CC BY 4.0,
-et la règle de l'utilisateur est que l'anglais reste disponible comme référence.
-
-Créer **`locales/anatomy-fr.json`**, une table de correspondance appliquée à l'affichage :
-
-```json
-{
-  "concepts": {
-    "FMA7197": "foie",
-    "FMA3734": "arc de l'aorte"
-  },
-  "parts": {
-    "gingiva of upper jaw": "gencive du maxillaire"
-  }
-}
-```
-
-Deux tables sont nécessaires, car les données ont deux types de noms :
-
-| Source | Clé à utiliser | Volume | Exemple |
-|---|---|---|---|
-| `concepts[].name` | l'**identifiant FMA** (`concepts[].id`) | 3 432 | `FMA3734` → `arch of aorta` |
-| `parts[].name` | le **nom anglais en minuscules** | 1 674 uniques | `gingiva of upper jaw` |
-
-Les `parts` n'ont pas d'identifiant FMA propre (leur `id` est de la forme `FJ1252`), et 2 234 pièces
-se partagent 1 674 noms. Utiliser le nom anglais comme clé évite donc les doublons.
-
-Créer ensuite **`lib/anatomy-names.ts`** :
-
-```ts
-import {useI18n} from '@/lib/i18n';
-import names from '@/locales/anatomy-fr.json';
-import type {Concept,Part} from '@/app/anatomy';
-
-/** Renvoie le nom affichable d'une structure : le français s'il existe, sinon l'anglais d'origine. */
-export function useAnatomyName(){
- const {locale}=useI18n();
- return {
-  concept:(c:Pick<Concept,'id'|'name'>)=>locale==='fr'?(names.concepts[c.id as keyof typeof names.concepts]??c.name):c.name,
-  part:(p:Pick<Part,'name'>)=>locale==='fr'?(names.parts[p.name.toLowerCase() as keyof typeof names.parts]??p.name):p.name,
- };
-}
-```
-
-Le repli terme par terme est automatique : un terme non traduit reste en anglais, rien ne casse.
-
-### 4b.3 — ⚠️ PIÈGE PRINCIPAL : traduire à l'affichage uniquement
-
-`chosen.name` (l'état React) **doit rester le nom anglais**, parce qu'il sert de clé de recherche
-dans deux fonctions de `app/anatomy.ts` :
-
-```tsx
-explanationKey(chosen.name, selected.system)      // cherche 'heart', 'liver'… dans ORGAN_KEYS
-hasOrganExplanation(chosen.name.toLowerCase())    // idem
-```
-
-Si on traduit `chosen.name` à la source, les 9 explications d'organes cessent de s'afficher.
-**Ne traduire qu'au moment du rendu JSX.**
-
-### 4b.4 — Points à câbler dans `app/page.tsx`
-
-| Emplacement | Code actuel | Action |
-|---|---|---|
-| Titre du panneau de détail | `<SheetTitle …>{chosen?.name}</SheetTitle>` | traduire à l'affichage |
-| Légende sous le corps (mode isolé) | `chosen?.name??t('caption.isolated')` | traduire à l'affichage |
-| Liste des pièces incluses | `<span>{p.name}</span>` dans `member-list` | traduire à l'affichage |
-| Résultats de recherche | `<span className="search-result-name">{c.name}</span>` | traduire à l'affichage |
-| Libellé d'accessibilité du champ | `itemToStringLabel={c=>c.name}` | traduire à l'affichage |
-| **Filtre de recherche** | `c.name.toLowerCase().includes(term)||c.id.toLowerCase().includes(term)` | **voir 4b.5** |
-| Suggestions par défaut | `['heart','brain','liver',…]` | **ne pas toucher** : ce sont des clés de correspondance avec les données anglaises |
-
-### 4b.5 — Rendre la recherche bilingue
-
-La recherche doit trouver une structure tapée **en français comme en anglais** — l'utilisateur
-connaît les deux, et les termes anglais restent affichés pour ce qui n'est pas encore traduit.
-Étendre le filtre pour comparer aussi le nom français :
-
-```tsx
-atlas.concepts.filter(c=>{
- const french=conceptName(c).toLowerCase();
- return c.name.toLowerCase().includes(term)||french.includes(term)||c.id.toLowerCase().includes(term);
-})
-```
-
-**Penser aux accents** : « artere » doit trouver « artère ». Normaliser les deux côtés avec
-`.normalize('NFD').replace(/\p{Diacritic}/gu,'')` avant la comparaison.
-
-Le tri actuel est `a.name.length-b.name.length` (les noms courts d'abord). Le conserver, mais
-trier sur le nom affiché pour que l'ordre reste cohérent en français.
-
-### 4b.6 — Choisir les termes de chaque lot
-
-Créer un script d'aide, par exemple `scripts/anatomy-todo.mjs`, qui liste les termes non encore
-traduits **par ordre de priorité**. Bonne heuristique : **les noms les plus courts d'abord**
-(`arch of aorta` avant `first anterior ventricular branch of right coronary artery`), car ce sont
-les structures les plus générales et les plus utiles. Filtrer aussi par système (`parts[].system`)
-pour l'option (c).
-
-### 4b.7 — Étendre le contrôle de couverture
-
-`scripts/translation-coverage.mjs` ne vérifie aujourd'hui que l'interface (123/123).
-Y ajouter une section pour le vocabulaire :
-
-```
-Interface  : 123/123 clés traduites.
-Vocabulaire : 312/5090 termes traduits (6 %).
-```
-
-### 4b.8 — Boucle de travail pour chaque lot
-
-1. Prendre 30 à 50 termes non traduits.
-2. **Vérifier chaque terme dans la Terminologia Anatomica. Ne jamais inventer.**
-   En cas de doute : écrire `"TODO"` comme valeur et le signaler explicitement à l'utilisateur.
-3. Ajouter les entrées dans `locales/anatomy-fr.json`.
-4. Lancer `npm run check` et `node scripts/validate-atlas.mjs`.
-5. **Présenter le tableau `anglais | français`** et signaler :
-   - les termes à plusieurs traductions valides selon le contexte ;
-   - les `TODO` restants ;
-   - les abréviations conservées telles quelles (IRM, TDM, TEP…).
-6. **Attendre la relecture de l'utilisateur.**
-7. Commit avec un message en français mentionnant le numéro du lot.
-
-### Définition du « terminé » pour l'étape 4b
-
-- `locales/anatomy-fr.json` couvre le périmètre choisi par l'utilisateur.
-- Cliquer une structure affiche son nom en français.
-- La recherche fonctionne en français **et** en anglais, accents compris.
-- `npm run check`, `validate-atlas.mjs`, `validate-interactions.mjs` et `npm run build` passent.
-- Aucun `TODO` non signalé à l'utilisateur.
+**3 TODO restants** (affichés en anglais) : `FMA9348` subaortic curtain of left ventricle,
+`FMA9551` / `FMA9550` outflow part of left / right atrium. À trancher avec l'utilisateur ou un enseignant.
 
 ---
 
-## ÉTAPE 5 — Vérification visuelle et liste des TODO
+## ÉTAPE 5 — Vérification visuelle et liste des TODO ← PROCHAINE
 
-À faire **après** la validation de l'étape 4b.
+L'étape 4b est terminée : celle-ci peut commencer.
 
 ### 5.1 — Chercher les débordements de texte
 

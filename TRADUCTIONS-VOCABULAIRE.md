@@ -1,6 +1,6 @@
 # Vocabulaire anatomique — relecture
 
-**1529 / 3432 termes traduits · 3 TODO**
+**3429 / 3432 termes traduits · 3 TODO**
 
 Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr.json`. Ne pas éditer à la main : corriger le JSON puis régénérer.
 
@@ -1536,1978 +1536,1978 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | zone of sternum | zone du sternum | FMA12215 |
 | zygomatic bone | os zygomatique | FMA52747 |
 
-## Veines — 3/406
+## Veines — 406/406
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| accessory hemiazygos vein | *(non traduit)* | FMA5011 |
-| anterior basal segmental vein | *(non traduit)* | FMA13290 |
-| anterior branch of right portal vein | *(non traduit)* | FMA15419 |
-| anterior cardiac vein | *(non traduit)* | FMA76767 |
-| anterior cardiac venous tree | *(non traduit)* | FMA4717 |
-| anterior circumflex humeral vein | *(non traduit)* | FMA77499 |
-| anterior inferior segmental branch of right portal vein | *(non traduit)* | FMA15421 |
-| anterior inferior segmental tributary of middle hepatic vein | *(non traduit)* | FMA15800 |
-| anterior interventricular vein | *(non traduit)* | FMA66403 |
-| anterior part of apical segmental vein | *(non traduit)* | FMA68920 |
-| anterior part of lateral segmental vein | *(non traduit)* | FMA68945 |
-| anterior part of right apical segmental vein | *(non traduit)* | FMA68921 |
-| anterior sector of left liver | *(non traduit)* | FMA15750 |
-| anterior sector of right liver | *(non traduit)* | FMA15748 |
-| anterior segmental vein | *(non traduit)* | FMA13442 |
-| anterior superior segmental branch of right portal vein | *(non traduit)* | FMA15420 |
-| anterior superior segmental tributary of right hepatic vein | *(non traduit)* | FMA15798 |
-| anterior tibial vein | *(non traduit)* | FMA44331 |
-| apical part of apical segmental vein | *(non traduit)* | FMA68919 |
-| apical part of right apical segmental vein | *(non traduit)* | FMA8681 |
-| apical segmental vein | *(non traduit)* | FMA13444 |
-| apicoposterior bronchopulmonary segment | *(non traduit)* | FMA7372 |
-| apicoposterior segmental vein | *(non traduit)* | FMA8666 |
-| ascending lumbar vein | *(non traduit)* | FMA12858 |
-| axillary vein | *(non traduit)* | FMA13329 |
-| azygos vein | *(non traduit)* | FMA4838 |
-| basilic vein | *(non traduit)* | FMA22908 |
-| brachial vein | *(non traduit)* | FMA22934 |
-| brachiocephalic vein | *(non traduit)* | FMA4723 |
-| cardiac vein | *(non traduit)* | FMA12846 |
-| caudate lobe branch of left portal vein | *(non traduit)* | FMA15425 |
-| caudate lobe branch of right portal vein | *(non traduit)* | FMA82706 |
-| cephalic vein | *(non traduit)* | FMA13324 |
-| circumflex scapular vein | *(non traduit)* | FMA77498 |
-| common iliac vein | *(non traduit)* | FMA14333 |
-| common palmar digital vein | *(non traduit)* | FMA22923 |
-| coronary sinus | *(non traduit)* | FMA4706 |
-| coronary sinus tree | *(non traduit)* | FMA50308 |
-| deep dorsal vein of penis | *(non traduit)* | FMA21354 |
-| deep femoral vein | *(non traduit)* | FMA51041 |
-| deep palmar venous arch | *(non traduit)* | FMA22911 |
-| dorsal metacarpal vein | *(non traduit)* | FMA22954 |
-| dorsal venous arch of foot | *(non traduit)* | FMA44356 |
-| dorsal venous arch of left foot | *(non traduit)* | FMA44882 |
-| dorsal venous arch of right foot | *(non traduit)* | FMA44881 |
-| dorsal venous network of hand | *(non traduit)* | FMA67977 |
-| dorsal venous network of left hand | *(non traduit)* | FMA62507 |
-| dorsal venous network of right hand | *(non traduit)* | FMA62506 |
-| external iliac vein | *(non traduit)* | FMA18883 |
-| femoral vein | *(non traduit)* | FMA21185 |
-| fibular vein | *(non traduit)* | FMA44558 |
-| genicular vein | *(non traduit)* | FMA44559 |
-| great cardiac vein | *(non traduit)* | FMA4707 |
-| great saphenous vein | *(non traduit)* | FMA21376 |
-| hemiazygos vein | *(non traduit)* | FMA4944 |
-| hepatic portal vein | *(non traduit)* | FMA50735 |
-| hepatic vein | *(non traduit)* | FMA14337 |
-| hepatovenous segment ii | *(non traduit)* | FMA15739 |
-| hepatovenous segment iii | *(non traduit)* | FMA15741 |
-| hepatovenous segment iv | *(non traduit)* | FMA15742 |
-| hepatovenous segment ix | *(non traduit)* | FMA15747 |
-| hepatovenous segment v | *(non traduit)* | FMA15743 |
-| hepatovenous segment vi | *(non traduit)* | FMA15744 |
-| hepatovenous segment vii | *(non traduit)* | FMA15745 |
-| hepatovenous segment viii | *(non traduit)* | FMA15746 |
-| hepatovenous subsector | *(non traduit)* | FMA15737 |
-| hollow tree organ | *(non traduit)* | FMA55677 |
-| ileal vein | *(non traduit)* | FMA15405 |
-| ileocolic vein | *(non traduit)* | FMA15408 |
-| iliolumbar vein | *(non traduit)* | FMA18902 |
-| inferior epigastric vein | *(non traduit)* | FMA21162 |
-| inferior gluteal vein | *(non traduit)* | FMA18911 |
-| inferior lingular vein | *(non traduit)* | FMA8669 |
-| inferior mesenteric vein | *(non traduit)* | FMA15391 |
-| inferior part of anterior segmental vein | *(non traduit)* | FMA8693 |
-| inferior part of medial segmental vein | *(non traduit)* | FMA68983 |
-| inferior part of right anterior segmental vein | *(non traduit)* | FMA68928 |
-| inferior phrenic vein | *(non traduit)* | FMA68068 |
-| inferior pulmonary vein | *(non traduit)* | FMA49910 |
-| inferior systemic venous tree | *(non traduit)* | FMA82673 |
-| inferior vena cava | *(non traduit)* | FMA10951 |
-| internal iliac vein | *(non traduit)* | FMA18884 |
-| internal jugular vein | *(non traduit)* | FMA4724 |
-| internal pudendal vein | *(non traduit)* | FMA18917 |
-| internal thoracic vein | *(non traduit)* | FMA4729 |
-| intrapulmonary part of left inferior pulmonary vein | *(non traduit)* | FMA68005 |
-| intrapulmonary part of left superior pulmonary vein | *(non traduit)* | FMA68004 |
-| intrapulmonary part of right inferior pulmonary vein | *(non traduit)* | FMA68003 |
-| intrapulmonary part of right superior pulmonary vein | *(non traduit)* | FMA68002 |
-| lateral basal segmental vein | *(non traduit)* | FMA13291 |
-| lateral branch of left portal vein | *(non traduit)* | FMA15430 |
-| lateral bronchopulmonary segment | *(non traduit)* | FMA7361 |
-| lateral circumflex femoral vein | *(non traduit)* | FMA44326 |
-| lateral inferior segmental branch of left portal vein | *(non traduit)* | FMA15432 |
-| lateral inferior segmental tributary of left hepatic vein | *(non traduit)* | FMA15804 |
-| lateral sacral vein | *(non traduit)* | FMA18905 |
-| lateral segmental vein | *(non traduit)* | FMA8664 |
-| lateral superior segmental branch of left portal vein | *(non traduit)* | FMA15431 |
-| lateral superior segmental tributary of left hepatic vein | *(non traduit)* | FMA15803 |
-| lateral thoracic vein | *(non traduit)* | FMA71210 |
-| left anterior basal bronchopulmonary segment | *(non traduit)* | FMA7378 |
-| left anterior basal segmental vein | *(non traduit)* | FMA8678 |
-| left anterior circumflex humeral vein | *(non traduit)* | FMA77955 |
-| left anterior segmental vein | *(non traduit)* | FMA8667 |
-| left anterior tibial vein | *(non traduit)* | FMA44337 |
-| left apical bronchopulmonary segment | *(non traduit)* | FMA7385 |
-| left apical segmental vein | *(non traduit)* | FMA9437 |
-| left ascending lumbar vein | *(non traduit)* | FMA4950 |
-| left axillary vein | *(non traduit)* | FMA13331 |
-| left basilic vein | *(non traduit)* | FMA22910 |
-| left brachiocephalic vein | *(non traduit)* | FMA4761 |
-| left cephalic vein | *(non traduit)* | FMA13326 |
-| left circumflex scapular vein | *(non traduit)* | FMA77950 |
-| left colic vein | *(non traduit)* | FMA15394 |
-| left common basal vein | *(non traduit)* | FMA8676 |
-| left common iliac vein | *(non traduit)* | FMA21388 |
-| left deep femoral vein | *(non traduit)* | FMA51043 |
-| left deep palmar venous arch | *(non traduit)* | FMA22913 |
-| left external iliac vein | *(non traduit)* | FMA18886 |
-| left femoral vein | *(non traduit)* | FMA21189 |
-| left fibular vein | *(non traduit)* | FMA44886 |
-| left gastric vein | *(non traduit)* | FMA15399 |
-| left gastroepiploic vein | *(non traduit)* | FMA15390 |
-| left genicular vein | *(non traduit)* | FMA44888 |
-| left great saphenous vein | *(non traduit)* | FMA21380 |
-| left hemiliver | *(non traduit)* | FMA15810 |
-| left hepatic vein | *(non traduit)* | FMA14339 |
-| left iliolumbar vein | *(non traduit)* | FMA18904 |
-| left inferior basal vein | *(non traduit)* | FMA8679 |
-| left inferior epigastric vein | *(non traduit)* | FMA21164 |
-| left inferior gluteal vein | *(non traduit)* | FMA18913 |
-| left inferior pulmonary vein | *(non traduit)* | FMA49913 |
-| left internal iliac vein | *(non traduit)* | FMA18888 |
-| left internal jugular vein | *(non traduit)* | FMA4762 |
-| left internal pudendal vein | *(non traduit)* | FMA18919 |
-| left lateral basal segmental vein | *(non traduit)* | FMA9450 |
-| left lateral circumflex femoral vein | *(non traduit)* | FMA44922 |
-| left lateral sacral vein | *(non traduit)* | FMA18907 |
-| left lateral thoracic vein | *(non traduit)* | FMA71212 |
-| left marginal vein | *(non traduit)* | FMA4708 |
-| left medial brachial vein | *(non traduit)* | FMA22936 |
-| left medial circumflex femoral vein | *(non traduit)* | FMA44919 |
-| left median antebrachial vein | *(non traduit)* | FMA22969 |
-| left median cubital vein | *(non traduit)* | FMA22965 |
-| left musculophrenic vein | *(non traduit)* | FMA4786 |
-| left obturator vein | *(non traduit)* | FMA18916 |
-| left palmar metacarpal vein | *(non traduit)* | FMA22921 |
-| left popliteal vein | *(non traduit)* | FMA44329 |
-| left portal vein | *(non traduit)* | FMA15415 |
-| left posterior basal segmental vein | *(non traduit)* | FMA9451 |
-| left posterior bronchopulmonary segment | *(non traduit)* | FMA7386 |
-| left posterior segmental vein | *(non traduit)* | FMA9438 |
-| left posterior tibial vein | *(non traduit)* | FMA44339 |
-| left radial vein | *(non traduit)* | FMA22949 |
-| left renal vein | *(non traduit)* | FMA14336 |
-| left small saphenous vein | *(non traduit)* | FMA44335 |
-| left subclavian vein | *(non traduit)* | FMA4763 |
-| left subcostal vein | *(non traduit)* | FMA4951 |
-| left subscapular vein | *(non traduit)* | FMA23115 |
-| left superficial dorsal vein of penis | *(non traduit)* | FMA21386 |
-| left superficial epigastric vein | *(non traduit)* | FMA44341 |
-| left superficial palmar venous arch | *(non traduit)* | FMA22916 |
-| left superior basal vein | *(non traduit)* | FMA8677 |
-| left superior epigastric vein | *(non traduit)* | FMA4785 |
-| left superior gluteal vein | *(non traduit)* | FMA18910 |
-| left superior intercostal vein | *(non traduit)* | FMA4797 |
-| left superior pulmonary vein | *(non traduit)* | FMA49916 |
-| left suprarenal vein | *(non traduit)* | FMA14349 |
-| left suprascapular vein | *(non traduit)* | FMA50860 |
-| left testicular vein | *(non traduit)* | FMA14345 |
-| left thoracodorsal vein | *(non traduit)* | FMA71215 |
-| left ulnar vein | *(non traduit)* | FMA22952 |
-| left upper lobar vein | *(non traduit)* | FMA8657 |
-| lingular vein | *(non traduit)* | FMA8658 |
+| accessory hemiazygos vein | veine hémi-azygos accessoire | FMA5011 |
+| anterior basal segmental vein | veine segmentaire basale antérieure | FMA13290 |
+| anterior branch of right portal vein | branche antérieure de la veine porte droite | FMA15419 |
+| anterior cardiac vein | veine cardiaque antérieure | FMA76767 |
+| anterior cardiac venous tree | arbre veineux cardiaque antérieur | FMA4717 |
+| anterior circumflex humeral vein | veine circonflexe humérale antérieure | FMA77499 |
+| anterior inferior segmental branch of right portal vein | branche segmentaire antérieure inférieure de la veine porte droite | FMA15421 |
+| anterior inferior segmental tributary of middle hepatic vein | affluent segmentaire antérieur inférieur de la veine hépatique moyenne | FMA15800 |
+| anterior interventricular vein | veine interventriculaire antérieure | FMA66403 |
+| anterior part of apical segmental vein | partie antérieure de la veine segmentaire apicale | FMA68920 |
+| anterior part of lateral segmental vein | partie antérieure de la veine segmentaire latérale | FMA68945 |
+| anterior part of right apical segmental vein | partie antérieure de la veine segmentaire apicale droite | FMA68921 |
+| anterior sector of left liver | secteur antérieur du foie gauche | FMA15750 |
+| anterior sector of right liver | secteur antérieur du foie droit | FMA15748 |
+| anterior segmental vein | veine segmentaire antérieure | FMA13442 |
+| anterior superior segmental branch of right portal vein | branche segmentaire antérieure supérieure de la veine porte droite | FMA15420 |
+| anterior superior segmental tributary of right hepatic vein | affluent segmentaire antérieur supérieur de la veine hépatique droite | FMA15798 |
+| anterior tibial vein | veine tibiale antérieure | FMA44331 |
+| apical part of apical segmental vein | partie apicale de la veine segmentaire apicale | FMA68919 |
+| apical part of right apical segmental vein | partie apicale de la veine segmentaire apicale droite | FMA8681 |
+| apical segmental vein | veine segmentaire apicale | FMA13444 |
+| apicoposterior bronchopulmonary segment | segment broncho-pulmonaire apico-postérieur | FMA7372 |
+| apicoposterior segmental vein | veine segmentaire apico-postérieure | FMA8666 |
+| ascending lumbar vein | veine lombaire ascendante | FMA12858 |
+| axillary vein | veine axillaire | FMA13329 |
+| azygos vein | veine azygos | FMA4838 |
+| basilic vein | veine basilique | FMA22908 |
+| brachial vein | veine brachiale | FMA22934 |
+| brachiocephalic vein | veine brachio-céphalique | FMA4723 |
+| cardiac vein | veine cardiaque | FMA12846 |
+| caudate lobe branch of left portal vein | branche du lobe caudé de la veine porte gauche | FMA15425 |
+| caudate lobe branch of right portal vein | branche du lobe caudé de la veine porte droite | FMA82706 |
+| cephalic vein | veine céphalique | FMA13324 |
+| circumflex scapular vein | veine circonflexe scapulaire | FMA77498 |
+| common iliac vein | veine iliaque commune | FMA14333 |
+| common palmar digital vein | veine digitale palmaire commune | FMA22923 |
+| coronary sinus | sinus coronaire | FMA4706 |
+| coronary sinus tree | arbre du sinus coronaire | FMA50308 |
+| deep dorsal vein of penis | veine dorsale profonde du pénis | FMA21354 |
+| deep femoral vein | veine fémorale profonde | FMA51041 |
+| deep palmar venous arch | arcade veineuse palmaire profonde | FMA22911 |
+| dorsal metacarpal vein | veine métacarpienne dorsale | FMA22954 |
+| dorsal venous arch of foot | arcade veineuse dorsale du pied | FMA44356 |
+| dorsal venous arch of left foot | arcade veineuse dorsale du pied gauche | FMA44882 |
+| dorsal venous arch of right foot | arcade veineuse dorsale du pied droit | FMA44881 |
+| dorsal venous network of hand | réseau veineux dorsal de la main | FMA67977 |
+| dorsal venous network of left hand | réseau veineux dorsal de la main gauche | FMA62507 |
+| dorsal venous network of right hand | réseau veineux dorsal de la main droite | FMA62506 |
+| external iliac vein | veine iliaque externe | FMA18883 |
+| femoral vein | veine fémorale | FMA21185 |
+| fibular vein | veine fibulaire | FMA44558 |
+| genicular vein | veine géniculaire | FMA44559 |
+| great cardiac vein | grande veine cardiaque | FMA4707 |
+| great saphenous vein | grande veine saphène | FMA21376 |
+| hemiazygos vein | veine hémi-azygos | FMA4944 |
+| hepatic portal vein | veine porte hépatique | FMA50735 |
+| hepatic vein | veine hépatique | FMA14337 |
+| hepatovenous segment ii | segment hépato-veineux II | FMA15739 |
+| hepatovenous segment iii | segment hépato-veineux III | FMA15741 |
+| hepatovenous segment iv | segment hépato-veineux IV | FMA15742 |
+| hepatovenous segment ix | segment hépato-veineux IX | FMA15747 |
+| hepatovenous segment v | segment hépato-veineux V | FMA15743 |
+| hepatovenous segment vi | segment hépato-veineux VI | FMA15744 |
+| hepatovenous segment vii | segment hépato-veineux VII | FMA15745 |
+| hepatovenous segment viii | segment hépato-veineux VIII | FMA15746 |
+| hepatovenous subsector | sous-secteur hépato-veineux | FMA15737 |
+| hollow tree organ | organe arborescent creux | FMA55677 |
+| ileal vein | veine iléale | FMA15405 |
+| ileocolic vein | veine iléo-colique | FMA15408 |
+| iliolumbar vein | veine ilio-lombaire | FMA18902 |
+| inferior epigastric vein | veine épigastrique inférieure | FMA21162 |
+| inferior gluteal vein | veine glutéale inférieure | FMA18911 |
+| inferior lingular vein | veine lingulaire inférieure | FMA8669 |
+| inferior mesenteric vein | veine mésentérique inférieure | FMA15391 |
+| inferior part of anterior segmental vein | partie inférieure de la veine segmentaire antérieure | FMA8693 |
+| inferior part of medial segmental vein | partie inférieure de la veine segmentaire médiale | FMA68983 |
+| inferior part of right anterior segmental vein | partie inférieure de la veine segmentaire antérieure droite | FMA68928 |
+| inferior phrenic vein | veine phrénique inférieure | FMA68068 |
+| inferior pulmonary vein | veine pulmonaire inférieure | FMA49910 |
+| inferior systemic venous tree | arbre veineux systémique inférieur | FMA82673 |
+| inferior vena cava | veine cave inférieure | FMA10951 |
+| internal iliac vein | veine iliaque interne | FMA18884 |
+| internal jugular vein | veine jugulaire interne | FMA4724 |
+| internal pudendal vein | veine pudendale interne | FMA18917 |
+| internal thoracic vein | veine thoracique interne | FMA4729 |
+| intrapulmonary part of left inferior pulmonary vein | partie intrapulmonaire de la veine pulmonaire inférieure gauche | FMA68005 |
+| intrapulmonary part of left superior pulmonary vein | partie intrapulmonaire de la veine pulmonaire supérieure gauche | FMA68004 |
+| intrapulmonary part of right inferior pulmonary vein | partie intrapulmonaire de la veine pulmonaire inférieure droite | FMA68003 |
+| intrapulmonary part of right superior pulmonary vein | partie intrapulmonaire de la veine pulmonaire supérieure droite | FMA68002 |
+| lateral basal segmental vein | veine segmentaire basale latérale | FMA13291 |
+| lateral branch of left portal vein | branche latérale de la veine porte gauche | FMA15430 |
+| lateral bronchopulmonary segment | segment broncho-pulmonaire latéral | FMA7361 |
+| lateral circumflex femoral vein | veine circonflexe fémorale latérale | FMA44326 |
+| lateral inferior segmental branch of left portal vein | branche segmentaire latérale inférieure de la veine porte gauche | FMA15432 |
+| lateral inferior segmental tributary of left hepatic vein | affluent segmentaire latéral inférieur de la veine hépatique gauche | FMA15804 |
+| lateral sacral vein | veine sacrale latérale | FMA18905 |
+| lateral segmental vein | veine segmentaire latérale | FMA8664 |
+| lateral superior segmental branch of left portal vein | branche segmentaire latérale supérieure de la veine porte gauche | FMA15431 |
+| lateral superior segmental tributary of left hepatic vein | affluent segmentaire latéral supérieur de la veine hépatique gauche | FMA15803 |
+| lateral thoracic vein | veine thoracique latérale | FMA71210 |
+| left anterior basal bronchopulmonary segment | segment broncho-pulmonaire basal antérieur gauche | FMA7378 |
+| left anterior basal segmental vein | veine segmentaire basale antérieure gauche | FMA8678 |
+| left anterior circumflex humeral vein | veine circonflexe humérale antérieure gauche | FMA77955 |
+| left anterior segmental vein | veine segmentaire antérieure gauche | FMA8667 |
+| left anterior tibial vein | veine tibiale antérieure gauche | FMA44337 |
+| left apical bronchopulmonary segment | segment broncho-pulmonaire apical gauche | FMA7385 |
+| left apical segmental vein | veine segmentaire apicale gauche | FMA9437 |
+| left ascending lumbar vein | veine lombaire ascendante gauche | FMA4950 |
+| left axillary vein | veine axillaire gauche | FMA13331 |
+| left basilic vein | veine basilique gauche | FMA22910 |
+| left brachiocephalic vein | veine brachio-céphalique gauche | FMA4761 |
+| left cephalic vein | veine céphalique gauche | FMA13326 |
+| left circumflex scapular vein | veine circonflexe scapulaire gauche | FMA77950 |
+| left colic vein | veine colique gauche | FMA15394 |
+| left common basal vein | veine basale commune gauche | FMA8676 |
+| left common iliac vein | veine iliaque commune gauche | FMA21388 |
+| left deep femoral vein | veine fémorale profonde gauche | FMA51043 |
+| left deep palmar venous arch | arcade veineuse palmaire profonde gauche | FMA22913 |
+| left external iliac vein | veine iliaque externe gauche | FMA18886 |
+| left femoral vein | veine fémorale gauche | FMA21189 |
+| left fibular vein | veine fibulaire gauche | FMA44886 |
+| left gastric vein | veine gastrique gauche | FMA15399 |
+| left gastroepiploic vein | veine gastro-omentale gauche | FMA15390 |
+| left genicular vein | veine géniculaire gauche | FMA44888 |
+| left great saphenous vein | grande veine saphène gauche | FMA21380 |
+| left hemiliver | hémifoie gauche | FMA15810 |
+| left hepatic vein | veine hépatique gauche | FMA14339 |
+| left iliolumbar vein | veine ilio-lombaire gauche | FMA18904 |
+| left inferior basal vein | veine basale inférieure gauche | FMA8679 |
+| left inferior epigastric vein | veine épigastrique inférieure gauche | FMA21164 |
+| left inferior gluteal vein | veine glutéale inférieure gauche | FMA18913 |
+| left inferior pulmonary vein | veine pulmonaire inférieure gauche | FMA49913 |
+| left internal iliac vein | veine iliaque interne gauche | FMA18888 |
+| left internal jugular vein | veine jugulaire interne gauche | FMA4762 |
+| left internal pudendal vein | veine pudendale interne gauche | FMA18919 |
+| left lateral basal segmental vein | veine segmentaire basale latérale gauche | FMA9450 |
+| left lateral circumflex femoral vein | veine circonflexe fémorale latérale gauche | FMA44922 |
+| left lateral sacral vein | veine sacrale latérale gauche | FMA18907 |
+| left lateral thoracic vein | veine thoracique latérale gauche | FMA71212 |
+| left marginal vein | veine marginale gauche | FMA4708 |
+| left medial brachial vein | veine brachiale médiale gauche | FMA22936 |
+| left medial circumflex femoral vein | veine circonflexe fémorale médiale gauche | FMA44919 |
+| left median antebrachial vein | veine antébrachiale médiane gauche | FMA22969 |
+| left median cubital vein | veine médiane du coude gauche | FMA22965 |
+| left musculophrenic vein | veine musculo-phrénique gauche | FMA4786 |
+| left obturator vein | veine obturatrice gauche | FMA18916 |
+| left palmar metacarpal vein | veine métacarpienne palmaire gauche | FMA22921 |
+| left popliteal vein | veine poplitée gauche | FMA44329 |
+| left portal vein | veine porte gauche | FMA15415 |
+| left posterior basal segmental vein | veine segmentaire basale postérieure gauche | FMA9451 |
+| left posterior bronchopulmonary segment | segment broncho-pulmonaire postérieur gauche | FMA7386 |
+| left posterior segmental vein | veine segmentaire postérieure gauche | FMA9438 |
+| left posterior tibial vein | veine tibiale postérieure gauche | FMA44339 |
+| left radial vein | veine radiale gauche | FMA22949 |
+| left renal vein | veine rénale gauche | FMA14336 |
+| left small saphenous vein | petite veine saphène gauche | FMA44335 |
+| left subclavian vein | veine subclavière gauche | FMA4763 |
+| left subcostal vein | veine subcostale gauche | FMA4951 |
+| left subscapular vein | veine subscapulaire gauche | FMA23115 |
+| left superficial dorsal vein of penis | veine dorsale superficielle gauche du pénis | FMA21386 |
+| left superficial epigastric vein | veine épigastrique superficielle gauche | FMA44341 |
+| left superficial palmar venous arch | arcade veineuse palmaire superficielle gauche | FMA22916 |
+| left superior basal vein | veine basale supérieure gauche | FMA8677 |
+| left superior epigastric vein | veine épigastrique supérieure gauche | FMA4785 |
+| left superior gluteal vein | veine glutéale supérieure gauche | FMA18910 |
+| left superior intercostal vein | veine intercostale supérieure gauche | FMA4797 |
+| left superior pulmonary vein | veine pulmonaire supérieure gauche | FMA49916 |
+| left suprarenal vein | veine surrénale gauche | FMA14349 |
+| left suprascapular vein | veine suprascapulaire gauche | FMA50860 |
+| left testicular vein | veine testiculaire gauche | FMA14345 |
+| left thoracodorsal vein | veine thoraco-dorsale gauche | FMA71215 |
+| left ulnar vein | veine ulnaire gauche | FMA22952 |
+| left upper lobar vein | veine lobaire supérieure gauche | FMA8657 |
+| lingular vein | veine lingulaire | FMA8658 |
 | liver | foie | FMA7197 |
-| lumbar vein | *(non traduit)* | FMA15370 |
-| medial basal segmental vein | *(non traduit)* | FMA13289 |
-| medial brachial vein | *(non traduit)* | FMA78021 |
-| medial branch of left portal vein | *(non traduit)* | FMA15427 |
-| medial circumflex femoral vein | *(non traduit)* | FMA44325 |
-| medial inferior segmental branch of left portal vein | *(non traduit)* | FMA15429 |
-| medial inferior segmental tributary of middle hepatic vein | *(non traduit)* | FMA15801 |
-| medial segmental vein | *(non traduit)* | FMA8665 |
-| medial superior segmental branch of left portal vein | *(non traduit)* | FMA15428 |
-| medial superior segmental tributary of left hepatic vein | *(non traduit)* | FMA15802 |
-| median antebrachial vein | *(non traduit)* | FMA22967 |
-| median cubital vein | *(non traduit)* | FMA22963 |
-| median sacral vein | *(non traduit)* | FMA77168 |
-| middle cardiac vein | *(non traduit)* | FMA4713 |
-| middle colic vein | *(non traduit)* | FMA15406 |
-| middle hepatic vein | *(non traduit)* | FMA14340 |
-| middle lobar vein | *(non traduit)* | FMA8656 |
+| lumbar vein | veine lombaire | FMA15370 |
+| medial basal segmental vein | veine segmentaire basale médiale | FMA13289 |
+| medial brachial vein | veine brachiale médiale | FMA78021 |
+| medial branch of left portal vein | branche médiale de la veine porte gauche | FMA15427 |
+| medial circumflex femoral vein | veine circonflexe fémorale médiale | FMA44325 |
+| medial inferior segmental branch of left portal vein | branche segmentaire médiale inférieure de la veine porte gauche | FMA15429 |
+| medial inferior segmental tributary of middle hepatic vein | affluent segmentaire médial inférieur de la veine hépatique moyenne | FMA15801 |
+| medial segmental vein | veine segmentaire médiale | FMA8665 |
+| medial superior segmental branch of left portal vein | branche segmentaire médiale supérieure de la veine porte gauche | FMA15428 |
+| medial superior segmental tributary of left hepatic vein | affluent segmentaire médial supérieur de la veine hépatique gauche | FMA15802 |
+| median antebrachial vein | veine médiane de l'avant-bras | FMA22967 |
+| median cubital vein | veine médiane du coude | FMA22963 |
+| median sacral vein | veine sacrale médiane | FMA77168 |
+| middle cardiac vein | veine cardiaque moyenne | FMA4713 |
+| middle colic vein | veine colique moyenne | FMA15406 |
+| middle hepatic vein | veine hépatique moyenne | FMA14340 |
+| middle lobar vein | veine lobaire moyenne | FMA8656 |
 | middle lobe of lung | lobe moyen du poumon | FMA7383 |
-| musculophrenic vein | *(non traduit)* | FMA4732 |
-| obturator vein | *(non traduit)* | FMA18914 |
-| palmar metacarpal vein | *(non traduit)* | FMA22919 |
-| pancreaticoduodenal vein | *(non traduit)* | FMA15398 |
-| plantar metatarsal vein | *(non traduit)* | FMA44504 |
-| plantar venous arch of foot | *(non traduit)* | FMA44489 |
-| plantar venous arch of left foot | *(non traduit)* | FMA44884 |
-| plantar venous arch of right foot | *(non traduit)* | FMA44883 |
-| popliteal vein | *(non traduit)* | FMA44327 |
-| portal vein | *(non traduit)* | FMA66645 |
-| portal venous system | *(non traduit)* | FMA45628 |
-| portal venous tree | *(non traduit)* | FMA45847 |
-| posterior basal segmental vein | *(non traduit)* | FMA13292 |
-| posterior branch of right portal vein | *(non traduit)* | FMA15422 |
-| posterior inferior segmental branch of right portal vein | *(non traduit)* | FMA15424 |
-| posterior inferior segmental tributary of right hepatic vein | *(non traduit)* | FMA15797 |
-| posterior part of lateral segmental vein | *(non traduit)* | FMA68944 |
-| posterior sector of left liver | *(non traduit)* | FMA15751 |
-| posterior sector of right liver | *(non traduit)* | FMA15749 |
-| posterior segmental vein | *(non traduit)* | FMA13443 |
-| posterior superior segmental branch of right portal vein | *(non traduit)* | FMA15423 |
-| posterior superior segmental tributary of right hepatic vein | *(non traduit)* | FMA15796 |
-| posterior tibial vein | *(non traduit)* | FMA44332 |
-| posterior vein of left ventricle | *(non traduit)* | FMA4712 |
-| pre-hepatic portal vein | *(non traduit)* | FMA71904 |
-| proper palmar digital vein of index finger | *(non traduit)* | FMA22927 |
-| proper palmar digital vein of left index finger | *(non traduit)* | FMA85097 |
-| proper palmar digital vein of left little finger | *(non traduit)* | FMA85103 |
-| proper palmar digital vein of left middle finger | *(non traduit)* | FMA85099 |
-| proper palmar digital vein of left ring finger | *(non traduit)* | FMA85101 |
-| proper palmar digital vein of little finger | *(non traduit)* | FMA85095 |
-| proper palmar digital vein of middle finger | *(non traduit)* | FMA22928 |
-| proper palmar digital vein of right index finger | *(non traduit)* | FMA85096 |
-| proper palmar digital vein of right little finger | *(non traduit)* | FMA85102 |
-| proper palmar digital vein of right middle finger | *(non traduit)* | FMA85098 |
-| proper palmar digital vein of right ring finger | *(non traduit)* | FMA85100 |
-| proper palmar digital vein of ring finger | *(non traduit)* | FMA22929 |
-| pulmonary vein | *(non traduit)* | FMA66643 |
-| pulmonary venous tree organ | *(non traduit)* | FMA49907 |
-| radial vein | *(non traduit)* | FMA22947 |
-| region of anterior sector of left liver (in-vivo) | *(non traduit)* | FMA15757 |
-| region of anterior sector of right liver (in-vivo) | *(non traduit)* | FMA15755 |
-| region of posterior sector of right liver (in-vivo) | *(non traduit)* | FMA15756 |
-| renal vein | *(non traduit)* | FMA14334 |
-| right anterior basal segmental vein | *(non traduit)* | FMA8673 |
-| right anterior circumflex humeral vein | *(non traduit)* | FMA77954 |
-| right anterior segmental vein | *(non traduit)* | FMA8662 |
-| right anterior tibial vein | *(non traduit)* | FMA44336 |
-| right apical segmental vein | *(non traduit)* | FMA8661 |
-| right ascending lumbar vein | *(non traduit)* | FMA4843 |
-| right axillary vein | *(non traduit)* | FMA13330 |
-| right basilic vein | *(non traduit)* | FMA22909 |
-| right brachiocephalic vein | *(non traduit)* | FMA4751 |
-| right cephalic vein | *(non traduit)* | FMA13325 |
-| right circumflex scapular vein | *(non traduit)* | FMA77949 |
-| right colic vein | *(non traduit)* | FMA15407 |
-| right common basal vein | *(non traduit)* | FMA8671 |
-| right common iliac vein | *(non traduit)* | FMA21387 |
-| right deep femoral vein | *(non traduit)* | FMA51042 |
-| right deep palmar venous arch | *(non traduit)* | FMA22912 |
-| right external iliac vein | *(non traduit)* | FMA18885 |
-| right femoral vein | *(non traduit)* | FMA21188 |
-| right fibular vein | *(non traduit)* | FMA44885 |
-| right gastric vein | *(non traduit)* | FMA15400 |
-| right gastroepiploic vein | *(non traduit)* | FMA15397 |
-| right genicular vein | *(non traduit)* | FMA44887 |
-| right great saphenous vein | *(non traduit)* | FMA21379 |
-| right hemiliver | *(non traduit)* | FMA15809 |
-| right hepatic vein | *(non traduit)* | FMA14338 |
-| right iliolumbar vein | *(non traduit)* | FMA18903 |
-| right inferior basal vein | *(non traduit)* | FMA8674 |
-| right inferior epigastric vein | *(non traduit)* | FMA21163 |
-| right inferior gluteal vein | *(non traduit)* | FMA18912 |
-| right inferior pulmonary vein | *(non traduit)* | FMA49911 |
-| right internal iliac vein | *(non traduit)* | FMA18887 |
-| right internal jugular vein | *(non traduit)* | FMA4754 |
-| right internal pudendal vein | *(non traduit)* | FMA18918 |
-| right internal thoracic vein | *(non traduit)* | FMA4758 |
-| right lateral basal segmental vein | *(non traduit)* | FMA9425 |
-| right lateral circumflex femoral vein | *(non traduit)* | FMA44920 |
-| right lateral sacral vein | *(non traduit)* | FMA18906 |
-| right lateral thoracic vein | *(non traduit)* | FMA71211 |
-| right marginal vein | *(non traduit)* | FMA4716 |
-| right medial basal segmental vein | *(non traduit)* | FMA9422 |
-| right medial brachial vein | *(non traduit)* | FMA22935 |
-| right medial circumflex femoral vein | *(non traduit)* | FMA44918 |
-| right median antebrachial vein | *(non traduit)* | FMA22968 |
-| right median cubital vein | *(non traduit)* | FMA22964 |
-| right musculophrenic vein | *(non traduit)* | FMA4772 |
-| right obturator vein | *(non traduit)* | FMA18915 |
-| right palmar metacarpal vein | *(non traduit)* | FMA22920 |
-| right popliteal vein | *(non traduit)* | FMA44328 |
-| right portal vein | *(non traduit)* | FMA15414 |
-| right posterior basal bronchopulmonary segment | *(non traduit)* | FMA7362 |
-| right posterior basal segmental vein | *(non traduit)* | FMA9428 |
-| right posterior bronchopulmonary segment | *(non traduit)* | FMA7339 |
-| right posterior segmental vein | *(non traduit)* | FMA8663 |
-| right posterior tibial vein | *(non traduit)* | FMA44338 |
-| right radial vein | *(non traduit)* | FMA22948 |
-| right renal vein | *(non traduit)* | FMA14335 |
-| right small saphenous vein | *(non traduit)* | FMA44334 |
-| right subclavian vein | *(non traduit)* | FMA4755 |
-| right subcostal vein | *(non traduit)* | FMA4844 |
-| right subscapular vein | *(non traduit)* | FMA23114 |
-| right superficial dorsal vein of penis | *(non traduit)* | FMA21385 |
-| right superficial epigastric vein | *(non traduit)* | FMA44340 |
-| right superficial palmar venous arch | *(non traduit)* | FMA22915 |
-| right superior basal vein | *(non traduit)* | FMA8672 |
-| right superior epigastric vein | *(non traduit)* | FMA4771 |
-| right superior gluteal vein | *(non traduit)* | FMA18909 |
-| right superior intercostal vein | *(non traduit)* | FMA4877 |
-| right superior pulmonary vein | *(non traduit)* | FMA49914 |
-| right superior segmental vein | *(non traduit)* | FMA8670 |
-| right suprarenal vein | *(non traduit)* | FMA14343 |
-| right suprascapular vein | *(non traduit)* | FMA50859 |
-| right testicular vein | *(non traduit)* | FMA14341 |
-| right thoracodorsal vein | *(non traduit)* | FMA71214 |
-| right ulnar vein | *(non traduit)* | FMA22951 |
-| right upper lobar vein | *(non traduit)* | FMA8655 |
-| segment of venous tree organ | *(non traduit)* | FMA86188 |
-| segmental pulmonary vein | *(non traduit)* | FMA9411 |
-| set of anterior intercostal veins | *(non traduit)* | FMA70839 |
-| set of dorsal digital veins | *(non traduit)* | FMA70917 |
-| set of perforating veins | *(non traduit)* | FMA70922 |
-| set of plantar digital veins | *(non traduit)* | FMA70919 |
-| set of veins | *(non traduit)* | FMA63814 |
-| sigmoid vein | *(non traduit)* | FMA15395 |
-| small cardiac vein | *(non traduit)* | FMA4714 |
-| small saphenous vein | *(non traduit)* | FMA44333 |
-| splenic vein | *(non traduit)* | FMA14331 |
-| subclavian vein | *(non traduit)* | FMA4725 |
-| subcostal vein | *(non traduit)* | FMA12845 |
-| subdivision of brachiocephalic vein | *(non traduit)* | FMA77883 |
-| subdivision of external iliac vein | *(non traduit)* | FMA78204 |
-| subdivision of hepatic portal vein | *(non traduit)* | FMA71903 |
-| subdivision of inferior vena caval tree | *(non traduit)* | FMA78049 |
-| subdivision of left hepatic portal vein | *(non traduit)* | FMA71906 |
-| subdivision of pre-hepatic portal vein | *(non traduit)* | FMA50736 |
-| subdivision of right hepatic portal vein | *(non traduit)* | FMA71905 |
-| subdivision of subclavian vein | *(non traduit)* | FMA77884 |
-| subdivision of superior vena caval tree | *(non traduit)* | FMA78048 |
-| subscapular vein | *(non traduit)* | FMA23113 |
-| subsegmental part of anterior segmental vein | *(non traduit)* | FMA14310 |
-| subsegmental part of apical segmental vein | *(non traduit)* | FMA14309 |
-| subsegmental part of lateral segmental vein | *(non traduit)* | FMA9419 |
-| subsegmental part of medial segmental vein | *(non traduit)* | FMA9421 |
-| subsegmental pulmonary vein | *(non traduit)* | FMA9413 |
-| superficial dorsal vein of penis | *(non traduit)* | FMA21384 |
-| superficial epigastric vein | *(non traduit)* | FMA44318 |
-| superficial palmar venous arch | *(non traduit)* | FMA22914 |
-| superior epigastric vein | *(non traduit)* | FMA4731 |
-| superior gluteal vein | *(non traduit)* | FMA18908 |
-| superior lingular vein | *(non traduit)* | FMA8668 |
-| superior mesenteric vein | *(non traduit)* | FMA14332 |
-| superior part of anterior segmental vein | *(non traduit)* | FMA8683 |
-| superior part of medial segmental vein | *(non traduit)* | FMA68982 |
-| superior part of right anterior segmental vein | *(non traduit)* | FMA68926 |
-| superior phrenic vein | *(non traduit)* | FMA78121 |
-| superior pulmonary vein | *(non traduit)* | FMA49908 |
-| superior rectal vein | *(non traduit)* | FMA15393 |
-| superior segmental vein | *(non traduit)* | FMA13445 |
-| superior systemic venous tree | *(non traduit)* | FMA82672 |
-| superior vena cava | *(non traduit)* | FMA4720 |
-| suprarenal vein | *(non traduit)* | FMA14348 |
-| suprascapular vein | *(non traduit)* | FMA14319 |
-| systemic vein | *(non traduit)* | FMA66644 |
-| systemic venous system | *(non traduit)* | FMA45626 |
-| testicular vein | *(non traduit)* | FMA14344 |
-| thoracodorsal vein | *(non traduit)* | FMA71213 |
-| tributary of axillary vein | *(non traduit)* | FMA71209 |
-| tributary of azygos vein | *(non traduit)* | FMA14294 |
-| tributary of basilic vein | *(non traduit)* | FMA78207 |
-| tributary of brachial vein | *(non traduit)* | FMA22937 |
-| tributary of common palmar digital vein | *(non traduit)* | FMA22926 |
-| tributary of deep femoral vein | *(non traduit)* | FMA44324 |
-| tributary of deep palmar venous arch | *(non traduit)* | FMA62504 |
-| tributary of external jugular vein | *(non traduit)* | FMA14317 |
-| tributary of femoral vein | *(non traduit)* | FMA44323 |
-| tributary of great saphenous vein | *(non traduit)* | FMA21378 |
-| tributary of hepatic vein | *(non traduit)* | FMA17541 |
-| tributary of inferior mesenteric vein | *(non traduit)* | FMA15392 |
-| tributary of internal iliac vein | *(non traduit)* | FMA18889 |
-| tributary of internal pudendal vein | *(non traduit)* | FMA21240 |
-| tributary of internal thoracic vein | *(non traduit)* | FMA14293 |
-| tributary of left hepatic vein | *(non traduit)* | FMA15794 |
-| tributary of middle hepatic vein | *(non traduit)* | FMA15793 |
-| tributary of plantar venous arch | *(non traduit)* | FMA44499 |
-| tributary of popliteal vein | *(non traduit)* | FMA44330 |
-| tributary of radial vein | *(non traduit)* | FMA22953 |
-| tributary of right hepatic vein | *(non traduit)* | FMA15791 |
-| tributary of splenic vein | *(non traduit)* | FMA15387 |
-| tributary of subclavian vein | *(non traduit)* | FMA22930 |
-| tributary of superficial external pudendal vein | *(non traduit)* | FMA21383 |
-| tributary of superficial palmar venous arch | *(non traduit)* | FMA22922 |
-| tributary of superior mesenteric vein | *(non traduit)* | FMA15396 |
-| tributary of venous anastomosis | *(non traduit)* | FMA22917 |
-| trunk of apical segmental vein | *(non traduit)* | FMA68879 |
-| trunk of branch of hepatic portal vein | *(non traduit)* | FMA71907 |
-| trunk of intrapulmonary vein | *(non traduit)* | FMA24551 |
-| trunk of left portal vein | *(non traduit)* | FMA82697 |
-| trunk of portal vein | *(non traduit)* | FMA14329 |
-| trunk of pulmonary vein | *(non traduit)* | FMA8648 |
-| trunk of right apical segmental vein | *(non traduit)* | FMA68880 |
-| trunk of right portal vein | *(non traduit)* | FMA82695 |
-| trunk of segmental pulmonary vein | *(non traduit)* | FMA68878 |
-| trunk of systemic vein | *(non traduit)* | FMA62512 |
-| ulnar vein | *(non traduit)* | FMA22950 |
+| musculophrenic vein | veine musculo-phrénique | FMA4732 |
+| obturator vein | veine obturatrice | FMA18914 |
+| palmar metacarpal vein | veine métacarpienne palmaire | FMA22919 |
+| pancreaticoduodenal vein | veine pancréatico-duodénale | FMA15398 |
+| plantar metatarsal vein | veine métatarsienne plantaire | FMA44504 |
+| plantar venous arch of foot | arcade veineuse plantaire du pied | FMA44489 |
+| plantar venous arch of left foot | arcade veineuse plantaire du pied gauche | FMA44884 |
+| plantar venous arch of right foot | arcade veineuse plantaire du pied droit | FMA44883 |
+| popliteal vein | veine poplitée | FMA44327 |
+| portal vein | veine porte | FMA66645 |
+| portal venous system | système veineux porte | FMA45628 |
+| portal venous tree | arbre veineux porte | FMA45847 |
+| posterior basal segmental vein | veine segmentaire basale postérieure | FMA13292 |
+| posterior branch of right portal vein | branche postérieure de la veine porte droite | FMA15422 |
+| posterior inferior segmental branch of right portal vein | branche segmentaire postérieure inférieure de la veine porte droite | FMA15424 |
+| posterior inferior segmental tributary of right hepatic vein | affluent segmentaire postérieur inférieur de la veine hépatique droite | FMA15797 |
+| posterior part of lateral segmental vein | partie postérieure de la veine segmentaire latérale | FMA68944 |
+| posterior sector of left liver | secteur postérieur du foie gauche | FMA15751 |
+| posterior sector of right liver | secteur postérieur du foie droit | FMA15749 |
+| posterior segmental vein | veine segmentaire postérieure | FMA13443 |
+| posterior superior segmental branch of right portal vein | branche segmentaire postérieure supérieure de la veine porte droite | FMA15423 |
+| posterior superior segmental tributary of right hepatic vein | affluent segmentaire postérieur supérieur de la veine hépatique droite | FMA15796 |
+| posterior tibial vein | veine tibiale postérieure | FMA44332 |
+| posterior vein of left ventricle | veine postérieure du ventricule gauche | FMA4712 |
+| pre-hepatic portal vein | veine porte pré-hépatique | FMA71904 |
+| proper palmar digital vein of index finger | veine digitale palmaire propre de l'index | FMA22927 |
+| proper palmar digital vein of left index finger | veine digitale palmaire propre de l'index gauche | FMA85097 |
+| proper palmar digital vein of left little finger | veine digitale palmaire propre de l'auriculaire gauche | FMA85103 |
+| proper palmar digital vein of left middle finger | veine digitale palmaire propre du majeur gauche | FMA85099 |
+| proper palmar digital vein of left ring finger | veine digitale palmaire propre de l'annulaire gauche | FMA85101 |
+| proper palmar digital vein of little finger | veine digitale palmaire propre de l'auriculaire | FMA85095 |
+| proper palmar digital vein of middle finger | veine digitale palmaire propre du majeur | FMA22928 |
+| proper palmar digital vein of right index finger | veine digitale palmaire propre de l'index droit | FMA85096 |
+| proper palmar digital vein of right little finger | veine digitale palmaire propre de l'auriculaire droit | FMA85102 |
+| proper palmar digital vein of right middle finger | veine digitale palmaire propre du majeur droit | FMA85098 |
+| proper palmar digital vein of right ring finger | veine digitale palmaire propre de l'annulaire droit | FMA85100 |
+| proper palmar digital vein of ring finger | veine digitale palmaire propre de l'annulaire | FMA22929 |
+| pulmonary vein | veine pulmonaire | FMA66643 |
+| pulmonary venous tree organ | organe arborescent veineux pulmonaire | FMA49907 |
+| radial vein | veine radiale | FMA22947 |
+| region of anterior sector of left liver (in-vivo) | région du secteur antérieur du foie gauche | FMA15757 |
+| region of anterior sector of right liver (in-vivo) | région du secteur antérieur du foie droit | FMA15755 |
+| region of posterior sector of right liver (in-vivo) | région du secteur postérieur du foie droit | FMA15756 |
+| renal vein | veine rénale | FMA14334 |
+| right anterior basal segmental vein | veine segmentaire basale antérieure droite | FMA8673 |
+| right anterior circumflex humeral vein | veine circonflexe humérale antérieure droite | FMA77954 |
+| right anterior segmental vein | veine segmentaire antérieure droite | FMA8662 |
+| right anterior tibial vein | veine tibiale antérieure droite | FMA44336 |
+| right apical segmental vein | veine segmentaire apicale droite | FMA8661 |
+| right ascending lumbar vein | veine lombaire ascendante droite | FMA4843 |
+| right axillary vein | veine axillaire droite | FMA13330 |
+| right basilic vein | veine basilique droite | FMA22909 |
+| right brachiocephalic vein | veine brachio-céphalique droite | FMA4751 |
+| right cephalic vein | veine céphalique droite | FMA13325 |
+| right circumflex scapular vein | veine circonflexe scapulaire droite | FMA77949 |
+| right colic vein | veine colique droite | FMA15407 |
+| right common basal vein | veine basale commune droite | FMA8671 |
+| right common iliac vein | veine iliaque commune droite | FMA21387 |
+| right deep femoral vein | veine fémorale profonde droite | FMA51042 |
+| right deep palmar venous arch | arcade veineuse palmaire profonde droite | FMA22912 |
+| right external iliac vein | veine iliaque externe droite | FMA18885 |
+| right femoral vein | veine fémorale droite | FMA21188 |
+| right fibular vein | veine fibulaire droite | FMA44885 |
+| right gastric vein | veine gastrique droite | FMA15400 |
+| right gastroepiploic vein | veine gastro-omentale droite | FMA15397 |
+| right genicular vein | veine géniculaire droite | FMA44887 |
+| right great saphenous vein | grande veine saphène droite | FMA21379 |
+| right hemiliver | hémifoie droit | FMA15809 |
+| right hepatic vein | veine hépatique droite | FMA14338 |
+| right iliolumbar vein | veine ilio-lombaire droite | FMA18903 |
+| right inferior basal vein | veine basale inférieure droite | FMA8674 |
+| right inferior epigastric vein | veine épigastrique inférieure droite | FMA21163 |
+| right inferior gluteal vein | veine glutéale inférieure droite | FMA18912 |
+| right inferior pulmonary vein | veine pulmonaire inférieure droite | FMA49911 |
+| right internal iliac vein | veine iliaque interne droite | FMA18887 |
+| right internal jugular vein | veine jugulaire interne droite | FMA4754 |
+| right internal pudendal vein | veine pudendale interne droite | FMA18918 |
+| right internal thoracic vein | veine thoracique interne droite | FMA4758 |
+| right lateral basal segmental vein | veine segmentaire basale latérale droite | FMA9425 |
+| right lateral circumflex femoral vein | veine circonflexe fémorale latérale droite | FMA44920 |
+| right lateral sacral vein | veine sacrale latérale droite | FMA18906 |
+| right lateral thoracic vein | veine thoracique latérale droite | FMA71211 |
+| right marginal vein | veine marginale droite | FMA4716 |
+| right medial basal segmental vein | veine segmentaire basale médiale droite | FMA9422 |
+| right medial brachial vein | veine brachiale médiale droite | FMA22935 |
+| right medial circumflex femoral vein | veine circonflexe fémorale médiale droite | FMA44918 |
+| right median antebrachial vein | veine antébrachiale médiane droite | FMA22968 |
+| right median cubital vein | veine médiane du coude droit | FMA22964 |
+| right musculophrenic vein | veine musculo-phrénique droite | FMA4772 |
+| right obturator vein | veine obturatrice droite | FMA18915 |
+| right palmar metacarpal vein | veine métacarpienne palmaire droite | FMA22920 |
+| right popliteal vein | veine poplitée droite | FMA44328 |
+| right portal vein | veine porte droite | FMA15414 |
+| right posterior basal bronchopulmonary segment | segment broncho-pulmonaire basal postérieur droit | FMA7362 |
+| right posterior basal segmental vein | veine segmentaire basale postérieure droite | FMA9428 |
+| right posterior bronchopulmonary segment | segment broncho-pulmonaire postérieur droit | FMA7339 |
+| right posterior segmental vein | veine segmentaire postérieure droite | FMA8663 |
+| right posterior tibial vein | veine tibiale postérieure droite | FMA44338 |
+| right radial vein | veine radiale droite | FMA22948 |
+| right renal vein | veine rénale droite | FMA14335 |
+| right small saphenous vein | petite veine saphène droite | FMA44334 |
+| right subclavian vein | veine subclavière droite | FMA4755 |
+| right subcostal vein | veine subcostale droite | FMA4844 |
+| right subscapular vein | veine subscapulaire droite | FMA23114 |
+| right superficial dorsal vein of penis | veine dorsale superficielle droite du pénis | FMA21385 |
+| right superficial epigastric vein | veine épigastrique superficielle droite | FMA44340 |
+| right superficial palmar venous arch | arcade veineuse palmaire superficielle droite | FMA22915 |
+| right superior basal vein | veine basale supérieure droite | FMA8672 |
+| right superior epigastric vein | veine épigastrique supérieure droite | FMA4771 |
+| right superior gluteal vein | veine glutéale supérieure droite | FMA18909 |
+| right superior intercostal vein | veine intercostale supérieure droite | FMA4877 |
+| right superior pulmonary vein | veine pulmonaire supérieure droite | FMA49914 |
+| right superior segmental vein | veine segmentaire supérieure droite | FMA8670 |
+| right suprarenal vein | veine surrénale droite | FMA14343 |
+| right suprascapular vein | veine suprascapulaire droite | FMA50859 |
+| right testicular vein | veine testiculaire droite | FMA14341 |
+| right thoracodorsal vein | veine thoraco-dorsale droite | FMA71214 |
+| right ulnar vein | veine ulnaire droite | FMA22951 |
+| right upper lobar vein | veine lobaire supérieure droite | FMA8655 |
+| segment of venous tree organ | segment d'organe arborescent veineux | FMA86188 |
+| segmental pulmonary vein | veine pulmonaire segmentaire | FMA9411 |
+| set of anterior intercostal veins | ensemble des veines intercostales antérieures | FMA70839 |
+| set of dorsal digital veins | ensemble des veines digitales dorsales | FMA70917 |
+| set of perforating veins | ensemble des veines perforantes | FMA70922 |
+| set of plantar digital veins | ensemble des veines digitales plantaires | FMA70919 |
+| set of veins | ensemble de veines | FMA63814 |
+| sigmoid vein | veine sigmoïdienne | FMA15395 |
+| small cardiac vein | petite veine cardiaque | FMA4714 |
+| small saphenous vein | petite veine saphène | FMA44333 |
+| splenic vein | veine splénique | FMA14331 |
+| subclavian vein | veine subclavière | FMA4725 |
+| subcostal vein | veine subcostale | FMA12845 |
+| subdivision of brachiocephalic vein | subdivision de la veine brachio-céphalique | FMA77883 |
+| subdivision of external iliac vein | subdivision de la veine iliaque externe | FMA78204 |
+| subdivision of hepatic portal vein | subdivision de la veine porte hépatique | FMA71903 |
+| subdivision of inferior vena caval tree | subdivision de l'arbre de la veine cave inférieure | FMA78049 |
+| subdivision of left hepatic portal vein | subdivision de la veine porte hépatique gauche | FMA71906 |
+| subdivision of pre-hepatic portal vein | subdivision de la veine porte pré-hépatique | FMA50736 |
+| subdivision of right hepatic portal vein | subdivision de la veine porte hépatique droite | FMA71905 |
+| subdivision of subclavian vein | subdivision de la veine subclavière | FMA77884 |
+| subdivision of superior vena caval tree | subdivision de l'arbre de la veine cave supérieure | FMA78048 |
+| subscapular vein | veine subscapulaire | FMA23113 |
+| subsegmental part of anterior segmental vein | partie subsegmentaire de la veine segmentaire antérieure | FMA14310 |
+| subsegmental part of apical segmental vein | partie subsegmentaire de la veine segmentaire apicale | FMA14309 |
+| subsegmental part of lateral segmental vein | partie subsegmentaire de la veine segmentaire latérale | FMA9419 |
+| subsegmental part of medial segmental vein | partie subsegmentaire de la veine segmentaire médiale | FMA9421 |
+| subsegmental pulmonary vein | veine pulmonaire subsegmentaire | FMA9413 |
+| superficial dorsal vein of penis | veine dorsale superficielle du pénis | FMA21384 |
+| superficial epigastric vein | veine épigastrique superficielle | FMA44318 |
+| superficial palmar venous arch | arcade veineuse palmaire superficielle | FMA22914 |
+| superior epigastric vein | veine épigastrique supérieure | FMA4731 |
+| superior gluteal vein | veine glutéale supérieure | FMA18908 |
+| superior lingular vein | veine lingulaire supérieure | FMA8668 |
+| superior mesenteric vein | veine mésentérique supérieure | FMA14332 |
+| superior part of anterior segmental vein | partie supérieure de la veine segmentaire antérieure | FMA8683 |
+| superior part of medial segmental vein | partie supérieure de la veine segmentaire médiale | FMA68982 |
+| superior part of right anterior segmental vein | partie supérieure de la veine segmentaire antérieure droite | FMA68926 |
+| superior phrenic vein | veine phrénique supérieure | FMA78121 |
+| superior pulmonary vein | veine pulmonaire supérieure | FMA49908 |
+| superior rectal vein | veine rectale supérieure | FMA15393 |
+| superior segmental vein | veine segmentaire supérieure | FMA13445 |
+| superior systemic venous tree | arbre veineux systémique supérieur | FMA82672 |
+| superior vena cava | veine cave supérieure | FMA4720 |
+| suprarenal vein | veine surrénale | FMA14348 |
+| suprascapular vein | veine suprascapulaire | FMA14319 |
+| systemic vein | veine systémique | FMA66644 |
+| systemic venous system | système veineux systémique | FMA45626 |
+| testicular vein | veine testiculaire | FMA14344 |
+| thoracodorsal vein | veine thoraco-dorsale | FMA71213 |
+| tributary of axillary vein | affluent de la veine axillaire | FMA71209 |
+| tributary of azygos vein | affluent de la veine azygos | FMA14294 |
+| tributary of basilic vein | affluent de la veine basilique | FMA78207 |
+| tributary of brachial vein | affluent de la veine brachiale | FMA22937 |
+| tributary of common palmar digital vein | affluent de la veine digitale palmaire commune | FMA22926 |
+| tributary of deep femoral vein | affluent de la veine fémorale profonde | FMA44324 |
+| tributary of deep palmar venous arch | affluent de l'arcade veineuse palmaire profonde | FMA62504 |
+| tributary of external jugular vein | affluent de la veine jugulaire externe | FMA14317 |
+| tributary of femoral vein | affluent de la veine fémorale | FMA44323 |
+| tributary of great saphenous vein | affluent de la grande veine saphène | FMA21378 |
+| tributary of hepatic vein | affluent de la veine hépatique | FMA17541 |
+| tributary of inferior mesenteric vein | affluent de la veine mésentérique inférieure | FMA15392 |
+| tributary of internal iliac vein | affluent de la veine iliaque interne | FMA18889 |
+| tributary of internal pudendal vein | affluent de la veine pudendale interne | FMA21240 |
+| tributary of internal thoracic vein | affluent de la veine thoracique interne | FMA14293 |
+| tributary of left hepatic vein | affluent de la veine hépatique gauche | FMA15794 |
+| tributary of middle hepatic vein | affluent de la veine hépatique moyenne | FMA15793 |
+| tributary of plantar venous arch | affluent de l'arcade veineuse plantaire | FMA44499 |
+| tributary of popliteal vein | affluent de la veine poplitée | FMA44330 |
+| tributary of radial vein | affluent de la veine radiale | FMA22953 |
+| tributary of right hepatic vein | affluent de la veine hépatique droite | FMA15791 |
+| tributary of splenic vein | affluent de la veine splénique | FMA15387 |
+| tributary of subclavian vein | affluent de la veine subclavière | FMA22930 |
+| tributary of superficial external pudendal vein | affluent de la veine pudendale externe superficielle | FMA21383 |
+| tributary of superficial palmar venous arch | affluent de l'arcade veineuse palmaire superficielle | FMA22922 |
+| tributary of superior mesenteric vein | affluent de la veine mésentérique supérieure | FMA15396 |
+| tributary of venous anastomosis | affluent de l'anastomose veineuse | FMA22917 |
+| trunk of apical segmental vein | tronc de la veine segmentaire apicale | FMA68879 |
+| trunk of branch of hepatic portal vein | tronc de la branche de la veine porte hépatique | FMA71907 |
+| trunk of intrapulmonary vein | tronc de la veine intrapulmonaire | FMA24551 |
+| trunk of left portal vein | tronc de la veine porte gauche | FMA82697 |
+| trunk of portal vein | tronc de la veine porte | FMA14329 |
+| trunk of pulmonary vein | tronc de la veine pulmonaire | FMA8648 |
+| trunk of right apical segmental vein | tronc de la veine segmentaire apicale droite | FMA68880 |
+| trunk of right portal vein | tronc de la veine porte droite | FMA82695 |
+| trunk of segmental pulmonary vein | tronc de la veine pulmonaire segmentaire | FMA68878 |
+| trunk of systemic vein | tronc de la veine systémique | FMA62512 |
+| ulnar vein | veine ulnaire | FMA22950 |
 | upper lobe of left lung | lobe supérieur du poumon gauche | FMA7370 |
-| vascular tree | *(non traduit)* | FMA3710 |
-| vein | *(non traduit)* | FMA50723 |
-| venous anastomosis | *(non traduit)* | FMA3729 |
-| venous tree organ | *(non traduit)* | FMA14284 |
-| venous trunk | *(non traduit)* | FMA30314 |
+| vascular tree | arbre vasculaire | FMA3710 |
+| vein | veine | FMA50723 |
+| venous anastomosis | anastomose veineuse | FMA3729 |
+| venous tree organ | organe arborescent veineux | FMA14284 |
+| venous trunk | tronc veineux | FMA30314 |
 
-## Artères — 36/833
+## Artères — 833/833
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| abdominal aorta | *(non traduit)* | FMA3789 |
-| accessory subsuperior branch of posterior basal segmental artery | *(non traduit)* | FMA68734 |
-| accessory subsuperior branch of right posterior basal segmental artery | *(non traduit)* | FMA68735 |
-| acromial branch of left thoraco-acromial artery | *(non traduit)* | FMA23069 |
-| acromial branch of right thoraco-acromial artery | *(non traduit)* | FMA23068 |
-| acromial branch of thoraco-acromial artery | *(non traduit)* | FMA23065 |
+| abdominal aorta | aorte abdominale | FMA3789 |
+| accessory subsuperior branch of posterior basal segmental artery | branche sub-supérieure accessoire de l'artère segmentaire basale postérieure | FMA68734 |
+| accessory subsuperior branch of right posterior basal segmental artery | branche sub-supérieure accessoire de l'artère segmentaire basale postérieure droite | FMA68735 |
+| acromial branch of left thoraco-acromial artery | branche acromiale de l'artère thoraco-acromiale gauche | FMA23069 |
+| acromial branch of right thoraco-acromial artery | branche acromiale de l'artère thoraco-acromiale droite | FMA23068 |
+| acromial branch of thoraco-acromial artery | branche acromiale de l'artère thoraco-acromiale | FMA23065 |
 | anastomosis | anastomose | FMA3726 |
 | anatomical entity | entité anatomique | FMA62955 |
 | anatomical junction | jonction anatomique | FMA5898 |
 | anatomical set | ensemble anatomique | FMA55652 |
 | anatomical structure | structure anatomique | FMA67135 |
-| anterior basal segmental artery | *(non traduit)* | FMA8717 |
-| anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA13914 |
-| anterior branch of anterior segmental artery | *(non traduit)* | FMA68682 |
-| anterior branch of lateral segmental artery | *(non traduit)* | FMA68691 |
-| anterior branch of right anterior segmental artery | *(non traduit)* | FMA68683 |
-| anterior cecal artery | *(non traduit)* | FMA14816 |
-| anterior cerebral artery | *(non traduit)* | FMA50028 |
+| anterior basal segmental artery | artère segmentaire basale antérieure | FMA8717 |
+| anterior branch of anterior interventricular branch of left coronary artery | branche antérieure de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA13914 |
+| anterior branch of anterior segmental artery | branche antérieure de l'artère segmentaire antérieure | FMA68682 |
+| anterior branch of lateral segmental artery | branche antérieure de l'artère segmentaire latérale | FMA68691 |
+| anterior branch of right anterior segmental artery | branche antérieure de l'artère segmentaire antérieure droite | FMA68683 |
+| anterior cecal artery | artère cæcale antérieure | FMA14816 |
+| anterior cerebral artery | artère cérébrale antérieure | FMA50028 |
 | anterior chest | thorax antérieur | FMA24816 |
-| anterior choroidal artery | *(non traduit)* | FMA50087 |
-| anterior circumflex humeral artery | *(non traduit)* | FMA22680 |
-| anterior communicating artery | *(non traduit)* | FMA50169 |
-| anterior division of left renal artery | *(non traduit)* | FMA70487 |
-| anterior division of renal artery | *(non traduit)* | FMA70485 |
-| anterior division of right renal artery | *(non traduit)* | FMA70486 |
-| anterior inferior cerebellar artery | *(non traduit)* | FMA50544 |
-| anterior inferior pancreaticoduodenal artery | *(non traduit)* | FMA70479 |
-| anterior inferior segmental hepatic artery | *(non traduit)* | FMA70443 |
-| anterior interosseous artery | *(non traduit)* | FMA22810 |
-| anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3862 |
-| anterior parietal artery | *(non traduit)* | FMA50485 |
-| anterior part of apical segmental artery | *(non traduit)* | FMA68664 |
-| anterior part of right apical segmental artery | *(non traduit)* | FMA68665 |
-| anterior segmental artery | *(non traduit)* | FMA13278 |
-| anterior segmental hepatic artery | *(non traduit)* | FMA70441 |
-| anterior spinal artery | *(non traduit)* | FMA50531 |
-| anterior superior pancreaticoduodenal artery | *(non traduit)* | FMA14782 |
-| anterior superior segmental hepatic artery | *(non traduit)* | FMA70442 |
-| anterior temporal artery | *(non traduit)* | FMA50382 |
-| anterior temporal branch of lateral occipital artery | *(non traduit)* | FMA50648 |
-| anterior temporal branch of left lateral occipital artery | *(non traduit)* | FMA50679 |
-| anterior temporal branch of right lateral occipital artery | *(non traduit)* | FMA50678 |
-| anterior tibial artery | *(non traduit)* | FMA43894 |
-| anterior tibial recurrent artery | *(non traduit)* | FMA43902 |
-| anterior ulnar recurrent artery | *(non traduit)* | FMA22800 |
-| anterior ventricular branch of right coronary artery | *(non traduit)* | FMA3813 |
-| antero-medial basal segmental artery | *(non traduit)* | FMA68843 |
-| anterolateral central branch of left middle cerebral artery | *(non traduit)* | FMA50378 |
-| anterolateral central branch of middle cerebral artery | *(non traduit)* | FMA50376 |
-| anterolateral central branch of right middle cerebral artery | *(non traduit)* | FMA50377 |
+| anterior choroidal artery | artère choroïdienne antérieure | FMA50087 |
+| anterior circumflex humeral artery | artère circonflexe humérale antérieure | FMA22680 |
+| anterior communicating artery | artère communicante antérieure | FMA50169 |
+| anterior division of left renal artery | division antérieure de l'artère rénale gauche | FMA70487 |
+| anterior division of renal artery | division antérieure de l'artère rénale | FMA70485 |
+| anterior division of right renal artery | division antérieure de l'artère rénale droite | FMA70486 |
+| anterior inferior cerebellar artery | artère cérébelleuse antérieure inférieure | FMA50544 |
+| anterior inferior pancreaticoduodenal artery | artère pancréatico-duodénale antérieure inférieure | FMA70479 |
+| anterior inferior segmental hepatic artery | artère hépatique segmentaire antérieure inférieure | FMA70443 |
+| anterior interosseous artery | artère interosseuse antérieure | FMA22810 |
+| anterior interventricular branch of left coronary artery | branche interventriculaire antérieure de l'artère coronaire gauche | FMA3862 |
+| anterior parietal artery | artère pariétale antérieure | FMA50485 |
+| anterior part of apical segmental artery | partie antérieure de l'artère segmentaire apicale | FMA68664 |
+| anterior part of right apical segmental artery | partie antérieure de l'artère segmentaire apicale droite | FMA68665 |
+| anterior segmental artery | artère segmentaire antérieure | FMA13278 |
+| anterior segmental hepatic artery | artère hépatique segmentaire antérieure | FMA70441 |
+| anterior spinal artery | artère spinale antérieure | FMA50531 |
+| anterior superior pancreaticoduodenal artery | artère pancréatico-duodénale antérieure supérieure | FMA14782 |
+| anterior superior segmental hepatic artery | artère hépatique segmentaire antérieure supérieure | FMA70442 |
+| anterior temporal artery | artère temporale antérieure | FMA50382 |
+| anterior temporal branch of lateral occipital artery | branche temporale antérieure de l'artère occipitale latérale | FMA50648 |
+| anterior temporal branch of left lateral occipital artery | branche temporale antérieure de l'artère occipitale latérale gauche | FMA50679 |
+| anterior temporal branch of right lateral occipital artery | branche temporale antérieure de l'artère occipitale latérale droite | FMA50678 |
+| anterior tibial artery | artère tibiale antérieure | FMA43894 |
+| anterior tibial recurrent artery | artère récurrente tibiale antérieure | FMA43902 |
+| anterior ulnar recurrent artery | artère récurrente ulnaire antérieure | FMA22800 |
+| anterior ventricular branch of right coronary artery | branche ventriculaire antérieure de l'artère coronaire droite | FMA3813 |
+| antero-medial basal segmental artery | artère segmentaire basale antéro-médiale | FMA68843 |
+| anterolateral central branch of left middle cerebral artery | branche centrale antéro-latérale de l'artère cérébrale moyenne gauche | FMA50378 |
+| anterolateral central branch of middle cerebral artery | branche centrale antéro-latérale de l'artère cérébrale moyenne | FMA50376 |
+| anterolateral central branch of right middle cerebral artery | branche centrale antéro-latérale de l'artère cérébrale moyenne droite | FMA50377 |
 | aorta | aorte | FMA3734 |
-| apical part of apical segmental artery | *(non traduit)* | FMA68661 |
-| apical part of posterior segmental artery | *(non traduit)* | FMA68669 |
-| apical part of right apical segmental artery | *(non traduit)* | FMA68662 |
-| apical part of right posterior segmental artery | *(non traduit)* | FMA68670 |
-| apical segmental artery | *(non traduit)* | FMA8707 |
-| apicoposterior division of right upper lobar artery | *(non traduit)* | FMA68659 |
-| appendicular artery | *(non traduit)* | FMA14818 |
-| arch of aorta | *(non traduit)* | FMA3768 |
-| arcuate artery | *(non traduit)* | FMA44594 |
-| arteria princeps pollicis | *(non traduit)* | FMA22762 |
-| arteria radialis indicis | *(non traduit)* | FMA22763 |
-| arterial anastomosis | *(non traduit)* | FMA3728 |
-| arterial trunk | *(non traduit)* | FMA30313 |
-| artery | *(non traduit)* | FMA50720 |
-| artery of central sulcus | *(non traduit)* | FMA77439 |
-| artery of left postcentral sulcus | *(non traduit)* | FMA50484 |
-| artery of left precentral sulcus | *(non traduit)* | FMA50481 |
-| artery of postcentral sulcus | *(non traduit)* | FMA50482 |
-| artery of precentral sulcus | *(non traduit)* | FMA50479 |
-| artery of right postcentral sulcus | *(non traduit)* | FMA50483 |
-| artery of right precentral sulcus | *(non traduit)* | FMA50480 |
-| ascending aorta | *(non traduit)* | FMA3736 |
-| ascending branch of inferior branch of ileocolic artery | *(non traduit)* | FMA14820 |
-| ascending branch of left colic artery | *(non traduit)* | FMA14828 |
-| axillary artery | *(non traduit)* | FMA22654 |
-| basal branch of anterior basal segmental artery | *(non traduit)* | FMA68722 |
-| basal branch of right anterior basal segmental artery | *(non traduit)* | FMA68723 |
-| basilar artery | *(non traduit)* | FMA50542 |
+| apical part of apical segmental artery | partie apicale de l'artère segmentaire apicale | FMA68661 |
+| apical part of posterior segmental artery | partie apicale de l'artère segmentaire postérieure | FMA68669 |
+| apical part of right apical segmental artery | partie apicale de l'artère segmentaire apicale droite | FMA68662 |
+| apical part of right posterior segmental artery | partie apicale de l'artère segmentaire postérieure droite | FMA68670 |
+| apical segmental artery | artère segmentaire apicale | FMA8707 |
+| apicoposterior division of right upper lobar artery | division apico-postérieure de l'artère lobaire supérieure droite | FMA68659 |
+| appendicular artery | artère appendiculaire | FMA14818 |
+| arch of aorta | arc de l'aorte | FMA3768 |
+| arcuate artery | artère arquée | FMA44594 |
+| arteria princeps pollicis | artère principale du pouce | FMA22762 |
+| arteria radialis indicis | artère radiale de l'index | FMA22763 |
+| arterial anastomosis | anastomose artérielle | FMA3728 |
+| arterial trunk | tronc artériel | FMA30313 |
+| artery | artère | FMA50720 |
+| artery of central sulcus | artère du sillon central | FMA77439 |
+| artery of left postcentral sulcus | artère du sillon postcentral gauche | FMA50484 |
+| artery of left precentral sulcus | artère du sillon précentral gauche | FMA50481 |
+| artery of postcentral sulcus | artère du sillon postcentral | FMA50482 |
+| artery of precentral sulcus | artère du sillon précentral | FMA50479 |
+| artery of right postcentral sulcus | artère du sillon postcentral droit | FMA50483 |
+| artery of right precentral sulcus | artère du sillon précentral droit | FMA50480 |
+| ascending aorta | aorte ascendante | FMA3736 |
+| ascending branch of inferior branch of ileocolic artery | branche ascendante de la branche inférieure de l'artère iléo-colique | FMA14820 |
+| ascending branch of left colic artery | branche ascendante de l'artère colique gauche | FMA14828 |
+| axillary artery | artère axillaire | FMA22654 |
+| basal branch of anterior basal segmental artery | branche basale de l'artère segmentaire basale antérieure | FMA68722 |
+| basal branch of right anterior basal segmental artery | branche basale de l'artère segmentaire basale antérieure droite | FMA68723 |
+| basilar artery | artère basilaire | FMA50542 |
 | body cavity content | contenu de cavité corporelle | FMA260456 |
 | body compartment | compartiment du corps | FMA7563 |
 | body proper | corps proprement dit | FMA231424 |
-| brachial artery | *(non traduit)* | FMA22689 |
-| brachiocephalic artery | *(non traduit)* | FMA3932 |
-| branch of anterior cerebral artery | *(non traduit)* | FMA50031 |
-| branch of anterior choroidal artery | *(non traduit)* | FMA50112 |
-| branch of anterior choroidal artery to posterior limb of internal capsule | *(non traduit)* | FMA50119 |
-| branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA13921 |
-| branch of arterial anastomosis | *(non traduit)* | FMA22842 |
-| branch of basilar artery | *(non traduit)* | FMA76269 |
-| branch of brachial artery | *(non traduit)* | FMA22693 |
-| branch of callosomarginal artery | *(non traduit)* | FMA50331 |
-| branch of cerebral arterial circle | *(non traduit)* | FMA51886 |
-| branch of common interosseous artery | *(non traduit)* | FMA22809 |
-| branch of deep brachial artery | *(non traduit)* | FMA23117 |
-| branch of deep palmar arterial arch | *(non traduit)* | FMA22843 |
-| branch of first common palmar digital artery | *(non traduit)* | FMA85109 |
-| branch of ileocolic artery | *(non traduit)* | FMA14821 |
-| branch of inferior branch of ileocolic artery | *(non traduit)* | FMA21520 |
-| branch of lateral circumflex femoral artery | *(non traduit)* | FMA20803 |
-| branch of lateral occipital artery | *(non traduit)* | FMA50647 |
-| branch of lateral plantar artery | *(non traduit)* | FMA43940 |
-| branch of left anterior choroidal artery to posterior limb of left internal capsule | *(non traduit)* | FMA50147 |
-| branch of left coronary artery | *(non traduit)* | FMA66328 |
-| branch of left middle cerebral artery to left angular gyrus | *(non traduit)* | FMA50477 |
-| branch of medial branch of superior cerebellar artery | *(non traduit)* | FMA50694 |
-| branch of medial occipital artery | *(non traduit)* | FMA50651 |
-| branch of medial plantar artery | *(non traduit)* | FMA43941 |
-| branch of middle cerebral artery | *(non traduit)* | FMA50081 |
-| branch of middle cerebral artery to angular gyrus | *(non traduit)* | FMA50475 |
-| branch of pericallosal artery | *(non traduit)* | FMA50338 |
-| branch of pontine artery | *(non traduit)* | FMA50563 |
-| branch of postcommunicating part of anterior cerebral artery | *(non traduit)* | FMA79615 |
-| branch of posterior cerebral artery | *(non traduit)* | FMA50586 |
-| branch of posterior choroidal artery | *(non traduit)* | FMA86127 |
-| branch of posterior communicating artery | *(non traduit)* | FMA50168 |
-| branch of posterior tibial artery | *(non traduit)* | FMA69784 |
-| branch of radial artery | *(non traduit)* | FMA22738 |
-| branch of right anterior choroidal artery to posterior limb of right internal capsule | *(non traduit)* | FMA50146 |
-| branch of right coronary artery | *(non traduit)* | FMA66327 |
-| branch of right middle cerebral artery to right angular gyrus | *(non traduit)* | FMA50476 |
-| branch of second common palmar digital artery | *(non traduit)* | FMA85110 |
-| branch of sphenoid part of middle cerebral artery | *(non traduit)* | FMA79631 |
-| branch of superficial palmar arterial arch | *(non traduit)* | FMA22845 |
-| branch of superior cerebellar artery | *(non traduit)* | FMA50576 |
-| branch of third common palmar digital artery | *(non traduit)* | FMA85117 |
-| branch of ulnar artery | *(non traduit)* | FMA22799 |
-| branch of vertebral artery | *(non traduit)* | FMA76259 |
-| bronchial artery | *(non traduit)* | FMA68109 |
-| bronchial branch of arch of aorta | *(non traduit)* | FMA14177 |
-| callosomarginal artery | *(non traduit)* | FMA50330 |
+| brachial artery | artère brachiale | FMA22689 |
+| brachiocephalic artery | artère brachio-céphalique | FMA3932 |
+| branch of anterior cerebral artery | branche de l'artère cérébrale antérieure | FMA50031 |
+| branch of anterior choroidal artery | branche de l'artère choroïdienne antérieure | FMA50112 |
+| branch of anterior choroidal artery to posterior limb of internal capsule | branche de l'artère choroïdienne antérieure pour le bras postérieur de la capsule interne | FMA50119 |
+| branch of anterior interventricular branch of left coronary artery | branche de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA13921 |
+| branch of arterial anastomosis | branche de l'anastomose artérielle | FMA22842 |
+| branch of basilar artery | branche de l'artère basilaire | FMA76269 |
+| branch of brachial artery | branche de l'artère brachiale | FMA22693 |
+| branch of callosomarginal artery | branche de l'artère calloso-marginale | FMA50331 |
+| branch of cerebral arterial circle | branche du cercle artériel du cerveau | FMA51886 |
+| branch of common interosseous artery | branche de l'artère interosseuse commune | FMA22809 |
+| branch of deep brachial artery | branche de l'artère brachiale profonde | FMA23117 |
+| branch of deep palmar arterial arch | branche de l'arcade artérielle palmaire profonde | FMA22843 |
+| branch of first common palmar digital artery | branche de la première artère digitale palmaire commune | FMA85109 |
+| branch of ileocolic artery | branche de l'artère iléo-colique | FMA14821 |
+| branch of inferior branch of ileocolic artery | branche de la branche inférieure de l'artère iléo-colique | FMA21520 |
+| branch of lateral circumflex femoral artery | branche de l'artère circonflexe fémorale latérale | FMA20803 |
+| branch of lateral occipital artery | branche de l'artère occipitale latérale | FMA50647 |
+| branch of lateral plantar artery | branche de l'artère plantaire latérale | FMA43940 |
+| branch of left anterior choroidal artery to posterior limb of left internal capsule | branche de l'artère choroïdienne antérieure gauche pour le bras postérieur de la capsule interne gauche | FMA50147 |
+| branch of left coronary artery | branche de l'artère coronaire gauche | FMA66328 |
+| branch of left middle cerebral artery to left angular gyrus | branche de l'artère cérébrale moyenne gauche pour le gyrus angulaire gauche | FMA50477 |
+| branch of medial branch of superior cerebellar artery | branche de la branche médiale de l'artère cérébelleuse supérieure | FMA50694 |
+| branch of medial occipital artery | branche de l'artère occipitale médiale | FMA50651 |
+| branch of medial plantar artery | branche de l'artère plantaire médiale | FMA43941 |
+| branch of middle cerebral artery | branche de l'artère cérébrale moyenne | FMA50081 |
+| branch of middle cerebral artery to angular gyrus | branche de l'artère cérébrale moyenne pour le gyrus angulaire | FMA50475 |
+| branch of pericallosal artery | branche de l'artère péricalleuse | FMA50338 |
+| branch of pontine artery | branche de l'artère du pont | FMA50563 |
+| branch of postcommunicating part of anterior cerebral artery | branche de la partie post-communicante de l'artère cérébrale antérieure | FMA79615 |
+| branch of posterior cerebral artery | branche de l'artère cérébrale postérieure | FMA50586 |
+| branch of posterior choroidal artery | branche de l'artère choroïdienne postérieure | FMA86127 |
+| branch of posterior communicating artery | branche de l'artère communicante postérieure | FMA50168 |
+| branch of posterior tibial artery | branche de l'artère tibiale postérieure | FMA69784 |
+| branch of radial artery | branche de l'artère radiale | FMA22738 |
+| branch of right anterior choroidal artery to posterior limb of right internal capsule | branche de l'artère choroïdienne antérieure droite pour le bras postérieur de la capsule interne droite | FMA50146 |
+| branch of right coronary artery | branche de l'artère coronaire droite | FMA66327 |
+| branch of right middle cerebral artery to right angular gyrus | branche de l'artère cérébrale moyenne droite pour le gyrus angulaire droit | FMA50476 |
+| branch of second common palmar digital artery | branche de la deuxième artère digitale palmaire commune | FMA85110 |
+| branch of sphenoid part of middle cerebral artery | branche de la partie sphénoïdale de l'artère cérébrale moyenne | FMA79631 |
+| branch of superficial palmar arterial arch | branche de l'arcade artérielle palmaire superficielle | FMA22845 |
+| branch of superior cerebellar artery | branche de l'artère cérébelleuse supérieure | FMA50576 |
+| branch of third common palmar digital artery | branche de la troisième artère digitale palmaire commune | FMA85117 |
+| branch of ulnar artery | branche de l'artère ulnaire | FMA22799 |
+| branch of vertebral artery | branche de l'artère vertébrale | FMA76259 |
+| bronchial artery | artère bronchique | FMA68109 |
+| bronchial branch of arch of aorta | branche bronchique de l'arc de l'aorte | FMA14177 |
+| callosomarginal artery | artère calloso-marginale | FMA50330 |
 | cardinal organ part | partie cardinale d'organe | FMA82472 |
-| cardiovascular system | *(non traduit)* | FMA7161 |
-| caudal pancreatic artery | *(non traduit)* | FMA14793 |
-| caudate lobe branch of left hepatic artery | *(non traduit)* | FMA70455 |
-| caudate lobe branch of right hepatic artery | *(non traduit)* | FMA70447 |
-| celiac artery | *(non traduit)* | FMA50737 |
-| celiac trunk | *(non traduit)* | FMA14812 |
-| cerebral arterial circle | *(non traduit)* | FMA50454 |
-| circumflex branch of left coronary artery | *(non traduit)* | FMA3895 |
-| circumflex scapular artery | *(non traduit)* | FMA23179 |
-| common carotid artery | *(non traduit)* | FMA3939 |
-| common hepatic artery | *(non traduit)* | FMA14771 |
-| common iliac artery | *(non traduit)* | FMA14764 |
-| common interosseous artery | *(non traduit)* | FMA22806 |
-| compartment of abdomen | *(non traduit)* | FMA85031 |
+| cardiovascular system | système cardio-vasculaire | FMA7161 |
+| caudal pancreatic artery | artère pancréatique caudale | FMA14793 |
+| caudate lobe branch of left hepatic artery | branche du lobe caudé de l'artère hépatique gauche | FMA70455 |
+| caudate lobe branch of right hepatic artery | branche du lobe caudé de l'artère hépatique droite | FMA70447 |
+| celiac artery | artère cœliaque | FMA50737 |
+| celiac trunk | tronc cœliaque | FMA14812 |
+| cerebral arterial circle | cercle artériel du cerveau | FMA50454 |
+| circumflex branch of left coronary artery | branche circonflexe de l'artère coronaire gauche | FMA3895 |
+| circumflex scapular artery | artère circonflexe scapulaire | FMA23179 |
+| common carotid artery | artère carotide commune | FMA3939 |
+| common hepatic artery | artère hépatique commune | FMA14771 |
+| common iliac artery | artère iliaque commune | FMA14764 |
+| common interosseous artery | artère interosseuse commune | FMA22806 |
+| compartment of abdomen | compartiment de l'abdomen | FMA85031 |
 | compartment of thorax | compartiment du thorax | FMA85008 |
-| content of abdomen | *(non traduit)* | FMA259248 |
+| content of abdomen | contenu de l'abdomen | FMA259248 |
 | content of inferior mediastinum | contenu du médiastin inférieur | FMA79275 |
 | content of mediastinum | contenu du médiastin | FMA79273 |
 | content of middle mediastinum | contenu du médiastin moyen | FMA79278 |
 | content of superior mediastinum | contenu du médiastin supérieur | FMA79274 |
 | content of thorax | contenu du thorax | FMA79269 |
-| conus branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3868 |
-| coronary artery | *(non traduit)* | FMA49893 |
-| costocervical trunk | *(non traduit)* | FMA10636 |
-| deep brachial artery | *(non traduit)* | FMA22695 |
-| deep cervical artery | *(non traduit)* | FMA10659 |
-| deep palmar arterial arch | *(non traduit)* | FMA22838 |
-| deep plantar artery | *(non traduit)* | FMA69513 |
-| deltoid branch of left thoraco-acromial artery | *(non traduit)* | FMA23073 |
-| deltoid branch of right thoraco-acromial artery | *(non traduit)* | FMA23072 |
-| deltoid branch of thoraco-acromial artery | *(non traduit)* | FMA23067 |
-| descending aorta | *(non traduit)* | FMA3784 |
-| descending branch of lateral circumflex femoral artery | *(non traduit)* | FMA20805 |
-| descending branch of left colic artery | *(non traduit)* | FMA14829 |
-| descending branch of left lateral circumflex femoral artery | *(non traduit)* | FMA21423 |
-| descending branch of right lateral circumflex femoral artery | *(non traduit)* | FMA21422 |
-| descending genicular artery | *(non traduit)* | FMA22506 |
-| descending thoracic aorta | *(non traduit)* | FMA87217 |
-| diagonal branch of anterior descending branch of left coronary artery | *(non traduit)* | FMA3860 |
-| digital artery of foot | *(non traduit)* | FMA69713 |
-| distal perforating artery | *(non traduit)* | FMA69517 |
-| dorsal artery of penis | *(non traduit)* | FMA19795 |
-| dorsal carpal branch of left radial artery | *(non traduit)* | FMA22773 |
-| dorsal carpal branch of radial artery | *(non traduit)* | FMA22755 |
-| dorsal carpal branch of right radial artery | *(non traduit)* | FMA22772 |
-| dorsal carpal branch of ulnar artery | *(non traduit)* | FMA22820 |
-| dorsal digital artery of foot | *(non traduit)* | FMA44660 |
-| dorsal pancreatic artery | *(non traduit)* | FMA14787 |
-| dorsal scapular artery | *(non traduit)* | FMA79658 |
-| dorsalis pedis artery | *(non traduit)* | FMA43915 |
-| esophageal artery | *(non traduit)* | FMA4149 |
-| external iliac artery | *(non traduit)* | FMA18805 |
-| femoral artery | *(non traduit)* | FMA70248 |
-| first anterior ventricular branch of right coronary artery | *(non traduit)* | FMA3815 |
-| first common palmar digital artery | *(non traduit)* | FMA22854 |
-| first posterior intercostal artery | *(non traduit)* | FMA66241 |
-| first posterior ventricular branch of right coronary artery | *(non traduit)* | FMA3837 |
-| first right anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3872 |
-| first septal branch of right posterior interventricular artery | *(non traduit)* | FMA3847 |
-| fourth common palmar digital artery | *(non traduit)* | FMA85108 |
-| gastroduodenal artery | *(non traduit)* | FMA14775 |
-| great pancreatic artery | *(non traduit)* | FMA14792 |
+| conus branch of anterior interventricular branch of left coronary artery | branche du cône artériel de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA3868 |
+| coronary artery | artère coronaire | FMA49893 |
+| costocervical trunk | tronc costo-cervical | FMA10636 |
+| deep brachial artery | artère brachiale profonde | FMA22695 |
+| deep cervical artery | artère cervicale profonde | FMA10659 |
+| deep palmar arterial arch | arcade artérielle palmaire profonde | FMA22838 |
+| deep plantar artery | artère plantaire profonde | FMA69513 |
+| deltoid branch of left thoraco-acromial artery | branche deltoïdienne de l'artère thoraco-acromiale gauche | FMA23073 |
+| deltoid branch of right thoraco-acromial artery | branche deltoïdienne de l'artère thoraco-acromiale droite | FMA23072 |
+| deltoid branch of thoraco-acromial artery | branche deltoïdienne de l'artère thoraco-acromiale | FMA23067 |
+| descending aorta | aorte descendante | FMA3784 |
+| descending branch of lateral circumflex femoral artery | branche descendante de l'artère circonflexe fémorale latérale | FMA20805 |
+| descending branch of left colic artery | branche descendante de l'artère colique gauche | FMA14829 |
+| descending branch of left lateral circumflex femoral artery | branche descendante de l'artère circonflexe fémorale latérale gauche | FMA21423 |
+| descending branch of right lateral circumflex femoral artery | branche descendante de l'artère circonflexe fémorale latérale droite | FMA21422 |
+| descending genicular artery | artère géniculaire descendante | FMA22506 |
+| descending thoracic aorta | aorte thoracique descendante | FMA87217 |
+| diagonal branch of anterior descending branch of left coronary artery | branche diagonale de la branche descendante antérieure de l'artère coronaire gauche | FMA3860 |
+| digital artery of foot | artère digitale du pied | FMA69713 |
+| distal perforating artery | artère perforante distale | FMA69517 |
+| dorsal artery of penis | artère dorsale du pénis | FMA19795 |
+| dorsal carpal branch of left radial artery | branche carpienne dorsale de l'artère radiale gauche | FMA22773 |
+| dorsal carpal branch of radial artery | branche carpienne dorsale de l'artère radiale | FMA22755 |
+| dorsal carpal branch of right radial artery | branche carpienne dorsale de l'artère radiale droite | FMA22772 |
+| dorsal carpal branch of ulnar artery | branche carpienne dorsale de l'artère ulnaire | FMA22820 |
+| dorsal digital artery of foot | artère digitale dorsale du pied | FMA44660 |
+| dorsal pancreatic artery | artère pancréatique dorsale | FMA14787 |
+| dorsal scapular artery | artère scapulaire dorsale | FMA79658 |
+| dorsalis pedis artery | artère dorsale du pied | FMA43915 |
+| esophageal artery | artère œsophagienne | FMA4149 |
+| external iliac artery | artère iliaque externe | FMA18805 |
+| femoral artery | artère fémorale | FMA70248 |
+| first anterior ventricular branch of right coronary artery | première branche ventriculaire antérieure de l'artère coronaire droite | FMA3815 |
+| first common palmar digital artery | première artère digitale palmaire commune | FMA22854 |
+| first posterior intercostal artery | première artère intercostale postérieure | FMA66241 |
+| first posterior ventricular branch of right coronary artery | première branche ventriculaire postérieure de l'artère coronaire droite | FMA3837 |
+| first right anterior branch of anterior interventricular branch of left coronary artery | première branche antérieure droite de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA3872 |
+| first septal branch of right posterior interventricular artery | première branche septale de l'artère interventriculaire postérieure droite | FMA3847 |
+| fourth common palmar digital artery | quatrième artère digitale palmaire commune | FMA85108 |
+| gastroduodenal artery | artère gastro-duodénale | FMA14775 |
+| great pancreatic artery | artère pancréatique magna | FMA14792 |
 | heart | cœur | FMA7088 |
-| hepatic artery | *(non traduit)* | FMA14769 |
-| hepatic artery proper | *(non traduit)* | FMA14772 |
+| hepatic artery | artère hépatique | FMA14769 |
+| hepatic artery proper | artère hépatique propre | FMA14772 |
 | human body | corps humain | FMA20394 |
-| hypothalamic branch of left posterior communicating artery | *(non traduit)* | FMA50429 |
-| hypothalamic branch of posterior communicating artery | *(non traduit)* | FMA50427 |
-| hypothalamic branch of right posterior communicating artery | *(non traduit)* | FMA50428 |
-| ileal artery | *(non traduit)* | FMA14809 |
-| ileal branch of inferior branch of ileocolic artery | *(non traduit)* | FMA14819 |
-| ileocolic artery | *(non traduit)* | FMA14815 |
-| inferior branch of ileocolic artery | *(non traduit)* | FMA14823 |
-| inferior branch of medial segmental artery | *(non traduit)* | FMA68694 |
-| inferior epigastric artery | *(non traduit)* | FMA20686 |
-| inferior genicular artery | *(non traduit)* | FMA22537 |
-| inferior lateral genicular artery | *(non traduit)* | FMA43888 |
-| inferior lingular artery | *(non traduit)* | FMA8640 |
-| inferior medial genicular artery | *(non traduit)* | FMA43889 |
+| hypothalamic branch of left posterior communicating artery | branche hypothalamique de l'artère communicante postérieure gauche | FMA50429 |
+| hypothalamic branch of posterior communicating artery | branche hypothalamique de l'artère communicante postérieure | FMA50427 |
+| hypothalamic branch of right posterior communicating artery | branche hypothalamique de l'artère communicante postérieure droite | FMA50428 |
+| ileal artery | artère iléale | FMA14809 |
+| ileal branch of inferior branch of ileocolic artery | branche iléale de la branche inférieure de l'artère iléo-colique | FMA14819 |
+| ileocolic artery | artère iléo-colique | FMA14815 |
+| inferior branch of ileocolic artery | branche inférieure de l'artère iléo-colique | FMA14823 |
+| inferior branch of medial segmental artery | branche inférieure de l'artère segmentaire médiale | FMA68694 |
+| inferior epigastric artery | artère épigastrique inférieure | FMA20686 |
+| inferior genicular artery | artère géniculaire inférieure | FMA22537 |
+| inferior lateral genicular artery | artère géniculaire latérale inférieure | FMA43888 |
+| inferior lingular artery | artère lingulaire inférieure | FMA8640 |
+| inferior medial genicular artery | artère géniculaire médiale inférieure | FMA43889 |
 | inferior mediastinum | médiastin inférieur | FMA9828 |
-| inferior mesenteric artery | *(non traduit)* | FMA14750 |
-| inferior pancreatic artery | *(non traduit)* | FMA14790 |
-| inferior pancreaticoduodenal artery | *(non traduit)* | FMA14805 |
-| inferior phrenic artery | *(non traduit)* | FMA14734 |
-| inferior segmental branch of left renal artery | *(non traduit)* | FMA86347 |
-| inferior segmental branch of right renal artery | *(non traduit)* | FMA86346 |
-| inferior segmental renal artery | *(non traduit)* | FMA70502 |
-| inferior suprarenal artery | *(non traduit)* | FMA69264 |
-| inferior terminal branch of middle cerebral artery | *(non traduit)* | FMA50439 |
-| inferior thyroid artery | *(non traduit)* | FMA10662 |
-| inferior ulnar collateral artery | *(non traduit)* | FMA22710 |
-| inferomedial branch of right pulmonary artery | *(non traduit)* | FMA68658 |
-| insular part of left middle cerebral artery | *(non traduit)* | FMA50370 |
-| insular part of middle cerebral artery | *(non traduit)* | FMA50368 |
-| insular part of right middle cerebral artery | *(non traduit)* | FMA50369 |
-| intermediomedial branch of callosomarginal artery | *(non traduit)* | FMA50333 |
-| intermediomedial branch of left callosomarginal artery | *(non traduit)* | FMA50352 |
-| intermediomedial branch of right callosomarginal artery | *(non traduit)* | FMA50351 |
-| internal carotid artery | *(non traduit)* | FMA3947 |
-| internal iliac artery | *(non traduit)* | FMA18808 |
-| internal thoracic artery | *(non traduit)* | FMA3960 |
-| intracranial branch of vertebral artery | *(non traduit)* | FMA76264 |
-| intrapulmonary part of left pulmonary artery | *(non traduit)* | FMA67995 |
-| intrapulmonary part of right pulmonary artery | *(non traduit)* | FMA67994 |
-| lateral basal segmental artery | *(non traduit)* | FMA8718 |
-| lateral branch of anterior basal segmental artery | *(non traduit)* | FMA68721 |
-| lateral branch of left pontine artery | *(non traduit)* | FMA50569 |
-| lateral branch of left superior cerebellar artery | *(non traduit)* | FMA50579 |
-| lateral branch of pontine artery | *(non traduit)* | FMA50565 |
-| lateral branch of right anterior basal segmental artery | *(non traduit)* | FMA68725 |
-| lateral branch of right lateral basal segmental artery | *(non traduit)* | FMA68728 |
-| lateral branch of right pontine artery | *(non traduit)* | FMA50568 |
-| lateral branch of right superior cerebellar artery | *(non traduit)* | FMA50578 |
-| lateral branch of right superior segmental artery | *(non traduit)* | FMA68712 |
-| lateral branch of superior segmental artery | *(non traduit)* | FMA68711 |
-| lateral circumflex femoral artery | *(non traduit)* | FMA20798 |
-| lateral frontobasal artery | *(non traduit)* | FMA50442 |
-| lateral inferior segmental hepatic artery | *(non traduit)* | FMA70453 |
-| lateral occipital artery | *(non traduit)* | FMA50633 |
-| lateral plantar artery | *(non traduit)* | FMA43926 |
-| lateral proper palmar digital artery of left little finger | *(non traduit)* | FMA23055 |
-| lateral proper palmar digital artery of left middle finger | *(non traduit)* | FMA22860 |
-| lateral proper palmar digital artery of left ring finger | *(non traduit)* | FMA85116 |
-| lateral proper palmar digital artery of little finger | *(non traduit)* | FMA23048 |
-| lateral proper palmar digital artery of middle finger | *(non traduit)* | FMA22857 |
-| lateral proper palmar digital artery of right little finger | *(non traduit)* | FMA23054 |
-| lateral proper palmar digital artery of right middle finger | *(non traduit)* | FMA22858 |
-| lateral proper palmar digital artery of right ring finger | *(non traduit)* | FMA85115 |
-| lateral proper palmar digital artery of ring finger | *(non traduit)* | FMA85114 |
-| lateral segmental artery | *(non traduit)* | FMA68194 |
-| lateral segmental hepatic artery | *(non traduit)* | FMA70451 |
-| lateral superior cerebellar artery | *(non traduit)* | FMA50577 |
-| lateral superior segmental hepatic artery | *(non traduit)* | FMA70452 |
-| lateral tarsal artery | *(non traduit)* | FMA44595 |
-| lateral thoracic artery | *(non traduit)* | FMA22674 |
-| laterobasal branch of posterior basal segmental artery | *(non traduit)* | FMA68737 |
-| laterobasal branch of right posterior basal segmental artery | *(non traduit)* | FMA68738 |
-| left anterior basal segmental artery | *(non traduit)* | FMA8645 |
-| left anterior cerebral artery | *(non traduit)* | FMA50030 |
-| left anterior choroidal artery | *(non traduit)* | FMA50089 |
-| left anterior circumflex humeral artery | *(non traduit)* | FMA22683 |
-| left anterior interosseous artery | *(non traduit)* | FMA22813 |
-| left anterior parietal artery | *(non traduit)* | FMA50487 |
-| left anterior segmental artery | *(non traduit)* | FMA13279 |
-| left anterior spinal artery | *(non traduit)* | FMA50533 |
-| left anterior temporal artery | *(non traduit)* | FMA50384 |
-| left anterior tibial artery | *(non traduit)* | FMA43897 |
-| left anterior tibial recurrent artery | *(non traduit)* | FMA43908 |
-| left anterior ulnar recurrent artery | *(non traduit)* | FMA22802 |
-| left apical segmental artery | *(non traduit)* | FMA8634 |
-| left arcuate artery | *(non traduit)* | FMA69495 |
-| left arteria princeps pollicis | *(non traduit)* | FMA22907 |
-| left arteria radialis indicis | *(non traduit)* | FMA22778 |
-| left axillary artery | *(non traduit)* | FMA22656 |
-| left basal segmental artery | *(non traduit)* | FMA68846 |
-| left brachial artery | *(non traduit)* | FMA22692 |
-| left callosomarginal artery | *(non traduit)* | FMA50348 |
-| left circumflex scapular artery | *(non traduit)* | FMA23181 |
-| left colic artery | *(non traduit)* | FMA14826 |
-| left common carotid artery | *(non traduit)* | FMA4058 |
-| left common iliac artery | *(non traduit)* | FMA14766 |
-| left common interosseous artery | *(non traduit)* | FMA22808 |
-| left coronary artery | *(non traduit)* | FMA50040 |
-| left costocervical artery | *(non traduit)* | FMA70352 |
-| left costocervical trunk | *(non traduit)* | FMA4086 |
-| left deep brachial artery | *(non traduit)* | FMA22697 |
-| left deep cervical artery | *(non traduit)* | FMA4134 |
-| left deep femoral artery | *(non traduit)* | FMA20797 |
-| left deep palmar arch | *(non traduit)* | FMA22840 |
-| left deep plantar artery | *(non traduit)* | FMA69515 |
-| left descending genicular artery | *(non traduit)* | FMA22508 |
-| left dorsal artery of penis | *(non traduit)* | FMA20819 |
-| left dorsal carpal branch of ulnar artery | *(non traduit)* | FMA22822 |
-| left dorsal scapular artery | *(non traduit)* | FMA10552 |
-| left dorsalis pedis artery | *(non traduit)* | FMA43917 |
-| left external iliac artery | *(non traduit)* | FMA18807 |
-| left femoral artery | *(non traduit)* | FMA70250 |
-| left first common palmar digital artery | *(non traduit)* | FMA85118 |
-| left first posterior intercostal artery | *(non traduit)* | FMA66243 |
-| left fourth common palmar digital artery | *(non traduit)* | FMA85124 |
-| left gastric artery | *(non traduit)* | FMA14768 |
-| left gastro-epiploic artery | *(non traduit)* | FMA14796 |
-| left hepatic artery | *(non traduit)* | FMA14779 |
-| left inferior epigastric artery | *(non traduit)* | FMA20689 |
-| left inferior lateral genicular artery | *(non traduit)* | FMA43893 |
-| left inferior medial genicular artery | *(non traduit)* | FMA43891 |
-| left inferior phrenic artery | *(non traduit)* | FMA14747 |
-| left inferior suprarenal artery | *(non traduit)* | FMA69266 |
-| left inferior thyroid artery | *(non traduit)* | FMA10680 |
-| left inferior ulnar collateral artery | *(non traduit)* | FMA22713 |
-| left internal carotid artery | *(non traduit)* | FMA4062 |
-| left internal iliac artery | *(non traduit)* | FMA18810 |
-| left internal thoracic artery | *(non traduit)* | FMA4068 |
-| left lateral basal segmental artery | *(non traduit)* | FMA8646 |
-| left lateral circumflex femoral artery | *(non traduit)* | FMA20802 |
-| left lateral frontobasal artery | *(non traduit)* | FMA50444 |
-| left lateral occipital artery | *(non traduit)* | FMA50644 |
-| left lateral plantar artery | *(non traduit)* | FMA43932 |
-| left lateral superior genicular artery | *(non traduit)* | FMA22589 |
-| left lateral tarsal artery | *(non traduit)* | FMA69491 |
-| left lateral thoracic artery | *(non traduit)* | FMA22676 |
-| left lobe branch of left hepatic artery | *(non traduit)* | FMA71710 |
-| left lower lobar artery | *(non traduit)* | FMA68201 |
-| left medial basal segmental artery | *(non traduit)* | FMA8644 |
-| left medial frontobasal artery | *(non traduit)* | FMA50344 |
-| left medial occipital artery | *(non traduit)* | FMA50646 |
-| left medial plantar artery | *(non traduit)* | FMA43930 |
-| left medial superior genicular artery | *(non traduit)* | FMA22587 |
-| left middle genicular artery | *(non traduit)* | FMA22563 |
-| left middle suprarenal artery | *(non traduit)* | FMA14756 |
-| left musculophrenic artery | *(non traduit)* | FMA4077 |
-| left ophthalmic artery | *(non traduit)* | FMA49870 |
-| left palmar metacarpal artery | *(non traduit)* | FMA22865 |
-| left pericallosal artery | *(non traduit)* | FMA50360 |
-| left plantar arch | *(non traduit)* | FMA43944 |
-| left polar temporal artery | *(non traduit)* | FMA50381 |
-| left pontine artery | *(non traduit)* | FMA50562 |
-| left popliteal artery | *(non traduit)* | FMA77381 |
-| left posterior basal segmental artery | *(non traduit)* | FMA8647 |
-| left posterior cerebral artery | *(non traduit)* | FMA50585 |
-| left posterior choroidal artery | *(non traduit)* | FMA50659 |
-| left posterior circumflex humeral artery | *(non traduit)* | FMA22687 |
-| left posterior communicating artery | *(non traduit)* | FMA50086 |
-| left posterior inferior cerebellar artery | *(non traduit)* | FMA50520 |
-| left posterior medial choroidal artery | *(non traduit)* | FMA50673 |
-| left posterior parietal artery | *(non traduit)* | FMA50490 |
-| left posterior segmental artery | *(non traduit)* | FMA8635 |
-| left posterior tibial artery | *(non traduit)* | FMA43899 |
-| left posterior ulnar recurrent artery | *(non traduit)* | FMA22805 |
-| left prefrontal artery | *(non traduit)* | FMA50478 |
-| left pulmonary artery | *(non traduit)* | FMA50873 |
-| left radial artery | *(non traduit)* | FMA22734 |
-| left radial recurrent artery | *(non traduit)* | FMA22766 |
-| left recurrent interosseous artery | *(non traduit)* | FMA268669 |
-| left renal artery | *(non traduit)* | FMA14753 |
-| left second common palmar digital artery | *(non traduit)* | FMA85120 |
-| left second posterior intercostal artery | *(non traduit)* | FMA4112 |
+| inferior mesenteric artery | artère mésentérique inférieure | FMA14750 |
+| inferior pancreatic artery | artère pancréatique inférieure | FMA14790 |
+| inferior pancreaticoduodenal artery | artère pancréatico-duodénale inférieure | FMA14805 |
+| inferior phrenic artery | artère phrénique inférieure | FMA14734 |
+| inferior segmental branch of left renal artery | branche segmentaire inférieure de l'artère rénale gauche | FMA86347 |
+| inferior segmental branch of right renal artery | branche segmentaire inférieure de l'artère rénale droite | FMA86346 |
+| inferior segmental renal artery | artère rénale segmentaire inférieure | FMA70502 |
+| inferior suprarenal artery | artère surrénale inférieure | FMA69264 |
+| inferior terminal branch of middle cerebral artery | branche terminale inférieure de l'artère cérébrale moyenne | FMA50439 |
+| inferior thyroid artery | artère thyroïdienne inférieure | FMA10662 |
+| inferior ulnar collateral artery | artère collatérale ulnaire inférieure | FMA22710 |
+| inferomedial branch of right pulmonary artery | branche inféro-médiale de l'artère pulmonaire droite | FMA68658 |
+| insular part of left middle cerebral artery | partie insulaire de l'artère cérébrale moyenne gauche | FMA50370 |
+| insular part of middle cerebral artery | partie insulaire de l'artère cérébrale moyenne | FMA50368 |
+| insular part of right middle cerebral artery | partie insulaire de l'artère cérébrale moyenne droite | FMA50369 |
+| intermediomedial branch of callosomarginal artery | branche intermédio-médiale de l'artère calloso-marginale | FMA50333 |
+| intermediomedial branch of left callosomarginal artery | branche intermédio-médiale de l'artère calloso-marginale gauche | FMA50352 |
+| intermediomedial branch of right callosomarginal artery | branche intermédio-médiale de l'artère calloso-marginale droite | FMA50351 |
+| internal carotid artery | artère carotide interne | FMA3947 |
+| internal iliac artery | artère iliaque interne | FMA18808 |
+| internal thoracic artery | artère thoracique interne | FMA3960 |
+| intracranial branch of vertebral artery | branche intracrânienne de l'artère vertébrale | FMA76264 |
+| intrapulmonary part of left pulmonary artery | partie intrapulmonaire de l'artère pulmonaire gauche | FMA67995 |
+| intrapulmonary part of right pulmonary artery | partie intrapulmonaire de l'artère pulmonaire droite | FMA67994 |
+| lateral basal segmental artery | artère segmentaire basale latérale | FMA8718 |
+| lateral branch of anterior basal segmental artery | branche latérale de l'artère segmentaire basale antérieure | FMA68721 |
+| lateral branch of left pontine artery | branche latérale de l'artère du pont gauche | FMA50569 |
+| lateral branch of left superior cerebellar artery | branche latérale de l'artère cérébelleuse supérieure gauche | FMA50579 |
+| lateral branch of pontine artery | branche latérale de l'artère du pont | FMA50565 |
+| lateral branch of right anterior basal segmental artery | branche latérale de l'artère segmentaire basale antérieure droite | FMA68725 |
+| lateral branch of right lateral basal segmental artery | branche latérale de l'artère segmentaire basale latérale droite | FMA68728 |
+| lateral branch of right pontine artery | branche latérale de l'artère du pont droit | FMA50568 |
+| lateral branch of right superior cerebellar artery | branche latérale de l'artère cérébelleuse supérieure droite | FMA50578 |
+| lateral branch of right superior segmental artery | branche latérale de l'artère segmentaire supérieure droite | FMA68712 |
+| lateral branch of superior segmental artery | branche latérale de l'artère segmentaire supérieure | FMA68711 |
+| lateral circumflex femoral artery | artère circonflexe fémorale latérale | FMA20798 |
+| lateral frontobasal artery | artère fronto-basale latérale | FMA50442 |
+| lateral inferior segmental hepatic artery | artère hépatique segmentaire latérale inférieure | FMA70453 |
+| lateral occipital artery | artère occipitale latérale | FMA50633 |
+| lateral plantar artery | artère plantaire latérale | FMA43926 |
+| lateral proper palmar digital artery of left little finger | artère digitale palmaire propre latérale de l'auriculaire gauche | FMA23055 |
+| lateral proper palmar digital artery of left middle finger | artère digitale palmaire propre latérale du majeur gauche | FMA22860 |
+| lateral proper palmar digital artery of left ring finger | artère digitale palmaire propre latérale de l'annulaire gauche | FMA85116 |
+| lateral proper palmar digital artery of little finger | artère digitale palmaire propre latérale de l'auriculaire | FMA23048 |
+| lateral proper palmar digital artery of middle finger | artère digitale palmaire propre latérale du majeur | FMA22857 |
+| lateral proper palmar digital artery of right little finger | artère digitale palmaire propre latérale de l'auriculaire droit | FMA23054 |
+| lateral proper palmar digital artery of right middle finger | artère digitale palmaire propre latérale du majeur droit | FMA22858 |
+| lateral proper palmar digital artery of right ring finger | artère digitale palmaire propre latérale de l'annulaire droit | FMA85115 |
+| lateral proper palmar digital artery of ring finger | artère digitale palmaire propre latérale de l'annulaire | FMA85114 |
+| lateral segmental artery | artère segmentaire latérale | FMA68194 |
+| lateral segmental hepatic artery | artère hépatique segmentaire latérale | FMA70451 |
+| lateral superior cerebellar artery | artère cérébelleuse latérale supérieure | FMA50577 |
+| lateral superior segmental hepatic artery | artère hépatique segmentaire latérale supérieure | FMA70452 |
+| lateral tarsal artery | artère tarsienne latérale | FMA44595 |
+| lateral thoracic artery | artère thoracique latérale | FMA22674 |
+| laterobasal branch of posterior basal segmental artery | branche latéro-basale de l'artère segmentaire basale postérieure | FMA68737 |
+| laterobasal branch of right posterior basal segmental artery | branche latéro-basale de l'artère segmentaire basale postérieure droite | FMA68738 |
+| left anterior basal segmental artery | artère segmentaire basale antérieure gauche | FMA8645 |
+| left anterior cerebral artery | artère cérébrale antérieure gauche | FMA50030 |
+| left anterior choroidal artery | artère choroïdienne antérieure gauche | FMA50089 |
+| left anterior circumflex humeral artery | artère circonflexe humérale antérieure gauche | FMA22683 |
+| left anterior interosseous artery | artère interosseuse antérieure gauche | FMA22813 |
+| left anterior parietal artery | artère pariétale antérieure gauche | FMA50487 |
+| left anterior segmental artery | artère segmentaire antérieure gauche | FMA13279 |
+| left anterior spinal artery | artère spinale antérieure gauche | FMA50533 |
+| left anterior temporal artery | artère temporale antérieure gauche | FMA50384 |
+| left anterior tibial artery | artère tibiale antérieure gauche | FMA43897 |
+| left anterior tibial recurrent artery | artère récurrente tibiale antérieure gauche | FMA43908 |
+| left anterior ulnar recurrent artery | artère récurrente ulnaire antérieure gauche | FMA22802 |
+| left apical segmental artery | artère segmentaire apicale gauche | FMA8634 |
+| left arcuate artery | artère arquée gauche | FMA69495 |
+| left arteria princeps pollicis | artère principale du pouce gauche | FMA22907 |
+| left arteria radialis indicis | artère radiale de l'index gauche | FMA22778 |
+| left axillary artery | artère axillaire gauche | FMA22656 |
+| left basal segmental artery | artère segmentaire basale gauche | FMA68846 |
+| left brachial artery | artère brachiale gauche | FMA22692 |
+| left callosomarginal artery | artère calloso-marginale gauche | FMA50348 |
+| left circumflex scapular artery | artère circonflexe scapulaire gauche | FMA23181 |
+| left colic artery | artère colique gauche | FMA14826 |
+| left common carotid artery | artère carotide commune gauche | FMA4058 |
+| left common iliac artery | artère iliaque commune gauche | FMA14766 |
+| left common interosseous artery | artère interosseuse commune gauche | FMA22808 |
+| left coronary artery | artère coronaire gauche | FMA50040 |
+| left costocervical artery | artère costo-cervicale gauche | FMA70352 |
+| left costocervical trunk | tronc costo-cervical gauche | FMA4086 |
+| left deep brachial artery | artère brachiale profonde gauche | FMA22697 |
+| left deep cervical artery | artère cervicale profonde gauche | FMA4134 |
+| left deep femoral artery | artère fémorale profonde gauche | FMA20797 |
+| left deep palmar arch | arcade palmaire profonde gauche | FMA22840 |
+| left deep plantar artery | artère plantaire profonde gauche | FMA69515 |
+| left descending genicular artery | artère géniculaire descendante gauche | FMA22508 |
+| left dorsal artery of penis | artère dorsale gauche du pénis | FMA20819 |
+| left dorsal carpal branch of ulnar artery | branche carpienne dorsale gauche de l'artère ulnaire | FMA22822 |
+| left dorsal scapular artery | artère scapulaire dorsale gauche | FMA10552 |
+| left dorsalis pedis artery | artère dorsale du pied gauche | FMA43917 |
+| left external iliac artery | artère iliaque externe gauche | FMA18807 |
+| left femoral artery | artère fémorale gauche | FMA70250 |
+| left first common palmar digital artery | première artère digitale palmaire commune gauche | FMA85118 |
+| left first posterior intercostal artery | première artère intercostale postérieure gauche | FMA66243 |
+| left fourth common palmar digital artery | quatrième artère digitale palmaire commune gauche | FMA85124 |
+| left gastric artery | artère gastrique gauche | FMA14768 |
+| left gastro-epiploic artery | artère gastro-omentale gauche | FMA14796 |
+| left hepatic artery | artère hépatique gauche | FMA14779 |
+| left inferior epigastric artery | artère épigastrique inférieure gauche | FMA20689 |
+| left inferior lateral genicular artery | artère géniculaire latérale inférieure gauche | FMA43893 |
+| left inferior medial genicular artery | artère géniculaire médiale inférieure gauche | FMA43891 |
+| left inferior phrenic artery | artère phrénique inférieure gauche | FMA14747 |
+| left inferior suprarenal artery | artère surrénale inférieure gauche | FMA69266 |
+| left inferior thyroid artery | artère thyroïdienne inférieure gauche | FMA10680 |
+| left inferior ulnar collateral artery | artère collatérale ulnaire inférieure gauche | FMA22713 |
+| left internal carotid artery | artère carotide interne gauche | FMA4062 |
+| left internal iliac artery | artère iliaque interne gauche | FMA18810 |
+| left internal thoracic artery | artère thoracique interne gauche | FMA4068 |
+| left lateral basal segmental artery | artère segmentaire basale latérale gauche | FMA8646 |
+| left lateral circumflex femoral artery | artère circonflexe fémorale latérale gauche | FMA20802 |
+| left lateral frontobasal artery | artère fronto-basale latérale gauche | FMA50444 |
+| left lateral occipital artery | artère occipitale latérale gauche | FMA50644 |
+| left lateral plantar artery | artère plantaire latérale gauche | FMA43932 |
+| left lateral superior genicular artery | artère géniculaire latérale supérieure gauche | FMA22589 |
+| left lateral tarsal artery | artère tarsienne latérale gauche | FMA69491 |
+| left lateral thoracic artery | artère thoracique latérale gauche | FMA22676 |
+| left lobe branch of left hepatic artery | branche du lobe gauche de l'artère hépatique gauche | FMA71710 |
+| left lower lobar artery | artère lobaire inférieure gauche | FMA68201 |
+| left medial basal segmental artery | artère segmentaire basale médiale gauche | FMA8644 |
+| left medial frontobasal artery | artère fronto-basale médiale gauche | FMA50344 |
+| left medial occipital artery | artère occipitale médiale gauche | FMA50646 |
+| left medial plantar artery | artère plantaire médiale gauche | FMA43930 |
+| left medial superior genicular artery | artère géniculaire médiale supérieure gauche | FMA22587 |
+| left middle genicular artery | artère géniculaire moyenne gauche | FMA22563 |
+| left middle suprarenal artery | artère surrénale moyenne gauche | FMA14756 |
+| left musculophrenic artery | artère musculo-phrénique gauche | FMA4077 |
+| left ophthalmic artery | artère ophtalmique gauche | FMA49870 |
+| left palmar metacarpal artery | artère métacarpienne palmaire gauche | FMA22865 |
+| left pericallosal artery | artère péricalleuse gauche | FMA50360 |
+| left plantar arch | arcade plantaire gauche | FMA43944 |
+| left polar temporal artery | artère temporale polaire gauche | FMA50381 |
+| left pontine artery | artère du pont gauche | FMA50562 |
+| left popliteal artery | artère poplitée gauche | FMA77381 |
+| left posterior basal segmental artery | artère segmentaire basale postérieure gauche | FMA8647 |
+| left posterior cerebral artery | artère cérébrale postérieure gauche | FMA50585 |
+| left posterior choroidal artery | artère choroïdienne postérieure gauche | FMA50659 |
+| left posterior circumflex humeral artery | artère circonflexe humérale postérieure gauche | FMA22687 |
+| left posterior communicating artery | artère communicante postérieure gauche | FMA50086 |
+| left posterior inferior cerebellar artery | artère cérébelleuse postérieure inférieure gauche | FMA50520 |
+| left posterior medial choroidal artery | artère choroïdienne médiale postérieure gauche | FMA50673 |
+| left posterior parietal artery | artère pariétale postérieure gauche | FMA50490 |
+| left posterior segmental artery | artère segmentaire postérieure gauche | FMA8635 |
+| left posterior tibial artery | artère tibiale postérieure gauche | FMA43899 |
+| left posterior ulnar recurrent artery | artère récurrente ulnaire postérieure gauche | FMA22805 |
+| left prefrontal artery | artère préfrontale gauche | FMA50478 |
+| left pulmonary artery | artère pulmonaire gauche | FMA50873 |
+| left radial artery | artère radiale gauche | FMA22734 |
+| left radial recurrent artery | artère récurrente radiale gauche | FMA22766 |
+| left recurrent interosseous artery | artère interosseuse récurrente gauche | FMA268669 |
+| left renal artery | artère rénale gauche | FMA14753 |
+| left second common palmar digital artery | deuxième artère digitale palmaire commune gauche | FMA85120 |
+| left second posterior intercostal artery | deuxième artère intercostale postérieure gauche | FMA4112 |
 | left side of heart | cœur gauche | FMA7166 |
-| left splenial artery | *(non traduit)* | FMA50685 |
-| left subclavian artery | *(non traduit)* | FMA4694 |
-| left subcostal artery | *(non traduit)* | FMA4654 |
-| left subscapular artery | *(non traduit)* | FMA22679 |
-| left superficial cervical artery | *(non traduit)* | FMA10683 |
-| left superficial epigastric artery | *(non traduit)* | FMA20736 |
-| left superficial medial plantar artery | *(non traduit)* | FMA43938 |
-| left superficial palmar arterial arch | *(non traduit)* | FMA22837 |
-| left superior cerebellar artery | *(non traduit)* | FMA50575 |
-| left superior epigastric artery | *(non traduit)* | FMA4083 |
-| left superior intercostal artery | *(non traduit)* | FMA4088 |
-| left superior segmental artery | *(non traduit)* | FMA8642 |
-| left superior ulnar collateral artery | *(non traduit)* | FMA22708 |
-| left suprascapular artery | *(non traduit)* | FMA10681 |
-| left testicular artery | *(non traduit)* | FMA14760 |
-| left thalamogeniculate artery | *(non traduit)* | FMA50671 |
-| left thalamoperforating artery | *(non traduit)* | FMA50665 |
-| left third common palmar digital artery | *(non traduit)* | FMA85122 |
-| left thoraco-acromial artery | *(non traduit)* | FMA22673 |
-| left thoracodorsal artery | *(non traduit)* | FMA66322 |
-| left thyrocervical artery | *(non traduit)* | FMA70348 |
-| left thyrocervical trunk | *(non traduit)* | FMA4084 |
-| left transverse cervical artery | *(non traduit)* | FMA10682 |
-| left ulnar artery | *(non traduit)* | FMA22798 |
-| left upper lobar artery | *(non traduit)* | FMA68198 |
-| left vertebral artery | *(non traduit)* | FMA4066 |
-| lobar artery | *(non traduit)* | FMA68192 |
-| lumbar artery | *(non traduit)* | FMA14735 |
-| marginal artery of colon | *(non traduit)* | FMA14831 |
-| marginal branch of right coronary artery | *(non traduit)* | FMA3818 |
-| marginal colic artery | *(non traduit)* | FMA14824 |
+| left splenial artery | artère spléniale gauche | FMA50685 |
+| left subclavian artery | artère subclavière gauche | FMA4694 |
+| left subcostal artery | artère subcostale gauche | FMA4654 |
+| left subscapular artery | artère subscapulaire gauche | FMA22679 |
+| left superficial cervical artery | artère cervicale superficielle gauche | FMA10683 |
+| left superficial epigastric artery | artère épigastrique superficielle gauche | FMA20736 |
+| left superficial medial plantar artery | artère plantaire médiale superficielle gauche | FMA43938 |
+| left superficial palmar arterial arch | arcade artérielle palmaire superficielle gauche | FMA22837 |
+| left superior cerebellar artery | artère cérébelleuse supérieure gauche | FMA50575 |
+| left superior epigastric artery | artère épigastrique supérieure gauche | FMA4083 |
+| left superior intercostal artery | artère intercostale supérieure gauche | FMA4088 |
+| left superior segmental artery | artère segmentaire supérieure gauche | FMA8642 |
+| left superior ulnar collateral artery | artère collatérale ulnaire supérieure gauche | FMA22708 |
+| left suprascapular artery | artère suprascapulaire gauche | FMA10681 |
+| left testicular artery | artère testiculaire gauche | FMA14760 |
+| left thalamogeniculate artery | artère thalamo-géniculée gauche | FMA50671 |
+| left thalamoperforating artery | artère thalamo-perforante gauche | FMA50665 |
+| left third common palmar digital artery | troisième artère digitale palmaire commune gauche | FMA85122 |
+| left thoraco-acromial artery | artère thoraco-acromiale gauche | FMA22673 |
+| left thoracodorsal artery | artère thoraco-dorsale gauche | FMA66322 |
+| left thyrocervical artery | artère thyro-cervicale gauche | FMA70348 |
+| left thyrocervical trunk | tronc thyro-cervical gauche | FMA4084 |
+| left transverse cervical artery | artère cervicale transverse gauche | FMA10682 |
+| left ulnar artery | artère ulnaire gauche | FMA22798 |
+| left upper lobar artery | artère lobaire supérieure gauche | FMA68198 |
+| left vertebral artery | artère vertébrale gauche | FMA4066 |
+| lobar artery | artère lobaire | FMA68192 |
+| lumbar artery | artère lombaire | FMA14735 |
+| marginal artery of colon | artère marginale du côlon | FMA14831 |
+| marginal branch of right coronary artery | branche marginale de l'artère coronaire droite | FMA3818 |
+| marginal colic artery | artère colique marginale | FMA14824 |
 | material anatomical entity | entité anatomique matérielle | FMA67165 |
-| medial basal segmental artery | *(non traduit)* | FMA8716 |
-| medial branch of left pontine artery | *(non traduit)* | FMA50567 |
-| medial branch of left superior cerebellar artery | *(non traduit)* | FMA50582 |
-| medial branch of pontine artery | *(non traduit)* | FMA50564 |
-| medial branch of right pontine artery | *(non traduit)* | FMA50566 |
-| medial branch of right superior cerebellar artery | *(non traduit)* | FMA50581 |
-| medial branch of right superior segmental artery | *(non traduit)* | FMA68706 |
-| medial branch of superior cerebellar artery | *(non traduit)* | FMA50580 |
-| medial branch of superior segmental artery | *(non traduit)* | FMA68704 |
-| medial collateral artery | *(non traduit)* | FMA23119 |
-| medial frontobasal artery | *(non traduit)* | FMA50328 |
-| medial inferior segmental hepatic artery | *(non traduit)* | FMA70450 |
-| medial occipital artery | *(non traduit)* | FMA50638 |
-| medial plantar artery | *(non traduit)* | FMA43925 |
-| medial proper palmar digital artery of index finger | *(non traduit)* | FMA23047 |
-| medial proper palmar digital artery of left index finger | *(non traduit)* | FMA23051 |
-| medial proper palmar digital artery of middle finger | *(non traduit)* | FMA85111 |
-| medial proper palmar digital artery of right index finger | *(non traduit)* | FMA23050 |
-| medial proper palmar digital artery of right middle finger | *(non traduit)* | FMA85112 |
-| medial proper palmar digital artery of right ring finger | *(non traduit)* | FMA23052 |
-| medial proper palmar digital artery of ring finger | *(non traduit)* | FMA23046 |
-| medial segmental artery | *(non traduit)* | FMA68193 |
-| medial segmental hepatic artery | *(non traduit)* | FMA70448 |
-| medial superior segmental hepatic artery | *(non traduit)* | FMA70449 |
+| medial basal segmental artery | artère segmentaire basale médiale | FMA8716 |
+| medial branch of left pontine artery | branche médiale de l'artère du pont gauche | FMA50567 |
+| medial branch of left superior cerebellar artery | branche médiale de l'artère cérébelleuse supérieure gauche | FMA50582 |
+| medial branch of pontine artery | branche médiale de l'artère du pont | FMA50564 |
+| medial branch of right pontine artery | branche médiale de l'artère du pont droit | FMA50566 |
+| medial branch of right superior cerebellar artery | branche médiale de l'artère cérébelleuse supérieure droite | FMA50581 |
+| medial branch of right superior segmental artery | branche médiale de l'artère segmentaire supérieure droite | FMA68706 |
+| medial branch of superior cerebellar artery | branche médiale de l'artère cérébelleuse supérieure | FMA50580 |
+| medial branch of superior segmental artery | branche médiale de l'artère segmentaire supérieure | FMA68704 |
+| medial collateral artery | artère collatérale médiale | FMA23119 |
+| medial frontobasal artery | artère fronto-basale médiale | FMA50328 |
+| medial inferior segmental hepatic artery | artère hépatique segmentaire médiale inférieure | FMA70450 |
+| medial occipital artery | artère occipitale médiale | FMA50638 |
+| medial plantar artery | artère plantaire médiale | FMA43925 |
+| medial proper palmar digital artery of index finger | artère digitale palmaire propre médiale de l'index | FMA23047 |
+| medial proper palmar digital artery of left index finger | artère digitale palmaire propre médiale de l'index gauche | FMA23051 |
+| medial proper palmar digital artery of middle finger | artère digitale palmaire propre médiale du majeur | FMA85111 |
+| medial proper palmar digital artery of right index finger | artère digitale palmaire propre médiale de l'index droit | FMA23050 |
+| medial proper palmar digital artery of right middle finger | artère digitale palmaire propre médiale du majeur droit | FMA85112 |
+| medial proper palmar digital artery of right ring finger | artère digitale palmaire propre médiale de l'annulaire droit | FMA23052 |
+| medial proper palmar digital artery of ring finger | artère digitale palmaire propre médiale de l'annulaire | FMA23046 |
+| medial segmental artery | artère segmentaire médiale | FMA68193 |
+| medial segmental hepatic artery | artère hépatique segmentaire médiale | FMA70448 |
+| medial superior segmental hepatic artery | artère hépatique segmentaire médiale supérieure | FMA70449 |
 | mediastinum | médiastin | FMA9826 |
-| mediobasal branch of posterior basal segmental artery | *(non traduit)* | FMA68740 |
-| mediobasal branch of right posterior basal segmental artery | *(non traduit)* | FMA68741 |
-| middle colic artery | *(non traduit)* | FMA14810 |
-| middle collateral branch of left deep brachial artery | *(non traduit)* | FMA23125 |
-| middle collateral branch of right deep brachial artery | *(non traduit)* | FMA23124 |
-| middle genicular artery | *(non traduit)* | FMA22536 |
-| middle lobar artery | *(non traduit)* | FMA68196 |
+| mediobasal branch of posterior basal segmental artery | branche médio-basale de l'artère segmentaire basale postérieure | FMA68740 |
+| mediobasal branch of right posterior basal segmental artery | branche médio-basale de l'artère segmentaire basale postérieure droite | FMA68741 |
+| middle colic artery | artère colique moyenne | FMA14810 |
+| middle collateral branch of left deep brachial artery | branche collatérale moyenne de l'artère brachiale profonde gauche | FMA23125 |
+| middle collateral branch of right deep brachial artery | branche collatérale moyenne de l'artère brachiale profonde droite | FMA23124 |
+| middle genicular artery | artère géniculaire moyenne | FMA22536 |
+| middle lobar artery | artère lobaire moyenne | FMA68196 |
 | middle mediastinum | médiastin moyen | FMA9839 |
-| middle suprarenal artery | *(non traduit)* | FMA14754 |
-| middle temporal branch of lateral occipital artery | *(non traduit)* | FMA50649 |
-| middle temporal branch of left lateral occipital artery | *(non traduit)* | FMA50681 |
-| middle temporal branch of left middle cerebral artery | *(non traduit)* | FMA50468 |
-| middle temporal branch of middle cerebral artery | *(non traduit)* | FMA50466 |
-| middle temporal branch of right lateral occipital artery | *(non traduit)* | FMA50680 |
-| middle temporal branch of right middle cerebral artery | *(non traduit)* | FMA50467 |
-| musculophrenic artery | *(non traduit)* | FMA10645 |
-| ophthalmic artery | *(non traduit)* | FMA49868 |
+| middle suprarenal artery | artère surrénale moyenne | FMA14754 |
+| middle temporal branch of lateral occipital artery | branche temporale moyenne de l'artère occipitale latérale | FMA50649 |
+| middle temporal branch of left lateral occipital artery | branche temporale moyenne de l'artère occipitale latérale gauche | FMA50681 |
+| middle temporal branch of left middle cerebral artery | branche temporale moyenne de l'artère cérébrale moyenne gauche | FMA50468 |
+| middle temporal branch of middle cerebral artery | branche temporale moyenne de l'artère cérébrale moyenne | FMA50466 |
+| middle temporal branch of right lateral occipital artery | branche temporale moyenne de l'artère occipitale latérale droite | FMA50680 |
+| middle temporal branch of right middle cerebral artery | branche temporale moyenne de l'artère cérébrale moyenne droite | FMA50467 |
+| musculophrenic artery | artère musculo-phrénique | FMA10645 |
+| ophthalmic artery | artère ophtalmique | FMA49868 |
 | organ region | région d'organe | FMA67619 |
-| organ segment | *(non traduit)* | FMA86140 |
-| palmar metacarpal artery | *(non traduit)* | FMA22863 |
-| pancreatic artery | *(non traduit)* | FMA70471 |
-| paracentral branch of callosomarginal artery | *(non traduit)* | FMA50336 |
-| paracentral branch of left callosomarginal artery | *(non traduit)* | FMA50358 |
-| paracentral branch of right callosomarginal artery | *(non traduit)* | FMA50357 |
-| pectoral branch of left thoraco-acromial artery | *(non traduit)* | FMA23064 |
-| pectoral branch of right thoraco-acromial artery | *(non traduit)* | FMA23063 |
-| pectoral branch of thoraco-acromial artery | *(non traduit)* | FMA23062 |
-| pericallosal artery | *(non traduit)* | FMA50337 |
+| organ segment | segment d'organe | FMA86140 |
+| palmar metacarpal artery | artère métacarpienne palmaire | FMA22863 |
+| pancreatic artery | artère pancréatique | FMA70471 |
+| paracentral branch of callosomarginal artery | branche paracentrale de l'artère calloso-marginale | FMA50336 |
+| paracentral branch of left callosomarginal artery | branche paracentrale de l'artère calloso-marginale gauche | FMA50358 |
+| paracentral branch of right callosomarginal artery | branche paracentrale de l'artère calloso-marginale droite | FMA50357 |
+| pectoral branch of left thoraco-acromial artery | branche pectorale de l'artère thoraco-acromiale gauche | FMA23064 |
+| pectoral branch of right thoraco-acromial artery | branche pectorale de l'artère thoraco-acromiale droite | FMA23063 |
+| pectoral branch of thoraco-acromial artery | branche pectorale de l'artère thoraco-acromiale | FMA23062 |
+| pericallosal artery | artère péricalleuse | FMA50337 |
 | physical anatomical entity | entité anatomique physique | FMA61775 |
-| plantar arch | *(non traduit)* | FMA43942 |
-| plantar metatarsal artery | *(non traduit)* | FMA43956 |
-| polar temporal artery | *(non traduit)* | FMA50379 |
-| popliteal artery | *(non traduit)* | FMA77155 |
-| postcommunicating part of left posterior cerebral artery | *(non traduit)* | FMA50642 |
-| postcommunicating part of posterior cerebral artery | *(non traduit)* | FMA50591 |
-| postcommunicating part of right posterior cerebral artery | *(non traduit)* | FMA50641 |
-| posterior basal segmental artery | *(non traduit)* | FMA8719 |
-| posterior branch of lateral segmental artery | *(non traduit)* | FMA68690 |
-| posterior branch of right anterior segmental artery | *(non traduit)* | FMA68677 |
-| posterior cecal artery | *(non traduit)* | FMA14817 |
-| posterior circumflex humeral artery | *(non traduit)* | FMA22684 |
-| posterior communicating artery | *(non traduit)* | FMA50084 |
-| posterior division of left renal artery | *(non traduit)* | FMA70490 |
-| posterior division of renal artery | *(non traduit)* | FMA70488 |
-| posterior division of right renal artery | *(non traduit)* | FMA70489 |
-| posterior inferior cerebellar artery | *(non traduit)* | FMA50518 |
-| posterior inferior pancreaticoduodenal artery | *(non traduit)* | FMA70480 |
-| posterior inferior segmental hepatic artery | *(non traduit)* | FMA70446 |
-| posterior intercostal arteries | *(non traduit)* | FMA63822 |
-| posterior intercostal artery | *(non traduit)* | FMA4176 |
-| posterior interventricular branch of right coronary artery | *(non traduit)* | FMA3840 |
-| posterior medial choroidal artery | *(non traduit)* | FMA50630 |
-| posterior parietal artery | *(non traduit)* | FMA50488 |
-| posterior part of anterior segmental artery | *(non traduit)* | FMA68676 |
-| posterior part of posterior segmental artery | *(non traduit)* | FMA68672 |
-| posterior part of right posterior segmental artery | *(non traduit)* | FMA68673 |
-| posterior segmental artery | *(non traduit)* | FMA13280 |
-| posterior segmental branch of left renal artery | *(non traduit)* | FMA86349 |
-| posterior segmental branch of right renal artery | *(non traduit)* | FMA86348 |
-| posterior segmental hepatic artery | *(non traduit)* | FMA70444 |
-| posterior segmental renal artery | *(non traduit)* | FMA70503 |
-| posterior superior pancreaticoduodenal artery | *(non traduit)* | FMA14784 |
-| posterior superior segmental hepatic artery | *(non traduit)* | FMA70445 |
-| posterior temporal branch of left middle cerebral artery | *(non traduit)* | FMA50471 |
-| posterior temporal branch of middle cerebral artery | *(non traduit)* | FMA50469 |
-| posterior temporal branch of right middle cerebral artery | *(non traduit)* | FMA50470 |
-| posterior tibial artery | *(non traduit)* | FMA43895 |
-| posterior ulnar recurrent artery | *(non traduit)* | FMA22803 |
-| posterior ventricular branch of right coronary artery | *(non traduit)* | FMA3835 |
-| posteromedial branch of callosomarginal artery | *(non traduit)* | FMA50334 |
-| posteromedial branch of left callosomarginal artery | *(non traduit)* | FMA50354 |
-| posteromedial branch of right callosomarginal artery | *(non traduit)* | FMA50353 |
-| posteromedial central branch of left posterior cerebral artery | *(non traduit)* | FMA50661 |
-| posteromedial central branch of posterior cerebral artery | *(non traduit)* | FMA50587 |
-| posteromedial central branch of right posterior cerebral artery | *(non traduit)* | FMA50660 |
-| precommunicating part of left posterior cerebral artery | *(non traduit)* | FMA50640 |
-| precommunicating part of posterior cerebral artery | *(non traduit)* | FMA50590 |
-| precommunicating part of right posterior cerebral artery | *(non traduit)* | FMA50639 |
-| precuneal branch of left pericallosal artery | *(non traduit)* | FMA50362 |
-| precuneal branch of pericallosal artery | *(non traduit)* | FMA50339 |
-| precuneal branch of right pericallosal artery | *(non traduit)* | FMA50361 |
-| prefrontal artery | *(non traduit)* | FMA50437 |
-| pulmonary arterial tree | *(non traduit)* | FMA45842 |
-| pulmonary arterial trunk | *(non traduit)* | FMA8615 |
-| pulmonary artery | *(non traduit)* | FMA66326 |
-| pulmonary trunk | *(non traduit)* | FMA8612 |
-| pulmonary vascular system | *(non traduit)* | FMA45621 |
-| radial artery | *(non traduit)* | FMA22730 |
-| radial collateral artery | *(non traduit)* | FMA23120 |
-| radial collateral branch of left deep brachial artery | *(non traduit)* | FMA23127 |
-| radial collateral branch of right deep brachial artery | *(non traduit)* | FMA23126 |
-| radial recurrent artery | *(non traduit)* | FMA22748 |
-| recurrent interosseous artery | *(non traduit)* | FMA77144 |
-| region of vascular tree organ | *(non traduit)* | FMA50722 |
-| renal artery | *(non traduit)* | FMA14751 |
-| right anterior basal segmental artery | *(non traduit)* | FMA8630 |
-| right anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3870 |
-| right anterior bronchopulmonary segment | *(non traduit)* | FMA7359 |
-| right anterior cerebral artery | *(non traduit)* | FMA50029 |
-| right anterior choroidal artery | *(non traduit)* | FMA50088 |
-| right anterior circumflex humeral artery | *(non traduit)* | FMA22682 |
-| right anterior interosseous artery | *(non traduit)* | FMA22812 |
-| right anterior parietal artery | *(non traduit)* | FMA50486 |
-| right anterior segmental artery | *(non traduit)* | FMA8620 |
-| right anterior spinal artery | *(non traduit)* | FMA50532 |
-| right anterior temporal artery | *(non traduit)* | FMA50383 |
-| right anterior tibial artery | *(non traduit)* | FMA43896 |
-| right anterior tibial recurrent artery | *(non traduit)* | FMA43907 |
-| right anterior ulnar recurrent artery | *(non traduit)* | FMA22801 |
-| right apical segmental artery | *(non traduit)* | FMA8617 |
-| right arcuate artery | *(non traduit)* | FMA69494 |
+| plantar arch | arcade plantaire | FMA43942 |
+| plantar metatarsal artery | artère métatarsienne plantaire | FMA43956 |
+| polar temporal artery | artère temporale polaire | FMA50379 |
+| popliteal artery | artère poplitée | FMA77155 |
+| postcommunicating part of left posterior cerebral artery | partie post-communicante de l'artère cérébrale postérieure gauche | FMA50642 |
+| postcommunicating part of posterior cerebral artery | partie post-communicante de l'artère cérébrale postérieure | FMA50591 |
+| postcommunicating part of right posterior cerebral artery | partie post-communicante de l'artère cérébrale postérieure droite | FMA50641 |
+| posterior basal segmental artery | artère segmentaire basale postérieure | FMA8719 |
+| posterior branch of lateral segmental artery | branche postérieure de l'artère segmentaire latérale | FMA68690 |
+| posterior branch of right anterior segmental artery | branche postérieure de l'artère segmentaire antérieure droite | FMA68677 |
+| posterior cecal artery | artère cæcale postérieure | FMA14817 |
+| posterior circumflex humeral artery | artère circonflexe humérale postérieure | FMA22684 |
+| posterior communicating artery | artère communicante postérieure | FMA50084 |
+| posterior division of left renal artery | division postérieure de l'artère rénale gauche | FMA70490 |
+| posterior division of renal artery | division postérieure de l'artère rénale | FMA70488 |
+| posterior division of right renal artery | division postérieure de l'artère rénale droite | FMA70489 |
+| posterior inferior cerebellar artery | artère cérébelleuse postérieure inférieure | FMA50518 |
+| posterior inferior pancreaticoduodenal artery | artère pancréatico-duodénale postérieure inférieure | FMA70480 |
+| posterior inferior segmental hepatic artery | artère hépatique segmentaire postérieure inférieure | FMA70446 |
+| posterior intercostal arteries | artères intercostales postérieures | FMA63822 |
+| posterior intercostal artery | artère intercostale postérieure | FMA4176 |
+| posterior interventricular branch of right coronary artery | branche interventriculaire postérieure de l'artère coronaire droite | FMA3840 |
+| posterior medial choroidal artery | artère choroïdienne médiale postérieure | FMA50630 |
+| posterior parietal artery | artère pariétale postérieure | FMA50488 |
+| posterior part of anterior segmental artery | partie postérieure de l'artère segmentaire antérieure | FMA68676 |
+| posterior part of posterior segmental artery | partie postérieure de l'artère segmentaire postérieure | FMA68672 |
+| posterior part of right posterior segmental artery | partie postérieure de l'artère segmentaire postérieure droite | FMA68673 |
+| posterior segmental artery | artère segmentaire postérieure | FMA13280 |
+| posterior segmental branch of left renal artery | branche segmentaire postérieure de l'artère rénale gauche | FMA86349 |
+| posterior segmental branch of right renal artery | branche segmentaire postérieure de l'artère rénale droite | FMA86348 |
+| posterior segmental hepatic artery | artère hépatique segmentaire postérieure | FMA70444 |
+| posterior segmental renal artery | artère rénale segmentaire postérieure | FMA70503 |
+| posterior superior pancreaticoduodenal artery | artère pancréatico-duodénale postérieure supérieure | FMA14784 |
+| posterior superior segmental hepatic artery | artère hépatique segmentaire postérieure supérieure | FMA70445 |
+| posterior temporal branch of left middle cerebral artery | branche temporale postérieure de l'artère cérébrale moyenne gauche | FMA50471 |
+| posterior temporal branch of middle cerebral artery | branche temporale postérieure de l'artère cérébrale moyenne | FMA50469 |
+| posterior temporal branch of right middle cerebral artery | branche temporale postérieure de l'artère cérébrale moyenne droite | FMA50470 |
+| posterior tibial artery | artère tibiale postérieure | FMA43895 |
+| posterior ulnar recurrent artery | artère récurrente ulnaire postérieure | FMA22803 |
+| posterior ventricular branch of right coronary artery | branche ventriculaire postérieure de l'artère coronaire droite | FMA3835 |
+| posteromedial branch of callosomarginal artery | branche postéro-médiale de l'artère calloso-marginale | FMA50334 |
+| posteromedial branch of left callosomarginal artery | branche postéro-médiale de l'artère calloso-marginale gauche | FMA50354 |
+| posteromedial branch of right callosomarginal artery | branche postéro-médiale de l'artère calloso-marginale droite | FMA50353 |
+| posteromedial central branch of left posterior cerebral artery | branche centrale postéro-médiale de l'artère cérébrale postérieure gauche | FMA50661 |
+| posteromedial central branch of posterior cerebral artery | branche centrale postéro-médiale de l'artère cérébrale postérieure | FMA50587 |
+| posteromedial central branch of right posterior cerebral artery | branche centrale postéro-médiale de l'artère cérébrale postérieure droite | FMA50660 |
+| precommunicating part of left posterior cerebral artery | partie pré-communicante de l'artère cérébrale postérieure gauche | FMA50640 |
+| precommunicating part of posterior cerebral artery | partie pré-communicante de l'artère cérébrale postérieure | FMA50590 |
+| precommunicating part of right posterior cerebral artery | partie pré-communicante de l'artère cérébrale postérieure droite | FMA50639 |
+| precuneal branch of left pericallosal artery | branche précunéale de l'artère péricalleuse gauche | FMA50362 |
+| precuneal branch of pericallosal artery | branche précunéale de l'artère péricalleuse | FMA50339 |
+| precuneal branch of right pericallosal artery | branche précunéale de l'artère péricalleuse droite | FMA50361 |
+| prefrontal artery | artère préfrontale | FMA50437 |
+| pulmonary arterial tree | arbre artériel pulmonaire | FMA45842 |
+| pulmonary arterial trunk | tronc artériel pulmonaire | FMA8615 |
+| pulmonary artery | artère pulmonaire | FMA66326 |
+| pulmonary trunk | tronc pulmonaire | FMA8612 |
+| pulmonary vascular system | système vasculaire pulmonaire | FMA45621 |
+| radial artery | artère radiale | FMA22730 |
+| radial collateral artery | artère collatérale radiale | FMA23120 |
+| radial collateral branch of left deep brachial artery | branche collatérale radiale de l'artère brachiale profonde gauche | FMA23127 |
+| radial collateral branch of right deep brachial artery | branche collatérale radiale de l'artère brachiale profonde droite | FMA23126 |
+| radial recurrent artery | artère récurrente radiale | FMA22748 |
+| recurrent interosseous artery | artère interosseuse récurrente | FMA77144 |
+| region of vascular tree organ | région de l'organe arborescent vasculaire | FMA50722 |
+| renal artery | artère rénale | FMA14751 |
+| right anterior basal segmental artery | artère segmentaire basale antérieure droite | FMA8630 |
+| right anterior branch of anterior interventricular branch of left coronary artery | branche antérieure droite de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA3870 |
+| right anterior bronchopulmonary segment | segment broncho-pulmonaire antérieur droit | FMA7359 |
+| right anterior cerebral artery | artère cérébrale antérieure droite | FMA50029 |
+| right anterior choroidal artery | artère choroïdienne antérieure droite | FMA50088 |
+| right anterior circumflex humeral artery | artère circonflexe humérale antérieure droite | FMA22682 |
+| right anterior interosseous artery | artère interosseuse antérieure droite | FMA22812 |
+| right anterior parietal artery | artère pariétale antérieure droite | FMA50486 |
+| right anterior segmental artery | artère segmentaire antérieure droite | FMA8620 |
+| right anterior spinal artery | artère spinale antérieure droite | FMA50532 |
+| right anterior temporal artery | artère temporale antérieure droite | FMA50383 |
+| right anterior tibial artery | artère tibiale antérieure droite | FMA43896 |
+| right anterior tibial recurrent artery | artère récurrente tibiale antérieure droite | FMA43907 |
+| right anterior ulnar recurrent artery | artère récurrente ulnaire antérieure droite | FMA22801 |
+| right apical segmental artery | artère segmentaire apicale droite | FMA8617 |
+| right arcuate artery | artère arquée droite | FMA69494 |
 | right arm | bras droit | FMA24895 |
-| right arteria princeps pollicis | *(non traduit)* | FMA22905 |
-| right arteria radialis indicis | *(non traduit)* | FMA22777 |
-| right axillary artery | *(non traduit)* | FMA22655 |
-| right basal segmental artery | *(non traduit)* | FMA68845 |
-| right brachial artery | *(non traduit)* | FMA22691 |
-| right callosomarginal artery | *(non traduit)* | FMA50347 |
-| right circumflex scapular artery | *(non traduit)* | FMA23180 |
-| right colic artery | *(non traduit)* | FMA14811 |
-| right common carotid artery | *(non traduit)* | FMA3941 |
-| right common iliac artery | *(non traduit)* | FMA14765 |
-| right common interosseous artery | *(non traduit)* | FMA22807 |
-| right conus artery | *(non traduit)* | FMA3807 |
-| right coronary artery | *(non traduit)* | FMA50039 |
-| right costocervical artery | *(non traduit)* | FMA70351 |
-| right costocervical trunk | *(non traduit)* | FMA5039 |
-| right deep brachial artery | *(non traduit)* | FMA22696 |
-| right deep cervical artery | *(non traduit)* | FMA10660 |
-| right deep femoral artery | *(non traduit)* | FMA20796 |
-| right deep palmar arch | *(non traduit)* | FMA22839 |
-| right deep plantar artery | *(non traduit)* | FMA69514 |
-| right descending genicular artery | *(non traduit)* | FMA22507 |
-| right dorsal artery of penis | *(non traduit)* | FMA20818 |
-| right dorsal carpal branch of ulnar artery | *(non traduit)* | FMA22821 |
-| right dorsal scapular artery | *(non traduit)* | FMA4057 |
-| right dorsalis pedis artery | *(non traduit)* | FMA43916 |
-| right external iliac artery | *(non traduit)* | FMA18806 |
-| right femoral artery | *(non traduit)* | FMA70249 |
-| right first common palmar digital artery | *(non traduit)* | FMA22856 |
-| right first posterior intercostal artery | *(non traduit)* | FMA66242 |
-| right fourth common palmar digital artery | *(non traduit)* | FMA85123 |
-| right gastric artery | *(non traduit)* | FMA14776 |
-| right gastro-epiploic artery | *(non traduit)* | FMA14781 |
-| right hepatic artery | *(non traduit)* | FMA14778 |
-| right inferior epigastric artery | *(non traduit)* | FMA20688 |
-| right inferior lateral genicular artery | *(non traduit)* | FMA43892 |
-| right inferior medial genicular artery | *(non traduit)* | FMA43890 |
-| right inferior phrenic artery | *(non traduit)* | FMA14746 |
-| right inferior suprarenal artery | *(non traduit)* | FMA69265 |
-| right inferior thyroid artery | *(non traduit)* | FMA10697 |
-| right inferior ulnar collateral artery | *(non traduit)* | FMA22712 |
-| right internal carotid artery | *(non traduit)* | FMA3949 |
-| right internal iliac artery | *(non traduit)* | FMA18809 |
-| right internal thoracic artery | *(non traduit)* | FMA3969 |
-| right lateral basal segmental artery | *(non traduit)* | FMA8631 |
-| right lateral circumflex femoral artery | *(non traduit)* | FMA20801 |
-| right lateral frontobasal artery | *(non traduit)* | FMA50443 |
-| right lateral occipital artery | *(non traduit)* | FMA50643 |
-| right lateral plantar artery | *(non traduit)* | FMA43931 |
-| right lateral superior genicular artery | *(non traduit)* | FMA22588 |
-| right lateral tarsal artery | *(non traduit)* | FMA69490 |
-| right lateral thoracic artery | *(non traduit)* | FMA22675 |
-| right lobe branch of right hepatic artery | *(non traduit)* | FMA71708 |
+| right arteria princeps pollicis | artère principale du pouce droit | FMA22905 |
+| right arteria radialis indicis | artère radiale de l'index droite | FMA22777 |
+| right axillary artery | artère axillaire droite | FMA22655 |
+| right basal segmental artery | artère segmentaire basale droite | FMA68845 |
+| right brachial artery | artère brachiale droite | FMA22691 |
+| right callosomarginal artery | artère calloso-marginale droite | FMA50347 |
+| right circumflex scapular artery | artère circonflexe scapulaire droite | FMA23180 |
+| right colic artery | artère colique droite | FMA14811 |
+| right common carotid artery | artère carotide commune droite | FMA3941 |
+| right common iliac artery | artère iliaque commune droite | FMA14765 |
+| right common interosseous artery | artère interosseuse commune droite | FMA22807 |
+| right conus artery | artère du cône artériel droit | FMA3807 |
+| right coronary artery | artère coronaire droite | FMA50039 |
+| right costocervical artery | artère costo-cervicale droite | FMA70351 |
+| right costocervical trunk | tronc costo-cervical droit | FMA5039 |
+| right deep brachial artery | artère brachiale profonde droite | FMA22696 |
+| right deep cervical artery | artère cervicale profonde droite | FMA10660 |
+| right deep femoral artery | artère fémorale profonde droite | FMA20796 |
+| right deep palmar arch | arcade palmaire profonde droite | FMA22839 |
+| right deep plantar artery | artère plantaire profonde droite | FMA69514 |
+| right descending genicular artery | artère géniculaire descendante droite | FMA22507 |
+| right dorsal artery of penis | artère dorsale droite du pénis | FMA20818 |
+| right dorsal carpal branch of ulnar artery | branche carpienne dorsale droite de l'artère ulnaire | FMA22821 |
+| right dorsal scapular artery | artère scapulaire dorsale droite | FMA4057 |
+| right dorsalis pedis artery | artère dorsale du pied droit | FMA43916 |
+| right external iliac artery | artère iliaque externe droite | FMA18806 |
+| right femoral artery | artère fémorale droite | FMA70249 |
+| right first common palmar digital artery | première artère digitale palmaire commune droite | FMA22856 |
+| right first posterior intercostal artery | première artère intercostale postérieure droite | FMA66242 |
+| right fourth common palmar digital artery | quatrième artère digitale palmaire commune droite | FMA85123 |
+| right gastric artery | artère gastrique droite | FMA14776 |
+| right gastro-epiploic artery | artère gastro-omentale droite | FMA14781 |
+| right hepatic artery | artère hépatique droite | FMA14778 |
+| right inferior epigastric artery | artère épigastrique inférieure droite | FMA20688 |
+| right inferior lateral genicular artery | artère géniculaire latérale inférieure droite | FMA43892 |
+| right inferior medial genicular artery | artère géniculaire médiale inférieure droite | FMA43890 |
+| right inferior phrenic artery | artère phrénique inférieure droite | FMA14746 |
+| right inferior suprarenal artery | artère surrénale inférieure droite | FMA69265 |
+| right inferior thyroid artery | artère thyroïdienne inférieure droite | FMA10697 |
+| right inferior ulnar collateral artery | artère collatérale ulnaire inférieure droite | FMA22712 |
+| right internal carotid artery | artère carotide interne droite | FMA3949 |
+| right internal iliac artery | artère iliaque interne droite | FMA18809 |
+| right internal thoracic artery | artère thoracique interne droite | FMA3969 |
+| right lateral basal segmental artery | artère segmentaire basale latérale droite | FMA8631 |
+| right lateral circumflex femoral artery | artère circonflexe fémorale latérale droite | FMA20801 |
+| right lateral frontobasal artery | artère fronto-basale latérale droite | FMA50443 |
+| right lateral occipital artery | artère occipitale latérale droite | FMA50643 |
+| right lateral plantar artery | artère plantaire latérale droite | FMA43931 |
+| right lateral superior genicular artery | artère géniculaire latérale supérieure droite | FMA22588 |
+| right lateral tarsal artery | artère tarsienne latérale droite | FMA69490 |
+| right lateral thoracic artery | artère thoracique latérale droite | FMA22675 |
+| right lobe branch of right hepatic artery | branche du lobe droit de l'artère hépatique droite | FMA71708 |
 | right lobe of liver | lobe droit du foie | FMA13362 |
-| right lower lobar artery | *(non traduit)* | FMA68200 |
+| right lower lobar artery | artère lobaire inférieure droite | FMA68200 |
 | right lung | poumon droit | FMA7309 |
-| right medial frontobasal artery | *(non traduit)* | FMA50343 |
-| right medial occipital artery | *(non traduit)* | FMA50645 |
-| right medial plantar artery | *(non traduit)* | FMA43929 |
-| right medial superior genicular artery | *(non traduit)* | FMA22586 |
-| right middle cerebral artery | *(non traduit)* | FMA50082 |
-| right middle genicular artery | *(non traduit)* | FMA22562 |
-| right middle suprarenal artery | *(non traduit)* | FMA14755 |
-| right musculophrenic artery | *(non traduit)* | FMA10692 |
-| right ophthalmic artery | *(non traduit)* | FMA49869 |
-| right palmar metacarpal artery | *(non traduit)* | FMA22864 |
-| right pericallosal artery | *(non traduit)* | FMA50359 |
-| right plantar arch | *(non traduit)* | FMA43943 |
-| right polar temporal artery | *(non traduit)* | FMA50380 |
-| right pontine artery | *(non traduit)* | FMA50561 |
-| right popliteal artery | *(non traduit)* | FMA77380 |
-| right posterior basal segmental artery | *(non traduit)* | FMA8632 |
-| right posterior cerebral artery | *(non traduit)* | FMA50584 |
-| right posterior choroidal artery | *(non traduit)* | FMA50658 |
-| right posterior circumflex humeral artery | *(non traduit)* | FMA22685 |
-| right posterior communicating artery | *(non traduit)* | FMA50085 |
-| right posterior inferior cerebellar artery | *(non traduit)* | FMA50519 |
-| right posterior medial choroidal artery | *(non traduit)* | FMA50672 |
-| right posterior parietal artery | *(non traduit)* | FMA50489 |
-| right posterior segmental artery | *(non traduit)* | FMA8619 |
-| right posterior tibial artery | *(non traduit)* | FMA43898 |
-| right posterior ulnar recurrent artery | *(non traduit)* | FMA22804 |
-| right prefrontal artery | *(non traduit)* | FMA50445 |
-| right pulmonary artery | *(non traduit)* | FMA50872 |
+| right medial frontobasal artery | artère fronto-basale médiale droite | FMA50343 |
+| right medial occipital artery | artère occipitale médiale droite | FMA50645 |
+| right medial plantar artery | artère plantaire médiale droite | FMA43929 |
+| right medial superior genicular artery | artère géniculaire médiale supérieure droite | FMA22586 |
+| right middle cerebral artery | artère cérébrale moyenne droite | FMA50082 |
+| right middle genicular artery | artère géniculaire moyenne droite | FMA22562 |
+| right middle suprarenal artery | artère surrénale moyenne droite | FMA14755 |
+| right musculophrenic artery | artère musculo-phrénique droite | FMA10692 |
+| right ophthalmic artery | artère ophtalmique droite | FMA49869 |
+| right palmar metacarpal artery | artère métacarpienne palmaire droite | FMA22864 |
+| right pericallosal artery | artère péricalleuse droite | FMA50359 |
+| right plantar arch | arcade plantaire droite | FMA43943 |
+| right polar temporal artery | artère temporale polaire droite | FMA50380 |
+| right pontine artery | artère du pont droit | FMA50561 |
+| right popliteal artery | artère poplitée droite | FMA77380 |
+| right posterior basal segmental artery | artère segmentaire basale postérieure droite | FMA8632 |
+| right posterior cerebral artery | artère cérébrale postérieure droite | FMA50584 |
+| right posterior choroidal artery | artère choroïdienne postérieure droite | FMA50658 |
+| right posterior circumflex humeral artery | artère circonflexe humérale postérieure droite | FMA22685 |
+| right posterior communicating artery | artère communicante postérieure droite | FMA50085 |
+| right posterior inferior cerebellar artery | artère cérébelleuse postérieure inférieure droite | FMA50519 |
+| right posterior medial choroidal artery | artère choroïdienne médiale postérieure droite | FMA50672 |
+| right posterior parietal artery | artère pariétale postérieure droite | FMA50489 |
+| right posterior segmental artery | artère segmentaire postérieure droite | FMA8619 |
+| right posterior tibial artery | artère tibiale postérieure droite | FMA43898 |
+| right posterior ulnar recurrent artery | artère récurrente ulnaire postérieure droite | FMA22804 |
+| right prefrontal artery | artère préfrontale droite | FMA50445 |
+| right pulmonary artery | artère pulmonaire droite | FMA50872 |
 | right pulmopleural compartment | compartiment pulmo-pleural droit | FMA85055 |
-| right radial artery | *(non traduit)* | FMA22733 |
-| right radial recurrent artery | *(non traduit)* | FMA22764 |
-| right recurrent interosseous artery | *(non traduit)* | FMA268667 |
-| right renal artery | *(non traduit)* | FMA14752 |
-| right second common palmar digital artery | *(non traduit)* | FMA85119 |
-| right second posterior intercostal artery | *(non traduit)* | FMA5041 |
+| right radial artery | artère radiale droite | FMA22733 |
+| right radial recurrent artery | artère récurrente radiale droite | FMA22764 |
+| right recurrent interosseous artery | artère interosseuse récurrente droite | FMA268667 |
+| right renal artery | artère rénale droite | FMA14752 |
+| right second common palmar digital artery | deuxième artère digitale palmaire commune droite | FMA85119 |
+| right second posterior intercostal artery | deuxième artère intercostale postérieure droite | FMA5041 |
 | right side of heart | cœur droit | FMA7165 |
-| right splenial artery | *(non traduit)* | FMA50684 |
-| right subclavian artery | *(non traduit)* | FMA3953 |
-| right subcostal artery | *(non traduit)* | FMA4634 |
-| right subscapular artery | *(non traduit)* | FMA22678 |
-| right superficial cervical artery | *(non traduit)* | FMA10700 |
-| right superficial epigastric artery | *(non traduit)* | FMA20735 |
-| right superficial medial plantar artery | *(non traduit)* | FMA43937 |
-| right superficial palmar arterial arch | *(non traduit)* | FMA22835 |
-| right superior cerebellar artery | *(non traduit)* | FMA50574 |
-| right superior epigastric artery | *(non traduit)* | FMA3988 |
-| right superior intercostal artery | *(non traduit)* | FMA5042 |
-| right superior segmental artery | *(non traduit)* | FMA8627 |
-| right superior ulnar collateral artery | *(non traduit)* | FMA22707 |
-| right suprascapular artery | *(non traduit)* | FMA10698 |
-| right testicular artery | *(non traduit)* | FMA14759 |
-| right thalamogeniculate artery | *(non traduit)* | FMA50670 |
-| right thalamoperforating artery | *(non traduit)* | FMA50664 |
-| right third common palmar digital artery | *(non traduit)* | FMA85121 |
-| right thoraco-acromial artery | *(non traduit)* | FMA22672 |
-| right thoracodorsal artery | *(non traduit)* | FMA66321 |
-| right thyrocervical artery | *(non traduit)* | FMA70347 |
-| right thyrocervical trunk | *(non traduit)* | FMA3992 |
-| right transverse cervical artery | *(non traduit)* | FMA10699 |
-| right ulnar artery | *(non traduit)* | FMA22797 |
-| right upper lobar artery | *(non traduit)* | FMA68197 |
-| right vertebral artery | *(non traduit)* | FMA3958 |
-| second common palmar digital artery | *(non traduit)* | FMA22855 |
-| second posterior intercostal artery | *(non traduit)* | FMA3994 |
-| second right anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3874 |
-| second septal branch of right posterior interventricular artery | *(non traduit)* | FMA3848 |
-| segment of anterior tibial artery | *(non traduit)* | FMA268712 |
-| segment of aorta | *(non traduit)* | FMA13087 |
-| segment of arterial tree organ | *(non traduit)* | FMA86187 |
-| segment of arterial trunk | *(non traduit)* | FMA86256 |
-| segment of artery | *(non traduit)* | FMA3711 |
-| segment of renal artery | *(non traduit)* | FMA70484 |
-| segment of subclavian artery | *(non traduit)* | FMA82594 |
-| segment of systemic artery | *(non traduit)* | FMA86254 |
-| segment of thoracic aorta | *(non traduit)* | FMA68045 |
-| segmental pulmonary artery | *(non traduit)* | FMA8755 |
-| segmental renal artery | *(non traduit)* | FMA70494 |
-| septal branch of anterior interventricular artery | *(non traduit)* | FMA3892 |
-| septal branch of right posterior interventricular artery | *(non traduit)* | FMA3845 |
-| set of arteries | *(non traduit)* | FMA63812 |
-| set of calcaneal branches of posterior tibial artery | *(non traduit)* | FMA71562 |
-| set of common plantar digital arteries | *(non traduit)* | FMA70821 |
-| set of dorsal digital arteries | *(non traduit)* | FMA70801 |
-| set of dorsal metacarpal arteries | *(non traduit)* | FMA70800 |
-| set of oesophageal branches of thoracic aorta | *(non traduit)* | FMA71537 |
+| right splenial artery | artère spléniale droite | FMA50684 |
+| right subclavian artery | artère subclavière droite | FMA3953 |
+| right subcostal artery | artère subcostale droite | FMA4634 |
+| right subscapular artery | artère subscapulaire droite | FMA22678 |
+| right superficial cervical artery | artère cervicale superficielle droite | FMA10700 |
+| right superficial epigastric artery | artère épigastrique superficielle droite | FMA20735 |
+| right superficial medial plantar artery | artère plantaire médiale superficielle droite | FMA43937 |
+| right superficial palmar arterial arch | arcade artérielle palmaire superficielle droite | FMA22835 |
+| right superior cerebellar artery | artère cérébelleuse supérieure droite | FMA50574 |
+| right superior epigastric artery | artère épigastrique supérieure droite | FMA3988 |
+| right superior intercostal artery | artère intercostale supérieure droite | FMA5042 |
+| right superior segmental artery | artère segmentaire supérieure droite | FMA8627 |
+| right superior ulnar collateral artery | artère collatérale ulnaire supérieure droite | FMA22707 |
+| right suprascapular artery | artère suprascapulaire droite | FMA10698 |
+| right testicular artery | artère testiculaire droite | FMA14759 |
+| right thalamogeniculate artery | artère thalamo-géniculée droite | FMA50670 |
+| right thalamoperforating artery | artère thalamo-perforante droite | FMA50664 |
+| right third common palmar digital artery | troisième artère digitale palmaire commune droite | FMA85121 |
+| right thoraco-acromial artery | artère thoraco-acromiale droite | FMA22672 |
+| right thoracodorsal artery | artère thoraco-dorsale droite | FMA66321 |
+| right thyrocervical artery | artère thyro-cervicale droite | FMA70347 |
+| right thyrocervical trunk | tronc thyro-cervical droit | FMA3992 |
+| right transverse cervical artery | artère cervicale transverse droite | FMA10699 |
+| right ulnar artery | artère ulnaire droite | FMA22797 |
+| right upper lobar artery | artère lobaire supérieure droite | FMA68197 |
+| right vertebral artery | artère vertébrale droite | FMA3958 |
+| second common palmar digital artery | deuxième artère digitale palmaire commune | FMA22855 |
+| second posterior intercostal artery | deuxième artère intercostale postérieure | FMA3994 |
+| second right anterior branch of anterior interventricular branch of left coronary artery | deuxième branche antérieure droite de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA3874 |
+| second septal branch of right posterior interventricular artery | deuxième branche septale de l'artère interventriculaire postérieure droite | FMA3848 |
+| segment of anterior tibial artery | segment de l'artère tibiale antérieure | FMA268712 |
+| segment of aorta | segment de l'aorte | FMA13087 |
+| segment of arterial tree organ | segment de l'organe arborescent artériel | FMA86187 |
+| segment of arterial trunk | segment du tronc artériel | FMA86256 |
+| segment of artery | segment d'artère | FMA3711 |
+| segment of renal artery | segment de l'artère rénale | FMA70484 |
+| segment of subclavian artery | segment de l'artère subclavière | FMA82594 |
+| segment of systemic artery | segment de l'artère systémique | FMA86254 |
+| segment of thoracic aorta | segment de l'aorte thoracique | FMA68045 |
+| segmental pulmonary artery | artère pulmonaire segmentaire | FMA8755 |
+| segmental renal artery | artère rénale segmentaire | FMA70494 |
+| septal branch of anterior interventricular artery | branche septale de l'artère interventriculaire antérieure | FMA3892 |
+| septal branch of right posterior interventricular artery | branche septale de l'artère interventriculaire postérieure droite | FMA3845 |
+| set of arteries | ensemble d'artères | FMA63812 |
+| set of calcaneal branches of posterior tibial artery | ensemble des branches calcanéennes de l'artère tibiale postérieure | FMA71562 |
+| set of common plantar digital arteries | ensemble des artères digitales plantaires communes | FMA70821 |
+| set of dorsal digital arteries | ensemble des artères digitales dorsales | FMA70801 |
+| set of dorsal metacarpal arteries | ensemble des artères métacarpiennes dorsales | FMA70800 |
+| set of oesophageal branches of thoracic aorta | ensemble des branches œsophagiennes de l'aorte thoracique | FMA71537 |
 | set of organ parts | ensemble de parties d'organe | FMA228667 |
 | set of organ regions | ensemble de régions d'organe | FMA78562 |
-| set of perforating arteries | *(non traduit)* | FMA70815 |
-| set of plantar digital arteries proper | *(non traduit)* | FMA71564 |
-| set of posterior temporal branches of lateral occipital artery | *(non traduit)* | FMA71502 |
-| sigmoid artery | *(non traduit)* | FMA14830 |
-| sphenoid part of left middle cerebral artery | *(non traduit)* | FMA50367 |
-| sphenoid part of middle cerebral artery | *(non traduit)* | FMA50365 |
-| sphenoid part of right middle cerebral artery | *(non traduit)* | FMA50366 |
-| splenial artery | *(non traduit)* | FMA50652 |
-| splenic artery | *(non traduit)* | FMA14773 |
-| subclavian artery | *(non traduit)* | FMA3951 |
-| subcostal artery | *(non traduit)* | FMA4613 |
-| subdivision of anterior division of internal iliac artery | *(non traduit)* | FMA69803 |
-| subdivision of anterior tibial artery | *(non traduit)* | FMA69476 |
-| subdivision of celiac artery | *(non traduit)* | FMA70429 |
-| subdivision of cerebral part of internal carotid artery | *(non traduit)* | FMA70523 |
-| subdivision of common carotid artery | *(non traduit)* | FMA70504 |
-| subdivision of common hepatic artery | *(non traduit)* | FMA70433 |
-| subdivision of costocervical artery | *(non traduit)* | FMA70399 |
-| subdivision of deep femoral artery | *(non traduit)* | FMA69459 |
-| subdivision of external iliac artery | *(non traduit)* | FMA69458 |
-| subdivision of external iliac artery proper | *(non traduit)* | FMA70247 |
-| subdivision of femoral artery | *(non traduit)* | FMA70251 |
-| subdivision of gastroduodenal artery | *(non traduit)* | FMA70436 |
-| subdivision of hepatic artery proper | *(non traduit)* | FMA14837 |
-| subdivision of inferior mesenteric artery | *(non traduit)* | FMA70483 |
-| subdivision of inferior pancreaticoduodenal artery | *(non traduit)* | FMA70481 |
-| subdivision of internal carotid artery | *(non traduit)* | FMA70506 |
-| subdivision of internal iliac artery | *(non traduit)* | FMA69796 |
-| subdivision of internal pudendal artery | *(non traduit)* | FMA69805 |
-| subdivision of internal thoracic artery | *(non traduit)* | FMA70358 |
-| subdivision of left hepatic artery | *(non traduit)* | FMA70440 |
-| subdivision of left lobe branch of left hepatic artery | *(non traduit)* | FMA71736 |
-| subdivision of posterior tibial artery | *(non traduit)* | FMA43901 |
-| subdivision of right hepatic artery | *(non traduit)* | FMA70439 |
-| subdivision of right lobe branch of right hepatic artery | *(non traduit)* | FMA71709 |
-| subdivision of splenic artery | *(non traduit)* | FMA70470 |
-| subdivision of subclavian artery | *(non traduit)* | FMA70345 |
-| subdivision of subscapular artery | *(non traduit)* | FMA70422 |
-| subdivision of superior mesenteric artery | *(non traduit)* | FMA70478 |
-| subdivision of thoraco-acromial artery | *(non traduit)* | FMA70408 |
-| subdivision of thyrocervical artery | *(non traduit)* | FMA70353 |
-| subdivision of transverse cervical artery | *(non traduit)* | FMA86020 |
-| subscapular artery | *(non traduit)* | FMA22677 |
-| subsegmental part of anterior basal segmental artery | *(non traduit)* | FMA68720 |
-| subsegmental part of anterior segmental artery | *(non traduit)* | FMA68675 |
-| subsegmental part of apical segmental artery | *(non traduit)* | FMA68667 |
-| subsegmental part of lateral basal segmental artery | *(non traduit)* | FMA68727 |
-| subsegmental part of lateral segmental artery | *(non traduit)* | FMA68689 |
-| subsegmental part of medial segmental artery | *(non traduit)* | FMA68692 |
-| subsegmental part of posterior basal segmental artery | *(non traduit)* | FMA68733 |
-| subsegmental part of posterior segmental artery | *(non traduit)* | FMA68668 |
-| subsegmental part of superior segmental artery | *(non traduit)* | FMA68705 |
-| subsegmental pulmonary artery | *(non traduit)* | FMA9311 |
-| superficial cervical artery | *(non traduit)* | FMA10665 |
-| superficial epigastric artery | *(non traduit)* | FMA20734 |
-| superficial medial plantar artery | *(non traduit)* | FMA43933 |
-| superficial palmar arterial arch | *(non traduit)* | FMA22834 |
-| superior branch of medial segmental artery | *(non traduit)* | FMA68693 |
-| superior branch of right superior segmental artery | *(non traduit)* | FMA68709 |
-| superior branch of superior segmental artery | *(non traduit)* | FMA68708 |
-| superior cerebellar artery | *(non traduit)* | FMA50573 |
-| superior epigastric artery | *(non traduit)* | FMA10646 |
-| superior genicular artery | *(non traduit)* | FMA22535 |
-| superior lateral genicular artery | *(non traduit)* | FMA22585 |
-| superior lingular artery | *(non traduit)* | FMA8639 |
-| superior medial genicular artery | *(non traduit)* | FMA22584 |
+| set of perforating arteries | ensemble des artères perforantes | FMA70815 |
+| set of plantar digital arteries proper | ensemble des artères digitales plantaires propre | FMA71564 |
+| set of posterior temporal branches of lateral occipital artery | ensemble des branches temporales postérieures de l'artère occipitale latérale | FMA71502 |
+| sigmoid artery | artère sigmoïdienne | FMA14830 |
+| sphenoid part of left middle cerebral artery | partie sphénoïdale de l'artère cérébrale moyenne gauche | FMA50367 |
+| sphenoid part of middle cerebral artery | partie sphénoïdale de l'artère cérébrale moyenne | FMA50365 |
+| sphenoid part of right middle cerebral artery | partie sphénoïdale de l'artère cérébrale moyenne droite | FMA50366 |
+| splenial artery | artère spléniale | FMA50652 |
+| splenic artery | artère splénique | FMA14773 |
+| subclavian artery | artère subclavière | FMA3951 |
+| subcostal artery | artère subcostale | FMA4613 |
+| subdivision of anterior division of internal iliac artery | subdivision de la division antérieure de l'artère iliaque interne | FMA69803 |
+| subdivision of anterior tibial artery | subdivision de l'artère tibiale antérieure | FMA69476 |
+| subdivision of celiac artery | subdivision de l'artère cœliaque | FMA70429 |
+| subdivision of cerebral part of internal carotid artery | subdivision de la partie cérébrale de l'artère carotide interne | FMA70523 |
+| subdivision of common carotid artery | subdivision de l'artère carotide commune | FMA70504 |
+| subdivision of common hepatic artery | subdivision de l'artère hépatique commune | FMA70433 |
+| subdivision of costocervical artery | subdivision de l'artère costo-cervicale | FMA70399 |
+| subdivision of deep femoral artery | subdivision de l'artère fémorale profonde | FMA69459 |
+| subdivision of external iliac artery | subdivision de l'artère iliaque externe | FMA69458 |
+| subdivision of external iliac artery proper | subdivision de l'artère iliaque externe propre | FMA70247 |
+| subdivision of femoral artery | subdivision de l'artère fémorale | FMA70251 |
+| subdivision of gastroduodenal artery | subdivision de l'artère gastro-duodénale | FMA70436 |
+| subdivision of hepatic artery proper | subdivision de l'artère hépatique propre | FMA14837 |
+| subdivision of inferior mesenteric artery | subdivision de l'artère mésentérique inférieure | FMA70483 |
+| subdivision of inferior pancreaticoduodenal artery | subdivision de l'artère pancréatico-duodénale inférieure | FMA70481 |
+| subdivision of internal carotid artery | subdivision de l'artère carotide interne | FMA70506 |
+| subdivision of internal iliac artery | subdivision de l'artère iliaque interne | FMA69796 |
+| subdivision of internal pudendal artery | subdivision de l'artère pudendale interne | FMA69805 |
+| subdivision of internal thoracic artery | subdivision de l'artère thoracique interne | FMA70358 |
+| subdivision of left hepatic artery | subdivision de l'artère hépatique gauche | FMA70440 |
+| subdivision of left lobe branch of left hepatic artery | subdivision de la branche du lobe gauche de l'artère hépatique gauche | FMA71736 |
+| subdivision of posterior tibial artery | subdivision de l'artère tibiale postérieure | FMA43901 |
+| subdivision of right hepatic artery | subdivision de l'artère hépatique droite | FMA70439 |
+| subdivision of right lobe branch of right hepatic artery | subdivision de la branche du lobe droit de l'artère hépatique droite | FMA71709 |
+| subdivision of splenic artery | subdivision de l'artère splénique | FMA70470 |
+| subdivision of subclavian artery | subdivision de l'artère subclavière | FMA70345 |
+| subdivision of subscapular artery | subdivision de l'artère subscapulaire | FMA70422 |
+| subdivision of superior mesenteric artery | subdivision de l'artère mésentérique supérieure | FMA70478 |
+| subdivision of thoraco-acromial artery | subdivision de l'artère thoraco-acromiale | FMA70408 |
+| subdivision of thyrocervical artery | subdivision de l'artère thyro-cervicale | FMA70353 |
+| subdivision of transverse cervical artery | subdivision de l'artère cervicale transverse | FMA86020 |
+| subscapular artery | artère subscapulaire | FMA22677 |
+| subsegmental part of anterior basal segmental artery | partie subsegmentaire de l'artère segmentaire basale antérieure | FMA68720 |
+| subsegmental part of anterior segmental artery | partie subsegmentaire de l'artère segmentaire antérieure | FMA68675 |
+| subsegmental part of apical segmental artery | partie subsegmentaire de l'artère segmentaire apicale | FMA68667 |
+| subsegmental part of lateral basal segmental artery | partie subsegmentaire de l'artère segmentaire basale latérale | FMA68727 |
+| subsegmental part of lateral segmental artery | partie subsegmentaire de l'artère segmentaire latérale | FMA68689 |
+| subsegmental part of medial segmental artery | partie subsegmentaire de l'artère segmentaire médiale | FMA68692 |
+| subsegmental part of posterior basal segmental artery | partie subsegmentaire de l'artère segmentaire basale postérieure | FMA68733 |
+| subsegmental part of posterior segmental artery | partie subsegmentaire de l'artère segmentaire postérieure | FMA68668 |
+| subsegmental part of superior segmental artery | partie subsegmentaire de l'artère segmentaire supérieure | FMA68705 |
+| subsegmental pulmonary artery | artère pulmonaire subsegmentaire | FMA9311 |
+| superficial cervical artery | artère cervicale superficielle | FMA10665 |
+| superficial epigastric artery | artère épigastrique superficielle | FMA20734 |
+| superficial medial plantar artery | artère plantaire médiale superficielle | FMA43933 |
+| superficial palmar arterial arch | arcade artérielle palmaire superficielle | FMA22834 |
+| superior branch of medial segmental artery | branche supérieure de l'artère segmentaire médiale | FMA68693 |
+| superior branch of right superior segmental artery | branche supérieure de l'artère segmentaire supérieure droite | FMA68709 |
+| superior branch of superior segmental artery | branche supérieure de l'artère segmentaire supérieure | FMA68708 |
+| superior cerebellar artery | artère cérébelleuse supérieure | FMA50573 |
+| superior epigastric artery | artère épigastrique supérieure | FMA10646 |
+| superior genicular artery | artère géniculaire supérieure | FMA22535 |
+| superior lateral genicular artery | artère géniculaire latérale supérieure | FMA22585 |
+| superior lingular artery | artère lingulaire supérieure | FMA8639 |
+| superior medial genicular artery | artère géniculaire médiale supérieure | FMA22584 |
 | superior mediastinum | médiastin supérieur | FMA9827 |
-| superior mesenteric artery | *(non traduit)* | FMA14749 |
-| superior pancreaticoduodenal artery | *(non traduit)* | FMA70437 |
-| superior rectal artery | *(non traduit)* | FMA14832 |
-| superior segmental artery | *(non traduit)* | FMA8714 |
-| superior segmental branch of left renal artery | *(non traduit)* | FMA86341 |
-| superior segmental branch of right renal artery | *(non traduit)* | FMA86340 |
-| superior segmental renal artery | *(non traduit)* | FMA70499 |
-| superior terminal branch of middle cerebral artery | *(non traduit)* | FMA50436 |
-| superior ulnar collateral artery | *(non traduit)* | FMA22706 |
-| superior vermian branch of medial branch of left superior cerebellar artery | *(non traduit)* | FMA50697 |
-| superior vermian branch of medial branch of right superior cerebellar artery | *(non traduit)* | FMA50696 |
-| superior vermian branch of medial branch of superior cerebellar artery | *(non traduit)* | FMA50695 |
-| suprascapular artery | *(non traduit)* | FMA10663 |
-| supreme intercostal artery | *(non traduit)* | FMA76998 |
-| systemic arterial system | *(non traduit)* | FMA45623 |
-| systemic arterial tree | *(non traduit)* | FMA49894 |
-| systemic arterial trunk | *(non traduit)* | FMA49918 |
-| systemic artery | *(non traduit)* | FMA66464 |
-| temporal artery | *(non traduit)* | FMA50438 |
-| temporo-occipital branch of left middle cerebral artery | *(non traduit)* | FMA50474 |
-| temporo-occipital branch of middle cerebral artery | *(non traduit)* | FMA50472 |
-| temporo-occipital branch of right middle cerebral artery | *(non traduit)* | FMA50473 |
-| testicular artery | *(non traduit)* | FMA14758 |
-| thalamogeniculate artery | *(non traduit)* | FMA50629 |
-| thalamoperforating artery | *(non traduit)* | FMA50624 |
-| third common palmar digital artery | *(non traduit)* | FMA85107 |
-| third right anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3876 |
-| thoracic segment of trunk | *(non traduit)* | FMA259209 |
-| thoracodorsal artery | *(non traduit)* | FMA66320 |
+| superior mesenteric artery | artère mésentérique supérieure | FMA14749 |
+| superior pancreaticoduodenal artery | artère pancréatico-duodénale supérieure | FMA70437 |
+| superior rectal artery | artère rectale supérieure | FMA14832 |
+| superior segmental artery | artère segmentaire supérieure | FMA8714 |
+| superior segmental branch of left renal artery | branche segmentaire supérieure de l'artère rénale gauche | FMA86341 |
+| superior segmental branch of right renal artery | branche segmentaire supérieure de l'artère rénale droite | FMA86340 |
+| superior segmental renal artery | artère rénale segmentaire supérieure | FMA70499 |
+| superior terminal branch of middle cerebral artery | branche terminale supérieure de l'artère cérébrale moyenne | FMA50436 |
+| superior ulnar collateral artery | artère collatérale ulnaire supérieure | FMA22706 |
+| superior vermian branch of medial branch of left superior cerebellar artery | branche vermienne supérieure de la branche médiale de l'artère cérébelleuse supérieure gauche | FMA50697 |
+| superior vermian branch of medial branch of right superior cerebellar artery | branche vermienne supérieure de la branche médiale de l'artère cérébelleuse supérieure droite | FMA50696 |
+| superior vermian branch of medial branch of superior cerebellar artery | branche vermienne supérieure de la branche médiale de l'artère cérébelleuse supérieure | FMA50695 |
+| suprascapular artery | artère suprascapulaire | FMA10663 |
+| supreme intercostal artery | artère intercostale suprême | FMA76998 |
+| systemic arterial system | système artériel systémique | FMA45623 |
+| systemic arterial tree | arbre artériel systémique | FMA49894 |
+| systemic arterial trunk | tronc artériel systémique | FMA49918 |
+| systemic artery | artère systémique | FMA66464 |
+| temporal artery | artère temporale | FMA50438 |
+| temporo-occipital branch of left middle cerebral artery | branche temporo-occipitale de l'artère cérébrale moyenne gauche | FMA50474 |
+| temporo-occipital branch of middle cerebral artery | branche temporo-occipitale de l'artère cérébrale moyenne | FMA50472 |
+| temporo-occipital branch of right middle cerebral artery | branche temporo-occipitale de l'artère cérébrale moyenne droite | FMA50473 |
+| testicular artery | artère testiculaire | FMA14758 |
+| thalamogeniculate artery | artère thalamo-géniculée | FMA50629 |
+| thalamoperforating artery | artère thalamo-perforante | FMA50624 |
+| third common palmar digital artery | troisième artère digitale palmaire commune | FMA85107 |
+| third right anterior branch of anterior interventricular branch of left coronary artery | troisième branche antérieure droite de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA3876 |
+| thoracic segment of trunk | segment thoracique du tronc | FMA259209 |
+| thoracodorsal artery | artère thoraco-dorsale | FMA66320 |
 | thorax | thorax | FMA9576 |
-| thyrocervical trunk | *(non traduit)* | FMA3990 |
-| transverse cervical artery | *(non traduit)* | FMA10664 |
-| trunk | *(non traduit)* | FMA7181 |
-| trunk of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA74912 |
-| trunk of branch of coeliac artery | *(non traduit)* | FMA14767 |
-| trunk of branch of common hepatic artery | *(non traduit)* | FMA76547 |
-| trunk of branch of common iliac artery | *(non traduit)* | FMA73204 |
-| trunk of branch of coronary artery | *(non traduit)* | FMA4677 |
-| trunk of branch of external iliac artery | *(non traduit)* | FMA20684 |
-| trunk of branch of inferior mesenteric artery | *(non traduit)* | FMA14825 |
-| trunk of branch of internal carotid artery | *(non traduit)* | FMA75865 |
-| trunk of branch of left colic artery | *(non traduit)* | FMA21521 |
-| trunk of branch of middle cerebral artery | *(non traduit)* | FMA76107 |
-| trunk of branch of popliteal artery | *(non traduit)* | FMA69418 |
-| trunk of branch of subclavian artery | *(non traduit)* | FMA76301 |
-| trunk of coronary artery | *(non traduit)* | FMA87218 |
-| trunk of gastroduodenal artery | *(non traduit)* | FMA76574 |
-| trunk of hepatic artery | *(non traduit)* | FMA76582 |
-| trunk of inferior terminal branch of left middle cerebral artery | *(non traduit)* | FMA76129 |
-| trunk of inferior terminal branch of middle cerebral artery | *(non traduit)* | FMA76127 |
-| trunk of inferior terminal branch of right middle cerebral artery | *(non traduit)* | FMA76128 |
-| trunk of left coronary artery | *(non traduit)* | FMA3855 |
-| trunk of left hepatic artery | *(non traduit)* | FMA70457 |
-| trunk of left lateral plantar artery | *(non traduit)* | FMA69567 |
-| trunk of left renal artery | *(non traduit)* | FMA66364 |
-| trunk of left thoraco-acromial artery | *(non traduit)* | FMA66564 |
-| trunk of renal artery | *(non traduit)* | FMA66362 |
-| trunk of right coronary artery | *(non traduit)* | FMA3802 |
-| trunk of right hepatic artery | *(non traduit)* | FMA70456 |
-| trunk of right lateral plantar artery | *(non traduit)* | FMA69566 |
-| trunk of right middle cerebral artery | *(non traduit)* | FMA61991 |
-| trunk of right renal artery | *(non traduit)* | FMA66363 |
-| trunk of right thoraco-acromial artery | *(non traduit)* | FMA66563 |
-| trunk of subdivision of axillary artery | *(non traduit)* | FMA73203 |
-| trunk of superior mesenteric artery | *(non traduit)* | FMA66358 |
-| trunk of thoraco-acromial artery | *(non traduit)* | FMA66562 |
-| ulnar artery | *(non traduit)* | FMA22796 |
-| ulnar recurrent artery | *(non traduit)* | FMA77140 |
-| upper lobar artery | *(non traduit)* | FMA8702 |
+| thyrocervical trunk | tronc thyro-cervical | FMA3990 |
+| transverse cervical artery | artère cervicale transverse | FMA10664 |
+| trunk | tronc | FMA7181 |
+| trunk of anterior interventricular branch of left coronary artery | tronc de la branche interventriculaire antérieure de l'artère coronaire gauche | FMA74912 |
+| trunk of branch of coeliac artery | tronc de la branche de l'artère cœliaque | FMA14767 |
+| trunk of branch of common hepatic artery | tronc de la branche de l'artère hépatique commune | FMA76547 |
+| trunk of branch of common iliac artery | tronc de la branche de l'artère iliaque commune | FMA73204 |
+| trunk of branch of coronary artery | tronc de la branche de l'artère coronaire | FMA4677 |
+| trunk of branch of external iliac artery | tronc de la branche de l'artère iliaque externe | FMA20684 |
+| trunk of branch of inferior mesenteric artery | tronc de la branche de l'artère mésentérique inférieure | FMA14825 |
+| trunk of branch of internal carotid artery | tronc de la branche de l'artère carotide interne | FMA75865 |
+| trunk of branch of left colic artery | tronc de la branche de l'artère colique gauche | FMA21521 |
+| trunk of branch of middle cerebral artery | tronc de la branche de l'artère cérébrale moyenne | FMA76107 |
+| trunk of branch of popliteal artery | tronc de la branche de l'artère poplitée | FMA69418 |
+| trunk of branch of subclavian artery | tronc de la branche de l'artère subclavière | FMA76301 |
+| trunk of coronary artery | tronc de l'artère coronaire | FMA87218 |
+| trunk of gastroduodenal artery | tronc de l'artère gastro-duodénale | FMA76574 |
+| trunk of hepatic artery | tronc de l'artère hépatique | FMA76582 |
+| trunk of inferior terminal branch of left middle cerebral artery | tronc de la branche terminale inférieure de l'artère cérébrale moyenne gauche | FMA76129 |
+| trunk of inferior terminal branch of middle cerebral artery | tronc de la branche terminale inférieure de l'artère cérébrale moyenne | FMA76127 |
+| trunk of inferior terminal branch of right middle cerebral artery | tronc de la branche terminale inférieure de l'artère cérébrale moyenne droite | FMA76128 |
+| trunk of left coronary artery | tronc de l'artère coronaire gauche | FMA3855 |
+| trunk of left hepatic artery | tronc de l'artère hépatique gauche | FMA70457 |
+| trunk of left lateral plantar artery | tronc de l'artère plantaire latérale gauche | FMA69567 |
+| trunk of left renal artery | tronc de l'artère rénale gauche | FMA66364 |
+| trunk of left thoraco-acromial artery | tronc de l'artère thoraco-acromiale gauche | FMA66564 |
+| trunk of renal artery | tronc de l'artère rénale | FMA66362 |
+| trunk of right coronary artery | tronc de l'artère coronaire droite | FMA3802 |
+| trunk of right hepatic artery | tronc de l'artère hépatique droite | FMA70456 |
+| trunk of right lateral plantar artery | tronc de l'artère plantaire latérale droite | FMA69566 |
+| trunk of right middle cerebral artery | tronc de l'artère cérébrale moyenne droite | FMA61991 |
+| trunk of right renal artery | tronc de l'artère rénale droite | FMA66363 |
+| trunk of right thoraco-acromial artery | tronc de l'artère thoraco-acromiale droite | FMA66563 |
+| trunk of subdivision of axillary artery | tronc de la subdivision de l'artère axillaire | FMA73203 |
+| trunk of superior mesenteric artery | tronc de l'artère mésentérique supérieure | FMA66358 |
+| trunk of thoraco-acromial artery | tronc de l'artère thoraco-acromiale | FMA66562 |
+| ulnar artery | artère ulnaire | FMA22796 |
+| ulnar recurrent artery | artère récurrente ulnaire | FMA77140 |
+| upper lobar artery | artère lobaire supérieure | FMA8702 |
 | upper lobe of right lung | lobe supérieur du poumon droit | FMA7333 |
-| ureteric segment of left renal artery | *(non traduit)* | FMA70493 |
-| ureteric segment of renal artery | *(non traduit)* | FMA70491 |
-| ureteric segment of right renal artery | *(non traduit)* | FMA70492 |
-| variant artery | *(non traduit)* | FMA3714 |
-| variant bronchial artery | *(non traduit)* | FMA10704 |
-| variant systemic artery | *(non traduit)* | FMA66267 |
-| vascular anastomosis | *(non traduit)* | FMA3727 |
-| vasculature of body | *(non traduit)* | FMA228642 |
-| ventricular branch of right coronary artery | *(non traduit)* | FMA13912 |
-| vertebral artery | *(non traduit)* | FMA3956 |
-| zone of artery | *(non traduit)* | FMA66332 |
-| zone of continuity | *(non traduit)* | FMA11337 |
-| zone of middle cerebral artery | *(non traduit)* | FMA50080 |
-| zone of posterior cerebral artery | *(non traduit)* | FMA50589 |
-| zone of trunk of lateral plantar artery | *(non traduit)* | FMA69559 |
+| ureteric segment of left renal artery | segment urétérique de l'artère rénale gauche | FMA70493 |
+| ureteric segment of renal artery | segment urétérique de l'artère rénale | FMA70491 |
+| ureteric segment of right renal artery | segment urétérique de l'artère rénale droite | FMA70492 |
+| variant artery | artère variante | FMA3714 |
+| variant bronchial artery | artère bronchique variante | FMA10704 |
+| variant systemic artery | artère systémique variante | FMA66267 |
+| vascular anastomosis | anastomose vasculaire | FMA3727 |
+| vasculature of body | vascularisation du corps | FMA228642 |
+| ventricular branch of right coronary artery | branche ventriculaire de l'artère coronaire droite | FMA13912 |
+| vertebral artery | artère vertébrale | FMA3956 |
+| zone of artery | zone de l'artère | FMA66332 |
+| zone of continuity | zone de la continuité | FMA11337 |
+| zone of middle cerebral artery | zone de l'artère cérébrale moyenne | FMA50080 |
+| zone of posterior cerebral artery | zone de l'artère cérébrale postérieure | FMA50589 |
+| zone of trunk of lateral plantar artery | zone du tronc de l'artère plantaire latérale | FMA69559 |
 
-## Muscles — 21/721
+## Muscles — 721/721
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| abdominal part of left pectoralis major | *(non traduit)* | FMA45875 |
-| abdominal part of pectoralis major | *(non traduit)* | FMA34699 |
-| abdominal part of right pectoralis major | *(non traduit)* | FMA45874 |
-| abductor digiti minimi of foot | *(non traduit)* | FMA37451 |
-| abductor digiti minimi of hand | *(non traduit)* | FMA37382 |
-| abductor digiti minimi of left foot | *(non traduit)* | FMA37464 |
-| abductor digiti minimi of left hand | *(non traduit)* | FMA37397 |
-| abductor digiti minimi of right foot | *(non traduit)* | FMA37463 |
-| abductor digiti minimi of right hand | *(non traduit)* | FMA37396 |
-| abductor hallucis | *(non traduit)* | FMA37448 |
-| abductor pollicis brevis | *(non traduit)* | FMA37373 |
-| abductor pollicis longus | *(non traduit)* | FMA38515 |
-| acromial part of deltoid | *(non traduit)* | FMA34678 |
-| acromial part of left deltoid | *(non traduit)* | FMA34683 |
-| acromial part of right deltoid | *(non traduit)* | FMA34682 |
-| adductor brevis | *(non traduit)* | FMA22442 |
-| adductor longus | *(non traduit)* | FMA22441 |
-| adductor magnus | *(non traduit)* | FMA22443 |
-| adductor minimus | *(non traduit)* | FMA43885 |
-| anal part of perineum | *(non traduit)* | FMA20347 |
-| anconeus | *(non traduit)* | FMA37704 |
-| anterior abdominal wall | *(non traduit)* | FMA14627 |
-| anterior papillary muscle of right ventricle | *(non traduit)* | FMA7260 |
-| anterior suboccipital muscle | *(non traduit)* | FMA64875 |
+| abdominal part of left pectoralis major | partie abdominale du muscle grand pectoral gauche | FMA45875 |
+| abdominal part of pectoralis major | partie abdominale du muscle grand pectoral | FMA34699 |
+| abdominal part of right pectoralis major | partie abdominale du muscle grand pectoral droit | FMA45874 |
+| abductor digiti minimi of foot | muscle abducteur du petit doigt du pied | FMA37451 |
+| abductor digiti minimi of hand | muscle abducteur du petit doigt de la main | FMA37382 |
+| abductor digiti minimi of left foot | muscle abducteur du petit doigt du pied gauche | FMA37464 |
+| abductor digiti minimi of left hand | muscle abducteur du petit doigt de la main gauche | FMA37397 |
+| abductor digiti minimi of right foot | muscle abducteur du petit doigt du pied droit | FMA37463 |
+| abductor digiti minimi of right hand | muscle abducteur du petit doigt de la main droite | FMA37396 |
+| abductor hallucis | muscle abducteur de l'hallux | FMA37448 |
+| abductor pollicis brevis | muscle court abducteur du pouce | FMA37373 |
+| abductor pollicis longus | muscle long abducteur du pouce | FMA38515 |
+| acromial part of deltoid | partie acromiale du muscle deltoïde | FMA34678 |
+| acromial part of left deltoid | partie acromiale du muscle deltoïde gauche | FMA34683 |
+| acromial part of right deltoid | partie acromiale du muscle deltoïde droit | FMA34682 |
+| adductor brevis | muscle court adducteur | FMA22442 |
+| adductor longus | muscle long adducteur | FMA22441 |
+| adductor magnus | muscle grand adducteur | FMA22443 |
+| adductor minimus | muscle petit adducteur | FMA43885 |
+| anal part of perineum | partie anale du périnée | FMA20347 |
+| anconeus | muscle anconé | FMA37704 |
+| anterior abdominal wall | paroi abdominale antérieure | FMA14627 |
+| anterior papillary muscle of right ventricle | muscle papillaire antérieur du ventricule droit | FMA7260 |
+| anterior suboccipital muscle | muscle suboccipital antérieur | FMA64875 |
 | anterior superficial chest wall | paroi thoracique superficielle antérieure | FMA50063 |
-| anterior wall of left ventricle | *(non traduit)* | FMA9560 |
-| anterior wall of right ventricle | *(non traduit)* | FMA9553 |
-| anterolateral head of lateral papillary muscle of left ventricle | *(non traduit)* | FMA7265 |
-| aryepiglotticus | *(non traduit)* | FMA46602 |
-| ascending part of left trapezius | *(non traduit)* | FMA33583 |
-| ascending part of right trapezius | *(non traduit)* | FMA33581 |
-| ascending part of trapezius | *(non traduit)* | FMA32555 |
-| brachialis | *(non traduit)* | FMA37667 |
-| brachioradialis | *(non traduit)* | FMA38485 |
-| cervical rotator | *(non traduit)* | FMA23082 |
-| clavicular part of deltoid | *(non traduit)* | FMA34677 |
-| clavicular part of left deltoid | *(non traduit)* | FMA34681 |
-| clavicular part of left pectoralis major | *(non traduit)* | FMA34691 |
-| clavicular part of pectoralis major | *(non traduit)* | FMA34687 |
-| clavicular part of right deltoid | *(non traduit)* | FMA34680 |
-| clavicular part of right pectoralis major | *(non traduit)* | FMA34690 |
-| coccygeus | *(non traduit)* | FMA19088 |
-| coracobrachialis | *(non traduit)* | FMA37664 |
-| deep extrinsic muscle of shoulder | *(non traduit)* | FMA32518 |
-| deep muscle of anterior compartment of forearm | *(non traduit)* | FMA38475 |
-| deep muscle of posterior compartment of forearm | *(non traduit)* | FMA38509 |
-| deep muscle of posterior compartment of leg | *(non traduit)* | FMA65008 |
-| deep postvertebral muscle | *(non traduit)* | FMA32561 |
-| descending part of left trapezius | *(non traduit)* | FMA33587 |
-| descending part of right trapezius | *(non traduit)* | FMA33586 |
-| descending part of trapezius | *(non traduit)* | FMA32557 |
-| diaphragm | *(non traduit)* | FMA13295 |
+| anterior wall of left ventricle | paroi antérieure du ventricule gauche | FMA9560 |
+| anterior wall of right ventricle | paroi antérieure du ventricule droit | FMA9553 |
+| anterolateral head of lateral papillary muscle of left ventricle | chef antéro-latéral du muscle papillaire latéral du ventricule gauche | FMA7265 |
+| aryepiglotticus | muscle ary-épiglottique | FMA46602 |
+| ascending part of left trapezius | partie ascendante du muscle trapèze gauche | FMA33583 |
+| ascending part of right trapezius | partie ascendante du muscle trapèze droit | FMA33581 |
+| ascending part of trapezius | partie ascendante du muscle trapèze | FMA32555 |
+| brachialis | muscle brachial | FMA37667 |
+| brachioradialis | muscle brachio-radial | FMA38485 |
+| cervical rotator | muscle rotateur cervical | FMA23082 |
+| clavicular part of deltoid | partie claviculaire du muscle deltoïde | FMA34677 |
+| clavicular part of left deltoid | partie claviculaire du muscle deltoïde gauche | FMA34681 |
+| clavicular part of left pectoralis major | partie claviculaire du muscle grand pectoral gauche | FMA34691 |
+| clavicular part of pectoralis major | partie claviculaire du muscle grand pectoral | FMA34687 |
+| clavicular part of right deltoid | partie claviculaire du muscle deltoïde droit | FMA34680 |
+| clavicular part of right pectoralis major | partie claviculaire du muscle grand pectoral droit | FMA34690 |
+| coccygeus | muscle coccygien | FMA19088 |
+| coracobrachialis | muscle coraco-brachial | FMA37664 |
+| deep extrinsic muscle of shoulder | muscle extrinsèque profond de l'épaule | FMA32518 |
+| deep muscle of anterior compartment of forearm | muscle profond du compartiment antérieur de l'avant-bras | FMA38475 |
+| deep muscle of posterior compartment of forearm | muscle profond du compartiment postérieur de l'avant-bras | FMA38509 |
+| deep muscle of posterior compartment of leg | muscle profond du compartiment postérieur de la jambe | FMA65008 |
+| deep postvertebral muscle | muscle postvertébral profond | FMA32561 |
+| descending part of left trapezius | partie descendante du muscle trapèze gauche | FMA33587 |
+| descending part of right trapezius | partie descendante du muscle trapèze droit | FMA33586 |
+| descending part of trapezius | partie descendante du muscle trapèze | FMA32557 |
+| diaphragm | diaphragme | FMA13295 |
 | digastric | muscle digastrique | FMA46291 |
-| extensor carpi radialis brevis | *(non traduit)* | FMA38497 |
-| extensor carpi radialis longus | *(non traduit)* | FMA38494 |
-| extensor carpi ulnaris | *(non traduit)* | FMA38506 |
-| extensor digiti minimi | *(non traduit)* | FMA38503 |
-| extensor digitorum | *(non traduit)* | FMA38500 |
-| extensor digitorum longus | *(non traduit)* | FMA22534 |
-| extensor hallucis brevis | *(non traduit)* | FMA51141 |
-| extensor hallucis longus | *(non traduit)* | FMA22533 |
-| extensor indicis | *(non traduit)* | FMA38524 |
-| extensor pollicis brevis | *(non traduit)* | FMA38518 |
-| extensor pollicis longus | *(non traduit)* | FMA38521 |
-| external anal sphincter | *(non traduit)* | FMA21930 |
-| external intercostal muscle | *(non traduit)* | FMA9756 |
-| external oblique | *(non traduit)* | FMA13335 |
-| extra-ocular muscle | *(non traduit)* | FMA49033 |
-| extrinsic muscle of shoulder | *(non traduit)* | FMA32516 |
-| extrinsic muscle of tongue | *(non traduit)* | FMA46699 |
-| faucial part of mouth | *(non traduit)* | FMA59992 |
-| first lumbrical of foot | *(non traduit)* | FMA37479 |
-| first lumbrical of left foot | *(non traduit)* | FMA37718 |
-| first lumbrical of right foot | *(non traduit)* | FMA37717 |
-| first plantar interosseous of foot | *(non traduit)* | FMA37738 |
-| first plantar interosseous of left foot | *(non traduit)* | FMA37746 |
-| first plantar interosseous of right foot | *(non traduit)* | FMA37745 |
-| flexor accessorius | *(non traduit)* | FMA37452 |
-| flexor carpi radialis | *(non traduit)* | FMA38459 |
-| flexor digiti minimi brevis of foot | *(non traduit)* | FMA37455 |
-| flexor digiti minimi brevis of hand | *(non traduit)* | FMA37383 |
-| flexor digiti minimi brevis of left foot | *(non traduit)* | FMA37472 |
-| flexor digiti minimi brevis of left hand | *(non traduit)* | FMA37399 |
-| flexor digiti minimi brevis of right foot | *(non traduit)* | FMA37471 |
-| flexor digiti minimi brevis of right hand | *(non traduit)* | FMA37398 |
-| flexor digitorum brevis | *(non traduit)* | FMA37450 |
-| flexor digitorum longus | *(non traduit)* | FMA51071 |
-| flexor digitorum profundus | *(non traduit)* | FMA38478 |
-| flexor digitorum superficialis | *(non traduit)* | FMA38469 |
-| flexor hallucis longus | *(non traduit)* | FMA22593 |
-| flexor pollicis brevis | *(non traduit)* | FMA37378 |
-| flexor pollicis longus | *(non traduit)* | FMA38481 |
-| fourth lumbrical of foot | *(non traduit)* | FMA37482 |
-| fourth lumbrical of left foot | *(non traduit)* | FMA37484 |
-| fourth lumbrical of right foot | *(non traduit)* | FMA37483 |
-| free wall of left ventricle | *(non traduit)* | FMA84850 |
-| free wall of right ventricle | *(non traduit)* | FMA84842 |
-| gemellus | *(non traduit)* | FMA22319 |
-| gemellus inferior | *(non traduit)* | FMA22320 |
-| gemellus superior | *(non traduit)* | FMA22318 |
-| genioglossus | *(non traduit)* | FMA46690 |
-| geniohyoid | *(non traduit)* | FMA46325 |
-| gluteal muscle | *(non traduit)* | FMA64922 |
-| gluteus maximus | *(non traduit)* | FMA22314 |
-| gluteus medius | *(non traduit)* | FMA22315 |
-| gluteus minimus | *(non traduit)* | FMA22317 |
-| gracilis | *(non traduit)* | FMA43882 |
-| head of adductor hallucis | *(non traduit)* | FMA46012 |
-| head of biceps femoris | *(non traduit)* | FMA45881 |
-| head of flexor hallucis brevis | *(non traduit)* | FMA45963 |
-| head of gastrocnemius | *(non traduit)* | FMA45950 |
-| head of muscle organ | *(non traduit)* | FMA85453 |
-| head of organ | *(non traduit)* | FMA45729 |
-| humeral head of flexor carpi ulnaris | *(non traduit)* | FMA38615 |
-| humeral head of left flexor carpi ulnaris | *(non traduit)* | FMA38618 |
-| humeral head of left pronator teres | *(non traduit)* | FMA38561 |
-| humeral head of pronator teres | *(non traduit)* | FMA38558 |
-| humeral head of right flexor carpi ulnaris | *(non traduit)* | FMA38617 |
-| humeral head of right pronator teres | *(non traduit)* | FMA38560 |
-| hyoglossus | *(non traduit)* | FMA46691 |
-| hypothenar muscle | *(non traduit)* | FMA64917 |
-| iliacus | *(non traduit)* | FMA22310 |
-| iliococcygeus | *(non traduit)* | FMA19092 |
+| extensor carpi radialis brevis | muscle court extenseur radial du carpe | FMA38497 |
+| extensor carpi radialis longus | muscle long extenseur radial du carpe | FMA38494 |
+| extensor carpi ulnaris | muscle extenseur ulnaire du carpe | FMA38506 |
+| extensor digiti minimi | muscle extenseur du petit doigt | FMA38503 |
+| extensor digitorum | muscle extenseur des doigts | FMA38500 |
+| extensor digitorum longus | muscle long extenseur des orteils | FMA22534 |
+| extensor hallucis brevis | muscle court extenseur de l'hallux | FMA51141 |
+| extensor hallucis longus | muscle long extenseur de l'hallux | FMA22533 |
+| extensor indicis | muscle extenseur de l'index | FMA38524 |
+| extensor pollicis brevis | muscle court extenseur du pouce | FMA38518 |
+| extensor pollicis longus | muscle long extenseur du pouce | FMA38521 |
+| external anal sphincter | muscle sphincter externe de l'anus | FMA21930 |
+| external intercostal muscle | muscle intercostal externe | FMA9756 |
+| external oblique | muscle oblique externe | FMA13335 |
+| extra-ocular muscle | muscle extra-oculaire | FMA49033 |
+| extrinsic muscle of shoulder | muscle extrinsèque de l'épaule | FMA32516 |
+| extrinsic muscle of tongue | muscle extrinsèque de la langue | FMA46699 |
+| faucial part of mouth | partie faucale de la bouche | FMA59992 |
+| first lumbrical of foot | premier muscle lombrical du pied | FMA37479 |
+| first lumbrical of left foot | premier muscle lombrical du pied gauche | FMA37718 |
+| first lumbrical of right foot | premier muscle lombrical du pied droit | FMA37717 |
+| first plantar interosseous of foot | premier muscle interosseux plantaire du pied | FMA37738 |
+| first plantar interosseous of left foot | premier muscle interosseux plantaire du pied gauche | FMA37746 |
+| first plantar interosseous of right foot | premier muscle interosseux plantaire du pied droit | FMA37745 |
+| flexor accessorius | muscle carré plantaire | FMA37452 |
+| flexor carpi radialis | muscle fléchisseur radial du carpe | FMA38459 |
+| flexor digiti minimi brevis of foot | muscle court fléchisseur du petit doigt du pied | FMA37455 |
+| flexor digiti minimi brevis of hand | muscle court fléchisseur du petit doigt de la main | FMA37383 |
+| flexor digiti minimi brevis of left foot | muscle court fléchisseur du petit doigt du pied gauche | FMA37472 |
+| flexor digiti minimi brevis of left hand | muscle court fléchisseur du petit doigt de la main gauche | FMA37399 |
+| flexor digiti minimi brevis of right foot | muscle court fléchisseur du petit doigt du pied droit | FMA37471 |
+| flexor digiti minimi brevis of right hand | muscle court fléchisseur du petit doigt de la main droite | FMA37398 |
+| flexor digitorum brevis | muscle court fléchisseur des orteils | FMA37450 |
+| flexor digitorum longus | muscle long fléchisseur des orteils | FMA51071 |
+| flexor digitorum profundus | muscle fléchisseur profond des doigts | FMA38478 |
+| flexor digitorum superficialis | muscle fléchisseur superficiel des doigts | FMA38469 |
+| flexor hallucis longus | muscle long fléchisseur de l'hallux | FMA22593 |
+| flexor pollicis brevis | muscle court fléchisseur du pouce | FMA37378 |
+| flexor pollicis longus | muscle long fléchisseur du pouce | FMA38481 |
+| fourth lumbrical of foot | quatrième muscle lombrical du pied | FMA37482 |
+| fourth lumbrical of left foot | quatrième muscle lombrical du pied gauche | FMA37484 |
+| fourth lumbrical of right foot | quatrième muscle lombrical du pied droit | FMA37483 |
+| free wall of left ventricle | paroi libre du ventricule gauche | FMA84850 |
+| free wall of right ventricle | paroi libre du ventricule droit | FMA84842 |
+| gemellus | muscle jumeau | FMA22319 |
+| gemellus inferior | muscle jumeau inférieur | FMA22320 |
+| gemellus superior | muscle jumeau supérieur | FMA22318 |
+| genioglossus | muscle génioglosse | FMA46690 |
+| geniohyoid | muscle génio-hyoïdien | FMA46325 |
+| gluteal muscle | muscle glutéal | FMA64922 |
+| gluteus maximus | muscle grand glutéal | FMA22314 |
+| gluteus medius | muscle moyen glutéal | FMA22315 |
+| gluteus minimus | muscle petit glutéal | FMA22317 |
+| gracilis | muscle gracile | FMA43882 |
+| head of adductor hallucis | chef du muscle adducteur de l'hallux | FMA46012 |
+| head of biceps femoris | chef du muscle biceps fémoral | FMA45881 |
+| head of flexor hallucis brevis | chef du muscle court fléchisseur de l'hallux | FMA45963 |
+| head of gastrocnemius | chef du muscle gastrocnémien | FMA45950 |
+| head of muscle organ | chef de muscle | FMA85453 |
+| head of organ | chef d'organe | FMA45729 |
+| humeral head of flexor carpi ulnaris | chef huméral du muscle fléchisseur ulnaire du carpe | FMA38615 |
+| humeral head of left flexor carpi ulnaris | chef huméral du muscle fléchisseur ulnaire du carpe gauche | FMA38618 |
+| humeral head of left pronator teres | chef huméral du muscle rond pronateur gauche | FMA38561 |
+| humeral head of pronator teres | chef huméral du muscle rond pronateur | FMA38558 |
+| humeral head of right flexor carpi ulnaris | chef huméral du muscle fléchisseur ulnaire du carpe droit | FMA38617 |
+| humeral head of right pronator teres | chef huméral du muscle rond pronateur droit | FMA38560 |
+| hyoglossus | muscle hyoglosse | FMA46691 |
+| hypothenar muscle | muscle hypothénar | FMA64917 |
+| iliacus | muscle iliaque | FMA22310 |
+| iliococcygeus | muscle ilio-coccygien | FMA19092 |
 | iliocostalis | muscle ilio-costal | FMA77177 |
-| iliocostalis cervicis | *(non traduit)* | FMA22704 |
-| iliocostalis lumborum | *(non traduit)* | FMA22702 |
-| iliocostalis thoracis | *(non traduit)* | FMA22703 |
-| inferior oblique | *(non traduit)* | FMA49040 |
-| inferior oblique part of left longus colli | *(non traduit)* | FMA46288 |
-| inferior oblique part of longus colli | *(non traduit)* | FMA46281 |
-| inferior rectus | *(non traduit)* | FMA49036 |
-| inferior wall of right ventricle | *(non traduit)* | FMA9555 |
-| inflow part of right ventricle | *(non traduit)* | FMA9552 |
-| infrahyoid muscle | *(non traduit)* | FMA13338 |
-| infraspinatus | *(non traduit)* | FMA32546 |
-| innermost intercostal muscle | *(non traduit)* | FMA9758 |
-| intercostal muscle | *(non traduit)* | FMA13354 |
-| intermediate postvertebral muscle | *(non traduit)* | FMA32560 |
-| internal intercostal muscle | *(non traduit)* | FMA9757 |
+| iliocostalis cervicis | muscle ilio-costal du cou | FMA22704 |
+| iliocostalis lumborum | muscle ilio-costal des lombes | FMA22702 |
+| iliocostalis thoracis | muscle ilio-costal du thorax | FMA22703 |
+| inferior oblique | muscle oblique inférieur | FMA49040 |
+| inferior oblique part of left longus colli | partie oblique inférieure du muscle long du cou gauche | FMA46288 |
+| inferior oblique part of longus colli | partie oblique inférieure du muscle long du cou | FMA46281 |
+| inferior rectus | muscle droit inférieur | FMA49036 |
+| inferior wall of right ventricle | paroi inférieure du ventricule droit | FMA9555 |
+| inflow part of right ventricle | chambre de remplissage du ventricule droit | FMA9552 |
+| infrahyoid muscle | muscle infra-hyoïdien | FMA13338 |
+| infraspinatus | muscle infra-épineux | FMA32546 |
+| innermost intercostal muscle | muscle intercostal intime | FMA9758 |
+| intercostal muscle | muscle intercostal | FMA13354 |
+| intermediate postvertebral muscle | muscle postvertébral intermédiaire | FMA32560 |
+| internal intercostal muscle | muscle intercostal interne | FMA9757 |
 | interosseous of foot | muscle interosseux du pied | FMA37456 |
-| interspinalis muscle | *(non traduit)* | FMA22841 |
-| interspinalis thoracis | *(non traduit)* | FMA22846 |
-| intertransversarius muscle | *(non traduit)* | FMA22848 |
-| intrinsic muscle of dorsum of foot | *(non traduit)* | FMA65045 |
-| intrinsic muscle of foot | *(non traduit)* | FMA65020 |
-| intrinsic muscle of hand | *(non traduit)* | FMA42380 |
-| intrinsic muscle of larynx | *(non traduit)* | FMA55226 |
-| intrinsic muscle of plantar part of foot | *(non traduit)* | FMA65046 |
-| intrinsic muscle of shoulder | *(non traduit)* | FMA32520 |
-| lateral crico-arytenoid | *(non traduit)* | FMA46579 |
-| lateral head of flexor hallucis brevis | *(non traduit)* | FMA45970 |
-| lateral head of gastrocnemius | *(non traduit)* | FMA45959 |
-| lateral head of left flexor hallucis brevis | *(non traduit)* | FMA45974 |
-| lateral head of left gastrocnemius | *(non traduit)* | FMA45961 |
-| lateral head of left triceps brachii | *(non traduit)* | FMA37698 |
-| lateral head of right flexor hallucis brevis | *(non traduit)* | FMA45973 |
-| lateral head of right gastrocnemius | *(non traduit)* | FMA45960 |
-| lateral head of right triceps brachii | *(non traduit)* | FMA37697 |
-| lateral head of triceps brachii | *(non traduit)* | FMA37694 |
-| lateral lumbar intertransversarius | *(non traduit)* | FMA22850 |
-| lateral papillary muscle of left ventricle | *(non traduit)* | FMA7264 |
-| lateral rectus | *(non traduit)* | FMA49038 |
-| lateral wall of left ventricle | *(non traduit)* | FMA9563 |
-| left abductor hallucis | *(non traduit)* | FMA37460 |
-| left abductor pollicis brevis | *(non traduit)* | FMA37387 |
-| left abductor pollicis longus | *(non traduit)* | FMA38517 |
-| left adductor brevis | *(non traduit)* | FMA22454 |
-| left adductor longus | *(non traduit)* | FMA22457 |
-| left adductor magnus | *(non traduit)* | FMA22460 |
-| left adductor minimus | *(non traduit)* | FMA43887 |
-| left anconeus | *(non traduit)* | FMA37706 |
+| interspinalis muscle | muscle interépineux | FMA22841 |
+| interspinalis thoracis | muscle interépineux du thorax | FMA22846 |
+| intertransversarius muscle | muscle intertransversaire | FMA22848 |
+| intrinsic muscle of dorsum of foot | muscle intrinsèque du dos du pied | FMA65045 |
+| intrinsic muscle of foot | muscle intrinsèque du pied | FMA65020 |
+| intrinsic muscle of hand | muscle intrinsèque de la main | FMA42380 |
+| intrinsic muscle of larynx | muscle intrinsèque du larynx | FMA55226 |
+| intrinsic muscle of plantar part of foot | muscle intrinsèque de la plante du pied | FMA65046 |
+| intrinsic muscle of shoulder | muscle intrinsèque de l'épaule | FMA32520 |
+| lateral crico-arytenoid | muscle crico-aryténoïdien latéral | FMA46579 |
+| lateral head of flexor hallucis brevis | chef latéral du muscle court fléchisseur de l'hallux | FMA45970 |
+| lateral head of gastrocnemius | chef latéral du muscle gastrocnémien | FMA45959 |
+| lateral head of left flexor hallucis brevis | chef latéral du muscle court fléchisseur de l'hallux gauche | FMA45974 |
+| lateral head of left gastrocnemius | chef latéral du muscle gastrocnémien gauche | FMA45961 |
+| lateral head of left triceps brachii | chef latéral du muscle triceps brachial gauche | FMA37698 |
+| lateral head of right flexor hallucis brevis | chef latéral du muscle court fléchisseur de l'hallux droit | FMA45973 |
+| lateral head of right gastrocnemius | chef latéral du muscle gastrocnémien droit | FMA45960 |
+| lateral head of right triceps brachii | chef latéral du muscle triceps brachial droit | FMA37697 |
+| lateral head of triceps brachii | chef latéral du muscle triceps brachial | FMA37694 |
+| lateral lumbar intertransversarius | muscle intertransversaire latéral des lombes | FMA22850 |
+| lateral papillary muscle of left ventricle | muscle papillaire latéral du ventricule gauche | FMA7264 |
+| lateral rectus | muscle droit latéral | FMA49038 |
+| lateral wall of left ventricle | paroi latérale du ventricule gauche | FMA9563 |
+| left abductor hallucis | muscle abducteur de l'hallux gauche | FMA37460 |
+| left abductor pollicis brevis | muscle court abducteur du pouce gauche | FMA37387 |
+| left abductor pollicis longus | muscle long abducteur du pouce gauche | FMA38517 |
+| left adductor brevis | muscle court adducteur gauche | FMA22454 |
+| left adductor longus | muscle long adducteur gauche | FMA22457 |
+| left adductor magnus | muscle grand adducteur gauche | FMA22460 |
+| left adductor minimus | muscle petit adducteur gauche | FMA43887 |
+| left anconeus | muscle anconé gauche | FMA37706 |
 | left arm | bras gauche | FMA24896 |
-| left aryepiglotticus | *(non traduit)* | FMA46605 |
-| left brachialis | *(non traduit)* | FMA37669 |
-| left brachioradialis | *(non traduit)* | FMA38487 |
-| left cervical rotator | *(non traduit)* | FMA81753 |
-| left coccygeus | *(non traduit)* | FMA46444 |
-| left coracobrachialis | *(non traduit)* | FMA37666 |
-| left digastric | *(non traduit)* | FMA46293 |
-| left extensor carpi radialis brevis | *(non traduit)* | FMA38499 |
-| left extensor carpi radialis longus | *(non traduit)* | FMA38496 |
-| left extensor carpi ulnaris | *(non traduit)* | FMA38508 |
-| left extensor digiti minimi | *(non traduit)* | FMA38505 |
-| left extensor digitorum | *(non traduit)* | FMA38502 |
-| left extensor digitorum longus | *(non traduit)* | FMA22549 |
-| left extensor hallucis brevis | *(non traduit)* | FMA51145 |
-| left extensor hallucis longus | *(non traduit)* | FMA22547 |
-| left extensor indicis | *(non traduit)* | FMA38526 |
-| left extensor pollicis brevis | *(non traduit)* | FMA38520 |
-| left extensor pollicis longus | *(non traduit)* | FMA38523 |
-| left external oblique | *(non traduit)* | FMA13337 |
-| left flexor accessorius | *(non traduit)* | FMA37466 |
-| left flexor carpi radialis | *(non traduit)* | FMA38461 |
-| left flexor digitorum brevis | *(non traduit)* | FMA37462 |
-| left flexor digitorum longus | *(non traduit)* | FMA65017 |
-| left flexor digitorum profundus | *(non traduit)* | FMA38480 |
-| left flexor digitorum superficialis | *(non traduit)* | FMA38471 |
-| left flexor hallucis longus | *(non traduit)* | FMA65015 |
-| left flexor pollicis brevis | *(non traduit)* | FMA37389 |
-| left flexor pollicis longus | *(non traduit)* | FMA38484 |
-| left gemellus inferior | *(non traduit)* | FMA22337 |
-| left gemellus superior | *(non traduit)* | FMA22335 |
-| left genioglossus | *(non traduit)* | FMA46702 |
-| left geniohyoid | *(non traduit)* | FMA46327 |
-| left gluteus maximus | *(non traduit)* | FMA22329 |
-| left gluteus medius | *(non traduit)* | FMA22331 |
-| left gluteus minimus | *(non traduit)* | FMA22333 |
-| left gracilis | *(non traduit)* | FMA43884 |
-| left hyoglossus | *(non traduit)* | FMA46704 |
-| left iliacus | *(non traduit)* | FMA22323 |
-| left iliococcygeus | *(non traduit)* | FMA45859 |
-| left iliocostalis cervicis | *(non traduit)* | FMA22745 |
-| left iliocostalis lumborum | *(non traduit)* | FMA22741 |
-| left iliocostalis thoracis | *(non traduit)* | FMA22743 |
-| left inferior oblique | *(non traduit)* | FMA49051 |
-| left inferior rectus | *(non traduit)* | FMA49047 |
-| left infraspinatus muscle | *(non traduit)* | FMA32548 |
-| left interspinalis thoracis | *(non traduit)* | FMA22891 |
-| left lateral chest wall | *(non traduit)* | FMA25559 |
-| left lateral crico-arytenoid | *(non traduit)* | FMA46581 |
-| left lateral rectus | *(non traduit)* | FMA49055 |
-| left lateral superficial chest wall | *(non traduit)* | FMA50072 |
-| left levator palpebrae superioris | *(non traduit)* | FMA49049 |
-| left levator veli palatini | *(non traduit)* | FMA46729 |
-| left longissimus capitis | *(non traduit)* | FMA22756 |
-| left longissimus cervicis | *(non traduit)* | FMA22758 |
-| left longissimus thoracis | *(non traduit)* | FMA22753 |
-| left longus capitis | *(non traduit)* | FMA46310 |
-| left lumbar rotator | *(non traduit)* | FMA23090 |
-| left medial rectus | *(non traduit)* | FMA49057 |
-| left mylohyoid | *(non traduit)* | FMA46322 |
-| left oblique arytenoid | *(non traduit)* | FMA46585 |
-| left obliquus capitis inferior | *(non traduit)* | FMA32537 |
-| left obliquus capitis superior | *(non traduit)* | FMA32535 |
-| left obturator externus | *(non traduit)* | FMA22327 |
-| left obturator internus | *(non traduit)* | FMA22325 |
-| left omohyoid | *(non traduit)* | FMA13349 |
-| left opponens pollicis | *(non traduit)* | FMA37391 |
-| left palmaris longus | *(non traduit)* | FMA38464 |
-| left pectineus | *(non traduit)* | FMA22451 |
+| left aryepiglotticus | muscle ary-épiglottique gauche | FMA46605 |
+| left brachialis | muscle brachial gauche | FMA37669 |
+| left brachioradialis | muscle brachio-radial gauche | FMA38487 |
+| left cervical rotator | muscle rotateur cervical gauche | FMA81753 |
+| left coccygeus | muscle coccygien gauche | FMA46444 |
+| left coracobrachialis | muscle coraco-brachial gauche | FMA37666 |
+| left digastric | muscle digastrique gauche | FMA46293 |
+| left extensor carpi radialis brevis | muscle court extenseur radial du carpe gauche | FMA38499 |
+| left extensor carpi radialis longus | muscle long extenseur radial du carpe gauche | FMA38496 |
+| left extensor carpi ulnaris | muscle extenseur ulnaire du carpe gauche | FMA38508 |
+| left extensor digiti minimi | muscle extenseur du petit doigt gauche | FMA38505 |
+| left extensor digitorum | muscle extenseur des doigts gauche | FMA38502 |
+| left extensor digitorum longus | muscle long extenseur des orteils gauche | FMA22549 |
+| left extensor hallucis brevis | muscle court extenseur de l'hallux gauche | FMA51145 |
+| left extensor hallucis longus | muscle long extenseur de l'hallux gauche | FMA22547 |
+| left extensor indicis | muscle extenseur de l'index gauche | FMA38526 |
+| left extensor pollicis brevis | muscle court extenseur du pouce gauche | FMA38520 |
+| left extensor pollicis longus | muscle long extenseur du pouce gauche | FMA38523 |
+| left external oblique | muscle oblique externe gauche | FMA13337 |
+| left flexor accessorius | muscle carré plantaire gauche | FMA37466 |
+| left flexor carpi radialis | muscle fléchisseur radial du carpe gauche | FMA38461 |
+| left flexor digitorum brevis | muscle court fléchisseur des orteils gauche | FMA37462 |
+| left flexor digitorum longus | muscle long fléchisseur des orteils gauche | FMA65017 |
+| left flexor digitorum profundus | muscle fléchisseur profond des doigts gauche | FMA38480 |
+| left flexor digitorum superficialis | muscle fléchisseur superficiel des doigts gauche | FMA38471 |
+| left flexor hallucis longus | muscle long fléchisseur de l'hallux gauche | FMA65015 |
+| left flexor pollicis brevis | muscle court fléchisseur du pouce gauche | FMA37389 |
+| left flexor pollicis longus | muscle long fléchisseur du pouce gauche | FMA38484 |
+| left gemellus inferior | muscle jumeau inférieur gauche | FMA22337 |
+| left gemellus superior | muscle jumeau supérieur gauche | FMA22335 |
+| left genioglossus | muscle génioglosse gauche | FMA46702 |
+| left geniohyoid | muscle génio-hyoïdien gauche | FMA46327 |
+| left gluteus maximus | muscle grand glutéal gauche | FMA22329 |
+| left gluteus medius | muscle moyen glutéal gauche | FMA22331 |
+| left gluteus minimus | muscle petit glutéal gauche | FMA22333 |
+| left gracilis | muscle gracile gauche | FMA43884 |
+| left hyoglossus | muscle hyoglosse gauche | FMA46704 |
+| left iliacus | muscle iliaque gauche | FMA22323 |
+| left iliococcygeus | muscle ilio-coccygien gauche | FMA45859 |
+| left iliocostalis cervicis | muscle ilio-costal du cou gauche | FMA22745 |
+| left iliocostalis lumborum | muscle ilio-costal des lombes gauche | FMA22741 |
+| left iliocostalis thoracis | muscle ilio-costal du thorax gauche | FMA22743 |
+| left inferior oblique | muscle oblique inférieur gauche | FMA49051 |
+| left inferior rectus | muscle droit inférieur gauche | FMA49047 |
+| left infraspinatus muscle | muscle infra-épineux gauche | FMA32548 |
+| left interspinalis thoracis | muscle interépineux du thorax gauche | FMA22891 |
+| left lateral chest wall | paroi thoracique latérale gauche | FMA25559 |
+| left lateral crico-arytenoid | muscle crico-aryténoïdien latéral gauche | FMA46581 |
+| left lateral rectus | muscle droit latéral gauche | FMA49055 |
+| left lateral superficial chest wall | paroi thoracique superficielle latérale gauche | FMA50072 |
+| left levator palpebrae superioris | muscle élévateur de la paupière supérieure gauche | FMA49049 |
+| left levator veli palatini | muscle élévateur du voile du palais gauche | FMA46729 |
+| left longissimus capitis | muscle longissimus de la tête gauche | FMA22756 |
+| left longissimus cervicis | muscle longissimus du cou gauche | FMA22758 |
+| left longissimus thoracis | muscle longissimus du thorax gauche | FMA22753 |
+| left longus capitis | muscle long de la tête gauche | FMA46310 |
+| left lumbar rotator | muscle rotateur lombaire gauche | FMA23090 |
+| left medial rectus | muscle droit médial gauche | FMA49057 |
+| left mylohyoid | muscle mylo-hyoïdien gauche | FMA46322 |
+| left oblique arytenoid | muscle aryténoïdien oblique gauche | FMA46585 |
+| left obliquus capitis inferior | muscle oblique inférieur de la tête gauche | FMA32537 |
+| left obliquus capitis superior | muscle oblique supérieur de la tête gauche | FMA32535 |
+| left obturator externus | muscle obturateur externe gauche | FMA22327 |
+| left obturator internus | muscle obturateur interne gauche | FMA22325 |
+| left omohyoid | muscle omo-hyoïdien gauche | FMA13349 |
+| left opponens pollicis | muscle opposant du pouce gauche | FMA37391 |
+| left palmaris longus | muscle long palmaire gauche | FMA38464 |
+| left pectineus | muscle pectiné gauche | FMA22451 |
 | left pectoral girdle | ceinture pectorale gauche | FMA23219 |
-| left pectoral part of chest | *(non traduit)* | FMA61473 |
-| left pectoralis major | *(non traduit)* | FMA13374 |
-| left pectoralis minor | *(non traduit)* | FMA13376 |
-| left piriformis | *(non traduit)* | FMA22341 |
-| left plantaris | *(non traduit)* | FMA22561 |
-| left platysma | *(non traduit)* | FMA45740 |
-| left popliteus | *(non traduit)* | FMA22592 |
-| left posterior crico-arytenoid | *(non traduit)* | FMA46578 |
-| left pronator quadratus | *(non traduit)* | FMA38455 |
-| left psoas major | *(non traduit)* | FMA22343 |
-| left pubococcygeus | *(non traduit)* | FMA45855 |
-| left puborectalis | *(non traduit)* | FMA45857 |
-| left quadratus femoris | *(non traduit)* | FMA22339 |
-| left rectus capitis anterior | *(non traduit)* | FMA46314 |
-| left rectus capitis lateralis | *(non traduit)* | FMA46318 |
-| left rectus capitis posterior major | *(non traduit)* | FMA32531 |
-| left rectus capitis posterior minor | *(non traduit)* | FMA32533 |
-| left rectus femoris | *(non traduit)* | FMA38929 |
-| left rhomboid major | *(non traduit)* | FMA13382 |
-| left rhomboid minor | *(non traduit)* | FMA13384 |
-| left sartorius | *(non traduit)* | FMA22355 |
-| left scalenus anterior | *(non traduit)* | FMA13393 |
-| left scalenus medius | *(non traduit)* | FMA13391 |
-| left scalenus posterior | *(non traduit)* | FMA13389 |
-| left semimembranosus | *(non traduit)* | FMA22449 |
-| left semispinalis capitis | *(non traduit)* | FMA22877 |
-| left semispinalis cervicis | *(non traduit)* | FMA22875 |
-| left semispinalis thoracis | *(non traduit)* | FMA22873 |
-| left semitendinosus | *(non traduit)* | FMA22359 |
-| left serratus anterior | *(non traduit)* | FMA13399 |
-| left serratus posterior inferior | *(non traduit)* | FMA13406 |
-| left serratus posterior superior | *(non traduit)* | FMA13404 |
-| left soleus | *(non traduit)* | FMA22559 |
-| left spinalis thoracis | *(non traduit)* | FMA22780 |
-| left splenius capitis | *(non traduit)* | FMA22729 |
-| left splenius cervicis | *(non traduit)* | FMA22727 |
-| left sternocleidomastoid | *(non traduit)* | FMA13409 |
-| left sternohyoid | *(non traduit)* | FMA13347 |
-| left sternothyroid | *(non traduit)* | FMA13351 |
-| left stylohyoid | *(non traduit)* | FMA45827 |
-| left subclavius | *(non traduit)* | FMA13411 |
-| left superior oblique | *(non traduit)* | FMA49053 |
-| left superior rectus | *(non traduit)* | FMA49045 |
-| left supinator | *(non traduit)* | FMA38514 |
-| left supraspinatus | *(non traduit)* | FMA32545 |
-| left tensor veli palatini | *(non traduit)* | FMA46732 |
-| left teres major | *(non traduit)* | FMA32552 |
-| left teres minor | *(non traduit)* | FMA32554 |
-| left thyro-arytenoid | *(non traduit)* | FMA46590 |
-| left thyrohyoid | *(non traduit)* | FMA13353 |
-| left transversus thoracis | *(non traduit)* | FMA9762 |
-| left upper eyelid | *(non traduit)* | FMA54441 |
-| left vastus intermedius | *(non traduit)* | FMA38935 |
-| left vastus lateralis | *(non traduit)* | FMA38931 |
-| left vastus medialis | *(non traduit)* | FMA38933 |
-| left vocalis | *(non traduit)* | FMA46593 |
-| levator palpebrae superioris | *(non traduit)* | FMA49041 |
-| levator veli palatini | *(non traduit)* | FMA46727 |
-| long head of biceps brachii | *(non traduit)* | FMA37683 |
-| long head of biceps femoris | *(non traduit)* | FMA45887 |
-| long head of left biceps brachii | *(non traduit)* | FMA37687 |
-| long head of left biceps femoris | *(non traduit)* | FMA45889 |
-| long head of left triceps brachii | *(non traduit)* | FMA37700 |
-| long head of right biceps brachii | *(non traduit)* | FMA37686 |
-| long head of right biceps femoris | *(non traduit)* | FMA45888 |
-| long head of right triceps brachii | *(non traduit)* | FMA37699 |
-| long head of triceps brachii | *(non traduit)* | FMA37692 |
+| left pectoral part of chest | partie pectorale gauche du thorax | FMA61473 |
+| left pectoralis major | muscle grand pectoral gauche | FMA13374 |
+| left pectoralis minor | muscle petit pectoral gauche | FMA13376 |
+| left piriformis | muscle piriforme gauche | FMA22341 |
+| left plantaris | muscle plantaire gauche | FMA22561 |
+| left platysma | platysma gauche | FMA45740 |
+| left popliteus | muscle poplité gauche | FMA22592 |
+| left posterior crico-arytenoid | muscle crico-aryténoïdien postérieur gauche | FMA46578 |
+| left pronator quadratus | muscle carré pronateur gauche | FMA38455 |
+| left psoas major | muscle grand psoas gauche | FMA22343 |
+| left pubococcygeus | muscle pubo-coccygien gauche | FMA45855 |
+| left puborectalis | muscle pubo-rectal gauche | FMA45857 |
+| left quadratus femoris | muscle carré fémoral gauche | FMA22339 |
+| left rectus capitis anterior | muscle droit antérieur de la tête gauche | FMA46314 |
+| left rectus capitis lateralis | muscle droit latéral de la tête gauche | FMA46318 |
+| left rectus capitis posterior major | muscle grand droit postérieur de la tête gauche | FMA32531 |
+| left rectus capitis posterior minor | muscle petit droit postérieur de la tête gauche | FMA32533 |
+| left rectus femoris | muscle droit fémoral gauche | FMA38929 |
+| left rhomboid major | muscle grand rhomboïde gauche | FMA13382 |
+| left rhomboid minor | muscle petit rhomboïde gauche | FMA13384 |
+| left sartorius | muscle sartorius gauche | FMA22355 |
+| left scalenus anterior | muscle scalène antérieur gauche | FMA13393 |
+| left scalenus medius | muscle scalène moyen gauche | FMA13391 |
+| left scalenus posterior | muscle scalène postérieur gauche | FMA13389 |
+| left semimembranosus | muscle semi-membraneux gauche | FMA22449 |
+| left semispinalis capitis | muscle semi-épineux de la tête gauche | FMA22877 |
+| left semispinalis cervicis | muscle semi-épineux du cou gauche | FMA22875 |
+| left semispinalis thoracis | muscle semi-épineux du thorax gauche | FMA22873 |
+| left semitendinosus | muscle semi-tendineux gauche | FMA22359 |
+| left serratus anterior | muscle dentelé antérieur gauche | FMA13399 |
+| left serratus posterior inferior | muscle dentelé postérieur inférieur gauche | FMA13406 |
+| left serratus posterior superior | muscle dentelé postérieur supérieur gauche | FMA13404 |
+| left soleus | muscle soléaire gauche | FMA22559 |
+| left spinalis thoracis | muscle épineux du thorax gauche | FMA22780 |
+| left splenius capitis | muscle splénius de la tête gauche | FMA22729 |
+| left splenius cervicis | muscle splénius du cou gauche | FMA22727 |
+| left sternocleidomastoid | muscle sterno-cléido-mastoïdien gauche | FMA13409 |
+| left sternohyoid | muscle sterno-hyoïdien gauche | FMA13347 |
+| left sternothyroid | muscle sterno-thyroïdien gauche | FMA13351 |
+| left stylohyoid | muscle stylo-hyoïdien gauche | FMA45827 |
+| left subclavius | muscle subclavier gauche | FMA13411 |
+| left superior oblique | muscle oblique supérieur gauche | FMA49053 |
+| left superior rectus | muscle droit supérieur gauche | FMA49045 |
+| left supinator | muscle supinateur gauche | FMA38514 |
+| left supraspinatus | muscle supra-épineux gauche | FMA32545 |
+| left tensor veli palatini | muscle tenseur du voile du palais gauche | FMA46732 |
+| left teres major | muscle grand rond gauche | FMA32552 |
+| left teres minor | muscle petit rond gauche | FMA32554 |
+| left thyro-arytenoid | muscle thyro-aryténoïdien gauche | FMA46590 |
+| left thyrohyoid | muscle thyro-hyoïdien gauche | FMA13353 |
+| left transversus thoracis | muscle transverse du thorax gauche | FMA9762 |
+| left upper eyelid | paupière supérieure gauche | FMA54441 |
+| left vastus intermedius | muscle vaste intermédiaire gauche | FMA38935 |
+| left vastus lateralis | muscle vaste latéral gauche | FMA38931 |
+| left vastus medialis | muscle vaste médial gauche | FMA38933 |
+| left vocalis | muscle vocal gauche | FMA46593 |
+| levator palpebrae superioris | muscle élévateur de la paupière supérieure | FMA49041 |
+| levator veli palatini | muscle élévateur du voile du palais | FMA46727 |
+| long head of biceps brachii | chef long du muscle biceps brachial | FMA37683 |
+| long head of biceps femoris | chef long du muscle biceps fémoral | FMA45887 |
+| long head of left biceps brachii | chef long du muscle biceps brachial gauche | FMA37687 |
+| long head of left biceps femoris | chef long du muscle biceps fémoral gauche | FMA45889 |
+| long head of left triceps brachii | chef long du muscle triceps brachial gauche | FMA37700 |
+| long head of right biceps brachii | chef long du muscle biceps brachial droit | FMA37686 |
+| long head of right biceps femoris | chef long du muscle biceps fémoral droit | FMA45888 |
+| long head of right triceps brachii | chef long du muscle triceps brachial droit | FMA37699 |
+| long head of triceps brachii | chef long du muscle triceps brachial | FMA37692 |
 | longissimus | muscle longissimus | FMA77178 |
-| longissimus capitis | *(non traduit)* | FMA22714 |
-| longissimus cervicis | *(non traduit)* | FMA22711 |
-| longissimus thoracis | *(non traduit)* | FMA22709 |
-| longus capitis | *(non traduit)* | FMA46308 |
-| lumbar intertransversarius | *(non traduit)* | FMA22849 |
-| lumbar rotator | *(non traduit)* | FMA23084 |
+| longissimus capitis | muscle longissimus de la tête | FMA22714 |
+| longissimus cervicis | muscle longissimus du cou | FMA22711 |
+| longissimus thoracis | muscle longissimus du thorax | FMA22709 |
+| longus capitis | muscle long de la tête | FMA46308 |
+| lumbar intertransversarius | muscle intertransversaire lombaire | FMA22849 |
+| lumbar rotator | muscle rotateur lombaire | FMA23084 |
 | lumbrical of foot | muscle lombrical du pied | FMA37453 |
-| medial head of flexor hallucis brevis | *(non traduit)* | FMA45969 |
-| medial head of gastrocnemius | *(non traduit)* | FMA45956 |
-| medial head of left flexor hallucis brevis | *(non traduit)* | FMA45972 |
-| medial head of left gastrocnemius | *(non traduit)* | FMA45958 |
-| medial head of left triceps brachii | *(non traduit)* | FMA37696 |
-| medial head of right flexor hallucis brevis | *(non traduit)* | FMA45971 |
-| medial head of right gastrocnemius | *(non traduit)* | FMA45957 |
-| medial head of right triceps brachii | *(non traduit)* | FMA37695 |
-| medial head of triceps brachii | *(non traduit)* | FMA37693 |
-| medial lumbar intertransversarius | *(non traduit)* | FMA22851 |
-| medial rectus | *(non traduit)* | FMA49037 |
+| medial head of flexor hallucis brevis | chef médial du muscle court fléchisseur de l'hallux | FMA45969 |
+| medial head of gastrocnemius | chef médial du muscle gastrocnémien | FMA45956 |
+| medial head of left flexor hallucis brevis | chef médial du muscle court fléchisseur de l'hallux gauche | FMA45972 |
+| medial head of left gastrocnemius | chef médial du muscle gastrocnémien gauche | FMA45958 |
+| medial head of left triceps brachii | chef médial du muscle triceps brachial gauche | FMA37696 |
+| medial head of right flexor hallucis brevis | chef médial du muscle court fléchisseur de l'hallux droit | FMA45971 |
+| medial head of right gastrocnemius | chef médial du muscle gastrocnémien droit | FMA45957 |
+| medial head of right triceps brachii | chef médial du muscle triceps brachial droit | FMA37695 |
+| medial head of triceps brachii | chef médial du muscle triceps brachial | FMA37693 |
+| medial lumbar intertransversarius | muscle intertransversaire médial des lombes | FMA22851 |
+| medial rectus | muscle droit médial | FMA49037 |
 | mouth | bouche | FMA49184 |
-| muscle of abdomen | *(non traduit)* | FMA9620 |
-| muscle of anterior abdominal wall | *(non traduit)* | FMA20278 |
-| muscle of anterior compartment of arm | *(non traduit)* | FMA37711 |
-| muscle of anterior compartment of forearm | *(non traduit)* | FMA38456 |
-| muscle of anterior compartment of leg | *(non traduit)* | FMA22472 |
-| muscle of anterior compartment of thigh | *(non traduit)* | FMA22424 |
-| muscle of arm | *(non traduit)* | FMA37370 |
-| muscle of face | *(non traduit)* | FMA46751 |
-| muscle of foot | *(non traduit)* | FMA37369 |
-| muscle of forearm | *(non traduit)* | FMA37371 |
-| muscle of free lower limb | *(non traduit)* | FMA37368 |
-| muscle of free upper limb | *(non traduit)* | FMA37348 |
-| muscle of hand | *(non traduit)* | FMA37372 |
-| muscle of head | *(non traduit)* | FMA9616 |
-| muscle of larynx | *(non traduit)* | FMA46562 |
-| muscle of leg | *(non traduit)* | FMA22471 |
-| muscle of lower limb | *(non traduit)* | FMA9622 |
-| muscle of medial compartment of thigh | *(non traduit)* | FMA22439 |
-| muscle of neck | *(non traduit)* | FMA9617 |
-| muscle of palate | *(non traduit)* | FMA46726 |
-| muscle of pectoral girdle | *(non traduit)* | FMA37347 |
-| muscle of pelvic girdle | *(non traduit)* | FMA37367 |
-| muscle of pelvis | *(non traduit)* | FMA19086 |
-| muscle of posterior compartment of arm | *(non traduit)* | FMA37712 |
-| muscle of posterior compartment of forearm | *(non traduit)* | FMA38488 |
-| muscle of posterior compartment of leg | *(non traduit)* | FMA22474 |
-| muscle of posterior compartment of thigh | *(non traduit)* | FMA22427 |
-| muscle of shoulder | *(non traduit)* | FMA33531 |
-| muscle of thigh | *(non traduit)* | FMA22470 |
-| muscle of thorax | *(non traduit)* | FMA9619 |
-| muscle of tongue | *(non traduit)* | FMA46689 |
-| muscle of trunk | *(non traduit)* | FMA58274 |
-| muscle of upper limb | *(non traduit)* | FMA9621 |
-| muscle of vertebral column | *(non traduit)* | FMA22594 |
-| muscle organ | *(non traduit)* | FMA5022 |
+| muscle of abdomen | muscle de l'abdomen | FMA9620 |
+| muscle of anterior abdominal wall | muscle de la paroi abdominale antérieure | FMA20278 |
+| muscle of anterior compartment of arm | muscle du compartiment antérieur du bras | FMA37711 |
+| muscle of anterior compartment of forearm | muscle du compartiment antérieur de l'avant-bras | FMA38456 |
+| muscle of anterior compartment of leg | muscle du compartiment antérieur de la jambe | FMA22472 |
+| muscle of anterior compartment of thigh | muscle du compartiment antérieur de la cuisse | FMA22424 |
+| muscle of arm | muscle du bras | FMA37370 |
+| muscle of face | muscle de la face | FMA46751 |
+| muscle of foot | muscle du pied | FMA37369 |
+| muscle of forearm | muscle de l'avant-bras | FMA37371 |
+| muscle of free lower limb | muscle de la partie libre du membre inférieur | FMA37368 |
+| muscle of free upper limb | muscle de la partie libre du membre supérieur | FMA37348 |
+| muscle of hand | muscle de la main | FMA37372 |
+| muscle of head | muscle de la tête | FMA9616 |
+| muscle of larynx | muscle du larynx | FMA46562 |
+| muscle of leg | muscle de la jambe | FMA22471 |
+| muscle of lower limb | muscle du membre inférieur | FMA9622 |
+| muscle of medial compartment of thigh | muscle du compartiment médial de la cuisse | FMA22439 |
+| muscle of neck | muscle du cou | FMA9617 |
+| muscle of palate | muscle du palais | FMA46726 |
+| muscle of pectoral girdle | muscle de la ceinture pectorale | FMA37347 |
+| muscle of pelvic girdle | muscle de la ceinture pelvienne | FMA37367 |
+| muscle of pelvis | muscle du pelvis | FMA19086 |
+| muscle of posterior compartment of arm | muscle du compartiment postérieur du bras | FMA37712 |
+| muscle of posterior compartment of forearm | muscle du compartiment postérieur de l'avant-bras | FMA38488 |
+| muscle of posterior compartment of leg | muscle du compartiment postérieur de la jambe | FMA22474 |
+| muscle of posterior compartment of thigh | muscle du compartiment postérieur de la cuisse | FMA22427 |
+| muscle of shoulder | muscle de l'épaule | FMA33531 |
+| muscle of thigh | muscle de la cuisse | FMA22470 |
+| muscle of thorax | muscle du thorax | FMA9619 |
+| muscle of tongue | muscle de la langue | FMA46689 |
+| muscle of trunk | muscle du tronc | FMA58274 |
+| muscle of upper limb | muscle du membre supérieur | FMA9621 |
+| muscle of vertebral column | muscle de la colonne vertébrale | FMA22594 |
+| muscle organ | muscle | FMA5022 |
 | musculature | musculature | FMA32558 |
-| musculature of abdomen | *(non traduit)* | FMA86917 |
-| musculature of anterior abdominal wall | *(non traduit)* | FMA78435 |
-| musculature of chest | *(non traduit)* | FMA74779 |
-| musculature of subdivision of free upper limb | *(non traduit)* | FMA50391 |
-| musculature of subdivision of trunk | *(non traduit)* | FMA50185 |
-| musculature of subdivision of upper limb | *(non traduit)* | FMA50200 |
-| mylohyoid | *(non traduit)* | FMA46320 |
-| myocardial zone 11 | *(non traduit)* | FMA86063 |
-| myocardial zone 12 | *(non traduit)* | FMA86064 |
-| myocardium of free wall of left ventricle | *(non traduit)* | FMA84932 |
-| myocardium of free wall of right ventricle | *(non traduit)* | FMA84931 |
-| myocardium of lateral wall of left ventricle | *(non traduit)* | FMA87178 |
-| myocardium of left ventricle | *(non traduit)* | FMA9558 |
-| myocardium of left ventricle proper | *(non traduit)* | FMA83448 |
-| myocardium of right ventricle | *(non traduit)* | FMA9535 |
-| myocardium of right ventricle proper | *(non traduit)* | FMA83447 |
+| musculature of abdomen | musculature de l'abdomen | FMA86917 |
+| musculature of anterior abdominal wall | musculature de la paroi abdominale antérieure | FMA78435 |
+| musculature of chest | musculature du thorax | FMA74779 |
+| musculature of subdivision of free upper limb | musculature de la subdivision de la partie libre du membre supérieur | FMA50391 |
+| musculature of subdivision of trunk | musculature de la subdivision du tronc | FMA50185 |
+| musculature of subdivision of upper limb | musculature de la subdivision du membre supérieur | FMA50200 |
+| mylohyoid | muscle mylo-hyoïdien | FMA46320 |
+| myocardial zone 11 | zone myocardique 11 | FMA86063 |
+| myocardial zone 12 | zone myocardique 12 | FMA86064 |
+| myocardium of free wall of left ventricle | myocarde de la paroi libre du ventricule gauche | FMA84932 |
+| myocardium of free wall of right ventricle | myocarde de la paroi libre du ventricule droit | FMA84931 |
+| myocardium of lateral wall of left ventricle | myocarde de la paroi latérale du ventricule gauche | FMA87178 |
+| myocardium of left ventricle | myocarde du ventricule gauche | FMA9558 |
+| myocardium of left ventricle proper | myocarde du ventricule gauche proprement dit | FMA83448 |
+| myocardium of right ventricle | myocarde du ventricule droit | FMA9535 |
+| myocardium of right ventricle proper | myocarde du ventricule droit proprement dit | FMA83447 |
 | nonparenchymatous organ | organe non parenchymateux | FMA55665 |
-| oblique arytenoid | *(non traduit)* | FMA46583 |
-| oblique head of adductor hallucis | *(non traduit)* | FMA46014 |
-| oblique head of adductor pollicis | *(non traduit)* | FMA46119 |
-| oblique head of left adductor hallucis | *(non traduit)* | FMA46019 |
-| oblique head of left adductor pollicis | *(non traduit)* | FMA46122 |
-| oblique head of right adductor hallucis | *(non traduit)* | FMA46018 |
-| oblique head of right adductor pollicis | *(non traduit)* | FMA46121 |
-| oblique part of cricothyroid | *(non traduit)* | FMA46610 |
-| oblique part of left cricothyroid | *(non traduit)* | FMA46614 |
-| oblique part of right cricothyroid | *(non traduit)* | FMA46613 |
-| obliquus capitis inferior | *(non traduit)* | FMA32528 |
-| obliquus capitis superior | *(non traduit)* | FMA32527 |
-| obturator externus | *(non traduit)* | FMA22299 |
-| obturator internus | *(non traduit)* | FMA22298 |
-| obturator muscle | *(non traduit)* | FMA19083 |
-| omohyoid | *(non traduit)* | FMA13342 |
-| opponens digiti minimi of foot | *(non traduit)* | FMA86033 |
-| opponens digiti minimi of hand | *(non traduit)* | FMA37384 |
-| opponens digiti minimi of left foot | *(non traduit)* | FMA86035 |
-| opponens digiti minimi of left hand | *(non traduit)* | FMA37401 |
-| opponens digiti minimi of right foot | *(non traduit)* | FMA86034 |
-| opponens digiti minimi of right hand | *(non traduit)* | FMA37400 |
-| opponens pollicis | *(non traduit)* | FMA37379 |
+| oblique arytenoid | muscle aryténoïdien oblique | FMA46583 |
+| oblique head of adductor hallucis | chef oblique du muscle adducteur de l'hallux | FMA46014 |
+| oblique head of adductor pollicis | chef oblique du muscle adducteur du pouce | FMA46119 |
+| oblique head of left adductor hallucis | chef oblique du muscle adducteur de l'hallux gauche | FMA46019 |
+| oblique head of left adductor pollicis | chef oblique du muscle adducteur du pouce gauche | FMA46122 |
+| oblique head of right adductor hallucis | chef oblique du muscle adducteur de l'hallux droit | FMA46018 |
+| oblique head of right adductor pollicis | chef oblique du muscle adducteur du pouce droit | FMA46121 |
+| oblique part of cricothyroid | partie oblique du muscle crico-thyroïdien | FMA46610 |
+| oblique part of left cricothyroid | partie oblique du muscle crico-thyroïdien gauche | FMA46614 |
+| oblique part of right cricothyroid | partie oblique du muscle crico-thyroïdien droit | FMA46613 |
+| obliquus capitis inferior | muscle oblique inférieur de la tête | FMA32528 |
+| obliquus capitis superior | muscle oblique supérieur de la tête | FMA32527 |
+| obturator externus | muscle obturateur externe | FMA22299 |
+| obturator internus | muscle obturateur interne | FMA22298 |
+| obturator muscle | muscle obturateur | FMA19083 |
+| omohyoid | muscle omo-hyoïdien | FMA13342 |
+| opponens digiti minimi of foot | muscle opposant du petit doigt du pied | FMA86033 |
+| opponens digiti minimi of hand | muscle opposant du petit doigt de la main | FMA37384 |
+| opponens digiti minimi of left foot | muscle opposant du petit doigt du pied gauche | FMA86035 |
+| opponens digiti minimi of left hand | muscle opposant du petit doigt de la main gauche | FMA37401 |
+| opponens digiti minimi of right foot | muscle opposant du petit doigt du pied droit | FMA86034 |
+| opponens digiti minimi of right hand | muscle opposant du petit doigt de la main droite | FMA37400 |
+| opponens pollicis | muscle opposant du pouce | FMA37379 |
 | organ | organe | FMA67498 |
 | organ zone | zone d'organe | FMA55268 |
-| palmaris longus | *(non traduit)* | FMA38462 |
-| papillary muscle of left ventricle | *(non traduit)* | FMA9352 |
-| papillary muscle of right ventricle | *(non traduit)* | FMA7259 |
-| pectineus | *(non traduit)* | FMA22440 |
-| pectoral muscle | *(non traduit)* | FMA37349 |
-| pectoral part of left pectoral girdle | *(non traduit)* | FMA33645 |
-| pectoral part of right pectoral girdle | *(non traduit)* | FMA33644 |
-| pectoralis minor | *(non traduit)* | FMA13109 |
+| palmaris longus | muscle long palmaire | FMA38462 |
+| papillary muscle of left ventricle | muscle papillaire du ventricule gauche | FMA9352 |
+| papillary muscle of right ventricle | muscle papillaire du ventricule droit | FMA7259 |
+| pectineus | muscle pectiné | FMA22440 |
+| pectoral muscle | muscle pectoral | FMA37349 |
+| pectoral part of left pectoral girdle | partie pectorale de la ceinture pectorale gauche | FMA33645 |
+| pectoral part of right pectoral girdle | partie pectorale de la ceinture pectorale droite | FMA33644 |
+| pectoralis minor | muscle petit pectoral | FMA13109 |
 | pelvic wall | paroi pelvienne | FMA10430 |
 | pelvis | pelvis | FMA9578 |
-| perineal muscle | *(non traduit)* | FMA9623 |
-| perineum | *(non traduit)* | FMA9579 |
-| piriformis | *(non traduit)* | FMA19082 |
+| perineal muscle | muscle du périnée | FMA9623 |
+| perineum | périnée | FMA9579 |
+| piriformis | muscle piriforme | FMA19082 |
 | plantar interosseous of foot | muscle interosseux plantaire | FMA37458 |
-| plantaris | *(non traduit)* | FMA22543 |
-| platysma | *(non traduit)* | FMA45738 |
-| popliteus | *(non traduit)* | FMA22590 |
-| posterior crico-arytenoid | *(non traduit)* | FMA46576 |
-| posterior papillary muscle of right ventricle | *(non traduit)* | FMA7261 |
-| posterior suboccipital muscle | *(non traduit)* | FMA32582 |
-| postvertebral muscle | *(non traduit)* | FMA32515 |
-| prevertebral muscle | *(non traduit)* | FMA32514 |
-| pronator quadratus | *(non traduit)* | FMA38453 |
-| psoas major | *(non traduit)* | FMA18060 |
-| pubococcygeus | *(non traduit)* | FMA19090 |
-| puborectalis | *(non traduit)* | FMA19091 |
-| quadratus femoris | *(non traduit)* | FMA22321 |
-| rectus capitis anterior | *(non traduit)* | FMA46312 |
-| rectus capitis lateralis | *(non traduit)* | FMA46316 |
-| rectus capitis posterior major | *(non traduit)* | FMA32525 |
-| rectus capitis posterior minor | *(non traduit)* | FMA32526 |
-| rectus femoris | *(non traduit)* | FMA22430 |
-| region of lateral papillary muscle of left ventricle | *(non traduit)* | FMA86566 |
-| region of papillary muscle | *(non traduit)* | FMA268955 |
-| region of papillary muscle of left ventricle | *(non traduit)* | FMA86565 |
-| rhomboid major | *(non traduit)* | FMA13379 |
-| rhomboid minor | *(non traduit)* | FMA13380 |
-| right abductor hallucis | *(non traduit)* | FMA37459 |
-| right abductor pollicis brevis | *(non traduit)* | FMA37386 |
-| right abductor pollicis longus | *(non traduit)* | FMA38516 |
-| right adductor brevis | *(non traduit)* | FMA22452 |
-| right adductor longus | *(non traduit)* | FMA22456 |
-| right adductor magnus | *(non traduit)* | FMA22459 |
-| right adductor minimus | *(non traduit)* | FMA43886 |
-| right anconeus | *(non traduit)* | FMA37705 |
-| right aryepiglotticus | *(non traduit)* | FMA46604 |
-| right brachialis | *(non traduit)* | FMA37668 |
-| right brachioradialis | *(non traduit)* | FMA38486 |
-| right cervical rotator | *(non traduit)* | FMA81752 |
-| right coccygeus | *(non traduit)* | FMA46443 |
-| right coracobrachialis | *(non traduit)* | FMA37665 |
-| right digastric | *(non traduit)* | FMA46292 |
-| right extensor carpi radialis brevis | *(non traduit)* | FMA38498 |
-| right extensor carpi radialis longus | *(non traduit)* | FMA38495 |
-| right extensor carpi ulnaris | *(non traduit)* | FMA38507 |
-| right extensor digiti minimi | *(non traduit)* | FMA38504 |
-| right extensor digitorum | *(non traduit)* | FMA38501 |
-| right extensor digitorum longus | *(non traduit)* | FMA22548 |
-| right extensor hallucis brevis | *(non traduit)* | FMA51144 |
-| right extensor hallucis longus | *(non traduit)* | FMA22546 |
-| right extensor indicis | *(non traduit)* | FMA38525 |
-| right extensor pollicis brevis | *(non traduit)* | FMA38519 |
-| right extensor pollicis longus | *(non traduit)* | FMA38522 |
-| right external oblique | *(non traduit)* | FMA13336 |
-| right flexor accessorius | *(non traduit)* | FMA37465 |
-| right flexor carpi radialis | *(non traduit)* | FMA38460 |
-| right flexor digitorum brevis | *(non traduit)* | FMA37461 |
-| right flexor digitorum longus | *(non traduit)* | FMA65016 |
-| right flexor digitorum profundus | *(non traduit)* | FMA38479 |
-| right flexor digitorum superficialis | *(non traduit)* | FMA38470 |
-| right flexor hallucis longus | *(non traduit)* | FMA65014 |
-| right flexor pollicis brevis | *(non traduit)* | FMA37388 |
-| right flexor pollicis longus | *(non traduit)* | FMA38482 |
-| right gemellus inferior | *(non traduit)* | FMA22336 |
-| right gemellus superior | *(non traduit)* | FMA22334 |
-| right genioglossus | *(non traduit)* | FMA46698 |
-| right geniohyoid | *(non traduit)* | FMA46326 |
-| right gluteus maximus | *(non traduit)* | FMA22328 |
-| right gluteus medius | *(non traduit)* | FMA22330 |
-| right gluteus minimus | *(non traduit)* | FMA22332 |
-| right gracilis | *(non traduit)* | FMA43883 |
-| right hyoglossus | *(non traduit)* | FMA46703 |
-| right iliacus | *(non traduit)* | FMA22322 |
-| right iliococcygeus | *(non traduit)* | FMA45858 |
-| right iliocostalis cervicis | *(non traduit)* | FMA22744 |
-| right iliocostalis lumborum | *(non traduit)* | FMA22740 |
-| right iliocostalis thoracis | *(non traduit)* | FMA22742 |
-| right inferior oblique | *(non traduit)* | FMA49050 |
-| right inferior rectus | *(non traduit)* | FMA49046 |
-| right infraspinatus muscle | *(non traduit)* | FMA32547 |
-| right interspinalis thoracis | *(non traduit)* | FMA22890 |
-| right lateral chest wall | *(non traduit)* | FMA25558 |
-| right lateral crico-arytenoid | *(non traduit)* | FMA46580 |
-| right lateral rectus | *(non traduit)* | FMA49054 |
-| right lateral superficial chest wall | *(non traduit)* | FMA50071 |
-| right levator palpebrae superioris | *(non traduit)* | FMA49048 |
-| right levator veli palatini | *(non traduit)* | FMA46728 |
-| right longissimus capitis | *(non traduit)* | FMA22754 |
-| right longissimus cervicis | *(non traduit)* | FMA22757 |
-| right longissimus thoracis | *(non traduit)* | FMA22751 |
-| right longus capitis | *(non traduit)* | FMA46309 |
-| right lumbar rotator | *(non traduit)* | FMA23089 |
-| right medial rectus | *(non traduit)* | FMA49056 |
-| right mylohyoid | *(non traduit)* | FMA46321 |
-| right oblique arytenoid | *(non traduit)* | FMA46584 |
-| right obliquus capitis inferior | *(non traduit)* | FMA32536 |
-| right obliquus capitis superior | *(non traduit)* | FMA32534 |
-| right obturator externus | *(non traduit)* | FMA22326 |
-| right obturator internus | *(non traduit)* | FMA22324 |
-| right omohyoid | *(non traduit)* | FMA13348 |
-| right opponens pollicis | *(non traduit)* | FMA37390 |
-| right palmaris longus | *(non traduit)* | FMA38463 |
-| right pectineus | *(non traduit)* | FMA22450 |
+| plantaris | muscle plantaire | FMA22543 |
+| platysma | platysma | FMA45738 |
+| popliteus | muscle poplité | FMA22590 |
+| posterior crico-arytenoid | muscle crico-aryténoïdien postérieur | FMA46576 |
+| posterior papillary muscle of right ventricle | muscle papillaire postérieur du ventricule droit | FMA7261 |
+| posterior suboccipital muscle | muscle suboccipital postérieur | FMA32582 |
+| postvertebral muscle | muscle postvertébral | FMA32515 |
+| prevertebral muscle | muscle prévertébral | FMA32514 |
+| pronator quadratus | muscle carré pronateur | FMA38453 |
+| psoas major | muscle grand psoas | FMA18060 |
+| pubococcygeus | muscle pubo-coccygien | FMA19090 |
+| puborectalis | muscle pubo-rectal | FMA19091 |
+| quadratus femoris | muscle carré fémoral | FMA22321 |
+| rectus capitis anterior | muscle droit antérieur de la tête | FMA46312 |
+| rectus capitis lateralis | muscle droit latéral de la tête | FMA46316 |
+| rectus capitis posterior major | muscle grand droit postérieur de la tête | FMA32525 |
+| rectus capitis posterior minor | muscle petit droit postérieur de la tête | FMA32526 |
+| rectus femoris | muscle droit fémoral | FMA22430 |
+| region of lateral papillary muscle of left ventricle | région du muscle papillaire latéral du ventricule gauche | FMA86566 |
+| region of papillary muscle | région du muscle papillaire | FMA268955 |
+| region of papillary muscle of left ventricle | région du muscle papillaire du ventricule gauche | FMA86565 |
+| rhomboid major | muscle grand rhomboïde | FMA13379 |
+| rhomboid minor | muscle petit rhomboïde | FMA13380 |
+| right abductor hallucis | muscle abducteur de l'hallux droit | FMA37459 |
+| right abductor pollicis brevis | muscle court abducteur du pouce droit | FMA37386 |
+| right abductor pollicis longus | muscle long abducteur du pouce droit | FMA38516 |
+| right adductor brevis | muscle court adducteur droit | FMA22452 |
+| right adductor longus | muscle long adducteur droit | FMA22456 |
+| right adductor magnus | muscle grand adducteur droit | FMA22459 |
+| right adductor minimus | muscle petit adducteur droit | FMA43886 |
+| right anconeus | muscle anconé droit | FMA37705 |
+| right aryepiglotticus | muscle ary-épiglottique droit | FMA46604 |
+| right brachialis | muscle brachial droit | FMA37668 |
+| right brachioradialis | muscle brachio-radial droit | FMA38486 |
+| right cervical rotator | muscle rotateur cervical droit | FMA81752 |
+| right coccygeus | muscle coccygien droit | FMA46443 |
+| right coracobrachialis | muscle coraco-brachial droit | FMA37665 |
+| right digastric | muscle digastrique droit | FMA46292 |
+| right extensor carpi radialis brevis | muscle court extenseur radial du carpe droit | FMA38498 |
+| right extensor carpi radialis longus | muscle long extenseur radial du carpe droit | FMA38495 |
+| right extensor carpi ulnaris | muscle extenseur ulnaire du carpe droit | FMA38507 |
+| right extensor digiti minimi | muscle extenseur du petit doigt droit | FMA38504 |
+| right extensor digitorum | muscle extenseur des doigts droit | FMA38501 |
+| right extensor digitorum longus | muscle long extenseur des orteils droit | FMA22548 |
+| right extensor hallucis brevis | muscle court extenseur de l'hallux droit | FMA51144 |
+| right extensor hallucis longus | muscle long extenseur de l'hallux droit | FMA22546 |
+| right extensor indicis | muscle extenseur de l'index droit | FMA38525 |
+| right extensor pollicis brevis | muscle court extenseur du pouce droit | FMA38519 |
+| right extensor pollicis longus | muscle long extenseur du pouce droit | FMA38522 |
+| right external oblique | muscle oblique externe droit | FMA13336 |
+| right flexor accessorius | muscle carré plantaire droit | FMA37465 |
+| right flexor carpi radialis | muscle fléchisseur radial du carpe droit | FMA38460 |
+| right flexor digitorum brevis | muscle court fléchisseur des orteils droit | FMA37461 |
+| right flexor digitorum longus | muscle long fléchisseur des orteils droit | FMA65016 |
+| right flexor digitorum profundus | muscle fléchisseur profond des doigts droit | FMA38479 |
+| right flexor digitorum superficialis | muscle fléchisseur superficiel des doigts droit | FMA38470 |
+| right flexor hallucis longus | muscle long fléchisseur de l'hallux droit | FMA65014 |
+| right flexor pollicis brevis | muscle court fléchisseur du pouce droit | FMA37388 |
+| right flexor pollicis longus | muscle long fléchisseur du pouce droit | FMA38482 |
+| right gemellus inferior | muscle jumeau inférieur droit | FMA22336 |
+| right gemellus superior | muscle jumeau supérieur droit | FMA22334 |
+| right genioglossus | muscle génioglosse droit | FMA46698 |
+| right geniohyoid | muscle génio-hyoïdien droit | FMA46326 |
+| right gluteus maximus | muscle grand glutéal droit | FMA22328 |
+| right gluteus medius | muscle moyen glutéal droit | FMA22330 |
+| right gluteus minimus | muscle petit glutéal droit | FMA22332 |
+| right gracilis | muscle gracile droit | FMA43883 |
+| right hyoglossus | muscle hyoglosse droit | FMA46703 |
+| right iliacus | muscle iliaque droit | FMA22322 |
+| right iliococcygeus | muscle ilio-coccygien droit | FMA45858 |
+| right iliocostalis cervicis | muscle ilio-costal du cou droit | FMA22744 |
+| right iliocostalis lumborum | muscle ilio-costal des lombes droit | FMA22740 |
+| right iliocostalis thoracis | muscle ilio-costal du thorax droit | FMA22742 |
+| right inferior oblique | muscle oblique inférieur droit | FMA49050 |
+| right inferior rectus | muscle droit inférieur droit | FMA49046 |
+| right infraspinatus muscle | muscle infra-épineux droit | FMA32547 |
+| right interspinalis thoracis | muscle interépineux du thorax droit | FMA22890 |
+| right lateral chest wall | paroi thoracique latérale droite | FMA25558 |
+| right lateral crico-arytenoid | muscle crico-aryténoïdien latéral droit | FMA46580 |
+| right lateral rectus | muscle droit latéral droit | FMA49054 |
+| right lateral superficial chest wall | paroi thoracique superficielle latérale droite | FMA50071 |
+| right levator palpebrae superioris | muscle élévateur de la paupière supérieure droit | FMA49048 |
+| right levator veli palatini | muscle élévateur du voile du palais droit | FMA46728 |
+| right longissimus capitis | muscle longissimus de la tête droit | FMA22754 |
+| right longissimus cervicis | muscle longissimus du cou droit | FMA22757 |
+| right longissimus thoracis | muscle longissimus du thorax droit | FMA22751 |
+| right longus capitis | muscle long de la tête droit | FMA46309 |
+| right lumbar rotator | muscle rotateur lombaire droit | FMA23089 |
+| right medial rectus | muscle droit médial droit | FMA49056 |
+| right mylohyoid | muscle mylo-hyoïdien droit | FMA46321 |
+| right oblique arytenoid | muscle aryténoïdien oblique droit | FMA46584 |
+| right obliquus capitis inferior | muscle oblique inférieur de la tête droit | FMA32536 |
+| right obliquus capitis superior | muscle oblique supérieur de la tête droit | FMA32534 |
+| right obturator externus | muscle obturateur externe droit | FMA22326 |
+| right obturator internus | muscle obturateur interne droit | FMA22324 |
+| right omohyoid | muscle omo-hyoïdien droit | FMA13348 |
+| right opponens pollicis | muscle opposant du pouce droit | FMA37390 |
+| right palmaris longus | muscle long palmaire droit | FMA38463 |
+| right pectineus | muscle pectiné droit | FMA22450 |
 | right pectoral girdle | ceinture pectorale droite | FMA23218 |
-| right pectoral part of chest | *(non traduit)* | FMA61472 |
-| right pectoralis major | *(non traduit)* | FMA13373 |
-| right pectoralis minor | *(non traduit)* | FMA13375 |
-| right piriformis | *(non traduit)* | FMA22340 |
-| right plantaris | *(non traduit)* | FMA22560 |
-| right platysma | *(non traduit)* | FMA45739 |
-| right popliteus | *(non traduit)* | FMA22591 |
-| right posterior crico-arytenoid | *(non traduit)* | FMA46577 |
-| right pronator quadratus | *(non traduit)* | FMA38454 |
-| right psoas major | *(non traduit)* | FMA22342 |
-| right pubococcygeus | *(non traduit)* | FMA45854 |
-| right puborectalis | *(non traduit)* | FMA45856 |
-| right quadratus femoris | *(non traduit)* | FMA22338 |
-| right rectus capitis anterior | *(non traduit)* | FMA46313 |
-| right rectus capitis lateralis | *(non traduit)* | FMA46317 |
-| right rectus capitis posterior major | *(non traduit)* | FMA32530 |
-| right rectus capitis posterior minor | *(non traduit)* | FMA32532 |
-| right rectus femoris | *(non traduit)* | FMA38928 |
-| right rhomboid major | *(non traduit)* | FMA13381 |
-| right rhomboid minor | *(non traduit)* | FMA13383 |
-| right sartorius | *(non traduit)* | FMA22354 |
-| right scalenus anterior | *(non traduit)* | FMA13392 |
-| right scalenus medius | *(non traduit)* | FMA13390 |
-| right scalenus posterior | *(non traduit)* | FMA13388 |
-| right semimembranosus | *(non traduit)* | FMA22448 |
-| right semispinalis capitis | *(non traduit)* | FMA22876 |
-| right semispinalis cervicis | *(non traduit)* | FMA22874 |
-| right semispinalis thoracis | *(non traduit)* | FMA22872 |
-| right semitendinosus | *(non traduit)* | FMA22358 |
-| right serratus anterior | *(non traduit)* | FMA13398 |
-| right serratus posterior inferior | *(non traduit)* | FMA13405 |
-| right serratus posterior superior | *(non traduit)* | FMA13403 |
-| right soleus | *(non traduit)* | FMA22558 |
-| right spinalis thoracis | *(non traduit)* | FMA22779 |
-| right splenius capitis | *(non traduit)* | FMA22728 |
-| right splenius cervicis | *(non traduit)* | FMA22726 |
-| right sternocleidomastoid | *(non traduit)* | FMA13408 |
-| right sternohyoid | *(non traduit)* | FMA13346 |
-| right sternothyroid | *(non traduit)* | FMA13350 |
-| right stylohyoid | *(non traduit)* | FMA45826 |
-| right subclavius | *(non traduit)* | FMA13412 |
-| right superior oblique | *(non traduit)* | FMA49052 |
-| right superior rectus | *(non traduit)* | FMA49044 |
-| right supinator | *(non traduit)* | FMA38513 |
-| right supraspinatus | *(non traduit)* | FMA32544 |
-| right tensor veli palatini | *(non traduit)* | FMA46731 |
-| right teres major | *(non traduit)* | FMA32551 |
-| right teres minor | *(non traduit)* | FMA32553 |
-| right thyro-arytenoid | *(non traduit)* | FMA46589 |
-| right thyrohyoid | *(non traduit)* | FMA13352 |
-| right transversus thoracis | *(non traduit)* | FMA9761 |
-| right upper eyelid | *(non traduit)* | FMA54440 |
-| right vastus intermedius | *(non traduit)* | FMA38934 |
-| right vastus lateralis | *(non traduit)* | FMA38930 |
-| right vastus medialis | *(non traduit)* | FMA38932 |
-| right vocalis | *(non traduit)* | FMA46592 |
-| rotator muscle | *(non traduit)* | FMA23081 |
-| sartorius | *(non traduit)* | FMA22353 |
-| scalene muscle | *(non traduit)* | FMA64829 |
-| scalenus anterior | *(non traduit)* | FMA13385 |
-| scalenus medius | *(non traduit)* | FMA13386 |
-| scalenus posterior | *(non traduit)* | FMA13387 |
-| scapular part of left pectoral girdle | *(non traduit)* | FMA33647 |
-| scapular part of right pectoral girdle | *(non traduit)* | FMA33646 |
-| second lumbrical of foot | *(non traduit)* | FMA37480 |
-| second lumbrical of left foot | *(non traduit)* | FMA37720 |
-| second lumbrical of right foot | *(non traduit)* | FMA37719 |
-| second plantar interosseous of foot | *(non traduit)* | FMA37739 |
-| second plantar interosseous of left foot | *(non traduit)* | FMA37744 |
-| second plantar interosseous of right foot | *(non traduit)* | FMA37743 |
-| semimembranosus | *(non traduit)* | FMA22438 |
+| right pectoral part of chest | partie pectorale droite du thorax | FMA61472 |
+| right pectoralis major | muscle grand pectoral droit | FMA13373 |
+| right pectoralis minor | muscle petit pectoral droit | FMA13375 |
+| right piriformis | muscle piriforme droit | FMA22340 |
+| right plantaris | muscle plantaire droit | FMA22560 |
+| right platysma | platysma droit | FMA45739 |
+| right popliteus | muscle poplité droit | FMA22591 |
+| right posterior crico-arytenoid | muscle crico-aryténoïdien postérieur droit | FMA46577 |
+| right pronator quadratus | muscle carré pronateur droit | FMA38454 |
+| right psoas major | muscle grand psoas droit | FMA22342 |
+| right pubococcygeus | muscle pubo-coccygien droit | FMA45854 |
+| right puborectalis | muscle pubo-rectal droit | FMA45856 |
+| right quadratus femoris | muscle carré fémoral droit | FMA22338 |
+| right rectus capitis anterior | muscle droit antérieur de la tête droit | FMA46313 |
+| right rectus capitis lateralis | muscle droit latéral de la tête droit | FMA46317 |
+| right rectus capitis posterior major | muscle grand droit postérieur de la tête droit | FMA32530 |
+| right rectus capitis posterior minor | muscle petit droit postérieur de la tête droit | FMA32532 |
+| right rectus femoris | muscle droit fémoral droit | FMA38928 |
+| right rhomboid major | muscle grand rhomboïde droit | FMA13381 |
+| right rhomboid minor | muscle petit rhomboïde droit | FMA13383 |
+| right sartorius | muscle sartorius droit | FMA22354 |
+| right scalenus anterior | muscle scalène antérieur droit | FMA13392 |
+| right scalenus medius | muscle scalène moyen droit | FMA13390 |
+| right scalenus posterior | muscle scalène postérieur droit | FMA13388 |
+| right semimembranosus | muscle semi-membraneux droit | FMA22448 |
+| right semispinalis capitis | muscle semi-épineux de la tête droit | FMA22876 |
+| right semispinalis cervicis | muscle semi-épineux du cou droit | FMA22874 |
+| right semispinalis thoracis | muscle semi-épineux du thorax droit | FMA22872 |
+| right semitendinosus | muscle semi-tendineux droit | FMA22358 |
+| right serratus anterior | muscle dentelé antérieur droit | FMA13398 |
+| right serratus posterior inferior | muscle dentelé postérieur inférieur droit | FMA13405 |
+| right serratus posterior superior | muscle dentelé postérieur supérieur droit | FMA13403 |
+| right soleus | muscle soléaire droit | FMA22558 |
+| right spinalis thoracis | muscle épineux du thorax droit | FMA22779 |
+| right splenius capitis | muscle splénius de la tête droit | FMA22728 |
+| right splenius cervicis | muscle splénius du cou droit | FMA22726 |
+| right sternocleidomastoid | muscle sterno-cléido-mastoïdien droit | FMA13408 |
+| right sternohyoid | muscle sterno-hyoïdien droit | FMA13346 |
+| right sternothyroid | muscle sterno-thyroïdien droit | FMA13350 |
+| right stylohyoid | muscle stylo-hyoïdien droit | FMA45826 |
+| right subclavius | muscle subclavier droit | FMA13412 |
+| right superior oblique | muscle oblique supérieur droit | FMA49052 |
+| right superior rectus | muscle droit supérieur droit | FMA49044 |
+| right supinator | muscle supinateur droit | FMA38513 |
+| right supraspinatus | muscle supra-épineux droit | FMA32544 |
+| right tensor veli palatini | muscle tenseur du voile du palais droit | FMA46731 |
+| right teres major | muscle grand rond droit | FMA32551 |
+| right teres minor | muscle petit rond droit | FMA32553 |
+| right thyro-arytenoid | muscle thyro-aryténoïdien droit | FMA46589 |
+| right thyrohyoid | muscle thyro-hyoïdien droit | FMA13352 |
+| right transversus thoracis | muscle transverse du thorax droit | FMA9761 |
+| right upper eyelid | paupière supérieure droite | FMA54440 |
+| right vastus intermedius | muscle vaste intermédiaire droit | FMA38934 |
+| right vastus lateralis | muscle vaste latéral droit | FMA38930 |
+| right vastus medialis | muscle vaste médial droit | FMA38932 |
+| right vocalis | muscle vocal droit | FMA46592 |
+| rotator muscle | muscle rotateur | FMA23081 |
+| sartorius | muscle sartorius | FMA22353 |
+| scalene muscle | muscle scalène | FMA64829 |
+| scalenus anterior | muscle scalène antérieur | FMA13385 |
+| scalenus medius | muscle scalène moyen | FMA13386 |
+| scalenus posterior | muscle scalène postérieur | FMA13387 |
+| scapular part of left pectoral girdle | partie scapulaire de la ceinture pectorale gauche | FMA33647 |
+| scapular part of right pectoral girdle | partie scapulaire de la ceinture pectorale droite | FMA33646 |
+| second lumbrical of foot | deuxième muscle lombrical du pied | FMA37480 |
+| second lumbrical of left foot | deuxième muscle lombrical du pied gauche | FMA37720 |
+| second lumbrical of right foot | deuxième muscle lombrical du pied droit | FMA37719 |
+| second plantar interosseous of foot | deuxième muscle interosseux plantaire du pied | FMA37739 |
+| second plantar interosseous of left foot | deuxième muscle interosseux plantaire du pied gauche | FMA37744 |
+| second plantar interosseous of right foot | deuxième muscle interosseux plantaire du pied droit | FMA37743 |
+| semimembranosus | muscle semi-membraneux | FMA22438 |
 | semispinalis | muscle semi-épineux | FMA22823 |
-| semispinalis capitis | *(non traduit)* | FMA22830 |
-| semispinalis cervicis | *(non traduit)* | FMA22829 |
-| semispinalis thoracis | *(non traduit)* | FMA22828 |
-| semitendinosus | *(non traduit)* | FMA22357 |
-| septal papillary muscle of right ventricle | *(non traduit)* | FMA7262 |
-| serratus anterior | *(non traduit)* | FMA13397 |
-| serratus posterior | *(non traduit)* | FMA13400 |
-| serratus posterior inferior | *(non traduit)* | FMA13402 |
-| serratus posterior superior | *(non traduit)* | FMA13401 |
-| set of anterior cervical intertransversarii | *(non traduit)* | FMA71442 |
-| set of dorsal interossei of hand | *(non traduit)* | FMA71319 |
-| set of dorsal interossei of left hand | *(non traduit)* | FMA42405 |
-| set of dorsal interossei of right hand | *(non traduit)* | FMA42404 |
-| set of interspinales cervicis | *(non traduit)* | FMA71309 |
-| set of interspinales lumborum | *(non traduit)* | FMA71307 |
-| set of left levatores costarum breves | *(non traduit)* | FMA74078 |
-| set of left levatores costarum longi | *(non traduit)* | FMA74076 |
-| set of levatores costarum breves | *(non traduit)* | FMA71314 |
-| set of levatores costarum longi | *(non traduit)* | FMA71313 |
-| set of lumbricals of hand | *(non traduit)* | FMA71318 |
-| set of lumbricals of left hand | *(non traduit)* | FMA42399 |
-| set of lumbricals of right hand | *(non traduit)* | FMA42398 |
+| semispinalis capitis | muscle semi-épineux de la tête | FMA22830 |
+| semispinalis cervicis | muscle semi-épineux du cou | FMA22829 |
+| semispinalis thoracis | muscle semi-épineux du thorax | FMA22828 |
+| semitendinosus | muscle semi-tendineux | FMA22357 |
+| septal papillary muscle of right ventricle | muscle papillaire septal du ventricule droit | FMA7262 |
+| serratus anterior | muscle dentelé antérieur | FMA13397 |
+| serratus posterior | muscle dentelé postérieur | FMA13400 |
+| serratus posterior inferior | muscle dentelé postérieur inférieur | FMA13402 |
+| serratus posterior superior | muscle dentelé postérieur supérieur | FMA13401 |
+| set of anterior cervical intertransversarii | ensemble des muscles intertransversaires antérieurs du cou | FMA71442 |
+| set of dorsal interossei of hand | ensemble des muscles interosseux dorsaux de la main | FMA71319 |
+| set of dorsal interossei of left hand | ensemble des muscles interosseux dorsaux de la main gauche | FMA42405 |
+| set of dorsal interossei of right hand | ensemble des muscles interosseux dorsaux de la main droite | FMA42404 |
+| set of interspinales cervicis | ensemble des muscles interépineux du cou | FMA71309 |
+| set of interspinales lumborum | ensemble des muscles interépineux des lombes | FMA71307 |
+| set of left levatores costarum breves | ensemble des muscles courts élévateurs des côtes gauche | FMA74078 |
+| set of left levatores costarum longi | ensemble des muscles longs élévateurs des côtes gauche | FMA74076 |
+| set of levatores costarum breves | ensemble des muscles courts élévateurs des côtes | FMA71314 |
+| set of levatores costarum longi | ensemble des muscles longs élévateurs des côtes | FMA71313 |
+| set of lumbricals of hand | ensemble des muscles lombricaux de la main | FMA71318 |
+| set of lumbricals of left hand | ensemble des muscles lombricaux de la main gauche | FMA42399 |
+| set of lumbricals of right hand | ensemble des muscles lombricaux de la main droite | FMA42398 |
 | set of organs | ensemble d'organes | FMA70779 |
-| set of palmar interossei of hand | *(non traduit)* | FMA71320 |
-| set of palmar interossei of left hand | *(non traduit)* | FMA42403 |
-| set of palmar interossei of right hand | *(non traduit)* | FMA42402 |
-| set of posterior cervical intertransversarii | *(non traduit)* | FMA71443 |
-| set of right levatores costarum breves | *(non traduit)* | FMA74077 |
-| set of right levatores costarum longi | *(non traduit)* | FMA74075 |
-| short head of biceps brachii | *(non traduit)* | FMA37682 |
-| short head of biceps femoris | *(non traduit)* | FMA45890 |
-| short head of left biceps brachii | *(non traduit)* | FMA37685 |
-| short head of left biceps femoris | *(non traduit)* | FMA45892 |
-| short head of right biceps brachii | *(non traduit)* | FMA37684 |
-| short head of right biceps femoris | *(non traduit)* | FMA45891 |
-| soft palate | *(non traduit)* | FMA55021 |
-| soleus | *(non traduit)* | FMA22542 |
+| set of palmar interossei of hand | ensemble des muscles interosseux palmaires de la main | FMA71320 |
+| set of palmar interossei of left hand | ensemble des muscles interosseux palmaires de la main gauche | FMA42403 |
+| set of palmar interossei of right hand | ensemble des muscles interosseux palmaires de la main droite | FMA42402 |
+| set of posterior cervical intertransversarii | ensemble des muscles intertransversaires postérieurs du cou | FMA71443 |
+| set of right levatores costarum breves | ensemble des muscles courts élévateurs des côtes droit | FMA74077 |
+| set of right levatores costarum longi | ensemble des muscles longs élévateurs des côtes droit | FMA74075 |
+| short head of biceps brachii | chef court du muscle biceps brachial | FMA37682 |
+| short head of biceps femoris | chef court du muscle biceps fémoral | FMA45890 |
+| short head of left biceps brachii | chef court du muscle biceps brachial gauche | FMA37685 |
+| short head of left biceps femoris | chef court du muscle biceps fémoral gauche | FMA45892 |
+| short head of right biceps brachii | chef court du muscle biceps brachial droit | FMA37684 |
+| short head of right biceps femoris | chef court du muscle biceps fémoral droit | FMA45891 |
+| soft palate | palais mou | FMA55021 |
+| soleus | muscle soléaire | FMA22542 |
 | solid organ | organe plein | FMA55670 |
-| spinal part of deltoid | *(non traduit)* | FMA34679 |
-| spinal part of left deltoid | *(non traduit)* | FMA34685 |
-| spinal part of right deltoid | *(non traduit)* | FMA34684 |
-| spinalis | *(non traduit)* | FMA77179 |
-| spinalis thoracis | *(non traduit)* | FMA22765 |
-| splenius | *(non traduit)* | FMA77180 |
-| splenius capitis | *(non traduit)* | FMA22653 |
-| splenius cervicis | *(non traduit)* | FMA22681 |
-| sternocleidomastoid | *(non traduit)* | FMA13407 |
-| sternocostal part of left pectoralis major | *(non traduit)* | FMA79980 |
-| sternocostal part of pectoralis major | *(non traduit)* | FMA34696 |
-| sternocostal part of right pectoralis major | *(non traduit)* | FMA79979 |
-| sternohyoid | *(non traduit)* | FMA13341 |
-| sternothyroid | *(non traduit)* | FMA13343 |
-| straight part of cricothyroid | *(non traduit)* | FMA46609 |
-| straight part of left cricothyroid | *(non traduit)* | FMA46612 |
-| straight part of right cricothyroid | *(non traduit)* | FMA46611 |
-| stylohyoid | *(non traduit)* | FMA9625 |
-| subclavius | *(non traduit)* | FMA13410 |
-| subendocardial layer of myocardium of left ventricle | *(non traduit)* | FMA84857 |
-| subendocardial layer of myocardium of right ventricle | *(non traduit)* | FMA84856 |
+| spinal part of deltoid | partie spinale du muscle deltoïde | FMA34679 |
+| spinal part of left deltoid | partie spinale du muscle deltoïde gauche | FMA34685 |
+| spinal part of right deltoid | partie spinale du muscle deltoïde droit | FMA34684 |
+| spinalis | muscle épineux | FMA77179 |
+| spinalis thoracis | muscle épineux du thorax | FMA22765 |
+| splenius | muscle splénius | FMA77180 |
+| splenius capitis | muscle splénius de la tête | FMA22653 |
+| splenius cervicis | muscle splénius du cou | FMA22681 |
+| sternocleidomastoid | muscle sterno-cléido-mastoïdien | FMA13407 |
+| sternocostal part of left pectoralis major | partie sterno-costale du muscle grand pectoral gauche | FMA79980 |
+| sternocostal part of pectoralis major | partie sterno-costale du muscle grand pectoral | FMA34696 |
+| sternocostal part of right pectoralis major | partie sterno-costale du muscle grand pectoral droit | FMA79979 |
+| sternohyoid | muscle sterno-hyoïdien | FMA13341 |
+| sternothyroid | muscle sterno-thyroïdien | FMA13343 |
+| straight part of cricothyroid | partie droite du muscle crico-thyroïdien | FMA46609 |
+| straight part of left cricothyroid | partie droite du muscle crico-thyroïdien gauche | FMA46612 |
+| straight part of right cricothyroid | partie droite du muscle crico-thyroïdien droit | FMA46611 |
+| stylohyoid | muscle stylo-hyoïdien | FMA9625 |
+| subclavius | muscle subclavier | FMA13410 |
+| subendocardial layer of myocardium of left ventricle | couche sous-endocardique du myocarde du ventricule gauche | FMA84857 |
+| subendocardial layer of myocardium of right ventricle | couche sous-endocardique du myocarde du ventricule droit | FMA84856 |
 | superficial chest wall | paroi thoracique superficielle | FMA50061 |
-| superficial head of flexor pollicis brevis | *(non traduit)* | FMA46104 |
-| superficial head of left flexor pollicis brevis | *(non traduit)* | FMA65199 |
-| superficial head of right flexor pollicis brevis | *(non traduit)* | FMA65198 |
-| superficial muscle of anterior compartment of forearm | *(non traduit)* | FMA38472 |
-| superficial muscle of neck | *(non traduit)* | FMA64822 |
-| superficial muscle of posterior compartment of forearm | *(non traduit)* | FMA38491 |
-| superficial muscle of posterior compartment of leg | *(non traduit)* | FMA65004 |
-| superficial perineal muscle | *(non traduit)* | FMA19728 |
-| superficial postvertebral muscle | *(non traduit)* | FMA32559 |
-| superior oblique | *(non traduit)* | FMA49039 |
-| superior oblique part of left longus colli | *(non traduit)* | FMA46284 |
-| superior oblique part of longus colli | *(non traduit)* | FMA46280 |
-| superior rectus | *(non traduit)* | FMA49035 |
-| supinator | *(non traduit)* | FMA38512 |
-| suprahyoid muscle | *(non traduit)* | FMA46290 |
-| supraspinatus | *(non traduit)* | FMA9629 |
-| tensor veli palatini | *(non traduit)* | FMA46730 |
-| teres major | *(non traduit)* | FMA32549 |
-| teres minor | *(non traduit)* | FMA32550 |
-| thenar muscle | *(non traduit)* | FMA64916 |
-| third lumbrical of foot | *(non traduit)* | FMA37481 |
-| third lumbrical of left foot | *(non traduit)* | FMA37486 |
-| third lumbrical of right foot | *(non traduit)* | FMA37485 |
-| third plantar interosseous of foot | *(non traduit)* | FMA37740 |
-| third plantar interosseous of left foot | *(non traduit)* | FMA37742 |
-| third plantar interosseous of right foot | *(non traduit)* | FMA37741 |
-| thoracic rotator | *(non traduit)* | FMA23083 |
-| thyro-arytenoid | *(non traduit)* | FMA46588 |
-| thyrohyoid | *(non traduit)* | FMA13344 |
-| transverse arytenoid | *(non traduit)* | FMA46582 |
-| transverse head of adductor hallucis | *(non traduit)* | FMA46015 |
-| transverse head of adductor pollicis | *(non traduit)* | FMA46120 |
-| transverse head of left adductor hallucis | *(non traduit)* | FMA46021 |
-| transverse head of left adductor pollicis | *(non traduit)* | FMA46124 |
-| transverse head of right adductor hallucis | *(non traduit)* | FMA46020 |
-| transverse head of right adductor pollicis | *(non traduit)* | FMA46123 |
-| transverse part of left trapezius | *(non traduit)* | FMA33585 |
-| transverse part of right trapezius | *(non traduit)* | FMA33584 |
-| transverse part of trapezius | *(non traduit)* | FMA32556 |
-| transversus thoracis | *(non traduit)* | FMA9760 |
-| ulnar head of flexor carpi ulnaris | *(non traduit)* | FMA38616 |
-| ulnar head of left flexor carpi ulnaris | *(non traduit)* | FMA38620 |
-| ulnar head of left pronator teres | *(non traduit)* | FMA38563 |
-| ulnar head of pronator teres | *(non traduit)* | FMA38559 |
-| ulnar head of right flexor carpi ulnaris | *(non traduit)* | FMA38619 |
-| ulnar head of right pronator teres | *(non traduit)* | FMA38562 |
-| uvula | *(non traduit)* | FMA55022 |
-| uvular muscle | *(non traduit)* | FMA46733 |
-| vastus intermedius | *(non traduit)* | FMA22433 |
-| vastus lateralis | *(non traduit)* | FMA22431 |
-| vastus medialis | *(non traduit)* | FMA22432 |
-| vertical intermediate part of left longus colli | *(non traduit)* | FMA46286 |
-| vertical intermediate part of longus colli | *(non traduit)* | FMA46282 |
-| vocalis | *(non traduit)* | FMA46591 |
-| wall of inflow part of left ventricle | *(non traduit)* | FMA49214 |
-| wall of inflow part of right ventricle | *(non traduit)* | FMA49207 |
-| wall of left side of heart | *(non traduit)* | FMA73704 |
-| wall of left ventricle | *(non traduit)* | FMA9556 |
-| wall of right side of heart | *(non traduit)* | FMA73703 |
-| wall of right ventricle | *(non traduit)* | FMA9533 |
-| zone of cricothyroid | *(non traduit)* | FMA46608 |
-| zone of deltoid | *(non traduit)* | FMA34676 |
-| zone of levator ani | *(non traduit)* | FMA19089 |
-| zone of longus colli | *(non traduit)* | FMA46279 |
-| zone of muscle organ | *(non traduit)* | FMA10474 |
-| zone of oblique arytenoid | *(non traduit)* | FMA46601 |
-| zone of pectoralis major | *(non traduit)* | FMA34686 |
-| zone of quadriceps femoris | *(non traduit)* | FMA22429 |
-| zone of trapezius | *(non traduit)* | FMA32529 |
+| superficial head of flexor pollicis brevis | chef superficiel du muscle court fléchisseur du pouce | FMA46104 |
+| superficial head of left flexor pollicis brevis | chef superficiel du muscle court fléchisseur du pouce gauche | FMA65199 |
+| superficial head of right flexor pollicis brevis | chef superficiel du muscle court fléchisseur du pouce droit | FMA65198 |
+| superficial muscle of anterior compartment of forearm | muscle superficiel du compartiment antérieur de l'avant-bras | FMA38472 |
+| superficial muscle of neck | muscle superficiel du cou | FMA64822 |
+| superficial muscle of posterior compartment of forearm | muscle superficiel du compartiment postérieur de l'avant-bras | FMA38491 |
+| superficial muscle of posterior compartment of leg | muscle superficiel du compartiment postérieur de la jambe | FMA65004 |
+| superficial perineal muscle | muscle superficiel du périnée | FMA19728 |
+| superficial postvertebral muscle | muscle postvertébral superficiel | FMA32559 |
+| superior oblique | muscle oblique supérieur | FMA49039 |
+| superior oblique part of left longus colli | partie oblique supérieure du muscle long du cou gauche | FMA46284 |
+| superior oblique part of longus colli | partie oblique supérieure du muscle long du cou | FMA46280 |
+| superior rectus | muscle droit supérieur | FMA49035 |
+| supinator | muscle supinateur | FMA38512 |
+| suprahyoid muscle | muscle supra-hyoïdien | FMA46290 |
+| supraspinatus | muscle supra-épineux | FMA9629 |
+| tensor veli palatini | muscle tenseur du voile du palais | FMA46730 |
+| teres major | muscle grand rond | FMA32549 |
+| teres minor | muscle petit rond | FMA32550 |
+| thenar muscle | muscle thénar | FMA64916 |
+| third lumbrical of foot | troisième muscle lombrical du pied | FMA37481 |
+| third lumbrical of left foot | troisième muscle lombrical du pied gauche | FMA37486 |
+| third lumbrical of right foot | troisième muscle lombrical du pied droit | FMA37485 |
+| third plantar interosseous of foot | troisième muscle interosseux plantaire du pied | FMA37740 |
+| third plantar interosseous of left foot | troisième muscle interosseux plantaire du pied gauche | FMA37742 |
+| third plantar interosseous of right foot | troisième muscle interosseux plantaire du pied droit | FMA37741 |
+| thoracic rotator | muscle rotateur thoracique | FMA23083 |
+| thyro-arytenoid | muscle thyro-aryténoïdien | FMA46588 |
+| thyrohyoid | muscle thyro-hyoïdien | FMA13344 |
+| transverse arytenoid | muscle aryténoïdien transverse | FMA46582 |
+| transverse head of adductor hallucis | chef transverse du muscle adducteur de l'hallux | FMA46015 |
+| transverse head of adductor pollicis | chef transverse du muscle adducteur du pouce | FMA46120 |
+| transverse head of left adductor hallucis | chef transverse du muscle adducteur de l'hallux gauche | FMA46021 |
+| transverse head of left adductor pollicis | chef transverse du muscle adducteur du pouce gauche | FMA46124 |
+| transverse head of right adductor hallucis | chef transverse du muscle adducteur de l'hallux droit | FMA46020 |
+| transverse head of right adductor pollicis | chef transverse du muscle adducteur du pouce droit | FMA46123 |
+| transverse part of left trapezius | partie transverse du muscle trapèze gauche | FMA33585 |
+| transverse part of right trapezius | partie transverse du muscle trapèze droit | FMA33584 |
+| transverse part of trapezius | partie transverse du muscle trapèze | FMA32556 |
+| transversus thoracis | muscle transverse du thorax | FMA9760 |
+| ulnar head of flexor carpi ulnaris | chef ulnaire du muscle fléchisseur ulnaire du carpe | FMA38616 |
+| ulnar head of left flexor carpi ulnaris | chef ulnaire du muscle fléchisseur ulnaire du carpe gauche | FMA38620 |
+| ulnar head of left pronator teres | chef ulnaire du muscle rond pronateur gauche | FMA38563 |
+| ulnar head of pronator teres | chef ulnaire du muscle rond pronateur | FMA38559 |
+| ulnar head of right flexor carpi ulnaris | chef ulnaire du muscle fléchisseur ulnaire du carpe droit | FMA38619 |
+| ulnar head of right pronator teres | chef ulnaire du muscle rond pronateur droit | FMA38562 |
+| uvula | luette | FMA55022 |
+| uvular muscle | muscle uvulaire | FMA46733 |
+| vastus intermedius | muscle vaste intermédiaire | FMA22433 |
+| vastus lateralis | muscle vaste latéral | FMA22431 |
+| vastus medialis | muscle vaste médial | FMA22432 |
+| vertical intermediate part of left longus colli | partie intermédiaire verticale du muscle long du cou gauche | FMA46286 |
+| vertical intermediate part of longus colli | partie intermédiaire verticale du muscle long du cou | FMA46282 |
+| vocalis | muscle vocal | FMA46591 |
+| wall of inflow part of left ventricle | paroi de la chambre de remplissage du ventricule gauche | FMA49214 |
+| wall of inflow part of right ventricle | paroi de la chambre de remplissage du ventricule droit | FMA49207 |
+| wall of left side of heart | paroi du cœur gauche | FMA73704 |
+| wall of left ventricle | paroi du ventricule gauche | FMA9556 |
+| wall of right side of heart | paroi du cœur droit | FMA73703 |
+| wall of right ventricle | paroi du ventricule droit | FMA9533 |
+| zone of cricothyroid | zone du muscle crico-thyroïdien | FMA46608 |
+| zone of deltoid | zone du muscle deltoïde | FMA34676 |
+| zone of levator ani | zone du muscle élévateur de l'anus | FMA19089 |
+| zone of longus colli | zone du muscle long du cou | FMA46279 |
+| zone of muscle organ | zone du muscle | FMA10474 |
+| zone of oblique arytenoid | zone du muscle aryténoïdien oblique | FMA46601 |
+| zone of pectoralis major | zone du muscle grand pectoral | FMA34686 |
+| zone of quadriceps femoris | zone du muscle quadriceps fémoral | FMA22429 |
+| zone of trapezius | zone du muscle trapèze | FMA32529 |
 
