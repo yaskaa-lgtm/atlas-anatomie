@@ -1932,7 +1932,10 @@
     "FMA50308": "arbre du sinus coronaire",
     "FMA68002": "partie intrapulmonaire de la veine pulmonaire supérieure droite",
     "FMA68003": "partie intrapulmonaire de la veine pulmonaire inférieure droite",
-    "FMA68004": "partie intrapulmonaire de la veine pulmonaire supérieure gauche"
+    "FMA68004": "partie intrapulmonaire de la veine pulmonaire supérieure gauche",
+    "FMA68005": "partie intrapulmonaire de la veine pulmonaire inférieure gauche",
+    "FMA82672": "arbre veineux systémique supérieur",
+    "FMA82673": "arbre veineux systémique inférieur"
   },
   "parts": {
     "urethra": "urètre",
