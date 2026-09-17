@@ -129,7 +129,7 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 3 — Structure i18n + sélecteur de langue | ✅ terminée et validée (commit `031db5b`) |
 | 4a — Traduction de l'interface | ✅ **terminée, 123/123 clés** (commit `1ce7106`) |
 | 4b — Vocabulaire anatomique : mécanisme | ✅ terminé (commit `78f7d48`) |
-| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lot 1 fait (urinaire, lymphatique, endocrinien). Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
+| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 4 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire 71/158 (lot 5 = arbre bronchique, lot 6 = segments broncho-pulmonaires ; `node scripts/anatomy-todo.mjs respiratory 60`). Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
 | 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
 
 ### Vocabulaire — fichiers et commandes
@@ -220,6 +220,23 @@ ci-dessous : les reconfirmer s'ils reviennent dans un lot.
 | pineal body | **glande pinéale** (TA) | « épiphyse » (usage courant, ambigu avec l'épiphyse osseuse) |
 | pituitary gland | **hypophyse** (TA) | « glande pituitaire » (vieilli) |
 | adrenal gland | **glande surrénale** | « surrénale » seule (usage clinique) |
+| atrium | **atrium** (TA) | « oreillette » (usage courant, encore fréquent) |
+| cusp *(valves aortique / pulmonaire)* | **valvule** (TA : *valvula semilunaris*) | « cuspide », « sigmoïde » |
+| leaflet *(valves mitrale / tricuspide)* | **cuspide** (TA : *cuspis*) | « feuillet », « valvule » |
+| pulmonary valve | **valve pulmonaire** | « valve du tronc pulmonaire » (TA stricte) |
+| outflow / inflow part of ventricle | **chambre de chasse / de remplissage** | « chambre d'admission » |
+| main bronchus | **bronche principale** (TA) | « bronche souche » (usage clinique, très courant) |
+| nasal septum | **septum nasal** (TA) | « cloison nasale » |
+| internal nose | **nez interne** (littéral) | « cavités nasales » |
+| aortic valve cusps | **par position** (antérieure, postérieure droite/gauche), fidèle à la source | clinique : coronaire droite / gauche / non coronaire |
+
+**TODO ouverts dans `anatomy-fr.json`** (affichés en anglais en attendant) : `FMA9348` subaortic curtain
+of left ventricle (candidats : continuité mitro-aortique, rideau sous-aortique) ; `FMA9551` / `FMA9550`
+outflow part of left / right atrium (pas d'équivalent français clair ; « vestibule » ?).
+
+**Erreur de classification dans les données source** (signalée à l'utilisateur, données non modifiées) :
+les ventricules cérébraux (3e, 4e, latéraux, foramen interventriculaire) sont rangés dans le système
+`cardiac` par l'auteur original. Traduits correctement quand même.
 
 **Classes FMA sans équivalent TA** (traduites littéralement, signalées à l'utilisateur) :
 « lobular organ component » → composant d'organe lobulaire ; « corticomedullary organ » →
