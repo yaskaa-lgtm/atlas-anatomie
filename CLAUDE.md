@@ -1,5 +1,10 @@
 # Human Atlas — traduction française
 
+> **Feuille de route détaillée : [`PROCHAINES-ETAPES.md`](PROCHAINES-ETAPES.md)**
+> Ce fichier-ci décrit l'**état** du projet et les règles de travail.
+> `PROCHAINES-ETAPES.md` décrit **ce qu'il reste à faire**, étape par étape, avec le mécanisme
+> à mettre en place, les pièges et les points à câbler. Lire les deux avant de commencer.
+
 ## Contexte du projet
 
 Application web d'anatomie 3D **clonée depuis `github.com/ashemag/human-atlas`** (licence MIT),
@@ -127,6 +132,10 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
 
 ## PROCHAINE ÉTAPE : le vocabulaire anatomique
+
+> **Le plan d'exécution complet est dans [`PROCHAINES-ETAPES.md`](PROCHAINES-ETAPES.md), section
+> « ÉTAPE 4b »** : mécanisme à créer, pièges, points à câbler dans `page.tsx`, recherche bilingue,
+> boucle de travail par lot. Ce qui suit n'en est que le résumé.
 
 C'est le gros chantier restant, et le point de friction principal pour l'utilisateur : il a déjà
 signalé que cliquer sur une structure ou la chercher affichait encore de l'anglais.
