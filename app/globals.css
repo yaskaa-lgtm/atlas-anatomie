@@ -98,3 +98,9 @@ h1 .edition{font-family:inherit;font-weight:500;font-size:10px;letter-spacing:.0
    et non sur chaque mot comme le voulait le text-transform:capitalize d'origine, incorrect en francais. */
 .structure-title,.search-result-name{text-transform:none}
 .structure-title::first-letter,.search-result-name::first-letter{text-transform:uppercase}
+
+/* Noms anatomiques longs (jusqu'a 108 caracteres en francais) : titre reduit, legende autorisee a passer a la ligne. */
+.structure-title.long-name{font-size:20px!important;line-height:1.25!important;letter-spacing:-.2px}
+@media(max-width:767px){.structure-title.long-name{font-size:17px!important}}
+.scene-caption{max-width:min(90vw,720px);white-space:normal;text-align:center}
+.scene-caption>span:not(.caption-line){flex:0 1 auto}
