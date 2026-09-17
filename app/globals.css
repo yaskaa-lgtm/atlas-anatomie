@@ -93,3 +93,8 @@ h1 .edition{font-family:inherit;font-weight:500;font-size:10px;letter-spacing:.0
 .top-actions .lang-switch button:hover{background:#18253608;color:#26313c}
 .top-actions .lang-switch button.active{background:#263b4812;color:#26313c}
 @media(max-width:767px){.top-actions .lang-switch{height:40px;padding:2px}.top-actions .lang-switch button{min-width:32px;width:auto;height:36px;min-height:36px;padding:0 7px;font-size:10px}}
+
+/* Noms anatomiques : majuscule sur la premiere lettre seulement (« Glande surrenale gauche »),
+   et non sur chaque mot comme le voulait le text-transform:capitalize d'origine, incorrect en francais. */
+.structure-title,.search-result-name{text-transform:none}
+.structure-title::first-letter,.search-result-name::first-letter{text-transform:uppercase}

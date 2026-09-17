@@ -1,0 +1,52 @@
+{
+  "_": "Noms anatomiques en français. concepts : par identifiant FMA (concepts[].id de atlas.json). parts : par nom anglais en minuscules (parts[].name). Un terme absent reste affiché en anglais. Ne pas modifier public/models/atlas.json.",
+  "concepts": {
+    "FMA7203": "rein",
+    "FMA9704": "uretère",
+    "FMA19667": "urètre",
+    "FMA7205": "rein gauche",
+    "FMA15572": "uretère gauche",
+    "FMA7204": "rein droit",
+    "FMA15571": "uretère droit",
+    "FMA7159": "appareil urinaire",
+    "FMA15900": "vessie",
+    "FMA45659": "bas appareil urinaire",
+    "FMA71103": "haut appareil urinaire gauche",
+    "FMA71102": "haut appareil urinaire droit",
+
+    "FMA7196": "rate",
+    "FMA9607": "thymus",
+    "FMA71193": "lobe du thymus",
+    "FMA45728": "lobe anatomique",
+    "FMA71195": "lobe gauche du thymus",
+    "FMA71194": "lobe droit du thymus",
+    "FMA9838": "médiastin antérieur",
+    "FMA82478": "composant d'organe lobulaire",
+    "FMA79276": "contenu du médiastin antérieur",
+
+    "FMA62033": "glande pinéale",
+    "FMA9604": "glande surrénale",
+    "FMA13889": "hypophyse",
+    "FMA15630": "glande surrénale gauche",
+    "FMA15629": "glande surrénale droite",
+    "FMA55663": "organe cortico-médullaire",
+    "FMA84081": "organe circumventriculaire du névraxe"
+  },
+  "parts": {
+    "urethra": "urètre",
+    "left ureter": "uretère gauche",
+    "left kidney": "rein gauche",
+    "right ureter": "uretère droit",
+    "right kidney": "rein droit",
+    "urinary bladder": "vessie",
+
+    "spleen": "rate",
+    "left lobe of thymus": "lobe gauche du thymus",
+    "right lobe of thymus": "lobe droit du thymus",
+
+    "pineal body": "glande pinéale",
+    "pituitary gland": "hypophyse",
+    "left adrenal gland": "glande surrénale gauche",
+    "right adrenal gland": "glande surrénale droite"
+  }
+}
