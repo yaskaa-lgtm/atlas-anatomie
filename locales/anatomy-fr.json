@@ -257,7 +257,30 @@
     "FMA15041": "tænia du côlon",
     "FMA15044": "tænia libre",
     "FMA15043": "tænia omental",
-    "FMA15042": "tænia mésocolique"
+    "FMA15042": "tænia mésocolique",
+    "FMA9584": "péritoine",
+    "FMA14703": "péritoine viscéral",
+    "FMA9908": "sac péritonéal",
+    "FMA19754": "région du péritoine",
+    "FMA20593": "région du péritoine viscéral",
+    "FMA64796": "région de membrane séreuse",
+    "FMA20570": "mésentère péritonéal",
+    "FMA14643": "mésentère de l'intestin grêle",
+    "FMA14645": "mésentère du gros intestin",
+    "FMA14647": "mésocôlon transverse",
+    "FMA16549": "méso-appendice",
+    "FMA7198": "pancréas",
+    "FMA63120": "parenchyme du pancréas",
+    "FMA10419": "conduit pancréatique",
+    "FMA63103": "arbre des conduits pancréatiques",
+    "FMA265228": "système pancréatico-biliaire",
+    "FMA9668": "système endocrinien",
+    "FMA30320": "conduit",
+    "FMA45732": "parenchyme",
+    "FMA55662": "organe lobulaire",
+    "FMA82494": "segment lobulaire",
+    "FMA55661": "organe parenchymateux",
+    "FMA64989": "agrégat hétérogène"
   },
   "parts": {
     "urethra": "urètre",
@@ -359,6 +382,13 @@
     "distal part of jejunum": "partie distale du jéjunum",
     "taenia libera": "tænia libre",
     "taenia omentalis": "tænia omental",
-    "taenia mesocolica": "tænia mésocolique"
+    "taenia mesocolica": "tænia mésocolique",
+    "mesentery of small intestine": "mésentère de l'intestin grêle",
+    "transverse mesocolon": "mésocôlon transverse",
+    "mesoappendix": "méso-appendice",
+    "pancreas": "pancréas",
+    "parenchyma of pancreas": "parenchyme du pancréas",
+    "pancreatic duct": "conduit pancréatique",
+    "pancreatic duct tree": "arbre des conduits pancréatiques"
   }
 }
