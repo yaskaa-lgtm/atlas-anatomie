@@ -88,7 +88,11 @@
     "pauseRotation": "Mettre la rotation en pause",
     "autoRotate": "Rotation automatique",
     "reset": "Réinitialiser la vue et les couches",
-    "resetShort": "Réinitialiser"
+    "resetShort": "Réinitialiser",
+    "zoomToCursor": "Zoomer vers le curseur",
+    "zoomToCenter": "Zoomer vers le centre",
+    "zoomToCursorOn": "Zoom vers le curseur : activé. La molette zoome vers le point sous la souris et y recentre l’orbite.",
+    "zoomToCursorOff": "Zoom vers le curseur : désactivé. La molette zoome vers le centre du modèle."
   },
   "caption": {
     "isolated": "STRUCTURE SÉLECTIONNÉE",

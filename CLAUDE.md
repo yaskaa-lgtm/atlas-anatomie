@@ -103,6 +103,18 @@ t(`systems.names.${s.id}`)                  // clé dynamique (typée)
 4. **Erreurs stockées en clé**, pas en texte (`useState<MessageKey|null>`), pour qu'elles suivent
    la langue active. `scene.tsx` reçoit donc des clés via `onError`.
 
+### Rechargement à chaud (dev)
+
+Modifier `locales/*.json` pendant que `npm run dev` tourne peut afficher dans la console
+« useI18n doit être appelé à l'intérieur de <I18nProvider> » : Vite recrée le contexte React sans
+remonter le fournisseur. **Rafraîchir la page suffit.** Ce n'est pas un bug de l'app.
+
+### Zoom vers le curseur
+
+`SceneState.zoomToCursor` (défaut `true`) pilote `controls.zoomToCursor` d'OrbitControls dans la boucle
+d'animation de `scene.tsx` : la molette zoome vers le point sous la souris et y recentre l'orbite.
+Bouton viseur dans `.view-controls`. Demandé par l'utilisateur, conservé lors d'un reset.
+
 ### Pièges dans `app/scene.tsx`
 
 - Accède aux traductions via **`translate.current(...)` (une `useRef`)** et non `t(...)`, pour que

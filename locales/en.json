@@ -88,7 +88,11 @@
     "pauseRotation": "Pause rotation",
     "autoRotate": "Auto rotate",
     "reset": "Reset view and layers",
-    "resetShort": "Reset"
+    "resetShort": "Reset",
+    "zoomToCursor": "Zoom toward the cursor",
+    "zoomToCenter": "Zoom toward the center",
+    "zoomToCursorOn": "Zoom to cursor: on. Scrolling zooms toward the point under the mouse and re-centers the orbit there.",
+    "zoomToCursorOff": "Zoom to cursor: off. Scrolling zooms toward the center of the model."
   },
   "caption": {
     "isolated": "SELECTED STRUCTURE",

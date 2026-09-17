@@ -23,7 +23,7 @@ export interface Part {id:string;name:string;conceptId:string;system:SystemId;ch
 export interface Concept {id:string;name:string;elements:string[]}
 export interface Atlas {version:string;sex?:'male';source?:string;scope?:string;parts:Part[];concepts:Concept[];chunks:{url:string;bytes:number;gzip?:string;gzipBytes?:number}[];triangles:number}
 export type View = 'three-quarter'|'front'|'back'|'side';
-export interface SceneState {inspectorOpen?:boolean;explode:number;visible:SystemId[];selected:string[];isolate:boolean;view:View;rotate:boolean;reset:number}
+export interface SceneState {inspectorOpen?:boolean;explode:number;visible:SystemId[];selected:string[];isolate:boolean;view:View;rotate:boolean;reset:number;/** Zoom molette vers le point sous le curseur (et recentrage de l'orbite) plutôt que vers le centre. */zoomToCursor:boolean}
 export const DEFAULT_VISIBLE:SystemId[] = ['cardiac','sensory','skeletal','muscular','arterial','venous','nervous','respiratory','digestive','urinary','lymphatic','endocrine','reproductive','connective'];
 /** Organes ayant une explication propre. Ces clés correspondent aux noms anglais de l'atlas source
  *  (atlas.json), elles servent à retrouver la bonne entrée : ne pas les traduire. */
