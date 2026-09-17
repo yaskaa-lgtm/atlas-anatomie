@@ -60,10 +60,9 @@ npm run build                            # build de production
 ## Git
 
 - `upstream` → `https://github.com/ashemag/human-atlas` (le dépôt de l'auteur original, lecture seule).
-- **`origin` est libre.** L'utilisateur a choisi de créer **un dépôt neuf à lui** (pas un fork)
-  le jour de la publication.
-- `gh` CLI installé et connecté au compte **`yaskaa-lgtm`**. Demander confirmation avant de créer
-  un dépôt public : c'est une action visible de l'extérieur.
+- **`origin` → `https://github.com/yaskaa-lgtm/atlas-anatomie`** : le dépôt de l'utilisateur, **public**,
+  créé le 18 septembre 2026. `main` suit `origin/main`. `git push` fonctionne.
+- `gh` CLI installé et connecté au compte **`yaskaa-lgtm`**.
 - Commits locaux signés `yaskaa`.
 
 ## Architecture i18n — comment ça marche

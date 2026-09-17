@@ -84,7 +84,7 @@ L'utilisateur a déjà choisi de créer **un dépôt neuf à son nom** (pas un f
 est libre, `upstream` pointe vers le dépôt de l'auteur original. `gh` est connecté au compte
 **`yaskaa-lgtm`**.
 
-### 7.1 — Créer le dépôt et envoyer le code
+### 7.1 — Créer le dépôt et envoyer le code ← ✅ FAIT (`github.com/yaskaa-lgtm/atlas-anatomie`, public)
 
 ```sh
 gh repo create <nom-du-depot> --public --source=. --remote=origin --push
