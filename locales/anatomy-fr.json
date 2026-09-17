@@ -77,7 +77,22 @@
     "FMA9550": "TODO",
     "FMA9564": "chambre de remplissage du ventricule gauche",
     "FMA9473": "chambre de chasse du ventricule gauche",
-    "FMA7216": "chambre de chasse du ventricule droit"
+    "FMA7216": "chambre de chasse du ventricule droit",
+    "FMA78454": "troisième ventricule",
+    "FMA78469": "quatrième ventricule",
+    "FMA78448": "ventricule latéral",
+    "FMA78450": "ventricule latéral gauche",
+    "FMA78449": "ventricule latéral droit",
+    "FMA75351": "foramen interventriculaire",
+    "FMA242787": "système ventriculaire de l'encéphale",
+    "FMA242675": "système ventriculaire du névraxe",
+    "FMA78447": "région du système ventriculaire de l'encéphale",
+    "FMA242789": "région du système ventriculaire du névraxe",
+    "FMA5897": "espace anatomique",
+    "FMA67552": "cavité anatomique",
+    "FMA24034": "cavité de partie d'organe",
+    "FMA9338": "espace de conduit anatomique",
+    "FMA67112": "entité anatomique immatérielle"
   },
   "parts": {
     "urethra": "urètre",
@@ -110,6 +125,11 @@
     "posterior leaflet of mitral valve": "cuspide postérieure de la valve mitrale",
     "anterior leaflet of tricuspid valve": "cuspide antérieure de la valve tricuspide",
     "posterior leaflet of tricuspid valve": "cuspide postérieure de la valve tricuspide",
-    "septal leaflet of tricuspid valve": "cuspide septale de la valve tricuspide"
+    "septal leaflet of tricuspid valve": "cuspide septale de la valve tricuspide",
+    "third ventricle": "troisième ventricule",
+    "fourth ventricle": "quatrième ventricule",
+    "left lateral ventricle": "ventricule latéral gauche",
+    "right lateral ventricle": "ventricule latéral droit",
+    "interventricular foramen": "foramen interventriculaire"
   }
 }
