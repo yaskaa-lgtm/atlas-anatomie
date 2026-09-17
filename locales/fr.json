@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "Human Atlas",
+    "metaDescription": "Un atlas interactif du corps humain. Explorez les structures anatomiques nommées, révélez les appareils et systèmes, et inspectez chaque pièce en 3D."
+  },
+  "language": {
+    "label": "Langue",
+    "switchTo": "Passer en {language}"
+  },
+  "systems": {
+    "panelLabel": "Couches anatomiques",
+    "title": "Systèmes",
+    "close": "Fermer les systèmes",
+    "presets": {
+      "all": "Tous",
+      "skeleton": "Squelette",
+      "organs": "Organes"
+    },
+    "showOnly": "Afficher uniquement {name}",
+    "show": "Afficher {name}",
+    "visible": {
+      "one": "{count} pièce visible",
+      "other": "{count} pièces visibles"
+    },
+    "hideAll": "Tout masquer",
+    "names": {
+      "skeletal": "Squelette",
+      "muscular": "Muscles",
+      "cardiac": "Cœur",
+      "sensory": "Organes des sens",
+      "arterial": "Artères",
+      "venous": "Veines",
+      "nervous": "Système nerveux",
+      "respiratory": "Appareil respiratoire",
+      "digestive": "Appareil digestif",
+      "urinary": "Appareil urinaire",
+      "lymphatic": "Système lymphatique",
+      "endocrine": "Système endocrinien",
+      "reproductive": "Appareil génital",
+      "integumentary": "Surface du corps",
+      "connective": "Tissu conjonctif"
+    },
+    "open": "Ouvrir les couches anatomiques"
+  }
+}
