@@ -10,7 +10,13 @@ les règles de travail de l'utilisateur, l'architecture i18n et l'état du dép�
 
 ---
 
-## ÉTAPE 4b — Traduire le vocabulaire anatomique ← PROCHAINE
+## ÉTAPE 4b — Traduire le vocabulaire anatomique ← EN COURS
+
+> **État au commit `78f7d48`** : 4b.1 fait (périmètre choisi : **les organes d'abord**), 4b.2 à 4b.7
+> **faits** (mécanisme, câblage, recherche bilingue, scripts). **Lot 1 fait** : urinaire, lymphatique,
+> endocrinien. **Reste** : la boucle 4b.8 pour `cardiac` (87), `respiratory` (158), `digestive` (151),
+> `reproductive` (33). Commande de départ : `node scripts/anatomy-todo.mjs cardiac 40`.
+> Les sections 4b.2 à 4b.7 ci-dessous sont conservées comme documentation du mécanisme.
 
 **C'est le gros chantier restant.** L'interface est traduite à 100 %, mais les **noms de structures**
 affichés (titre du panneau de détail, résultats de recherche, liste des pièces incluses) viennent

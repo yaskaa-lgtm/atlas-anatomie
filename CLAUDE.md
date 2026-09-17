@@ -128,8 +128,26 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 2 — Lancement en local | ✅ terminée, app fonctionnelle |
 | 3 — Structure i18n + sélecteur de langue | ✅ terminée et validée (commit `031db5b`) |
 | 4a — Traduction de l'interface | ✅ **terminée, 123/123 clés** (commit `1ce7106`) |
-| 4b — Traduction du vocabulaire anatomique | ⬜ **PROCHAINE ÉTAPE — non commencée** |
+| 4b — Vocabulaire anatomique : mécanisme | ✅ terminé (commit `78f7d48`) |
+| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lot 1 fait (urinaire, lymphatique, endocrinien). Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
 | 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
+
+### Vocabulaire — fichiers et commandes
+
+| Fichier | Rôle |
+|---|---|
+| `locales/anatomy-fr.json` | `concepts` par identifiant FMA, `parts` par nom anglais en minuscules. Valeur `"TODO"` = à revoir. |
+| `lib/anatomy-names.ts` | `useAnatomyName()` → `concept(c)`, `part(p)`, `chosen(x)` ; `fold()` retire les accents. |
+
+```sh
+node scripts/translation-coverage.mjs        # avancement par appareil
+node scripts/anatomy-todo.mjs cardiac 40     # les 40 prochains termes d'un appareil, prêts à coller
+```
+
+**Ordre des prochains lots** : `cardiac` (87, 2 lots) → `respiratory` (158, 4 lots) → `digestive` (151, 4 lots)
+→ `reproductive` (33, 1 lot). Toujours traduire les **noms de pièces** en même temps que les concepts
+du même appareil (le script les liste ensemble), sinon `chosen()` peut afficher un nom de concept
+à la place d'un nom de pièce.
 
 ## PROCHAINE ÉTAPE : le vocabulaire anatomique
 
@@ -197,6 +215,16 @@ ci-dessous : les reconfirmer s'ils reviennent dans un lot.
 | lymph nodes | **nœuds lymphatiques** (TA) | « ganglions lymphatiques » (usage clinique) |
 | upper left abdomen | **hypochondre gauche** | |
 | ADULT HUMAN · MALE | **HOMME ADULTE** | « ADULTE DE SEXE MASCULIN » (plus littéral, mais long) |
+| urinary bladder | **vessie** | « vessie urinaire » (calque de la TA, inutile en français) |
+| upper / lower urinary tract | **haut / bas appareil urinaire** (usage uro-radiologique) | « voies urinaires supérieures / inférieures » |
+| pineal body | **glande pinéale** (TA) | « épiphyse » (usage courant, ambigu avec l'épiphyse osseuse) |
+| pituitary gland | **hypophyse** (TA) | « glande pituitaire » (vieilli) |
+| adrenal gland | **glande surrénale** | « surrénale » seule (usage clinique) |
+
+**Classes FMA sans équivalent TA** (traduites littéralement, signalées à l'utilisateur) :
+« lobular organ component » → composant d'organe lobulaire ; « corticomedullary organ » →
+organe cortico-médullaire ; « anatomical lobe » → lobe anatomique. Ce sont des catégories de
+l'ontologie FMA, pas des structures cliniques ; elles apparaissent rarement dans l'app.
 
 **« Human Atlas » reste en anglais** : c'est le nom du produit, et l'utilisateur l'avait
 volontairement restauré (commit `1c38bf3`).
