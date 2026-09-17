@@ -129,7 +129,7 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 3 — Structure i18n + sélecteur de langue | ✅ terminée et validée (commit `031db5b`) |
 | 4a — Traduction de l'interface | ✅ **terminée, 123/123 clés** (commit `1ce7106`) |
 | 4b — Vocabulaire anatomique : mécanisme | ✅ terminé (commit `78f7d48`) |
-| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 4 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire 71/158 (lot 5 = arbre bronchique, lot 6 = segments broncho-pulmonaires ; `node scripts/anatomy-todo.mjs respiratory 60`). Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
+| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 6 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire **terminé**. Prochain : digestif 151 (`node scripts/anatomy-todo.mjs digestive 50`), puis génital 33. Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
 | 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
 
 ### Vocabulaire — fichiers et commandes
