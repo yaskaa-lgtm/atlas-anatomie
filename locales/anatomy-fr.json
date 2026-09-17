@@ -335,7 +335,25 @@
     "FMA20247": "zone du corps spongieux du pénis",
     "FMA20194": "organe caverneux",
     "FMA20221": "zone d'organe caverneux",
-    "FMA7146": "glande composant d'organe"
+    "FMA7146": "glande composant d'organe",
+    "FMA72979": "système tégumentaire",
+    "FMA74657": "tégument",
+    "FMA7163": "peau",
+    "FMA71012": "annexe cutanée",
+    "FMA59816": "lèvre",
+    "FMA53667": "poil",
+    "FMA70752": "ensemble de poils",
+    "FMA54241": "cheveux",
+    "FMA54250": "poils du tronc",
+    "FMA70741": "ensemble des poils du visage",
+    "FMA54237": "sourcil",
+    "FMA54319": "poils pubiens",
+    "FMA20218": "mont du pubis",
+    "FMA54393": "subdivision de la face",
+    "FMA46490": "subdivision de la bouche",
+    "FMA67536": "partie tissulaire cardinale",
+    "FMA70593": "subdivision de l'épiderme",
+    "FMA67538": "subdivision de l'épithélium"
   },
   "parts": {
     "urethra": "urètre",
@@ -472,6 +490,11 @@
     "prostate": "prostate",
     "glans penis": "gland du pénis",
     "corpus spongiosum of penis": "corps spongieux du pénis",
-    "corpus cavernosum of penis": "corps caverneux du pénis"
+    "corpus cavernosum of penis": "corps caverneux du pénis",
+    "skin": "peau",
+    "lip": "lèvre",
+    "hair of head": "cheveux",
+    "eyebrow": "sourcil",
+    "pubic hair": "poils pubiens"
   }
 }
