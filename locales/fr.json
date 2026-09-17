@@ -1,7 +1,11 @@
 {
   "app": {
     "title": "Human Atlas",
-    "metaDescription": "Un atlas interactif du corps humain. Explorez les structures anatomiques nommées, révélez les appareils et systèmes, et inspectez chaque pièce en 3D."
+    "metaDescription": "Un atlas interactif du corps humain. Explorez les structures anatomiques nommées, révélez les appareils et systèmes, et inspectez chaque pièce en 3D.",
+    "eyebrow": "ANATOMIE INTERACTIVE",
+    "modeledPieces": "{count} pièces modélisées",
+    "panelsLabel": "Panneaux d'exploration",
+    "about": "À propos de cet atlas"
   },
   "language": {
     "label": "Langue",
@@ -11,6 +15,7 @@
     "panelLabel": "Couches anatomiques",
     "title": "Systèmes",
     "close": "Fermer les systèmes",
+    "open": "Ouvrir les couches anatomiques",
     "presets": {
       "all": "Tous",
       "skeleton": "Squelette",
@@ -40,6 +45,119 @@
       "integumentary": "Surface du corps",
       "connective": "Tissu conjonctif"
     },
-    "open": "Ouvrir les couches anatomiques"
+    "descriptions": {
+      "skeletal": "Les os forment la charpente de soutien du corps, protègent les organes et offrent des points d'attache aux muscles. Leur tissu interne stocke également des minéraux et produit les cellules sanguines.",
+      "muscular": "Les muscles squelettiques produisent le mouvement en tirant sur leurs insertions. Avec les tendons, ils mobilisent les articulations, stabilisent la posture et produisent de la chaleur.",
+      "cardiac": "Le cœur est une pompe musculaire à quatre cavités. Ses valves dirigent le sang vers l'avant à travers les circulations pulmonaire et systémique.",
+      "sensory": "Ces structures participent aux sens spécialisés, dont la vue, l'audition et l'équilibre. Leurs tissus spécialisés détectent les stimuli et transmettent l'information en lien avec le système nerveux.",
+      "arterial": "Le cœur propulse le sang dans la circulation. Les artères conduisent le sang loin du cœur pour alimenter les tissus ou, dans la circulation pulmonaire, les poumons.",
+      "venous": "Les veines ramènent le sang vers le cœur. Les réseaux superficiel et profond collectent le sang des tissus ; les veines pulmonaires rapportent le sang oxygéné depuis les poumons.",
+      "nervous": "L'encéphale, la moelle spinale et les nerfs périphériques transportent et traitent les signaux. Ils assurent la sensibilité, le mouvement, la coordination et la régulation automatique des fonctions de l'organisme.",
+      "respiratory": "Les voies aériennes conduisent l'air jusqu'aux poumons, où l'oxygène et le dioxyde de carbone passent entre l'air et le sang. La respiration repose sur les variations de pression produites par les muscles respiratoires.",
+      "digestive": "Le tube digestif dégrade les aliments, absorbe les nutriments et l'eau, puis évacue les déchets. Les organes annexes fournissent la bile et les enzymes digestives.",
+      "urinary": "Les reins filtrent le sang et régulent l'équilibre hydrique, électrolytique et acido-basique. L'urine gagne la vessie par les uretères et s'évacue par l'urètre.",
+      "lymphatic": "Les vaisseaux lymphatiques ramènent l'excès de liquide interstitiel vers la circulation. Les nœuds lymphatiques et les autres organes lymphoïdes assurent la surveillance et les réponses immunitaires.",
+      "endocrine": "Les organes endocrines libèrent des hormones dans le sang pour coordonner des processus tels que le métabolisme, la croissance, les réponses au stress et la reproduction.",
+      "reproductive": "Les structures génitales masculines représentées ici participent à la production, à la maturation et au transport des spermatozoïdes, ainsi qu'à la production des hormones sexuelles.",
+      "integumentary": "La surface du corps fournit un repère anatomique externe. Le système tégumentaire forme une barrière protectrice et contribue à la sensibilité et à la régulation de la température.",
+      "connective": "Le cartilage, les ligaments et les autres tissus conjonctifs soutiennent, relient et séparent les structures. Ils stabilisent notamment les articulations et répartissent les charges mécaniques."
+    }
+  },
+  "search": {
+    "open": "Rechercher dans l'anatomie",
+    "title": "Trouver une structure",
+    "panelLabel": "Recherche anatomique",
+    "close": "Fermer la recherche",
+    "placeholder": "Cœur, fémur, nerf crânien…",
+    "inputLabel": "Rechercher parmi les structures anatomiques nommées",
+    "empty": "Aucune structure ne correspond à votre recherche.",
+    "pieces": {
+      "one": "{count} pièce",
+      "other": "{count} pièces"
+    },
+    "noteFiltered": "80 résultats affichés au maximum. Affinez votre recherche pour atteindre les structures plus fines.",
+    "noteIdle": "Commencez par un organe principal, ou explorez toutes les structures nommées."
+  },
+  "view": {
+    "panelLabel": "Commandes de la caméra",
+    "three-quarter": "Vue de trois quarts",
+    "front": "Vue de face",
+    "side": "Vue de profil",
+    "back": "Vue de dos",
+    "rotate": "Faire tourner le corps",
+    "pauseRotation": "Mettre la rotation en pause",
+    "autoRotate": "Rotation automatique",
+    "reset": "Réinitialiser la vue et les couches",
+    "resetShort": "Réinitialiser"
+  },
+  "caption": {
+    "isolated": "STRUCTURE SÉLECTIONNÉE",
+    "inventory": "INVENTAIRE ANATOMIQUE",
+    "separated": "STRUCTURES SÉPARÉES",
+    "assembled": "HOMME ADULTE"
+  },
+  "dock": {
+    "explode": "Éclater l'anatomie",
+    "assembled": "Assemblé",
+    "everyPiece": "Toutes les pièces",
+    "reset": "Assembler et réinitialiser",
+    "resetShort": "Réinitialiser"
+  },
+  "footer": {
+    "pan": "Glissez pour déplacer",
+    "orbit": "Glissez pour pivoter",
+    "zoom": "Pincez pour zoomer",
+    "inspect": "Touchez pour inspecter",
+    "credits": "Source et crédits"
+  },
+  "loading": {
+    "title": "Préparation de l'anatomie",
+    "progress": "{progress} % · Chargement de {count} pièces",
+    "failed": "Le catalogue anatomique n'a pas pu être chargé.",
+    "reload": "Recharger la visionneuse"
+  },
+  "detail": {
+    "fallbackSystem": "ANATOMIE",
+    "contextNote": "Vue d'ensemble du système · structure identifiée d'après l'anatomie source",
+    "reference": "Référence atlas",
+    "selectedPieces": "Pièces sélectionnées",
+    "included": "Structures incluses",
+    "andMore": "Et {count} autres pièces modélisées.",
+    "source": "Voir la source anatomique",
+    "isolate": "Isoler la structure",
+    "showSurrounding": "Afficher l'anatomie environnante",
+    "clear": "Effacer la sélection"
+  },
+  "about": {
+    "eyebrow": "SOURCE ET PÉRIMÈTRE",
+    "title": "Un corps, révélé.",
+    "subtitle": "Explorez l'anatomie de référence masculine adulte issue de BodyParts3D.",
+    "datasetHeading": "Masculin · BodyParts3D",
+    "datasetSummary": "{meshes} maillages individuels et {concepts} concepts nommés, issus d'une anatomie de référence masculine adulte.",
+    "scope": "Cette référence ne contient pas toutes les structures ni toutes les variations humaines. Un concept nommé peut regrouper plusieurs pièces ; chaque maillage source n'est affiché qu'une seule fois.",
+    "disclaimer": "Les couleurs et les regroupements par système sont conçus pour l'exploration. La géométrie est simplifiée pour le web, et les courtes explications fournissent un contexte pédagogique général. Ceci est une référence anatomique, et non un outil de diagnostic ou de chirurgie.",
+    "sourceHeading": "Source",
+    "attribution": "BodyParts3D, © The Database Center for Life Science, sous licence CC Attribution 4.0 International.",
+    "licenseLink": "Licence du jeu de données",
+    "geometryLink": "Géométrie et métadonnées d'origine",
+    "publicationLink": "Lire la publication source"
+  },
+  "scene": {
+    "webgl": "Ce navigateur n'a pas pu démarrer la visionneuse 3D. Essayez un navigateur sur lequel WebGL est activé.",
+    "canvasLabel": "Anatomie humaine interactive. Glissez pour pivoter, pincez ou utilisez la molette pour zoomer, et touchez une structure pour l'inspecter.",
+    "assembleFailed": "La géométrie anatomique n'a pas pu être assemblée.",
+    "loadFailed": "L'anatomie n'a pas pu être chargée.",
+    "contextLost": "La session 3D a été interrompue par votre appareil. Rechargez la page pour continuer."
+  },
+  "organs": {
+    "heart": "Une pompe musculaire située dans le thorax. Sa partie droite envoie le sang vers les poumons ; sa partie gauche le propulse dans la circulation systémique.",
+    "liver": "Un volumineux organe situé sous la partie droite du diaphragme. Il traite les nutriments absorbés, produit la bile et synthétise de nombreuses protéines transportées par le sang.",
+    "brain": "L'organe central du système nerveux. Ses régions interconnectées assurent la perception, le mouvement, la mémoire, le langage et la régulation des fonctions de l'organisme.",
+    "stomach": "Une poche musculaire située entre l'œsophage et l'intestin grêle. Elle stocke les aliments et les mélange à l'acide et aux enzymes avant de les libérer dans le duodénum.",
+    "spleen": "Un organe lymphoïde de l'hypochondre gauche. Il filtre le sang, élimine les cellules sanguines vieillissantes et participe aux réponses immunitaires.",
+    "pancreas": "Un organe abdominal aux rôles digestif et endocrine. Il fournit des enzymes à l'intestin grêle et libère des hormones, dont l'insuline et le glucagon.",
+    "urinary bladder": "Un réservoir musculaire situé dans le pelvis, qui stocke l'urine arrivant des reins par les uretères.",
+    "trachea": "La voie aérienne principale reliant le larynx aux bronches. Ses cartilages maintiennent la voie aérienne ouverte pendant la respiration.",
+    "diaphragm": "Un muscle large séparant le thorax de l'abdomen. En se contractant, il augmente le volume thoracique et aide à faire entrer l'air dans les poumons."
   }
 }

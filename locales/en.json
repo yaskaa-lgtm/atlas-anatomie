@@ -1,7 +1,11 @@
 {
   "app": {
     "title": "Human Atlas",
-    "metaDescription": "An interactive atlas of the human body. Explore named anatomical structures, reveal organ systems, and inspect individual parts in 3D."
+    "metaDescription": "An interactive atlas of the human body. Explore named anatomical structures, reveal organ systems, and inspect individual parts in 3D.",
+    "eyebrow": "INTERACTIVE ANATOMY",
+    "modeledPieces": "{count} modeled pieces",
+    "panelsLabel": "Explorer panels",
+    "about": "About this atlas"
   },
   "language": {
     "label": "Language",
@@ -11,6 +15,7 @@
     "panelLabel": "Anatomical layers",
     "title": "Systems",
     "close": "Close systems",
+    "open": "Open system layers",
     "presets": {
       "all": "All",
       "skeleton": "Skeleton",
@@ -56,8 +61,93 @@
       "reproductive": "The male reproductive structures represented here contribute to sperm production, maturation, transport, and the production of sex hormones.",
       "integumentary": "The body surface provides an outer anatomical reference. The integumentary system forms a protective barrier and contributes to sensation and temperature regulation.",
       "connective": "Cartilage, ligaments, and other connective tissues support, connect, and separate structures. Their roles include stabilizing joints and distributing mechanical loads."
+    }
+  },
+  "search": {
+    "open": "Search anatomy",
+    "title": "Find a structure",
+    "panelLabel": "Find anatomy",
+    "close": "Close search",
+    "placeholder": "Heart, femur, cranial nerve…",
+    "inputLabel": "Search named anatomical structures",
+    "empty": "No structures match your search.",
+    "pieces": {
+      "one": "{count} piece",
+      "other": "{count} pieces"
     },
-    "open": "Open system layers"
+    "noteFiltered": "Showing up to 80 matches. Refine your search to find smaller structures.",
+    "noteIdle": "Start with a major organ, or search every named structure."
+  },
+  "view": {
+    "panelLabel": "Camera controls",
+    "three-quarter": "Three-quarter view",
+    "front": "Front view",
+    "side": "Side view",
+    "back": "Back view",
+    "rotate": "Rotate body",
+    "pauseRotation": "Pause rotation",
+    "autoRotate": "Auto rotate",
+    "reset": "Reset view and layers",
+    "resetShort": "Reset"
+  },
+  "caption": {
+    "isolated": "SELECTED STRUCTURE",
+    "inventory": "ANATOMICAL INVENTORY",
+    "separated": "SEPARATED STRUCTURES",
+    "assembled": "ADULT HUMAN · MALE"
+  },
+  "dock": {
+    "explode": "Explode anatomy",
+    "assembled": "Assembled",
+    "everyPiece": "Every piece",
+    "reset": "Assemble and reset",
+    "resetShort": "Reset"
+  },
+  "footer": {
+    "pan": "Drag to pan",
+    "orbit": "Drag to orbit",
+    "zoom": "Pinch to zoom",
+    "inspect": "Tap to inspect",
+    "credits": "Source & credits"
+  },
+  "loading": {
+    "title": "Preparing the anatomy",
+    "progress": "{progress}% · Loading {count} pieces",
+    "failed": "The anatomy catalogue could not be loaded.",
+    "reload": "Reload viewer"
+  },
+  "detail": {
+    "fallbackSystem": "ANATOMY",
+    "contextNote": "System overview · structure identified from source anatomy",
+    "reference": "Atlas reference",
+    "selectedPieces": "Selected pieces",
+    "included": "Included structures",
+    "andMore": "And {count} more modeled pieces.",
+    "source": "View anatomical source",
+    "isolate": "Isolate structure",
+    "showSurrounding": "Show surrounding anatomy",
+    "clear": "Clear selection"
+  },
+  "about": {
+    "eyebrow": "SOURCE & SCOPE",
+    "title": "A body, revealed.",
+    "subtitle": "Explore the adult male reference anatomy from BodyParts3D.",
+    "datasetHeading": "Male · BodyParts3D",
+    "datasetSummary": "{meshes} individual meshes and {concepts} named concepts from an adult male reference anatomy.",
+    "scope": "This reference does not contain every human structure or variation. Named concepts can contain multiple pieces; each source mesh is rendered once.",
+    "disclaimer": "Colors and system groupings are designed for exploration. The geometry is simplified for the web, and short explanations provide general educational context. This is an anatomical reference, not a diagnostic or surgical tool.",
+    "sourceHeading": "Source",
+    "attribution": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.",
+    "licenseLink": "Dataset license",
+    "geometryLink": "Original geometry & metadata",
+    "publicationLink": "Read the source publication"
+  },
+  "scene": {
+    "webgl": "This browser could not start the 3D viewer. Please try a browser with WebGL enabled.",
+    "canvasLabel": "Interactive human anatomy. Drag to orbit, pinch or scroll to zoom, and tap a structure to inspect it.",
+    "assembleFailed": "Could not assemble anatomy geometry.",
+    "loadFailed": "Could not load the anatomy.",
+    "contextLost": "The 3D session was paused by your device. Reload to continue."
   },
   "organs": {
     "heart": "A muscular pump in the chest. Its right side sends blood to the lungs; its left side sends blood through the systemic circulation.",
