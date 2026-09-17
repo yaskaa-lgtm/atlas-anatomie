@@ -129,7 +129,7 @@ recherche par défaut dans `page.tsx` (`['heart','brain','liver',…]`).
 | 3 — Structure i18n + sélecteur de langue | ✅ terminée et validée (commit `031db5b`) |
 | 4a — Traduction de l'interface | ✅ **terminée, 123/123 clés** (commit `1ce7106`) |
 | 4b — Vocabulaire anatomique : mécanisme | ✅ terminé (commit `78f7d48`) |
-| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 6 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire **terminé**. Prochain : digestif 151 (`node scripts/anatomy-todo.mjs digestive 50`), puis génital 33. Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
+| 4b — Vocabulaire anatomique : lots | 🔄 **EN COURS** — lots 1 à 9 faits : urinaire, lymphatique, endocrinien, cœur (3 TODO), respiratoire, digestif **terminés**. Prochain : génital 33 (`node scripts/anatomy-todo.mjs reproductive`), qui clôt le périmètre « organes ». Ensuite demander à l'utilisateur : squelette (926) ou s'arrêter ? Périmètre choisi par l'utilisateur : **les organes d'abord** (cœur, respiratoire, digestif, génital), puis éventuellement le squelette. |
 | 5 — Vérification visuelle et liste des TODO | ⬜ à faire |
 
 ### Vocabulaire — fichiers et commandes
@@ -228,6 +228,14 @@ ci-dessous : les reconfirmer s'ils reviennent dans un lot.
 | main bronchus | **bronche principale** (TA) | « bronche souche » (usage clinique, très courant) |
 | nasal septum | **septum nasal** (TA) | « cloison nasale » |
 | internal nose | **nez interne** (littéral) | « cavités nasales » |
+| ileum | **iléum** (TA) | « iléon » (usage courant) |
+| ductus (cystique, pancréatique, hépatique…) | **conduit** (TA française) | « canal » (usage clinique dominant : canal cystique, canal de Wirsung) |
+| submandibular gland | **glande submandibulaire** (TA) | « glande sous-maxillaire » (ancien) |
+| taenia coli | **tænia du côlon** (TA) | « bandelette colique » |
+| gastrointestinal tract | **tube digestif** | « tractus gastro-intestinal » |
+| upper / lower GI tract | **tube digestif haut / bas** (usage clinique) | « supérieur / inférieur » |
+| tributary *(voies biliaires)* | **affluent** | |
+| appendix | **appendice vermiforme** (TA) | « appendice » |
 | aortic valve cusps | **par position** (antérieure, postérieure droite/gauche), fidèle à la source | clinique : coronaire droite / gauche / non coronaire |
 
 **TODO ouverts dans `anatomy-fr.json`** (affichés en anglais en attendant) : `FMA9348` subaortic curtain
