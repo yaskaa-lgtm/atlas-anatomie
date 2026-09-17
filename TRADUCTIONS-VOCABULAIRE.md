@@ -1,6 +1,6 @@
 # Vocabulaire anatomique — relecture
 
-**311 / 3432 termes traduits · 3 TODO**
+**1529 / 3432 termes traduits · 3 TODO**
 
 Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr.json`. Ne pas éditer à la main : corriger le JSON puis régénérer.
 
@@ -348,1195 +348,1195 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | pituitary gland | hypophyse | FMA13889 |
 | right adrenal gland | glande surrénale droite | FMA15629 |
 
-## Appareil génital — 0/21
+## Appareil génital — 21/21
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| cavernous organ | *(non traduit)* | FMA20194 |
-| corpus cavernosum of penis | *(non traduit)* | FMA19618 |
-| corpus spongiosum of penis | *(non traduit)* | FMA19617 |
-| deferent duct | *(non traduit)* | FMA19234 |
-| epididymis | *(non traduit)* | FMA18255 |
-| genital system | *(non traduit)* | FMA7160 |
-| glans penis | *(non traduit)* | FMA18247 |
-| left deferent duct | *(non traduit)* | FMA19236 |
-| left epididymis | *(non traduit)* | FMA18257 |
-| left seminal vesicle | *(non traduit)* | FMA19388 |
-| left testis | *(non traduit)* | FMA7212 |
-| organ component gland | *(non traduit)* | FMA7146 |
-| prostate | *(non traduit)* | FMA9600 |
-| right deferent duct | *(non traduit)* | FMA19235 |
-| right epididymis | *(non traduit)* | FMA18256 |
-| right seminal vesicle | *(non traduit)* | FMA19387 |
-| right testis | *(non traduit)* | FMA7211 |
-| seminal vesicle | *(non traduit)* | FMA19386 |
-| testis | *(non traduit)* | FMA7210 |
-| zone of cavernous organ | *(non traduit)* | FMA20221 |
-| zone of corpus spongiosum of penis | *(non traduit)* | FMA20247 |
+| cavernous organ | organe caverneux | FMA20194 |
+| corpus cavernosum of penis | corps caverneux du pénis | FMA19618 |
+| corpus spongiosum of penis | corps spongieux du pénis | FMA19617 |
+| deferent duct | conduit déférent | FMA19234 |
+| epididymis | épididyme | FMA18255 |
+| genital system | appareil génital | FMA7160 |
+| glans penis | gland du pénis | FMA18247 |
+| left deferent duct | conduit déférent gauche | FMA19236 |
+| left epididymis | épididyme gauche | FMA18257 |
+| left seminal vesicle | vésicule séminale gauche | FMA19388 |
+| left testis | testicule gauche | FMA7212 |
+| organ component gland | glande composant d'organe | FMA7146 |
+| prostate | prostate | FMA9600 |
+| right deferent duct | conduit déférent droit | FMA19235 |
+| right epididymis | épididyme droit | FMA18256 |
+| right seminal vesicle | vésicule séminale droite | FMA19387 |
+| right testis | testicule droit | FMA7211 |
+| seminal vesicle | vésicule séminale | FMA19386 |
+| testis | testicule | FMA7210 |
+| zone of cavernous organ | zone d'organe caverneux | FMA20221 |
+| zone of corpus spongiosum of penis | zone du corps spongieux du pénis | FMA20247 |
 
-## Organes des sens — 0/123
-
-| Anglais | Français | Réf. |
-|---|---|---|
-| anterior chamber of eyeball | *(non traduit)* | FMA58078 |
-| anterior chamber of left eyeball | *(non traduit)* | FMA58082 |
-| anterior chamber of right eyeball | *(non traduit)* | FMA58081 |
-| chamber of eyeball | *(non traduit)* | FMA58071 |
-| choroid | *(non traduit)* | FMA58298 |
-| choroid plexus of cerebral hemisphere | *(non traduit)* | FMA61934 |
-| common tendinous ring | *(non traduit)* | FMA49071 |
-| cornea | *(non traduit)* | FMA58238 |
-| corona ciliaris | *(non traduit)* | FMA58431 |
-| external ear | *(non traduit)* | FMA52781 |
-| face | *(non traduit)* | FMA24728 |
-| fibrous layer of eyeball | *(non traduit)* | FMA58102 |
-| fibrous layer of left eyeball | *(non traduit)* | FMA58106 |
-| fibrous layer of right eyeball | *(non traduit)* | FMA58105 |
-| flexor retinaculum of left wrist | *(non traduit)* | FMA40121 |
-| flexor retinaculum of right wrist | *(non traduit)* | FMA40120 |
-| flexor retinaculum of wrist | *(non traduit)* | FMA39988 |
-| investing fascia of left forearm | *(non traduit)* | FMA58576 |
-| investing fascia of left free upper limb | *(non traduit)* | FMA58406 |
-| investing fascia of left wrist | *(non traduit)* | FMA58449 |
-| investing fascia of right forearm | *(non traduit)* | FMA58575 |
-| investing fascia of right free upper limb | *(non traduit)* | FMA58405 |
-| investing fascia of right upper limb | *(non traduit)* | FMA58401 |
-| investing fascia of right wrist | *(non traduit)* | FMA58448 |
-| iris | *(non traduit)* | FMA58235 |
-| irregular connective tissue | *(non traduit)* | FMA20107 |
-| lacrimal bone | *(non traduit)* | FMA52741 |
-| lacrimal canaliculus | *(non traduit)* | FMA58245 |
-| lacrimal gland | *(non traduit)* | FMA59101 |
-| lacrimal lake | *(non traduit)* | FMA59402 |
-| lacrimal sac | *(non traduit)* | FMA20289 |
-| layer of wall of eyeball | *(non traduit)* | FMA58101 |
-| left choroid | *(non traduit)* | FMA58300 |
-| left common tendinous ring | *(non traduit)* | FMA49073 |
-| left cornea | *(non traduit)* | FMA58240 |
-| left corona ciliaris | *(non traduit)* | FMA58484 |
-| left eye | *(non traduit)* | FMA54450 |
-| left eyeball | *(non traduit)* | FMA12515 |
-| left iris | *(non traduit)* | FMA58237 |
-| left lacrimal apparatus | *(non traduit)* | FMA59369 |
-| left lacrimal bone | *(non traduit)* | FMA53646 |
-| left lacrimal canaliculus | *(non traduit)* | FMA59583 |
-| left lacrimal duct | *(non traduit)* | FMA61065 |
-| left lacrimal gland | *(non traduit)* | FMA59103 |
-| left lacrimal lake | *(non traduit)* | FMA59542 |
-| left lacrimal sac | *(non traduit)* | FMA59546 |
-| left lens | *(non traduit)* | FMA58243 |
-| left lower eyelid | *(non traduit)* | FMA54444 |
-| left nasolacrimal duct | *(non traduit)* | FMA59556 |
-| left orbit | *(non traduit)* | FMA53083 |
-| left orbital compartment | *(non traduit)* | FMA54668 |
-| left orbital content | *(non traduit)* | FMA260127 |
-| left sclera | *(non traduit)* | FMA58272 |
-| left vitreous body | *(non traduit)* | FMA58829 |
-| lens | *(non traduit)* | FMA58241 |
-| loose connective tissue | *(non traduit)* | FMA19783 |
-| membranous layer | *(non traduit)* | FMA82500 |
-| mucoid tissue | *(non traduit)* | FMA20111 |
-| nasolacrimal duct | *(non traduit)* | FMA9703 |
-| optic part of left retina | *(non traduit)* | FMA58608 |
-| optic part of retina | *(non traduit)* | FMA58604 |
-| optic part of right retina | *(non traduit)* | FMA58607 |
-| orbital part of left eye | *(non traduit)* | FMA72953 |
-| orbital part of right eye | *(non traduit)* | FMA72952 |
-| organ cavity subdivision | *(non traduit)* | FMA9337 |
-| organ chamber | *(non traduit)* | FMA82481 |
-| organ component cluster | *(non traduit)* | FMA42603 |
-| organ component layer | *(non traduit)* | FMA82485 |
-| organ part cluster | *(non traduit)* | FMA64990 |
-| portion of connective tissue | *(non traduit)* | FMA9640 |
-| portion of tissue | *(non traduit)* | FMA9637 |
-| region of ciliary body | *(non traduit)* | FMA58479 |
-| region of layer of wall of eyeball | *(non traduit)* | FMA225818 |
-| region of organ component | *(non traduit)* | FMA86103 |
-| region of retina | *(non traduit)* | FMA58599 |
-| region of vascular layer of eyeball | *(non traduit)* | FMA265400 |
-| region of wall of ventricular system of neuraxis | *(non traduit)* | FMA242770 |
-| retinaculum | *(non traduit)* | FMA7646 |
-| right choroid | *(non traduit)* | FMA58299 |
-| right common tendinous ring | *(non traduit)* | FMA49072 |
-| right cornea | *(non traduit)* | FMA58239 |
-| right corona ciliaris | *(non traduit)* | FMA58483 |
-| right eye | *(non traduit)* | FMA54449 |
-| right eyeball | *(non traduit)* | FMA12514 |
-| right iris | *(non traduit)* | FMA58236 |
-| right lacrimal apparatus | *(non traduit)* | FMA59368 |
-| right lacrimal bone | *(non traduit)* | FMA53645 |
-| right lacrimal canaliculus | *(non traduit)* | FMA59582 |
-| right lacrimal duct | *(non traduit)* | FMA61064 |
-| right lacrimal gland | *(non traduit)* | FMA59102 |
-| right lacrimal lake | *(non traduit)* | FMA59541 |
-| right lacrimal sac | *(non traduit)* | FMA59545 |
-| right lens | *(non traduit)* | FMA58242 |
-| right lower eyelid | *(non traduit)* | FMA54443 |
-| right nasolacrimal duct | *(non traduit)* | FMA59555 |
-| right orbit | *(non traduit)* | FMA53082 |
-| right orbital compartment | *(non traduit)* | FMA54667 |
-| right orbital content | *(non traduit)* | FMA260124 |
-| right sclera | *(non traduit)* | FMA58271 |
-| right vitreous body | *(non traduit)* | FMA58828 |
-| sclera | *(non traduit)* | FMA58269 |
-| segment of lacrimal duct | *(non traduit)* | FMA86195 |
-| skull | *(non traduit)* | FMA46565 |
-| subdivision of auriculotemporal part of head | *(non traduit)* | FMA61708 |
-| subdivision of cardinal body part | *(non traduit)* | FMA67504 |
-| subdivision of head | *(non traduit)* | FMA24218 |
-| subdivision of head proper | *(non traduit)* | FMA58817 |
-| suspensory ligament of left lens | *(non traduit)* | FMA58840 |
-| suspensory ligament of lens | *(non traduit)* | FMA58838 |
-| suspensory ligament of right lens | *(non traduit)* | FMA58839 |
-| tarsal plate of eyelid | *(non traduit)* | FMA59086 |
-| tarsal plate of left lower eyelid | *(non traduit)* | FMA59090 |
-| tarsal plate of left upper eyelid | *(non traduit)* | FMA59092 |
-| tarsal plate of lower eyelid | *(non traduit)* | FMA59088 |
-| tarsal plate of right lower eyelid | *(non traduit)* | FMA59089 |
-| tarsal plate of right upper eyelid | *(non traduit)* | FMA59091 |
-| tarsal plate of upper eyelid | *(non traduit)* | FMA59087 |
-| vascular layer of left eyeball | *(non traduit)* | FMA58108 |
-| vascular layer of right eyeball | *(non traduit)* | FMA58107 |
-| viscerocranium | *(non traduit)* | FMA53673 |
-| vitreous body | *(non traduit)* | FMA58827 |
-| wall of left eyeball | *(non traduit)* | FMA58100 |
-| wall of right eyeball | *(non traduit)* | FMA58099 |
-
-## Tissu conjonctif — 0/74
+## Organes des sens — 123/123
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| anatomical boundary entity | *(non traduit)* | FMA50705 |
-| anatomical line | *(non traduit)* | FMA9657 |
-| calcaneal tendon | *(non traduit)* | FMA51061 |
-| check ligament of lateral rectus | *(non traduit)* | FMA49143 |
-| check ligament of left lateral rectus | *(non traduit)* | FMA49145 |
-| check ligament of left medial rectus | *(non traduit)* | FMA49148 |
-| check ligament of medial rectus | *(non traduit)* | FMA49146 |
-| check ligament of right lateral rectus | *(non traduit)* | FMA49144 |
-| check ligament of right medial rectus | *(non traduit)* | FMA49147 |
-| conus elasticus | *(non traduit)* | FMA55250 |
-| cricothyroid ligament | *(non traduit)* | FMA55233 |
-| decussation | *(non traduit)* | FMA9649 |
-| extrinsic ligament of larynx | *(non traduit)* | FMA54921 |
-| hyo-epiglottic ligament | *(non traduit)* | FMA55227 |
-| intermediate tendon | *(non traduit)* | FMA65410 |
-| interosseous membrane | *(non traduit)* | FMA54839 |
-| interosseous membrane of forearm | *(non traduit)* | FMA23706 |
-| interosseous membrane of left forearm | *(non traduit)* | FMA23708 |
-| interosseous membrane of left leg | *(non traduit)* | FMA35193 |
-| interosseous membrane of leg | *(non traduit)* | FMA35187 |
-| interosseous membrane of right forearm | *(non traduit)* | FMA23707 |
-| interosseous membrane of right leg | *(non traduit)* | FMA35192 |
-| intrinsic ligament of larynx | *(non traduit)* | FMA72058 |
-| lateral thyrohyoid ligament | *(non traduit)* | FMA55139 |
-| left calcaneal tendon | *(non traduit)* | FMA264844 |
-| left conus elasticus | *(non traduit)* | FMA55252 |
-| left lateral thyrohyoid ligament | *(non traduit)* | FMA55141 |
-| left long plantar ligament | *(non traduit)* | FMA44250 |
-| left pterygomandibular raphe | *(non traduit)* | FMA55620 |
-| left stylohyoid ligament | *(non traduit)* | FMA72311 |
-| left tensor fasciae latae | *(non traduit)* | FMA22426 |
-| left thyrohyoid membrane | *(non traduit)* | FMA55134 |
-| left vocal ligament | *(non traduit)* | FMA55246 |
-| ligament of larynx | *(non traduit)* | FMA55131 |
-| ligament of limb | *(non traduit)* | FMA265180 |
-| ligament of lower limb | *(non traduit)* | FMA265178 |
-| ligament organ | *(non traduit)* | FMA21496 |
-| ligament organ component | *(non traduit)* | FMA86375 |
-| linea alba | *(non traduit)* | FMA11336 |
-| long plantar ligament | *(non traduit)* | FMA44248 |
-| median cricothyroid ligament | *(non traduit)* | FMA55237 |
-| median thyrohyoid ligament | *(non traduit)* | FMA55138 |
-| membrane organ | *(non traduit)* | FMA7145 |
-| membrane organ component | *(non traduit)* | FMA75445 |
-| nonskeletal ligament | *(non traduit)* | FMA25625 |
-| organ component | *(non traduit)* | FMA14065 |
-| pharyngeal raphe | *(non traduit)* | FMA55077 |
-| plantar tarsal ligament | *(non traduit)* | FMA44245 |
-| pterygomandibular raphe | *(non traduit)* | FMA55618 |
-| right calcaneal tendon | *(non traduit)* | FMA258847 |
-| right conus elasticus | *(non traduit)* | FMA55251 |
-| right intermediate tendon | *(non traduit)* | FMA258850 |
-| right lateral thyrohyoid ligament | *(non traduit)* | FMA55140 |
-| right long plantar ligament | *(non traduit)* | FMA44249 |
-| right pterygomandibular raphe | *(non traduit)* | FMA55619 |
-| right stylohyoid ligament | *(non traduit)* | FMA72309 |
-| right tensor fasciae latae | *(non traduit)* | FMA22425 |
-| right thyrohyoid membrane | *(non traduit)* | FMA55133 |
-| right vocal ligament | *(non traduit)* | FMA55245 |
-| skeletal ligament | *(non traduit)* | FMA25624 |
-| stylohyoid ligament | *(non traduit)* | FMA72308 |
-| tarsal ligament | *(non traduit)* | FMA44197 |
-| tendinous arch of levator ani | *(non traduit)* | FMA46442 |
-| tendon | *(non traduit)* | FMA9721 |
-| tendon of levator palpebrae superioris | *(non traduit)* | FMA54158 |
-| tendon of right levator palpebrae superioris | *(non traduit)* | FMA54159 |
-| tensor fasciae latae | *(non traduit)* | FMA22423 |
-| thyro-epiglottic ligament | *(non traduit)* | FMA55230 |
-| thyrohyoid ligament | *(non traduit)* | FMA55135 |
-| thyrohyoid membrane | *(non traduit)* | FMA55132 |
-| trochlea of left superior oblique | *(non traduit)* | FMA49068 |
-| trochlea of right superior oblique | *(non traduit)* | FMA49067 |
-| trochlea of superior oblique | *(non traduit)* | FMA49065 |
-| vocal ligament | *(non traduit)* | FMA55244 |
+| anterior chamber of eyeball | chambre antérieure du bulbe de l'œil | FMA58078 |
+| anterior chamber of left eyeball | chambre antérieure du bulbe de l'œil gauche | FMA58082 |
+| anterior chamber of right eyeball | chambre antérieure du bulbe de l'œil droit | FMA58081 |
+| chamber of eyeball | chambre du bulbe de l'œil | FMA58071 |
+| choroid | choroïde | FMA58298 |
+| choroid plexus of cerebral hemisphere | plexus choroïde de l'hémisphère cérébral | FMA61934 |
+| common tendinous ring | anneau tendineux commun | FMA49071 |
+| cornea | cornée | FMA58238 |
+| corona ciliaris | couronne ciliaire | FMA58431 |
+| external ear | oreille externe | FMA52781 |
+| face | face | FMA24728 |
+| fibrous layer of eyeball | tunique fibreuse du bulbe de l'œil | FMA58102 |
+| fibrous layer of left eyeball | tunique fibreuse du bulbe de l'œil gauche | FMA58106 |
+| fibrous layer of right eyeball | tunique fibreuse du bulbe de l'œil droit | FMA58105 |
+| flexor retinaculum of left wrist | rétinaculum des fléchisseurs du poignet gauche | FMA40121 |
+| flexor retinaculum of right wrist | rétinaculum des fléchisseurs du poignet droit | FMA40120 |
+| flexor retinaculum of wrist | rétinaculum des fléchisseurs du poignet | FMA39988 |
+| investing fascia of left forearm | fascia de l'avant-bras gauche | FMA58576 |
+| investing fascia of left free upper limb | fascia de la partie libre du membre supérieur gauche | FMA58406 |
+| investing fascia of left wrist | fascia du poignet gauche | FMA58449 |
+| investing fascia of right forearm | fascia de l'avant-bras droit | FMA58575 |
+| investing fascia of right free upper limb | fascia de la partie libre du membre supérieur droit | FMA58405 |
+| investing fascia of right upper limb | fascia du membre supérieur droit | FMA58401 |
+| investing fascia of right wrist | fascia du poignet droit | FMA58448 |
+| iris | iris | FMA58235 |
+| irregular connective tissue | tissu conjonctif irrégulier | FMA20107 |
+| lacrimal bone | os lacrymal | FMA52741 |
+| lacrimal canaliculus | canalicule lacrymal | FMA58245 |
+| lacrimal gland | glande lacrymale | FMA59101 |
+| lacrimal lake | lac lacrymal | FMA59402 |
+| lacrimal sac | sac lacrymal | FMA20289 |
+| layer of wall of eyeball | couche de la paroi du bulbe de l'œil | FMA58101 |
+| left choroid | choroïde gauche | FMA58300 |
+| left common tendinous ring | anneau tendineux commun gauche | FMA49073 |
+| left cornea | cornée gauche | FMA58240 |
+| left corona ciliaris | couronne ciliaire gauche | FMA58484 |
+| left eye | œil gauche | FMA54450 |
+| left eyeball | bulbe de l'œil gauche | FMA12515 |
+| left iris | iris gauche | FMA58237 |
+| left lacrimal apparatus | appareil lacrymal gauche | FMA59369 |
+| left lacrimal bone | os lacrymal gauche | FMA53646 |
+| left lacrimal canaliculus | canalicule lacrymal gauche | FMA59583 |
+| left lacrimal duct | conduit lacrymal gauche | FMA61065 |
+| left lacrimal gland | glande lacrymale gauche | FMA59103 |
+| left lacrimal lake | lac lacrymal gauche | FMA59542 |
+| left lacrimal sac | sac lacrymal gauche | FMA59546 |
+| left lens | cristallin gauche | FMA58243 |
+| left lower eyelid | paupière inférieure gauche | FMA54444 |
+| left nasolacrimal duct | conduit lacrymo-nasal gauche | FMA59556 |
+| left orbit | orbite gauche | FMA53083 |
+| left orbital compartment | compartiment orbitaire gauche | FMA54668 |
+| left orbital content | contenu de l'orbite gauche | FMA260127 |
+| left sclera | sclère gauche | FMA58272 |
+| left vitreous body | corps vitré gauche | FMA58829 |
+| lens | cristallin | FMA58241 |
+| loose connective tissue | tissu conjonctif lâche | FMA19783 |
+| membranous layer | couche membraneuse | FMA82500 |
+| mucoid tissue | tissu mucoïde | FMA20111 |
+| nasolacrimal duct | conduit lacrymo-nasal | FMA9703 |
+| optic part of left retina | partie optique de la rétine gauche | FMA58608 |
+| optic part of retina | partie optique de la rétine | FMA58604 |
+| optic part of right retina | partie optique de la rétine droite | FMA58607 |
+| orbital part of left eye | partie orbitaire de l'œil gauche | FMA72953 |
+| orbital part of right eye | partie orbitaire de l'œil droit | FMA72952 |
+| organ cavity subdivision | subdivision de cavité d'organe | FMA9337 |
+| organ chamber | chambre d'organe | FMA82481 |
+| organ component cluster | groupe de composants d'organe | FMA42603 |
+| organ component layer | couche de composant d'organe | FMA82485 |
+| organ part cluster | groupe de parties d'organe | FMA64990 |
+| portion of connective tissue | portion de tissu conjonctif | FMA9640 |
+| portion of tissue | portion de tissu | FMA9637 |
+| region of ciliary body | région du corps ciliaire | FMA58479 |
+| region of layer of wall of eyeball | région de couche de la paroi du bulbe de l'œil | FMA225818 |
+| region of organ component | région de composant d'organe | FMA86103 |
+| region of retina | région de la rétine | FMA58599 |
+| region of vascular layer of eyeball | région de la tunique vasculaire du bulbe de l'œil | FMA265400 |
+| region of wall of ventricular system of neuraxis | région de la paroi du système ventriculaire du névraxe | FMA242770 |
+| retinaculum | rétinaculum | FMA7646 |
+| right choroid | choroïde droite | FMA58299 |
+| right common tendinous ring | anneau tendineux commun droit | FMA49072 |
+| right cornea | cornée droite | FMA58239 |
+| right corona ciliaris | couronne ciliaire droite | FMA58483 |
+| right eye | œil droit | FMA54449 |
+| right eyeball | bulbe de l'œil droit | FMA12514 |
+| right iris | iris droit | FMA58236 |
+| right lacrimal apparatus | appareil lacrymal droit | FMA59368 |
+| right lacrimal bone | os lacrymal droit | FMA53645 |
+| right lacrimal canaliculus | canalicule lacrymal droit | FMA59582 |
+| right lacrimal duct | conduit lacrymal droit | FMA61064 |
+| right lacrimal gland | glande lacrymale droite | FMA59102 |
+| right lacrimal lake | lac lacrymal droit | FMA59541 |
+| right lacrimal sac | sac lacrymal droit | FMA59545 |
+| right lens | cristallin droit | FMA58242 |
+| right lower eyelid | paupière inférieure droite | FMA54443 |
+| right nasolacrimal duct | conduit lacrymo-nasal droit | FMA59555 |
+| right orbit | orbite droite | FMA53082 |
+| right orbital compartment | compartiment orbitaire droit | FMA54667 |
+| right orbital content | contenu de l'orbite droite | FMA260124 |
+| right sclera | sclère droite | FMA58271 |
+| right vitreous body | corps vitré droit | FMA58828 |
+| sclera | sclère | FMA58269 |
+| segment of lacrimal duct | segment du conduit lacrymal | FMA86195 |
+| skull | crâne | FMA46565 |
+| subdivision of auriculotemporal part of head | subdivision de la partie auriculo-temporale de la tête | FMA61708 |
+| subdivision of cardinal body part | subdivision de partie cardinale du corps | FMA67504 |
+| subdivision of head | subdivision de la tête | FMA24218 |
+| subdivision of head proper | subdivision de la tête proprement dite | FMA58817 |
+| suspensory ligament of left lens | ligament suspenseur du cristallin gauche | FMA58840 |
+| suspensory ligament of lens | ligament suspenseur du cristallin | FMA58838 |
+| suspensory ligament of right lens | ligament suspenseur du cristallin droit | FMA58839 |
+| tarsal plate of eyelid | tarse de la paupière | FMA59086 |
+| tarsal plate of left lower eyelid | tarse de la paupière inférieure gauche | FMA59090 |
+| tarsal plate of left upper eyelid | tarse de la paupière supérieure gauche | FMA59092 |
+| tarsal plate of lower eyelid | tarse de la paupière inférieure | FMA59088 |
+| tarsal plate of right lower eyelid | tarse de la paupière inférieure droite | FMA59089 |
+| tarsal plate of right upper eyelid | tarse de la paupière supérieure droite | FMA59091 |
+| tarsal plate of upper eyelid | tarse de la paupière supérieure | FMA59087 |
+| vascular layer of left eyeball | tunique vasculaire du bulbe de l'œil gauche | FMA58108 |
+| vascular layer of right eyeball | tunique vasculaire du bulbe de l'œil droit | FMA58107 |
+| viscerocranium | viscérocrâne | FMA53673 |
+| vitreous body | corps vitré | FMA58827 |
+| wall of left eyeball | paroi du bulbe de l'œil gauche | FMA58100 |
+| wall of right eyeball | paroi du bulbe de l'œil droit | FMA58099 |
 
-## Surface du corps — 0/18
-
-| Anglais | Français | Réf. |
-|---|---|---|
-| cardinal tissue part | *(non traduit)* | FMA67536 |
-| eyebrow | *(non traduit)* | FMA54237 |
-| hair | *(non traduit)* | FMA53667 |
-| hair of head | *(non traduit)* | FMA54241 |
-| hair of trunk | *(non traduit)* | FMA54250 |
-| integument | *(non traduit)* | FMA74657 |
-| integumentary system | *(non traduit)* | FMA72979 |
-| lip | *(non traduit)* | FMA59816 |
-| mons pubis | *(non traduit)* | FMA20218 |
-| pubic hair | *(non traduit)* | FMA54319 |
-| set of facial hairs | *(non traduit)* | FMA70741 |
-| set of hairs | *(non traduit)* | FMA70752 |
-| skin | *(non traduit)* | FMA7163 |
-| skin appendage | *(non traduit)* | FMA71012 |
-| subdivision of epidermis | *(non traduit)* | FMA70593 |
-| subdivision of epithelium | *(non traduit)* | FMA67538 |
-| subdivision of face | *(non traduit)* | FMA54393 |
-| subdivision of mouth | *(non traduit)* | FMA46490 |
-
-## Système nerveux — 0/288
-
-| Anglais | Français | Réf. |
-|---|---|---|
-| amygdala | *(non traduit)* | FMA61841 |
-| anatomical cluster | *(non traduit)* | FMA49443 |
-| anatomical compartment space | *(non traduit)* | FMA84926 |
-| angular gyrus | *(non traduit)* | FMA61898 |
-| anterior commissure | *(non traduit)* | FMA61961 |
-| anterior ethmoidal nerve | *(non traduit)* | FMA52675 |
-| anterior part of left superior temporal gyrus | *(non traduit)* | FMA72801 |
-| anterior part of right superior temporal gyrus | *(non traduit)* | FMA72800 |
-| anterior part of superior temporal gyrus | *(non traduit)* | FMA70701 |
-| autonomic ganglion | *(non traduit)* | FMA5889 |
-| basal ganglion of telencephalon | *(non traduit)* | FMA62514 |
-| basicranial part of head proper | *(non traduit)* | FMA270201 |
-| brachium of inferior colliculus | *(non traduit)* | FMA71114 |
-| brachium of left inferior colliculus | *(non traduit)* | FMA73464 |
-| brachium of left superior colliculus | *(non traduit)* | FMA73462 |
-| brachium of neuraxis | *(non traduit)* | FMA83857 |
-| brachium of right inferior colliculus | *(non traduit)* | FMA73463 |
-| brachium of right superior colliculus | *(non traduit)* | FMA73461 |
-| brachium of superior colliculus | *(non traduit)* | FMA72417 |
-| brain | *(non traduit)* | FMA50801 |
-| brainstem | *(non traduit)* | FMA79876 |
-| branch of ciliary ganglion | *(non traduit)* | FMA7037 |
-| branch of cranial nerve | *(non traduit)* | FMA52570 |
-| branch of frontal nerve | *(non traduit)* | FMA52641 |
-| branch of nasociliary nerve | *(non traduit)* | FMA52671 |
-| branch of oculomotor nerve | *(non traduit)* | FMA52571 |
-| branch of ophthalmic nerve | *(non traduit)* | FMA52624 |
-| branch of trigeminal nerve | *(non traduit)* | FMA52607 |
-| capsule of cerebral hemisphere | *(non traduit)* | FMA62466 |
-| cardinal segment of brain | *(non traduit)* | FMA61815 |
-| caudate nucleus | *(non traduit)* | FMA61833 |
-| cavity of neuraxis | *(non traduit)* | FMA75007 |
-| cell part cluster | *(non traduit)* | FMA83115 |
-| cell part cluster of neuraxis | *(non traduit)* | FMA83143 |
-| central canal of spinal cord | *(non traduit)* | FMA78497 |
-| cerebellum | *(non traduit)* | FMA67944 |
-| cerebral aqueduct | *(non traduit)* | FMA78467 |
-| cerebral white matter | *(non traduit)* | FMA241998 |
-| ciliary ganglion | *(non traduit)* | FMA6964 |
-| cingulate gyrus | *(non traduit)* | FMA62434 |
-| commissure of diencephalon | *(non traduit)* | FMA62445 |
-| commissure of fornix of forebrain | *(non traduit)* | FMA61970 |
-| commissure of neuraxis | *(non traduit)* | FMA83906 |
-| communicating branch of left nasociliary nerve with left ciliary ganglion | *(non traduit)* | FMA52674 |
-| communicating branch of nasociliary nerve with ciliary ganglion | *(non traduit)* | FMA52672 |
-| communicating branch of right nasociliary nerve with right ciliary ganglion | *(non traduit)* | FMA52673 |
-| corpus callosum | *(non traduit)* | FMA86464 |
-| cortex of left cerebral hemisphere | *(non traduit)* | FMA242182 |
-| cortex of left frontal lobe | *(non traduit)* | FMA242209 |
-| cortex of right cerebral hemisphere | *(non traduit)* | FMA242180 |
-| cortex of right frontal lobe | *(non traduit)* | FMA242207 |
-| cranial nerve | *(non traduit)* | FMA5865 |
-| cranial parasympathetic ganglion | *(non traduit)* | FMA5895 |
-| diencephalon | *(non traduit)* | FMA62001 |
-| epithalamus | *(non traduit)* | FMA62009 |
-| forebrain | *(non traduit)* | FMA61992 |
-| fornix of forebrain | *(non traduit)* | FMA61965 |
-| fornix of neuraxis | *(non traduit)* | FMA83865 |
-| frontal nerve | *(non traduit)* | FMA52638 |
-| frontal part of head | *(non traduit)* | FMA46448 |
-| fusiform gyrus | *(non traduit)* | FMA61908 |
-| ganglion | *(non traduit)* | FMA5884 |
-| globus pallidus | *(non traduit)* | FMA61835 |
-| gray matter of diencephalon | *(non traduit)* | FMA83912 |
-| gray matter of hypothalamus | *(non traduit)* | FMA83915 |
-| gray matter of neuraxis | *(non traduit)* | FMA67242 |
-| gyrus of neuraxis | *(non traduit)* | FMA83874 |
-| habenula | *(non traduit)* | FMA62032 |
-| head | *(non traduit)* | FMA7154 |
-| head proper | *(non traduit)* | FMA54545 |
-| hindbrain | *(non traduit)* | FMA67687 |
-| hippocampus | *(non traduit)* | FMA62493 |
-| hypothalamus | *(non traduit)* | FMA62008 |
-| inferior branch of left oculomotor nerve | *(non traduit)* | FMA52577 |
-| inferior branch of oculomotor nerve | *(non traduit)* | FMA52573 |
-| inferior branch of right oculomotor nerve | *(non traduit)* | FMA52576 |
-| inferior colliculus | *(non traduit)* | FMA62404 |
-| inferior frontal gyrus | *(non traduit)* | FMA61860 |
-| inferior temporal gyrus | *(non traduit)* | FMA61907 |
-| infratrochlear nerve | *(non traduit)* | FMA52693 |
-| insula | *(non traduit)* | FMA67329 |
-| intermediate hypothalamic region | *(non traduit)* | FMA62028 |
-| internal capsule | *(non traduit)* | FMA61950 |
-| internal gray matter component | *(non traduit)* | FMA223151 |
-| interpeduncular fossa | *(non traduit)* | FMA83740 |
-| lacrimal nerve | *(non traduit)* | FMA52628 |
-| lamina of cerebral hemisphere | *(non traduit)* | FMA67951 |
-| lamina of neuraxis | *(non traduit)* | FMA83856 |
-| lamina terminalis | *(non traduit)* | FMA61975 |
-| lateral geniculate body | *(non traduit)* | FMA62209 |
-| left amygdala | *(non traduit)* | FMA72833 |
-| left angular gyrus | *(non traduit)* | FMA72670 |
-| left anterior ethmoidal nerve | *(non traduit)* | FMA52677 |
-| left archicortex | *(non traduit)* | FMA242611 |
-| left caudate nucleus | *(non traduit)* | FMA72827 |
-| left cerebral hemisphere | *(non traduit)* | FMA61819 |
-| left ciliary ganglion | *(non traduit)* | FMA53550 |
-| left cingulate gyrus | *(non traduit)* | FMA72718 |
-| left fornix of forebrain | *(non traduit)* | FMA72925 |
-| left frontal lobe | *(non traduit)* | FMA72970 |
-| left frontal nerve | *(non traduit)* | FMA52640 |
-| left fusiform gyrus | *(non traduit)* | FMA72690 |
-| left globus pallidus | *(non traduit)* | FMA72831 |
-| left hippocampal formation | *(non traduit)* | FMA261141 |
-| left hippocampus | *(non traduit)* | FMA72714 |
-| left inferior colliculus | *(non traduit)* | FMA73435 |
-| left inferior frontal gyrus | *(non traduit)* | FMA72658 |
-| left inferior temporal gyrus | *(non traduit)* | FMA72688 |
-| left infratrochlear nerve | *(non traduit)* | FMA52699 |
-| left insula | *(non traduit)* | FMA72978 |
-| left internal capsule | *(non traduit)* | FMA72907 |
-| left lacrimal nerve | *(non traduit)* | FMA52630 |
-| left lateral geniculate body | *(non traduit)* | FMA73304 |
-| left limbic lobe | *(non traduit)* | FMA72981 |
-| left long ciliary nerve | *(non traduit)* | FMA82735 |
-| left medial geniculate body | *(non traduit)* | FMA73310 |
-| left middle frontal gyrus | *(non traduit)* | FMA72656 |
-| left middle temporal gyrus | *(non traduit)* | FMA72686 |
-| left nasociliary nerve | *(non traduit)* | FMA52670 |
-| left occipital lobe | *(non traduit)* | FMA72976 |
-| left ophthalmic nerve | *(non traduit)* | FMA52623 |
-| left optic nerve | *(non traduit)* | FMA50878 |
-| left optic tract | *(non traduit)* | FMA67936 |
-| left parahippocampal gyrus | *(non traduit)* | FMA72706 |
-| left parietal lobe | *(non traduit)* | FMA72974 |
-| left parietal part of head | *(non traduit)* | FMA61733 |
-| left postcentral gyrus | *(non traduit)* | FMA72666 |
-| left posterior ethmoidal nerve | *(non traduit)* | FMA52716 |
-| left precentral gyrus | *(non traduit)* | FMA72662 |
-| left prefrontal cortex | *(non traduit)* | FMA242627 |
-| left putamen | *(non traduit)* | FMA72829 |
-| left stria medullaris of thalamus | *(non traduit)* | FMA73414 |
-| left stria terminalis | *(non traduit)* | FMA72940 |
-| left superior colliculus | *(non traduit)* | FMA73423 |
-| left superior frontal gyrus | *(non traduit)* | FMA72654 |
-| left superior parietal lobule | *(non traduit)* | FMA72672 |
-| left supra-orbital nerve | *(non traduit)* | FMA52657 |
-| left supramarginal gyrus | *(non traduit)* | FMA72668 |
-| left supratrochlear nerve | *(non traduit)* | FMA52644 |
-| left temporal lobe | *(non traduit)* | FMA72972 |
-| left thalamus | *(non traduit)* | FMA258716 |
-| left trochlear nerve | *(non traduit)* | FMA50882 |
-| lobe of cerebral hemisphere | *(non traduit)* | FMA61823 |
-| lobule of cerebral hemisphere | *(non traduit)* | FMA81150 |
-| long ciliary nerve | *(non traduit)* | FMA52691 |
-| mammillary body | *(non traduit)* | FMA74877 |
-| medial geniculate body | *(non traduit)* | FMA62211 |
-| medulla oblongata | *(non traduit)* | FMA62004 |
-| metencephalon | *(non traduit)* | FMA62003 |
-| midbrain | *(non traduit)* | FMA61993 |
-| midbrain tectum | *(non traduit)* | FMA83902 |
-| middle frontal gyrus | *(non traduit)* | FMA61859 |
-| middle temporal gyrus | *(non traduit)* | FMA61906 |
-| nasociliary nerve | *(non traduit)* | FMA52668 |
-| nerve | *(non traduit)* | FMA65132 |
-| nerve trunk | *(non traduit)* | FMA5913 |
-| nervous system | *(non traduit)* | FMA7157 |
-| neural tree organ | *(non traduit)* | FMA61284 |
-| neuraxis | *(non traduit)* | FMA55675 |
-| nuclear complex of neuraxis | *(non traduit)* | FMA84059 |
-| nucleus of brain | *(non traduit)* | FMA83840 |
-| nucleus of neuraxis | *(non traduit)* | FMA83686 |
-| nucleus of thalamus | *(non traduit)* | FMA256693 |
-| occipital lobe | *(non traduit)* | FMA67325 |
-| ophthalmic nerve | *(non traduit)* | FMA52621 |
-| optic chiasm | *(non traduit)* | FMA62045 |
-| optic nerve | *(non traduit)* | FMA50863 |
-| optic tract | *(non traduit)* | FMA62046 |
-| orbital gyrus | *(non traduit)* | FMA256194 |
-| organ component of neuraxis | *(non traduit)* | FMA83153 |
-| parahippocampal gyrus | *(non traduit)* | FMA61918 |
-| parasympathetic ganglion | *(non traduit)* | FMA5894 |
-| peduncle of midbrain | *(non traduit)* | FMA62394 |
-| peduncle of neuraxis | *(non traduit)* | FMA83860 |
-| pons | *(non traduit)* | FMA67943 |
-| postcentral gyrus | *(non traduit)* | FMA61896 |
-| posterior commissure | *(non traduit)* | FMA62072 |
-| posterior ethmoidal nerve | *(non traduit)* | FMA52714 |
-| posterior part of left superior temporal gyrus | *(non traduit)* | FMA72805 |
-| posterior part of right superior temporal gyrus | *(non traduit)* | FMA72804 |
-| posterior part of superior temporal gyrus | *(non traduit)* | FMA70703 |
-| precentral gyrus | *(non traduit)* | FMA61894 |
-| putamen | *(non traduit)* | FMA61834 |
-| region of cerebral cortex | *(non traduit)* | FMA242193 |
-| region of cerebral white matter | *(non traduit)* | FMA256174 |
-| region of dura mater | *(non traduit)* | FMA71235 |
-| right amygdala | *(non traduit)* | FMA72832 |
-| right angular gyrus | *(non traduit)* | FMA72669 |
-| right anterior ethmoidal nerve | *(non traduit)* | FMA52676 |
-| right archicortex | *(non traduit)* | FMA242609 |
-| right caudate nucleus | *(non traduit)* | FMA72826 |
-| right cerebral hemisphere | *(non traduit)* | FMA67292 |
-| right ciliary ganglion | *(non traduit)* | FMA53549 |
-| right cingulate gyrus | *(non traduit)* | FMA72717 |
-| right fornix of forebrain | *(non traduit)* | FMA72924 |
-| right frontal lobe | *(non traduit)* | FMA72969 |
-| right frontal nerve | *(non traduit)* | FMA52639 |
-| right fusiform gyrus | *(non traduit)* | FMA72689 |
-| right globus pallidus | *(non traduit)* | FMA72830 |
-| right hippocampal formation | *(non traduit)* | FMA261139 |
-| right hippocampus | *(non traduit)* | FMA72713 |
-| right inferior colliculus | *(non traduit)* | FMA73434 |
-| right inferior frontal gyrus | *(non traduit)* | FMA72657 |
-| right inferior temporal gyrus | *(non traduit)* | FMA72687 |
-| right infratrochlear nerve | *(non traduit)* | FMA52698 |
-| right insula | *(non traduit)* | FMA72977 |
-| right internal capsule | *(non traduit)* | FMA72906 |
-| right lacrimal nerve | *(non traduit)* | FMA52629 |
-| right lateral geniculate body | *(non traduit)* | FMA73303 |
-| right limbic lobe | *(non traduit)* | FMA72980 |
-| right long ciliary nerve | *(non traduit)* | FMA82734 |
-| right medial geniculate body | *(non traduit)* | FMA73309 |
-| right middle frontal gyrus | *(non traduit)* | FMA72655 |
-| right middle temporal gyrus | *(non traduit)* | FMA72685 |
-| right nasociliary nerve | *(non traduit)* | FMA52669 |
-| right occipital lobe | *(non traduit)* | FMA72975 |
-| right ophthalmic nerve | *(non traduit)* | FMA52622 |
-| right optic nerve | *(non traduit)* | FMA50875 |
-| right optic tract | *(non traduit)* | FMA62382 |
-| right parahippocampal gyrus | *(non traduit)* | FMA72705 |
-| right parietal lobe | *(non traduit)* | FMA72973 |
-| right parietal part of head | *(non traduit)* | FMA61732 |
-| right postcentral gyrus | *(non traduit)* | FMA72665 |
-| right posterior ethmoidal nerve | *(non traduit)* | FMA52715 |
-| right precentral gyrus | *(non traduit)* | FMA72661 |
-| right prefrontal cortex | *(non traduit)* | FMA242625 |
-| right putamen | *(non traduit)* | FMA72828 |
-| right stria medullaris of thalamus | *(non traduit)* | FMA73413 |
-| right superior colliculus | *(non traduit)* | FMA73422 |
-| right superior frontal gyrus | *(non traduit)* | FMA72653 |
-| right superior parietal lobule | *(non traduit)* | FMA72671 |
-| right supra-orbital nerve | *(non traduit)* | FMA52656 |
-| right supramarginal gyrus | *(non traduit)* | FMA72667 |
-| right supratrochlear nerve | *(non traduit)* | FMA52643 |
-| right temporal lobe | *(non traduit)* | FMA72971 |
-| right thalamus | *(non traduit)* | FMA258714 |
-| right trochlear nerve | *(non traduit)* | FMA50881 |
-| segment of brain | *(non traduit)* | FMA55676 |
-| segment of cerebral hemisphere | *(non traduit)* | FMA61820 |
-| segment of forebrain | *(non traduit)* | FMA61996 |
-| segment of gyrus of cerebral hemisphere | *(non traduit)* | FMA67957 |
-| segment of hindbrain | *(non traduit)* | FMA61998 |
-| segment of metencephalon | *(non traduit)* | FMA67942 |
-| segment of midbrain | *(non traduit)* | FMA61997 |
-| segment of midbrain tectum | *(non traduit)* | FMA62398 |
-| segment of neural tree organ | *(non traduit)* | FMA11195 |
-| segment of neuraxis | *(non traduit)* | FMA256237 |
-| segment of telencephalon | *(non traduit)* | FMA62374 |
-| segment of white matter of neuraxis | *(non traduit)* | FMA83465 |
-| septum of neuraxis | *(non traduit)* | FMA83904 |
-| septum of telencephalon | *(non traduit)* | FMA61842 |
-| set of heterogeneous clusters | *(non traduit)* | FMA78590 |
-| short ciliary nerve | *(non traduit)* | FMA7041 |
-| space of compartment of head | *(non traduit)* | FMA84953 |
-| spinal cord | *(non traduit)* | FMA7647 |
-| stria medullaris of thalamus | *(non traduit)* | FMA62080 |
-| stria of neuraxis | *(non traduit)* | FMA83854 |
-| stria of telencephalon | *(non traduit)* | FMA67950 |
-| stria terminalis | *(non traduit)* | FMA61974 |
-| subarachnoid incisure | *(non traduit)* | FMA83738 |
-| subcortex of left cerebral hemisphere | *(non traduit)* | FMA242186 |
-| subcortex of right cerebral hemisphere | *(non traduit)* | FMA242184 |
-| subdivision of cranial dura mater | *(non traduit)* | FMA266054 |
-| subdivision of nervous system | *(non traduit)* | FMA45638 |
-| subdivision of parasympathetic nervous system | *(non traduit)* | FMA65539 |
-| subdivision of subarachnoid space | *(non traduit)* | FMA84881 |
-| subdivision of superior temporal gyrus | *(non traduit)* | FMA70676 |
-| subdivisionof autonomic nervous system | *(non traduit)* | FMA65551 |
-| superior branch of left oculomotor nerve | *(non traduit)* | FMA52575 |
-| superior branch of oculomotor nerve | *(non traduit)* | FMA52572 |
-| superior branch of right oculomotor nerve | *(non traduit)* | FMA52574 |
-| superior colliculus | *(non traduit)* | FMA62403 |
-| superior frontal gyrus | *(non traduit)* | FMA61857 |
-| superior parietal lobule | *(non traduit)* | FMA61899 |
-| supra-orbital nerve | *(non traduit)* | FMA52655 |
-| supramarginal gyrus | *(non traduit)* | FMA61897 |
-| supratrochlear nerve | *(non traduit)* | FMA52642 |
-| telencephalon | *(non traduit)* | FMA62000 |
-| tentorium cerebelli | *(non traduit)* | FMA83966 |
-| thalamus | *(non traduit)* | FMA62007 |
-| trochlear nerve | *(non traduit)* | FMA50865 |
-| tuber cinereum | *(non traduit)* | FMA62327 |
-| white matter of left cerebral hemisphere | *(non traduit)* | FMA260794 |
-| white matter of neuraxis | *(non traduit)* | FMA83929 |
-| white matter of right cerebral hemisphere | *(non traduit)* | FMA260791 |
-| white matter of telencephalon | *(non traduit)* | FMA83930 |
-| zone of diencephalon | *(non traduit)* | FMA74866 |
-| zone of neuraxis | *(non traduit)* | FMA84054 |
-
-## Squelette — 0/634
+## Tissu conjonctif — 74/74
 
 | Anglais | Français | Réf. |
 |---|---|---|
-| abdomen | *(non traduit)* | FMA9577 |
-| abdomen proper | *(non traduit)* | FMA61680 |
-| abdominal segment of trunk | *(non traduit)* | FMA259211 |
-| anterior chest wall | *(non traduit)* | FMA87543 |
-| anterior part of left knee | *(non traduit)* | FMA73056 |
-| anterior part of right knee | *(non traduit)* | FMA73055 |
-| anterior thoracic wall | *(non traduit)* | FMA87542 |
-| articular disk of symphysis | *(non traduit)* | FMA67396 |
-| arytenoid cartilage | *(non traduit)* | FMA55109 |
-| atlas | *(non traduit)* | FMA12519 |
-| atypical rib | *(non traduit)* | FMA7596 |
-| axial skeletal system | *(non traduit)* | FMA7483 |
-| axial skeleton | *(non traduit)* | FMA71221 |
-| axis | *(non traduit)* | FMA12520 |
-| back of abdomen | *(non traduit)* | FMA61681 |
-| back of neck | *(non traduit)* | FMA24189 |
-| back of thorax | *(non traduit)* | FMA24217 |
-| basicranium | *(non traduit)* | FMA52801 |
-| body of organ | *(non traduit)* | FMA45734 |
-| body of sternum | *(non traduit)* | FMA7487 |
-| body wall | *(non traduit)* | FMA10427 |
-| bone organ | *(non traduit)* | FMA5018 |
-| bony part of nasal septum | *(non traduit)* | FMA59837 |
-| bony pelvis | *(non traduit)* | FMA16580 |
-| calcaneus | *(non traduit)* | FMA24496 |
-| canine tooth | *(non traduit)* | FMA55636 |
-| capitate | *(non traduit)* | FMA23727 |
-| carpal bone | *(non traduit)* | FMA23889 |
-| cartilage organ | *(non traduit)* | FMA55107 |
-| cartilage organ component | *(non traduit)* | FMA7538 |
-| cartilaginous skeleton of external nose | *(non traduit)* | FMA59836 |
-| cavitated organ | *(non traduit)* | FMA55671 |
-| cervical vertebra | *(non traduit)* | FMA9915 |
-| cervical vertebral column | *(non traduit)* | FMA24138 |
-| chest wall | *(non traduit)* | FMA50060 |
-| clavicle | *(non traduit)* | FMA13321 |
-| corniculate cartilage | *(non traduit)* | FMA55110 |
-| costal cartilage | *(non traduit)* | FMA7591 |
-| cricoid cartilage | *(non traduit)* | FMA9615 |
-| cuboid bone | *(non traduit)* | FMA24527 |
-| cuneiform bone | *(non traduit)* | FMA24517 |
-| cuneiform cartilage | *(non traduit)* | FMA55111 |
-| deep fascial system | *(non traduit)* | FMA79063 |
-| distal carpal bone | *(non traduit)* | FMA33303 |
-| distal phalanx of big toe | *(non traduit)* | FMA32627 |
-| distal phalanx of fourth toe | *(non traduit)* | FMA32630 |
-| distal phalanx of index finger | *(non traduit)* | FMA23946 |
-| distal phalanx of left big toe | *(non traduit)* | FMA32651 |
-| distal phalanx of left fourth toe | *(non traduit)* | FMA32657 |
-| distal phalanx of left index finger | *(non traduit)* | FMA23953 |
-| distal phalanx of left little finger | *(non traduit)* | FMA23959 |
-| distal phalanx of left little toe | *(non traduit)* | FMA32659 |
-| distal phalanx of left middle finger | *(non traduit)* | FMA23955 |
-| distal phalanx of left ring finger | *(non traduit)* | FMA23957 |
-| distal phalanx of left second toe | *(non traduit)* | FMA32653 |
-| distal phalanx of left third toe | *(non traduit)* | FMA32655 |
-| distal phalanx of left thumb | *(non traduit)* | FMA23951 |
-| distal phalanx of little finger | *(non traduit)* | FMA23949 |
-| distal phalanx of little toe | *(non traduit)* | FMA32631 |
-| distal phalanx of middle finger | *(non traduit)* | FMA23947 |
-| distal phalanx of right big toe | *(non traduit)* | FMA32650 |
-| distal phalanx of right fourth toe | *(non traduit)* | FMA32656 |
-| distal phalanx of right index finger | *(non traduit)* | FMA24460 |
-| distal phalanx of right little finger | *(non traduit)* | FMA24463 |
-| distal phalanx of right little toe | *(non traduit)* | FMA32658 |
-| distal phalanx of right middle finger | *(non traduit)* | FMA24461 |
-| distal phalanx of right ring finger | *(non traduit)* | FMA24462 |
-| distal phalanx of right second toe | *(non traduit)* | FMA32652 |
-| distal phalanx of right third toe | *(non traduit)* | FMA32654 |
-| distal phalanx of right thumb | *(non traduit)* | FMA24459 |
-| distal phalanx of ring finger | *(non traduit)* | FMA23948 |
-| distal phalanx of second toe | *(non traduit)* | FMA32628 |
-| distal phalanx of third toe | *(non traduit)* | FMA32629 |
-| distal phalanx of thumb | *(non traduit)* | FMA23945 |
-| eighth rib | *(non traduit)* | FMA8120 |
-| eighth thoracic intervertebral symphysis | *(non traduit)* | FMA26100 |
-| eighth thoracic vertebra | *(non traduit)* | FMA9991 |
-| eleventh rib | *(non traduit)* | FMA8499 |
-| eleventh thoracic intervertebral symphysis | *(non traduit)* | FMA26103 |
-| eleventh thoracic vertebra | *(non traduit)* | FMA10059 |
-| ethmoid | *(non traduit)* | FMA52740 |
-| external nose | *(non traduit)* | FMA59515 |
-| false rib | *(non traduit)* | FMA7594 |
-| fascia lata of left thigh | *(non traduit)* | FMA51045 |
-| fascia lata of right thigh | *(non traduit)* | FMA51044 |
-| femur | *(non traduit)* | FMA9611 |
-| fibula | *(non traduit)* | FMA24479 |
-| fibularis brevis | *(non traduit)* | FMA22540 |
-| fibularis longus | *(non traduit)* | FMA22539 |
-| fibularis tertius | *(non traduit)* | FMA22538 |
-| fifth cervical intervertebral symphysis | *(non traduit)* | FMA26084 |
-| fifth cervical vertebra | *(non traduit)* | FMA12523 |
-| fifth costal cartilage | *(non traduit)* | FMA7795 |
-| fifth lumbar intervertebral symphysis | *(non traduit)* | FMA26109 |
-| fifth lumbar vertebra | *(non traduit)* | FMA13076 |
-| fifth metacarpal bone | *(non traduit)* | FMA23903 |
-| fifth metatarsal bone | *(non traduit)* | FMA24506 |
-| fifth rib | *(non traduit)* | FMA7776 |
-| fifth thoracic intervertebral symphysis | *(non traduit)* | FMA26097 |
-| fifth thoracic vertebra | *(non traduit)* | FMA9922 |
-| first costal cartilage | *(non traduit)* | FMA7603 |
-| first lumbar intervertebral symphysis | *(non traduit)* | FMA26105 |
-| first lumbar vertebra | *(non traduit)* | FMA13072 |
-| first metacarpal bone | *(non traduit)* | FMA23899 |
-| first metatarsal bone | *(non traduit)* | FMA24502 |
-| first rib | *(non traduit)* | FMA7597 |
-| first thoracic intervertebral symphysis | *(non traduit)* | FMA26089 |
-| first thoracic vertebra | *(non traduit)* | FMA9165 |
-| flat bone | *(non traduit)* | FMA7476 |
-| floating rib | *(non traduit)* | FMA7595 |
-| fourth cervical intervertebral symphysis | *(non traduit)* | FMA26083 |
-| fourth cervical vertebra | *(non traduit)* | FMA12522 |
-| fourth costal cartilage | *(non traduit)* | FMA7768 |
-| fourth lumbar intervertebral symphysis | *(non traduit)* | FMA26108 |
-| fourth lumbar vertebra | *(non traduit)* | FMA13075 |
-| fourth metacarpal bone | *(non traduit)* | FMA23902 |
-| fourth metatarsal bone | *(non traduit)* | FMA24505 |
-| fourth rib | *(non traduit)* | FMA7749 |
-| fourth thoracic intervertebral symphysis | *(non traduit)* | FMA26096 |
-| fourth thoracic vertebra | *(non traduit)* | FMA9248 |
-| frontal bone | *(non traduit)* | FMA52734 |
-| gingiva | *(non traduit)* | FMA59762 |
-| gingiva of lower jaw | *(non traduit)* | FMA59764 |
-| gingiva of upper jaw | *(non traduit)* | FMA59763 |
-| hamate | *(non traduit)* | FMA23730 |
-| hip bone | *(non traduit)* | FMA16585 |
-| humerus | *(non traduit)* | FMA13303 |
-| hyoid bone | *(non traduit)* | FMA52749 |
-| iliotibial tract | *(non traduit)* | FMA51048 |
-| incisor tooth | *(non traduit)* | FMA12823 |
-| intermediate cuneiform bone | *(non traduit)* | FMA24519 |
-| intervertebral disk | *(non traduit)* | FMA10446 |
-| intervertebral disk of axis | *(non traduit)* | FMA25058 |
-| intervertebral disk of cervical vertebra | *(non traduit)* | FMA13895 |
-| intervertebral disk of eighth thoracic vertebra | *(non traduit)* | FMA13505 |
-| intervertebral disk of eleventh thoracic vertebra | *(non traduit)* | FMA13508 |
-| intervertebral disk of fifth cervical vertebra | *(non traduit)* | FMA13898 |
-| intervertebral disk of fifth lumbar vertebra | *(non traduit)* | FMA16037 |
-| intervertebral disk of fifth thoracic vertebra | *(non traduit)* | FMA13502 |
-| intervertebral disk of first lumbar vertebra | *(non traduit)* | FMA16033 |
-| intervertebral disk of first thoracic vertebra | *(non traduit)* | FMA10458 |
-| intervertebral disk of fourth cervical vertebra | *(non traduit)* | FMA13897 |
-| intervertebral disk of fourth lumbar vertebra | *(non traduit)* | FMA16036 |
-| intervertebral disk of fourth thoracic vertebra | *(non traduit)* | FMA13501 |
-| intervertebral disk of lumbar vertebra | *(non traduit)* | FMA13894 |
-| intervertebral disk of ninth thoracic vertebra | *(non traduit)* | FMA13506 |
-| intervertebral disk of second lumbar vertebra | *(non traduit)* | FMA16034 |
-| intervertebral disk of second thoracic vertebra | *(non traduit)* | FMA13495 |
-| intervertebral disk of seventh cervical vertebra | *(non traduit)* | FMA13900 |
-| intervertebral disk of seventh thoracic vertebra | *(non traduit)* | FMA13504 |
-| intervertebral disk of sixth cervical vertebra | *(non traduit)* | FMA13899 |
-| intervertebral disk of sixth thoracic vertebra | *(non traduit)* | FMA13503 |
-| intervertebral disk of tenth thoracic vertebra | *(non traduit)* | FMA13507 |
-| intervertebral disk of third cervical vertebra | *(non traduit)* | FMA13896 |
-| intervertebral disk of third lumbar vertebra | *(non traduit)* | FMA16035 |
-| intervertebral disk of third thoracic vertebra | *(non traduit)* | FMA13500 |
-| intervertebral disk of thoracic vertebra | *(non traduit)* | FMA10455 |
-| intervertebral symphysis | *(non traduit)* | FMA25511 |
-| intervertebral symphysis of axis | *(non traduit)* | FMA25571 |
-| investing fascia of left free lower limb | *(non traduit)* | FMA58430 |
-| investing fascia of left lower limb | *(non traduit)* | FMA58419 |
-| investing fascia of left thigh | *(non traduit)* | FMA58743 |
-| investing fascia of right free lower limb | *(non traduit)* | FMA58429 |
-| investing fascia of right lower limb | *(non traduit)* | FMA58418 |
-| investing fascia of right thigh | *(non traduit)* | FMA58742 |
-| irregular bone | *(non traduit)* | FMA7477 |
-| laryngeal cartilage | *(non traduit)* | FMA55108 |
-| lateral cuneiform bone | *(non traduit)* | FMA24520 |
-| left arytenoid cartilage | *(non traduit)* | FMA55114 |
-| left big toe | *(non traduit)* | FMA60336 |
-| left bony pectoral girdle | *(non traduit)* | FMA25573 |
-| left calcaneus | *(non traduit)* | FMA24498 |
-| left capitate | *(non traduit)* | FMA24447 |
-| left cheek | *(non traduit)* | FMA53638 |
-| left clavicle | *(non traduit)* | FMA13323 |
-| left corniculate cartilage | *(non traduit)* | FMA55116 |
-| left cuboid bone | *(non traduit)* | FMA24529 |
-| left cuneiform cartilage | *(non traduit)* | FMA55118 |
-| left eighth rib | *(non traduit)* | FMA8310 |
-| left eleventh rib | *(non traduit)* | FMA8532 |
-| left femur | *(non traduit)* | FMA24475 |
-| left fibula | *(non traduit)* | FMA24481 |
-| left fibularis brevis | *(non traduit)* | FMA22555 |
-| left fibularis longus | *(non traduit)* | FMA22553 |
-| left fibularis tertius | *(non traduit)* | FMA22551 |
-| left fifth costal cartilage | *(non traduit)* | FMA8112 |
-| left fifth metacarpal bone | *(non traduit)* | FMA24473 |
-| left fifth metatarsal bone | *(non traduit)* | FMA24516 |
-| left fifth rib | *(non traduit)* | FMA8093 |
-| left first costal cartilage | *(non traduit)* | FMA8005 |
-| left first metacarpal bone | *(non traduit)* | FMA24465 |
-| left first metatarsal bone | *(non traduit)* | FMA24508 |
-| left first rib | *(non traduit)* | FMA7987 |
-| left foot | *(non traduit)* | FMA11344 |
-| left foot proper | *(non traduit)* | FMA73087 |
-| left forearm | *(non traduit)* | FMA11346 |
-| left fourth costal cartilage | *(non traduit)* | FMA8167 |
-| left fourth metacarpal bone | *(non traduit)* | FMA24471 |
-| left fourth metatarsal bone | *(non traduit)* | FMA24514 |
-| left fourth rib | *(non traduit)* | FMA8148 |
-| left fourth toe | *(non traduit)* | FMA60342 |
-| left free lower limb | *(non traduit)* | FMA24883 |
-| left free upper limb | *(non traduit)* | FMA24881 |
-| left hamate | *(non traduit)* | FMA24449 |
-| left hand | *(non traduit)* | FMA9714 |
-| left hand proper | *(non traduit)* | FMA61069 |
-| left hip | *(non traduit)* | FMA24966 |
-| left hip bone | *(non traduit)* | FMA16587 |
-| left humerus | *(non traduit)* | FMA23131 |
-| left iliotibial tract | *(non traduit)* | FMA58777 |
-| left index finger | *(non traduit)* | FMA60334 |
-| left intermediate cuneiform bone | *(non traduit)* | FMA24524 |
-| left knee | *(non traduit)* | FMA24978 |
-| left lateral cuneiform bone | *(non traduit)* | FMA24526 |
-| left leg | *(non traduit)* | FMA24981 |
-| left levator scapulae | *(non traduit)* | FMA32541 |
-| left little finger | *(non traduit)* | FMA60328 |
-| left little toe | *(non traduit)* | FMA60344 |
-| left lower central secondary incisor tooth | *(non traduit)* | FMA57143 |
-| left lower first secondary molar tooth | *(non traduit)* | FMA55704 |
-| left lower first secondary premolar tooth | *(non traduit)* | FMA55693 |
-| left lower lateral secondary incisor tooth | *(non traduit)* | FMA57141 |
-| left lower limb | *(non traduit)* | FMA7188 |
-| left lower second secondary molar tooth | *(non traduit)* | FMA55703 |
-| left lower second secondary premolar tooth | *(non traduit)* | FMA55692 |
-| left lower secondary canine tooth | *(non traduit)* | FMA55687 |
-| left lunate | *(non traduit)* | FMA24438 |
-| left major alar cartilage | *(non traduit)* | FMA59506 |
-| left maxilla | *(non traduit)* | FMA53650 |
-| left medial cuneiform bone | *(non traduit)* | FMA24522 |
-| left middle finger | *(non traduit)* | FMA60332 |
-| left nasal bone | *(non traduit)* | FMA53648 |
-| left ninth rib | *(non traduit)* | FMA8391 |
-| left palatine bone | *(non traduit)* | FMA53656 |
-| left parietal bone | *(non traduit)* | FMA52789 |
-| left patella | *(non traduit)* | FMA24487 |
-| left pelvic girdle | *(non traduit)* | FMA16583 |
-| left pisiform | *(non traduit)* | FMA24442 |
-| left radius | *(non traduit)* | FMA23465 |
-| left ring finger | *(non traduit)* | FMA60330 |
-| left scaphoid | *(non traduit)* | FMA24436 |
-| left scapula | *(non traduit)* | FMA13396 |
-| left second costal cartilage | *(non traduit)* | FMA8031 |
-| left second metacarpal bone | *(non traduit)* | FMA24467 |
-| left second metatarsal bone | *(non traduit)* | FMA24510 |
-| left second rib | *(non traduit)* | FMA8012 |
-| left second toe | *(non traduit)* | FMA60338 |
-| left seventh costal cartilage | *(non traduit)* | FMA8275 |
-| left seventh rib | *(non traduit)* | FMA8256 |
-| left side of bony pelvis | *(non traduit)* | FMA20227 |
-| left side of rib cage | *(non traduit)* | FMA20225 |
-| left sixth costal cartilage | *(non traduit)* | FMA8221 |
-| left sixth rib | *(non traduit)* | FMA8202 |
-| left subscapularis | *(non traduit)* | FMA13415 |
-| left talus | *(non traduit)* | FMA24483 |
-| left temporal bone | *(non traduit)* | FMA52739 |
-| left tenth rib | *(non traduit)* | FMA8472 |
-| left thigh | *(non traduit)* | FMA24969 |
-| left third costal cartilage | *(non traduit)* | FMA8058 |
-| left third metacarpal bone | *(non traduit)* | FMA24469 |
-| left third metatarsal bone | *(non traduit)* | FMA24512 |
-| left third rib | *(non traduit)* | FMA8039 |
-| left third toe | *(non traduit)* | FMA60340 |
-| left thumb | *(non traduit)* | FMA60326 |
-| left tibia | *(non traduit)* | FMA24478 |
-| left tibialis anterior | *(non traduit)* | FMA22545 |
-| left tibialis posterior | *(non traduit)* | FMA65019 |
-| left trapezium | *(non traduit)* | FMA24444 |
-| left trapezoid | *(non traduit)* | FMA24445 |
-| left triquetral | *(non traduit)* | FMA24440 |
-| left twelfth rib | *(non traduit)* | FMA8534 |
-| left ulna | *(non traduit)* | FMA23468 |
-| left upper central secondary incisor tooth | *(non traduit)* | FMA55682 |
-| left upper first secondary molar tooth | *(non traduit)* | FMA55699 |
-| left upper first secondary premolar tooth | *(non traduit)* | FMA55690 |
-| left upper lateral secondary incisor tooth | *(non traduit)* | FMA55683 |
-| left upper limb | *(non traduit)* | FMA7186 |
-| left upper second secondary molar tooth | *(non traduit)* | FMA55700 |
-| left upper second secondary premolar tooth | *(non traduit)* | FMA55691 |
-| left upper secondary canine tooth | *(non traduit)* | FMA55799 |
-| left wrist | *(non traduit)* | FMA24941 |
-| left zygomatic bone | *(non traduit)* | FMA52893 |
-| levator scapulae | *(non traduit)* | FMA32519 |
-| long bone | *(non traduit)* | FMA7474 |
-| lower central secondary incisor tooth | *(non traduit)* | FMA55723 |
-| lower first secondary molar tooth | *(non traduit)* | FMA55814 |
-| lower first secondary premolar tooth | *(non traduit)* | FMA55803 |
-| lower jaw | *(non traduit)* | FMA54398 |
-| lower lateral secondary incisor tooth | *(non traduit)* | FMA55725 |
-| lower limb | *(non traduit)* | FMA7184 |
-| lower second secondary molar tooth | *(non traduit)* | FMA55815 |
-| lower second secondary premolar tooth | *(non traduit)* | FMA55804 |
-| lower secondary canine tooth | *(non traduit)* | FMA55715 |
-| lower secondary incisor tooth | *(non traduit)* | FMA55713 |
-| lower secondary molar tooth | *(non traduit)* | FMA55721 |
-| lower secondary premolar tooth | *(non traduit)* | FMA55717 |
-| lumbar vertebra | *(non traduit)* | FMA9921 |
-| lumbar vertebral column | *(non traduit)* | FMA16203 |
-| lunate | *(non traduit)* | FMA23712 |
-| major alar cartilage | *(non traduit)* | FMA59504 |
-| mandible | *(non traduit)* | FMA52748 |
-| mandibular part of mouth | *(non traduit)* | FMA59398 |
-| manubrium | *(non traduit)* | FMA7486 |
-| maxilla | *(non traduit)* | FMA9711 |
-| maxillary part of mouth | *(non traduit)* | FMA59399 |
-| medial cuneiform bone | *(non traduit)* | FMA24518 |
-| metacarpal bone | *(non traduit)* | FMA9612 |
-| metatarsal bone | *(non traduit)* | FMA24492 |
-| middle phalanx of fourth toe | *(non traduit)* | FMA32625 |
-| middle phalanx of index finger | *(non traduit)* | FMA23933 |
-| middle phalanx of left fourth toe | *(non traduit)* | FMA32647 |
-| middle phalanx of left index finger | *(non traduit)* | FMA23938 |
-| middle phalanx of left little finger | *(non traduit)* | FMA23944 |
-| middle phalanx of left little toe | *(non traduit)* | FMA230988 |
-| middle phalanx of left middle finger | *(non traduit)* | FMA23940 |
-| middle phalanx of left ring finger | *(non traduit)* | FMA23942 |
-| middle phalanx of left second toe | *(non traduit)* | FMA32643 |
-| middle phalanx of left third toe | *(non traduit)* | FMA32645 |
-| middle phalanx of little finger | *(non traduit)* | FMA23936 |
-| middle phalanx of little toe | *(non traduit)* | FMA230984 |
-| middle phalanx of middle finger | *(non traduit)* | FMA23934 |
-| middle phalanx of right fourth toe | *(non traduit)* | FMA32646 |
-| middle phalanx of right index finger | *(non traduit)* | FMA24455 |
-| middle phalanx of right little finger | *(non traduit)* | FMA24458 |
-| middle phalanx of right little toe | *(non traduit)* | FMA230986 |
-| middle phalanx of right middle finger | *(non traduit)* | FMA24456 |
-| middle phalanx of right ring finger | *(non traduit)* | FMA24457 |
-| middle phalanx of right second toe | *(non traduit)* | FMA32642 |
-| middle phalanx of right third toe | *(non traduit)* | FMA32644 |
-| middle phalanx of ring finger | *(non traduit)* | FMA23935 |
-| middle phalanx of second toe | *(non traduit)* | FMA32623 |
-| middle phalanx of third toe | *(non traduit)* | FMA32624 |
-| molar tooth | *(non traduit)* | FMA55638 |
-| muscle of lateral compartment of leg | *(non traduit)* | FMA22473 |
-| musculoskeletal system | *(non traduit)* | FMA7482 |
-| nasal bone | *(non traduit)* | FMA52745 |
-| nasal skeleton | *(non traduit)* | FMA60116 |
-| navicular bone of foot | *(non traduit)* | FMA24499 |
-| navicular bone of left foot | *(non traduit)* | FMA24501 |
-| navicular bone of right foot | *(non traduit)* | FMA24500 |
-| neck | *(non traduit)* | FMA7155 |
-| neurocranium | *(non traduit)* | FMA53672 |
-| ninth rib | *(non traduit)* | FMA8337 |
-| ninth thoracic intervertebral symphysis | *(non traduit)* | FMA26101 |
-| ninth thoracic vertebra | *(non traduit)* | FMA10014 |
-| nose | *(non traduit)* | FMA46472 |
-| occipital bone | *(non traduit)* | FMA52735 |
-| occipital part of head | *(non traduit)* | FMA49187 |
-| organ with cavitated organ parts | *(non traduit)* | FMA55673 |
-| organ with organ cavity | *(non traduit)* | FMA55672 |
-| osseous skeleton of external nose | *(non traduit)* | FMA59655 |
-| osseous skeleton of nose | *(non traduit)* | FMA59654 |
-| palatine bone | *(non traduit)* | FMA52746 |
-| parietal bone | *(non traduit)* | FMA9613 |
-| patella | *(non traduit)* | FMA24485 |
-| patellar part of left knee | *(non traduit)* | FMA79066 |
-| patellar part of right knee | *(non traduit)* | FMA79065 |
-| pelvic girdle | *(non traduit)* | FMA16581 |
-| pelvic skeleton | *(non traduit)* | FMA72062 |
-| phalanx of big toe | *(non traduit)* | FMA32884 |
-| phalanx of finger | *(non traduit)* | FMA23914 |
-| phalanx of fourth toe | *(non traduit)* | FMA32901 |
-| phalanx of index finger | *(non traduit)* | FMA35480 |
-| phalanx of little finger | *(non traduit)* | FMA35489 |
-| phalanx of little toe | *(non traduit)* | FMA32902 |
-| phalanx of middle finger | *(non traduit)* | FMA35483 |
-| phalanx of ring finger | *(non traduit)* | FMA35486 |
-| phalanx of second toe | *(non traduit)* | FMA32899 |
-| phalanx of third toe | *(non traduit)* | FMA32900 |
-| phalanx of thumb | *(non traduit)* | FMA35477 |
-| phalanx of toe | *(non traduit)* | FMA24493 |
-| pisiform | *(non traduit)* | FMA23718 |
-| pneumatized bone | *(non traduit)* | FMA7478 |
-| posterior abdominal wall | *(non traduit)* | FMA14628 |
-| posterior chest | *(non traduit)* | FMA87552 |
-| posterior part of pelvis | *(non traduit)* | FMA24228 |
-| posterior thoracic wall | *(non traduit)* | FMA73103 |
-| premolar tooth | *(non traduit)* | FMA55637 |
-| process of organ | *(non traduit)* | FMA67601 |
-| proximal carpal bone | *(non traduit)* | FMA33302 |
-| proximal phalanx of big toe | *(non traduit)* | FMA43252 |
-| proximal phalanx of fourth toe | *(non traduit)* | FMA32620 |
-| proximal phalanx of index finger | *(non traduit)* | FMA23919 |
-| proximal phalanx of left big toe | *(non traduit)* | FMA43254 |
-| proximal phalanx of left fourth toe | *(non traduit)* | FMA32639 |
-| proximal phalanx of left index finger | *(non traduit)* | FMA71915 |
-| proximal phalanx of left little finger | *(non traduit)* | FMA66791 |
-| proximal phalanx of left little toe | *(non traduit)* | FMA32641 |
-| proximal phalanx of left middle finger | *(non traduit)* | FMA71908 |
-| proximal phalanx of left ring finger | *(non traduit)* | FMA71916 |
-| proximal phalanx of left second toe | *(non traduit)* | FMA32635 |
-| proximal phalanx of left third toe | *(non traduit)* | FMA32637 |
-| proximal phalanx of left thumb | *(non traduit)* | FMA65470 |
-| proximal phalanx of little finger | *(non traduit)* | FMA23922 |
-| proximal phalanx of little toe | *(non traduit)* | FMA32621 |
-| proximal phalanx of middle finger | *(non traduit)* | FMA23920 |
-| proximal phalanx of right big toe | *(non traduit)* | FMA43253 |
-| proximal phalanx of right fourth toe | *(non traduit)* | FMA32638 |
-| proximal phalanx of right index finger | *(non traduit)* | FMA24451 |
-| proximal phalanx of right little finger | *(non traduit)* | FMA24454 |
-| proximal phalanx of right little toe | *(non traduit)* | FMA32640 |
-| proximal phalanx of right middle finger | *(non traduit)* | FMA24452 |
-| proximal phalanx of right ring finger | *(non traduit)* | FMA24453 |
-| proximal phalanx of right second toe | *(non traduit)* | FMA32634 |
-| proximal phalanx of right third toe | *(non traduit)* | FMA32636 |
-| proximal phalanx of right thumb | *(non traduit)* | FMA24450 |
-| proximal phalanx of ring finger | *(non traduit)* | FMA23921 |
-| proximal phalanx of second toe | *(non traduit)* | FMA32618 |
-| proximal phalanx of third toe | *(non traduit)* | FMA32619 |
-| proximal phalanx of thumb | *(non traduit)* | FMA23918 |
-| radius | *(non traduit)* | FMA23463 |
-| rib | *(non traduit)* | FMA7574 |
-| rib cage | *(non traduit)* | FMA7480 |
-| right arytenoid cartilage | *(non traduit)* | FMA55113 |
-| right big toe | *(non traduit)* | FMA60335 |
-| right bony pectoral girdle | *(non traduit)* | FMA25572 |
-| right calcaneus | *(non traduit)* | FMA24497 |
-| right capitate | *(non traduit)* | FMA24446 |
-| right cheek | *(non traduit)* | FMA53637 |
-| right clavicle | *(non traduit)* | FMA13322 |
-| right corniculate cartilage | *(non traduit)* | FMA55115 |
-| right cuboid bone | *(non traduit)* | FMA24528 |
-| right cuneiform cartilage | *(non traduit)* | FMA55117 |
-| right eighth rib | *(non traduit)* | FMA8283 |
-| right eleventh rib | *(non traduit)* | FMA8531 |
-| right femur | *(non traduit)* | FMA24474 |
-| right fibula | *(non traduit)* | FMA24480 |
-| right fibularis brevis | *(non traduit)* | FMA22554 |
-| right fibularis longus | *(non traduit)* | FMA22552 |
-| right fibularis tertius | *(non traduit)* | FMA22550 |
-| right fifth costal cartilage | *(non traduit)* | FMA8070 |
-| right fifth metacarpal bone | *(non traduit)* | FMA24472 |
-| right fifth metatarsal bone | *(non traduit)* | FMA24515 |
-| right fifth rib | *(non traduit)* | FMA8066 |
-| right first costal cartilage | *(non traduit)* | FMA7875 |
-| right first metacarpal bone | *(non traduit)* | FMA24464 |
-| right first metatarsal bone | *(non traduit)* | FMA24507 |
-| right first rib | *(non traduit)* | FMA7857 |
-| right foot | *(non traduit)* | FMA11343 |
-| right foot proper | *(non traduit)* | FMA73086 |
-| right forearm | *(non traduit)* | FMA11345 |
-| right fourth costal cartilage | *(non traduit)* | FMA7976 |
-| right fourth metacarpal bone | *(non traduit)* | FMA24470 |
-| right fourth metatarsal bone | *(non traduit)* | FMA24513 |
-| right fourth rib | *(non traduit)* | FMA7957 |
-| right fourth toe | *(non traduit)* | FMA60341 |
-| right free lower limb | *(non traduit)* | FMA24882 |
-| right free upper limb | *(non traduit)* | FMA24880 |
-| right hamate | *(non traduit)* | FMA24448 |
-| right hand | *(non traduit)* | FMA9713 |
-| right hand proper | *(non traduit)* | FMA61068 |
-| right hip | *(non traduit)* | FMA24965 |
-| right hip bone | *(non traduit)* | FMA16586 |
-| right humerus | *(non traduit)* | FMA23130 |
-| right iliotibial tract | *(non traduit)* | FMA58776 |
-| right index finger | *(non traduit)* | FMA60333 |
-| right intermediate cuneiform bone | *(non traduit)* | FMA24523 |
-| right knee | *(non traduit)* | FMA24977 |
-| right lateral cuneiform bone | *(non traduit)* | FMA24525 |
-| right leg | *(non traduit)* | FMA24980 |
-| right levator scapulae | *(non traduit)* | FMA32540 |
-| right little finger | *(non traduit)* | FMA60327 |
-| right little toe | *(non traduit)* | FMA60343 |
-| right lower central secondary incisor tooth | *(non traduit)* | FMA57142 |
-| right lower first secondary molar tooth | *(non traduit)* | FMA55705 |
-| right lower first secondary premolar tooth | *(non traduit)* | FMA55694 |
-| right lower lateral secondary incisor tooth | *(non traduit)* | FMA57140 |
-| right lower limb | *(non traduit)* | FMA7187 |
-| right lower second secondary molar tooth | *(non traduit)* | FMA55706 |
-| right lower second secondary premolar tooth | *(non traduit)* | FMA55695 |
-| right lower secondary canine tooth | *(non traduit)* | FMA55686 |
-| right lunate | *(non traduit)* | FMA24437 |
-| right major alar cartilage | *(non traduit)* | FMA59505 |
-| right maxilla | *(non traduit)* | FMA53649 |
-| right medial cuneiform bone | *(non traduit)* | FMA24521 |
-| right middle finger | *(non traduit)* | FMA60331 |
-| right nasal bone | *(non traduit)* | FMA53647 |
-| right ninth rib | *(non traduit)* | FMA8364 |
-| right palatine bone | *(non traduit)* | FMA53655 |
-| right parietal bone | *(non traduit)* | FMA52788 |
-| right patella | *(non traduit)* | FMA24486 |
-| right pelvic girdle | *(non traduit)* | FMA16582 |
-| right pisiform | *(non traduit)* | FMA24441 |
-| right radius | *(non traduit)* | FMA23464 |
-| right ring finger | *(non traduit)* | FMA60329 |
-| right scaphoid | *(non traduit)* | FMA24435 |
-| right scapula | *(non traduit)* | FMA13395 |
-| right second costal cartilage | *(non traduit)* | FMA7886 |
-| right second metacarpal bone | *(non traduit)* | FMA24466 |
-| right second metatarsal bone | *(non traduit)* | FMA24509 |
-| right second rib | *(non traduit)* | FMA7882 |
-| right second toe | *(non traduit)* | FMA60337 |
-| right seventh costal cartilage | *(non traduit)* | FMA8248 |
-| right seventh rib | *(non traduit)* | FMA8229 |
-| right shoulder | *(non traduit)* | FMA33642 |
-| right side of bony pelvis | *(non traduit)* | FMA20226 |
-| right side of rib cage | *(non traduit)* | FMA20224 |
-| right sixth costal cartilage | *(non traduit)* | FMA8194 |
-| right sixth rib | *(non traduit)* | FMA8175 |
-| right subscapularis | *(non traduit)* | FMA13414 |
-| right talus | *(non traduit)* | FMA24482 |
-| right temporal bone | *(non traduit)* | FMA52738 |
-| right tenth rib | *(non traduit)* | FMA8445 |
-| right thigh | *(non traduit)* | FMA24968 |
-| right third costal cartilage | *(non traduit)* | FMA7913 |
-| right third metacarpal bone | *(non traduit)* | FMA24468 |
-| right third metatarsal bone | *(non traduit)* | FMA24511 |
-| right third rib | *(non traduit)* | FMA7909 |
-| right third toe | *(non traduit)* | FMA60339 |
-| right thumb | *(non traduit)* | FMA60325 |
-| right tibia | *(non traduit)* | FMA24477 |
-| right tibialis anterior | *(non traduit)* | FMA22544 |
-| right tibialis posterior | *(non traduit)* | FMA65018 |
-| right trapezium | *(non traduit)* | FMA24443 |
-| right trapezoid | *(non traduit)* | FMA23725 |
-| right triquetral | *(non traduit)* | FMA24439 |
-| right twelfth rib | *(non traduit)* | FMA8533 |
-| right ulna | *(non traduit)* | FMA23467 |
-| right upper central secondary incisor tooth | *(non traduit)* | FMA55681 |
-| right upper first secondary molar tooth | *(non traduit)* | FMA55698 |
-| right upper first secondary premolar tooth | *(non traduit)* | FMA55689 |
-| right upper lateral secondary incisor tooth | *(non traduit)* | FMA55680 |
-| right upper limb | *(non traduit)* | FMA7185 |
-| right upper second secondary molar tooth | *(non traduit)* | FMA55697 |
-| right upper second secondary premolar tooth | *(non traduit)* | FMA55688 |
-| right upper secondary canine tooth | *(non traduit)* | FMA55798 |
-| right wrist | *(non traduit)* | FMA24940 |
-| right zygomatic bone | *(non traduit)* | FMA52892 |
-| root of nose | *(non traduit)* | FMA59516 |
-| sacrum | *(non traduit)* | FMA16202 |
-| scaphoid | *(non traduit)* | FMA23709 |
-| scapula | *(non traduit)* | FMA13394 |
-| second costal cartilage | *(non traduit)* | FMA7703 |
-| second lumbar intervertebral symphysis | *(non traduit)* | FMA26106 |
-| second lumbar vertebra | *(non traduit)* | FMA13073 |
-| second metacarpal bone | *(non traduit)* | FMA23900 |
-| second metatarsal bone | *(non traduit)* | FMA24503 |
-| second rib | *(non traduit)* | FMA7620 |
-| second thoracic intervertebral symphysis | *(non traduit)* | FMA26094 |
-| second thoracic vertebra | *(non traduit)* | FMA9187 |
-| secondary canine tooth | *(non traduit)* | FMA84203 |
-| secondary incisor tooth | *(non traduit)* | FMA84201 |
-| secondary molar tooth | *(non traduit)* | FMA84207 |
-| septum of internal nose | *(non traduit)* | FMA59665 |
-| sesamoid bone | *(non traduit)* | FMA32672 |
-| sesamoid bone of foot | *(non traduit)* | FMA45096 |
-| sesamoid bone of left foot | *(non traduit)* | FMA45098 |
-| sesamoid bone of right foot | *(non traduit)* | FMA45097 |
-| set of cervical vertebrae | *(non traduit)* | FMA72063 |
-| set of lumbar vertebrae | *(non traduit)* | FMA72065 |
-| set of thoracic vertebrae | *(non traduit)* | FMA72064 |
-| seventh cervical intervertebral symphysis | *(non traduit)* | FMA26086 |
-| seventh cervical vertebra | *(non traduit)* | FMA12525 |
-| seventh costal cartilage | *(non traduit)* | FMA7849 |
-| seventh rib | *(non traduit)* | FMA7830 |
-| seventh thoracic intervertebral symphysis | *(non traduit)* | FMA26099 |
-| seventh thoracic vertebra | *(non traduit)* | FMA9968 |
-| short bone | *(non traduit)* | FMA7475 |
-| sixth cervical intervertebral symphysis | *(non traduit)* | FMA26085 |
-| sixth cervical vertebra | *(non traduit)* | FMA12524 |
-| sixth costal cartilage | *(non traduit)* | FMA7822 |
-| sixth rib | *(non traduit)* | FMA8147 |
-| sixth thoracic intervertebral symphysis | *(non traduit)* | FMA26098 |
-| sixth thoracic vertebra | *(non traduit)* | FMA9945 |
-| skeletal system | *(non traduit)* | FMA23881 |
-| skeletal system of thorax | *(non traduit)* | FMA7481 |
-| skeletal system of trunk | *(non traduit)* | FMA87598 |
-| skeleton (in vivo) | *(non traduit)* | FMA23876 |
-| skeleton of left hand proper | *(non traduit)* | FMA79182 |
-| skeleton of left pectoral girdle | *(non traduit)* | FMA24164 |
-| skeleton of mouth | *(non traduit)* | FMA61670 |
-| skeleton of right hand proper | *(non traduit)* | FMA79181 |
-| skeleton of right pectoral girdle | *(non traduit)* | FMA24163 |
-| sphenoid bone | *(non traduit)* | FMA52736 |
-| sternal part of chest | *(non traduit)* | FMA24866 |
-| sternum | *(non traduit)* | FMA7485 |
-| subscapularis | *(non traduit)* | FMA13413 |
-| talus | *(non traduit)* | FMA9708 |
-| tarsal bone | *(non traduit)* | FMA24491 |
-| temporal bone | *(non traduit)* | FMA52737 |
-| tenth rib | *(non traduit)* | FMA8418 |
-| tenth thoracic intervertebral symphysis | *(non traduit)* | FMA26102 |
-| tenth thoracic vertebra | *(non traduit)* | FMA10037 |
-| third cervical intervertebral symphysis | *(non traduit)* | FMA26078 |
-| third cervical vertebra | *(non traduit)* | FMA12521 |
-| third costal cartilage | *(non traduit)* | FMA7741 |
-| third lumbar intervertebral symphysis | *(non traduit)* | FMA26107 |
-| third lumbar vertebra | *(non traduit)* | FMA13074 |
-| third metacarpal bone | *(non traduit)* | FMA23901 |
-| third metatarsal bone | *(non traduit)* | FMA24504 |
-| third rib | *(non traduit)* | FMA7638 |
-| third thoracic intervertebral symphysis | *(non traduit)* | FMA26095 |
-| third thoracic vertebra | *(non traduit)* | FMA9209 |
-| thoracic vertebra | *(non traduit)* | FMA9139 |
-| thoracic vertebral column | *(non traduit)* | FMA9140 |
-| thoracic wall | *(non traduit)* | FMA10428 |
-| thyroid cartilage | *(non traduit)* | FMA55099 |
-| tibia | *(non traduit)* | FMA24476 |
-| tibialis anterior | *(non traduit)* | FMA22532 |
-| tibialis posterior | *(non traduit)* | FMA51099 |
-| tooth | *(non traduit)* | FMA12516 |
-| trapezium | *(non traduit)* | FMA23721 |
-| trapezoid | *(non traduit)* | FMA23724 |
-| triquetral | *(non traduit)* | FMA23715 |
-| true rib | *(non traduit)* | FMA7592 |
-| twelfth rib | *(non traduit)* | FMA8515 |
-| twelfth thoracic vertebra | *(non traduit)* | FMA10081 |
-| typical rib | *(non traduit)* | FMA7593 |
-| ulna | *(non traduit)* | FMA23466 |
-| upper central secondary incisor tooth | *(non traduit)* | FMA55722 |
-| upper first secondary molar tooth | *(non traduit)* | FMA55811 |
-| upper first secondary premolar tooth | *(non traduit)* | FMA55801 |
-| upper jaw | *(non traduit)* | FMA54397 |
-| upper lateral secondary incisor tooth | *(non traduit)* | FMA55724 |
-| upper second secondary molar tooth | *(non traduit)* | FMA55812 |
-| upper second secondary premolar tooth | *(non traduit)* | FMA55802 |
-| upper secondary canine tooth | *(non traduit)* | FMA55714 |
-| upper secondary incisor tooth | *(non traduit)* | FMA55712 |
-| upper secondary molar tooth | *(non traduit)* | FMA55720 |
-| upper secondary premolar tooth | *(non traduit)* | FMA55716 |
-| vertebra | *(non traduit)* | FMA9914 |
-| vertebral column | *(non traduit)* | FMA13478 |
-| vomer | *(non traduit)* | FMA9710 |
-| wall of abdomen | *(non traduit)* | FMA259054 |
-| wall of abdomen proper | *(non traduit)* | FMA10429 |
-| xiphoid process | *(non traduit)* | FMA7488 |
-| zone of bone organ | *(non traduit)* | FMA10483 |
-| zone of fascia lata | *(non traduit)* | FMA58775 |
-| zone of investing fascia | *(non traduit)* | FMA57965 |
-| zone of investing fascia of free lower limb | *(non traduit)* | FMA58420 |
-| zone of investing fascia of lower limb | *(non traduit)* | FMA58421 |
-| zone of investing fascia of thigh | *(non traduit)* | FMA58741 |
-| zone of sternum | *(non traduit)* | FMA12215 |
-| zygomatic bone | *(non traduit)* | FMA52747 |
+| anatomical boundary entity | entité de limite anatomique | FMA50705 |
+| anatomical line | ligne anatomique | FMA9657 |
+| calcaneal tendon | tendon calcanéen | FMA51061 |
+| check ligament of lateral rectus | lacertus du muscle droit latéral | FMA49143 |
+| check ligament of left lateral rectus | lacertus du muscle droit latéral gauche | FMA49145 |
+| check ligament of left medial rectus | lacertus du muscle droit médial gauche | FMA49148 |
+| check ligament of medial rectus | lacertus du muscle droit médial | FMA49146 |
+| check ligament of right lateral rectus | lacertus du muscle droit latéral droit | FMA49144 |
+| check ligament of right medial rectus | lacertus du muscle droit médial droit | FMA49147 |
+| conus elasticus | cône élastique | FMA55250 |
+| cricothyroid ligament | ligament crico-thyroïdien | FMA55233 |
+| decussation | décussation | FMA9649 |
+| extrinsic ligament of larynx | ligament extrinsèque du larynx | FMA54921 |
+| hyo-epiglottic ligament | ligament hyo-épiglottique | FMA55227 |
+| intermediate tendon | tendon intermédiaire | FMA65410 |
+| interosseous membrane | membrane interosseuse | FMA54839 |
+| interosseous membrane of forearm | membrane interosseuse de l'avant-bras | FMA23706 |
+| interosseous membrane of left forearm | membrane interosseuse de l'avant-bras gauche | FMA23708 |
+| interosseous membrane of left leg | membrane interosseuse de la jambe gauche | FMA35193 |
+| interosseous membrane of leg | membrane interosseuse de la jambe | FMA35187 |
+| interosseous membrane of right forearm | membrane interosseuse de l'avant-bras droit | FMA23707 |
+| interosseous membrane of right leg | membrane interosseuse de la jambe droite | FMA35192 |
+| intrinsic ligament of larynx | ligament intrinsèque du larynx | FMA72058 |
+| lateral thyrohyoid ligament | ligament thyro-hyoïdien latéral | FMA55139 |
+| left calcaneal tendon | tendon calcanéen gauche | FMA264844 |
+| left conus elasticus | cône élastique gauche | FMA55252 |
+| left lateral thyrohyoid ligament | ligament thyro-hyoïdien latéral gauche | FMA55141 |
+| left long plantar ligament | ligament plantaire long gauche | FMA44250 |
+| left pterygomandibular raphe | raphé ptérygo-mandibulaire gauche | FMA55620 |
+| left stylohyoid ligament | ligament stylo-hyoïdien gauche | FMA72311 |
+| left tensor fasciae latae | muscle tenseur du fascia lata gauche | FMA22426 |
+| left thyrohyoid membrane | membrane thyro-hyoïdienne gauche | FMA55134 |
+| left vocal ligament | ligament vocal gauche | FMA55246 |
+| ligament of larynx | ligament du larynx | FMA55131 |
+| ligament of limb | ligament de membre | FMA265180 |
+| ligament of lower limb | ligament du membre inférieur | FMA265178 |
+| ligament organ | organe ligamentaire | FMA21496 |
+| ligament organ component | composant d'organe ligamentaire | FMA86375 |
+| linea alba | ligne blanche | FMA11336 |
+| long plantar ligament | ligament plantaire long | FMA44248 |
+| median cricothyroid ligament | ligament crico-thyroïdien médian | FMA55237 |
+| median thyrohyoid ligament | ligament thyro-hyoïdien médian | FMA55138 |
+| membrane organ | organe membraneux | FMA7145 |
+| membrane organ component | composant d'organe membraneux | FMA75445 |
+| nonskeletal ligament | ligament non squelettique | FMA25625 |
+| organ component | composant d'organe | FMA14065 |
+| pharyngeal raphe | raphé du pharynx | FMA55077 |
+| plantar tarsal ligament | ligament tarsien plantaire | FMA44245 |
+| pterygomandibular raphe | raphé ptérygo-mandibulaire | FMA55618 |
+| right calcaneal tendon | tendon calcanéen droit | FMA258847 |
+| right conus elasticus | cône élastique droit | FMA55251 |
+| right intermediate tendon | tendon intermédiaire droit | FMA258850 |
+| right lateral thyrohyoid ligament | ligament thyro-hyoïdien latéral droit | FMA55140 |
+| right long plantar ligament | ligament plantaire long droit | FMA44249 |
+| right pterygomandibular raphe | raphé ptérygo-mandibulaire droit | FMA55619 |
+| right stylohyoid ligament | ligament stylo-hyoïdien droit | FMA72309 |
+| right tensor fasciae latae | muscle tenseur du fascia lata droit | FMA22425 |
+| right thyrohyoid membrane | membrane thyro-hyoïdienne droite | FMA55133 |
+| right vocal ligament | ligament vocal droit | FMA55245 |
+| skeletal ligament | ligament squelettique | FMA25624 |
+| stylohyoid ligament | ligament stylo-hyoïdien | FMA72308 |
+| tarsal ligament | ligament tarsien | FMA44197 |
+| tendinous arch of levator ani | arc tendineux du muscle élévateur de l'anus | FMA46442 |
+| tendon | tendon | FMA9721 |
+| tendon of levator palpebrae superioris | tendon du muscle élévateur de la paupière supérieure | FMA54158 |
+| tendon of right levator palpebrae superioris | tendon du muscle élévateur de la paupière supérieure droit | FMA54159 |
+| tensor fasciae latae | muscle tenseur du fascia lata | FMA22423 |
+| thyro-epiglottic ligament | ligament thyro-épiglottique | FMA55230 |
+| thyrohyoid ligament | ligament thyro-hyoïdien | FMA55135 |
+| thyrohyoid membrane | membrane thyro-hyoïdienne | FMA55132 |
+| trochlea of left superior oblique | trochlée du muscle oblique supérieur gauche | FMA49068 |
+| trochlea of right superior oblique | trochlée du muscle oblique supérieur droit | FMA49067 |
+| trochlea of superior oblique | trochlée du muscle oblique supérieur | FMA49065 |
+| vocal ligament | ligament vocal | FMA55244 |
 
-## Veines — 0/406
+## Surface du corps — 18/18
+
+| Anglais | Français | Réf. |
+|---|---|---|
+| cardinal tissue part | partie tissulaire cardinale | FMA67536 |
+| eyebrow | sourcil | FMA54237 |
+| hair | poil | FMA53667 |
+| hair of head | cheveux | FMA54241 |
+| hair of trunk | poils du tronc | FMA54250 |
+| integument | tégument | FMA74657 |
+| integumentary system | système tégumentaire | FMA72979 |
+| lip | lèvre | FMA59816 |
+| mons pubis | mont du pubis | FMA20218 |
+| pubic hair | poils pubiens | FMA54319 |
+| set of facial hairs | ensemble des poils du visage | FMA70741 |
+| set of hairs | ensemble de poils | FMA70752 |
+| skin | peau | FMA7163 |
+| skin appendage | annexe cutanée | FMA71012 |
+| subdivision of epidermis | subdivision de l'épiderme | FMA70593 |
+| subdivision of epithelium | subdivision de l'épithélium | FMA67538 |
+| subdivision of face | subdivision de la face | FMA54393 |
+| subdivision of mouth | subdivision de la bouche | FMA46490 |
+
+## Système nerveux — 288/288
+
+| Anglais | Français | Réf. |
+|---|---|---|
+| amygdala | amygdale | FMA61841 |
+| anatomical cluster | groupe anatomique | FMA49443 |
+| anatomical compartment space | espace de compartiment anatomique | FMA84926 |
+| angular gyrus | gyrus angulaire | FMA61898 |
+| anterior commissure | commissure antérieure | FMA61961 |
+| anterior ethmoidal nerve | nerf ethmoïdal antérieur | FMA52675 |
+| anterior part of left superior temporal gyrus | partie antérieure du gyrus temporal supérieur gauche | FMA72801 |
+| anterior part of right superior temporal gyrus | partie antérieure du gyrus temporal supérieur droit | FMA72800 |
+| anterior part of superior temporal gyrus | partie antérieure du gyrus temporal supérieur | FMA70701 |
+| autonomic ganglion | ganglion autonome | FMA5889 |
+| basal ganglion of telencephalon | noyau basal du télencéphale | FMA62514 |
+| basicranial part of head proper | partie basicrânienne de la tête proprement dite | FMA270201 |
+| brachium of inferior colliculus | bras du colliculus inférieur | FMA71114 |
+| brachium of left inferior colliculus | bras du colliculus inférieur gauche | FMA73464 |
+| brachium of left superior colliculus | bras du colliculus supérieur gauche | FMA73462 |
+| brachium of neuraxis | bras du névraxe | FMA83857 |
+| brachium of right inferior colliculus | bras du colliculus inférieur droit | FMA73463 |
+| brachium of right superior colliculus | bras du colliculus supérieur droit | FMA73461 |
+| brachium of superior colliculus | bras du colliculus supérieur | FMA72417 |
+| brain | encéphale | FMA50801 |
+| brainstem | tronc cérébral | FMA79876 |
+| branch of ciliary ganglion | branche du ganglion ciliaire | FMA7037 |
+| branch of cranial nerve | branche de nerf crânien | FMA52570 |
+| branch of frontal nerve | branche du nerf frontal | FMA52641 |
+| branch of nasociliary nerve | branche du nerf naso-ciliaire | FMA52671 |
+| branch of oculomotor nerve | branche du nerf oculomoteur | FMA52571 |
+| branch of ophthalmic nerve | branche du nerf ophtalmique | FMA52624 |
+| branch of trigeminal nerve | branche du nerf trijumeau | FMA52607 |
+| capsule of cerebral hemisphere | capsule de l'hémisphère cérébral | FMA62466 |
+| cardinal segment of brain | segment cardinal de l'encéphale | FMA61815 |
+| caudate nucleus | noyau caudé | FMA61833 |
+| cavity of neuraxis | cavité du névraxe | FMA75007 |
+| cell part cluster | groupe de parties cellulaires | FMA83115 |
+| cell part cluster of neuraxis | groupe de parties cellulaires du névraxe | FMA83143 |
+| central canal of spinal cord | canal central de la moelle spinale | FMA78497 |
+| cerebellum | cervelet | FMA67944 |
+| cerebral aqueduct | aqueduc du mésencéphale | FMA78467 |
+| cerebral white matter | substance blanche cérébrale | FMA241998 |
+| ciliary ganglion | ganglion ciliaire | FMA6964 |
+| cingulate gyrus | gyrus cingulaire | FMA62434 |
+| commissure of diencephalon | commissure du diencéphale | FMA62445 |
+| commissure of fornix of forebrain | commissure du fornix | FMA61970 |
+| commissure of neuraxis | commissure du névraxe | FMA83906 |
+| communicating branch of left nasociliary nerve with left ciliary ganglion | rameau communicant du nerf naso-ciliaire gauche avec le ganglion ciliaire gauche | FMA52674 |
+| communicating branch of nasociliary nerve with ciliary ganglion | rameau communicant du nerf naso-ciliaire avec le ganglion ciliaire | FMA52672 |
+| communicating branch of right nasociliary nerve with right ciliary ganglion | rameau communicant du nerf naso-ciliaire droit avec le ganglion ciliaire droit | FMA52673 |
+| corpus callosum | corps calleux | FMA86464 |
+| cortex of left cerebral hemisphere | cortex de l'hémisphère cérébral gauche | FMA242182 |
+| cortex of left frontal lobe | cortex du lobe frontal gauche | FMA242209 |
+| cortex of right cerebral hemisphere | cortex de l'hémisphère cérébral droit | FMA242180 |
+| cortex of right frontal lobe | cortex du lobe frontal droit | FMA242207 |
+| cranial nerve | nerf crânien | FMA5865 |
+| cranial parasympathetic ganglion | ganglion parasympathique crânien | FMA5895 |
+| diencephalon | diencéphale | FMA62001 |
+| epithalamus | épithalamus | FMA62009 |
+| forebrain | prosencéphale | FMA61992 |
+| fornix of forebrain | fornix | FMA61965 |
+| fornix of neuraxis | fornix du névraxe | FMA83865 |
+| frontal nerve | nerf frontal | FMA52638 |
+| frontal part of head | partie frontale de la tête | FMA46448 |
+| fusiform gyrus | gyrus fusiforme | FMA61908 |
+| ganglion | ganglion | FMA5884 |
+| globus pallidus | globus pallidus | FMA61835 |
+| gray matter of diencephalon | substance grise du diencéphale | FMA83912 |
+| gray matter of hypothalamus | substance grise de l'hypothalamus | FMA83915 |
+| gray matter of neuraxis | substance grise du névraxe | FMA67242 |
+| gyrus of neuraxis | gyrus du névraxe | FMA83874 |
+| habenula | habénula | FMA62032 |
+| head | tête | FMA7154 |
+| head proper | tête proprement dite | FMA54545 |
+| hindbrain | rhombencéphale | FMA67687 |
+| hippocampus | hippocampe | FMA62493 |
+| hypothalamus | hypothalamus | FMA62008 |
+| inferior branch of left oculomotor nerve | branche inférieure du nerf oculomoteur gauche | FMA52577 |
+| inferior branch of oculomotor nerve | branche inférieure du nerf oculomoteur | FMA52573 |
+| inferior branch of right oculomotor nerve | branche inférieure du nerf oculomoteur droit | FMA52576 |
+| inferior colliculus | colliculus inférieur | FMA62404 |
+| inferior frontal gyrus | gyrus frontal inférieur | FMA61860 |
+| inferior temporal gyrus | gyrus temporal inférieur | FMA61907 |
+| infratrochlear nerve | nerf infra-trochléaire | FMA52693 |
+| insula | insula | FMA67329 |
+| intermediate hypothalamic region | région hypothalamique intermédiaire | FMA62028 |
+| internal capsule | capsule interne | FMA61950 |
+| internal gray matter component | composant de substance grise interne | FMA223151 |
+| interpeduncular fossa | fosse interpédonculaire | FMA83740 |
+| lacrimal nerve | nerf lacrymal | FMA52628 |
+| lamina of cerebral hemisphere | lame de l'hémisphère cérébral | FMA67951 |
+| lamina of neuraxis | lame du névraxe | FMA83856 |
+| lamina terminalis | lame terminale | FMA61975 |
+| lateral geniculate body | corps géniculé latéral | FMA62209 |
+| left amygdala | amygdale gauche | FMA72833 |
+| left angular gyrus | gyrus angulaire gauche | FMA72670 |
+| left anterior ethmoidal nerve | nerf ethmoïdal antérieur gauche | FMA52677 |
+| left archicortex | archicortex gauche | FMA242611 |
+| left caudate nucleus | noyau caudé gauche | FMA72827 |
+| left cerebral hemisphere | hémisphère cérébral gauche | FMA61819 |
+| left ciliary ganglion | ganglion ciliaire gauche | FMA53550 |
+| left cingulate gyrus | gyrus cingulaire gauche | FMA72718 |
+| left fornix of forebrain | fornix gauche | FMA72925 |
+| left frontal lobe | lobe frontal gauche | FMA72970 |
+| left frontal nerve | nerf frontal gauche | FMA52640 |
+| left fusiform gyrus | gyrus fusiforme gauche | FMA72690 |
+| left globus pallidus | globus pallidus gauche | FMA72831 |
+| left hippocampal formation | formation hippocampique gauche | FMA261141 |
+| left hippocampus | hippocampe gauche | FMA72714 |
+| left inferior colliculus | colliculus inférieur gauche | FMA73435 |
+| left inferior frontal gyrus | gyrus frontal inférieur gauche | FMA72658 |
+| left inferior temporal gyrus | gyrus temporal inférieur gauche | FMA72688 |
+| left infratrochlear nerve | nerf infra-trochléaire gauche | FMA52699 |
+| left insula | insula gauche | FMA72978 |
+| left internal capsule | capsule interne gauche | FMA72907 |
+| left lacrimal nerve | nerf lacrymal gauche | FMA52630 |
+| left lateral geniculate body | corps géniculé latéral gauche | FMA73304 |
+| left limbic lobe | lobe limbique gauche | FMA72981 |
+| left long ciliary nerve | nerf ciliaire long gauche | FMA82735 |
+| left medial geniculate body | corps géniculé médial gauche | FMA73310 |
+| left middle frontal gyrus | gyrus frontal moyen gauche | FMA72656 |
+| left middle temporal gyrus | gyrus temporal moyen gauche | FMA72686 |
+| left nasociliary nerve | nerf naso-ciliaire gauche | FMA52670 |
+| left occipital lobe | lobe occipital gauche | FMA72976 |
+| left ophthalmic nerve | nerf ophtalmique gauche | FMA52623 |
+| left optic nerve | nerf optique gauche | FMA50878 |
+| left optic tract | tractus optique gauche | FMA67936 |
+| left parahippocampal gyrus | gyrus parahippocampal gauche | FMA72706 |
+| left parietal lobe | lobe pariétal gauche | FMA72974 |
+| left parietal part of head | partie pariétale gauche de la tête | FMA61733 |
+| left postcentral gyrus | gyrus postcentral gauche | FMA72666 |
+| left posterior ethmoidal nerve | nerf ethmoïdal postérieur gauche | FMA52716 |
+| left precentral gyrus | gyrus précentral gauche | FMA72662 |
+| left prefrontal cortex | cortex préfrontal gauche | FMA242627 |
+| left putamen | putamen gauche | FMA72829 |
+| left stria medullaris of thalamus | strie médullaire du thalamus gauche | FMA73414 |
+| left stria terminalis | strie terminale gauche | FMA72940 |
+| left superior colliculus | colliculus supérieur gauche | FMA73423 |
+| left superior frontal gyrus | gyrus frontal supérieur gauche | FMA72654 |
+| left superior parietal lobule | lobule pariétal supérieur gauche | FMA72672 |
+| left supra-orbital nerve | nerf supra-orbitaire gauche | FMA52657 |
+| left supramarginal gyrus | gyrus supramarginal gauche | FMA72668 |
+| left supratrochlear nerve | nerf supra-trochléaire gauche | FMA52644 |
+| left temporal lobe | lobe temporal gauche | FMA72972 |
+| left thalamus | thalamus gauche | FMA258716 |
+| left trochlear nerve | nerf trochléaire gauche | FMA50882 |
+| lobe of cerebral hemisphere | lobe de l'hémisphère cérébral | FMA61823 |
+| lobule of cerebral hemisphere | lobule de l'hémisphère cérébral | FMA81150 |
+| long ciliary nerve | nerf ciliaire long | FMA52691 |
+| mammillary body | corps mamillaire | FMA74877 |
+| medial geniculate body | corps géniculé médial | FMA62211 |
+| medulla oblongata | moelle allongée | FMA62004 |
+| metencephalon | métencéphale | FMA62003 |
+| midbrain | mésencéphale | FMA61993 |
+| midbrain tectum | tectum du mésencéphale | FMA83902 |
+| middle frontal gyrus | gyrus frontal moyen | FMA61859 |
+| middle temporal gyrus | gyrus temporal moyen | FMA61906 |
+| nasociliary nerve | nerf naso-ciliaire | FMA52668 |
+| nerve | nerf | FMA65132 |
+| nerve trunk | tronc nerveux | FMA5913 |
+| nervous system | système nerveux | FMA7157 |
+| neural tree organ | organe arborescent nerveux | FMA61284 |
+| neuraxis | névraxe | FMA55675 |
+| nuclear complex of neuraxis | complexe nucléaire du névraxe | FMA84059 |
+| nucleus of brain | noyau de l'encéphale | FMA83840 |
+| nucleus of neuraxis | noyau du névraxe | FMA83686 |
+| nucleus of thalamus | noyau du thalamus | FMA256693 |
+| occipital lobe | lobe occipital | FMA67325 |
+| ophthalmic nerve | nerf ophtalmique | FMA52621 |
+| optic chiasm | chiasma optique | FMA62045 |
+| optic nerve | nerf optique | FMA50863 |
+| optic tract | tractus optique | FMA62046 |
+| orbital gyrus | gyrus orbitaire | FMA256194 |
+| organ component of neuraxis | composant d'organe du névraxe | FMA83153 |
+| parahippocampal gyrus | gyrus parahippocampal | FMA61918 |
+| parasympathetic ganglion | ganglion parasympathique | FMA5894 |
+| peduncle of midbrain | pédoncule du mésencéphale | FMA62394 |
+| peduncle of neuraxis | pédoncule du névraxe | FMA83860 |
+| pons | pont | FMA67943 |
+| postcentral gyrus | gyrus postcentral | FMA61896 |
+| posterior commissure | commissure postérieure | FMA62072 |
+| posterior ethmoidal nerve | nerf ethmoïdal postérieur | FMA52714 |
+| posterior part of left superior temporal gyrus | partie postérieure du gyrus temporal supérieur gauche | FMA72805 |
+| posterior part of right superior temporal gyrus | partie postérieure du gyrus temporal supérieur droit | FMA72804 |
+| posterior part of superior temporal gyrus | partie postérieure du gyrus temporal supérieur | FMA70703 |
+| precentral gyrus | gyrus précentral | FMA61894 |
+| putamen | putamen | FMA61834 |
+| region of cerebral cortex | région du cortex cérébral | FMA242193 |
+| region of cerebral white matter | région de la substance blanche cérébrale | FMA256174 |
+| region of dura mater | région de la dure-mère | FMA71235 |
+| right amygdala | amygdale droite | FMA72832 |
+| right angular gyrus | gyrus angulaire droit | FMA72669 |
+| right anterior ethmoidal nerve | nerf ethmoïdal antérieur droit | FMA52676 |
+| right archicortex | archicortex droit | FMA242609 |
+| right caudate nucleus | noyau caudé droit | FMA72826 |
+| right cerebral hemisphere | hémisphère cérébral droit | FMA67292 |
+| right ciliary ganglion | ganglion ciliaire droit | FMA53549 |
+| right cingulate gyrus | gyrus cingulaire droit | FMA72717 |
+| right fornix of forebrain | fornix droit | FMA72924 |
+| right frontal lobe | lobe frontal droit | FMA72969 |
+| right frontal nerve | nerf frontal droit | FMA52639 |
+| right fusiform gyrus | gyrus fusiforme droit | FMA72689 |
+| right globus pallidus | globus pallidus droit | FMA72830 |
+| right hippocampal formation | formation hippocampique droite | FMA261139 |
+| right hippocampus | hippocampe droit | FMA72713 |
+| right inferior colliculus | colliculus inférieur droit | FMA73434 |
+| right inferior frontal gyrus | gyrus frontal inférieur droit | FMA72657 |
+| right inferior temporal gyrus | gyrus temporal inférieur droit | FMA72687 |
+| right infratrochlear nerve | nerf infra-trochléaire droit | FMA52698 |
+| right insula | insula droite | FMA72977 |
+| right internal capsule | capsule interne droite | FMA72906 |
+| right lacrimal nerve | nerf lacrymal droit | FMA52629 |
+| right lateral geniculate body | corps géniculé latéral droit | FMA73303 |
+| right limbic lobe | lobe limbique droit | FMA72980 |
+| right long ciliary nerve | nerf ciliaire long droit | FMA82734 |
+| right medial geniculate body | corps géniculé médial droit | FMA73309 |
+| right middle frontal gyrus | gyrus frontal moyen droit | FMA72655 |
+| right middle temporal gyrus | gyrus temporal moyen droit | FMA72685 |
+| right nasociliary nerve | nerf naso-ciliaire droit | FMA52669 |
+| right occipital lobe | lobe occipital droit | FMA72975 |
+| right ophthalmic nerve | nerf ophtalmique droit | FMA52622 |
+| right optic nerve | nerf optique droit | FMA50875 |
+| right optic tract | tractus optique droit | FMA62382 |
+| right parahippocampal gyrus | gyrus parahippocampal droit | FMA72705 |
+| right parietal lobe | lobe pariétal droit | FMA72973 |
+| right parietal part of head | partie pariétale droite de la tête | FMA61732 |
+| right postcentral gyrus | gyrus postcentral droit | FMA72665 |
+| right posterior ethmoidal nerve | nerf ethmoïdal postérieur droit | FMA52715 |
+| right precentral gyrus | gyrus précentral droit | FMA72661 |
+| right prefrontal cortex | cortex préfrontal droit | FMA242625 |
+| right putamen | putamen droit | FMA72828 |
+| right stria medullaris of thalamus | strie médullaire du thalamus droit | FMA73413 |
+| right superior colliculus | colliculus supérieur droit | FMA73422 |
+| right superior frontal gyrus | gyrus frontal supérieur droit | FMA72653 |
+| right superior parietal lobule | lobule pariétal supérieur droit | FMA72671 |
+| right supra-orbital nerve | nerf supra-orbitaire droit | FMA52656 |
+| right supramarginal gyrus | gyrus supramarginal droit | FMA72667 |
+| right supratrochlear nerve | nerf supra-trochléaire droit | FMA52643 |
+| right temporal lobe | lobe temporal droit | FMA72971 |
+| right thalamus | thalamus droit | FMA258714 |
+| right trochlear nerve | nerf trochléaire droit | FMA50881 |
+| segment of brain | segment de l'encéphale | FMA55676 |
+| segment of cerebral hemisphere | segment de l'hémisphère cérébral | FMA61820 |
+| segment of forebrain | segment du prosencéphale | FMA61996 |
+| segment of gyrus of cerebral hemisphere | segment de gyrus de l'hémisphère cérébral | FMA67957 |
+| segment of hindbrain | segment du rhombencéphale | FMA61998 |
+| segment of metencephalon | segment du métencéphale | FMA67942 |
+| segment of midbrain | segment du mésencéphale | FMA61997 |
+| segment of midbrain tectum | segment du tectum du mésencéphale | FMA62398 |
+| segment of neural tree organ | segment d'organe arborescent nerveux | FMA11195 |
+| segment of neuraxis | segment du névraxe | FMA256237 |
+| segment of telencephalon | segment du télencéphale | FMA62374 |
+| segment of white matter of neuraxis | segment de substance blanche du névraxe | FMA83465 |
+| septum of neuraxis | septum du névraxe | FMA83904 |
+| septum of telencephalon | septum du télencéphale | FMA61842 |
+| set of heterogeneous clusters | ensemble d'agrégats hétérogènes | FMA78590 |
+| short ciliary nerve | nerf ciliaire court | FMA7041 |
+| space of compartment of head | espace de compartiment de la tête | FMA84953 |
+| spinal cord | moelle spinale | FMA7647 |
+| stria medullaris of thalamus | strie médullaire du thalamus | FMA62080 |
+| stria of neuraxis | strie du névraxe | FMA83854 |
+| stria of telencephalon | strie du télencéphale | FMA67950 |
+| stria terminalis | strie terminale | FMA61974 |
+| subarachnoid incisure | incisure subarachnoïdienne | FMA83738 |
+| subcortex of left cerebral hemisphere | sous-cortex de l'hémisphère cérébral gauche | FMA242186 |
+| subcortex of right cerebral hemisphere | sous-cortex de l'hémisphère cérébral droit | FMA242184 |
+| subdivision of cranial dura mater | subdivision de la dure-mère crânienne | FMA266054 |
+| subdivision of nervous system | subdivision du système nerveux | FMA45638 |
+| subdivision of parasympathetic nervous system | subdivision du système nerveux parasympathique | FMA65539 |
+| subdivision of subarachnoid space | subdivision de l'espace subarachnoïdien | FMA84881 |
+| subdivision of superior temporal gyrus | subdivision du gyrus temporal supérieur | FMA70676 |
+| subdivisionof autonomic nervous system | subdivision du système nerveux autonome | FMA65551 |
+| superior branch of left oculomotor nerve | branche supérieure du nerf oculomoteur gauche | FMA52575 |
+| superior branch of oculomotor nerve | branche supérieure du nerf oculomoteur | FMA52572 |
+| superior branch of right oculomotor nerve | branche supérieure du nerf oculomoteur droit | FMA52574 |
+| superior colliculus | colliculus supérieur | FMA62403 |
+| superior frontal gyrus | gyrus frontal supérieur | FMA61857 |
+| superior parietal lobule | lobule pariétal supérieur | FMA61899 |
+| supra-orbital nerve | nerf supra-orbitaire | FMA52655 |
+| supramarginal gyrus | gyrus supramarginal | FMA61897 |
+| supratrochlear nerve | nerf supra-trochléaire | FMA52642 |
+| telencephalon | télencéphale | FMA62000 |
+| tentorium cerebelli | tente du cervelet | FMA83966 |
+| thalamus | thalamus | FMA62007 |
+| trochlear nerve | nerf trochléaire | FMA50865 |
+| tuber cinereum | tuber cinereum | FMA62327 |
+| white matter of left cerebral hemisphere | substance blanche de l'hémisphère cérébral gauche | FMA260794 |
+| white matter of neuraxis | substance blanche du névraxe | FMA83929 |
+| white matter of right cerebral hemisphere | substance blanche de l'hémisphère cérébral droit | FMA260791 |
+| white matter of telencephalon | substance blanche du télencéphale | FMA83930 |
+| zone of diencephalon | zone du diencéphale | FMA74866 |
+| zone of neuraxis | zone du névraxe | FMA84054 |
+
+## Squelette — 634/634
+
+| Anglais | Français | Réf. |
+|---|---|---|
+| abdomen | abdomen | FMA9577 |
+| abdomen proper | abdomen proprement dit | FMA61680 |
+| abdominal segment of trunk | segment abdominal du tronc | FMA259211 |
+| anterior chest wall | paroi thoracique antérieure | FMA87543 |
+| anterior part of left knee | partie antérieure du genou gauche | FMA73056 |
+| anterior part of right knee | partie antérieure du genou droit | FMA73055 |
+| anterior thoracic wall | paroi thoracique antérieure | FMA87542 |
+| articular disk of symphysis | disque articulaire de la symphyse | FMA67396 |
+| arytenoid cartilage | cartilage aryténoïde | FMA55109 |
+| atlas | atlas | FMA12519 |
+| atypical rib | côte atypique | FMA7596 |
+| axial skeletal system | système squelettique axial | FMA7483 |
+| axial skeleton | squelette axial | FMA71221 |
+| axis | axis | FMA12520 |
+| back of abdomen | région postérieure de l'abdomen | FMA61681 |
+| back of neck | nuque | FMA24189 |
+| back of thorax | dos | FMA24217 |
+| basicranium | base du crâne | FMA52801 |
+| body of organ | corps d'organe | FMA45734 |
+| body of sternum | corps du sternum | FMA7487 |
+| body wall | paroi du corps | FMA10427 |
+| bone organ | os | FMA5018 |
+| bony part of nasal septum | partie osseuse du septum nasal | FMA59837 |
+| bony pelvis | pelvis osseux | FMA16580 |
+| calcaneus | calcanéus | FMA24496 |
+| canine tooth | canine | FMA55636 |
+| capitate | capitatum | FMA23727 |
+| carpal bone | os du carpe | FMA23889 |
+| cartilage organ | cartilage | FMA55107 |
+| cartilage organ component | composant de cartilage | FMA7538 |
+| cartilaginous skeleton of external nose | squelette cartilagineux du nez externe | FMA59836 |
+| cavitated organ | organe cavitaire | FMA55671 |
+| cervical vertebra | vertèbre cervicale | FMA9915 |
+| cervical vertebral column | colonne vertébrale cervicale | FMA24138 |
+| chest wall | paroi thoracique | FMA50060 |
+| clavicle | clavicule | FMA13321 |
+| corniculate cartilage | cartilage corniculé | FMA55110 |
+| costal cartilage | cartilage costal | FMA7591 |
+| cricoid cartilage | cartilage cricoïde | FMA9615 |
+| cuboid bone | os cuboïde | FMA24527 |
+| cuneiform bone | os cunéiforme | FMA24517 |
+| cuneiform cartilage | cartilage cunéiforme | FMA55111 |
+| deep fascial system | système des fascias profonds | FMA79063 |
+| distal carpal bone | os de la rangée distale du carpe | FMA33303 |
+| distal phalanx of big toe | phalange distale de l'hallux | FMA32627 |
+| distal phalanx of fourth toe | phalange distale du quatrième orteil | FMA32630 |
+| distal phalanx of index finger | phalange distale de l'index | FMA23946 |
+| distal phalanx of left big toe | phalange distale de l'hallux gauche | FMA32651 |
+| distal phalanx of left fourth toe | phalange distale du quatrième orteil gauche | FMA32657 |
+| distal phalanx of left index finger | phalange distale de l'index gauche | FMA23953 |
+| distal phalanx of left little finger | phalange distale de l'auriculaire gauche | FMA23959 |
+| distal phalanx of left little toe | phalange distale du petit orteil gauche | FMA32659 |
+| distal phalanx of left middle finger | phalange distale du majeur gauche | FMA23955 |
+| distal phalanx of left ring finger | phalange distale de l'annulaire gauche | FMA23957 |
+| distal phalanx of left second toe | phalange distale du deuxième orteil gauche | FMA32653 |
+| distal phalanx of left third toe | phalange distale du troisième orteil gauche | FMA32655 |
+| distal phalanx of left thumb | phalange distale du pouce gauche | FMA23951 |
+| distal phalanx of little finger | phalange distale de l'auriculaire | FMA23949 |
+| distal phalanx of little toe | phalange distale du petit orteil | FMA32631 |
+| distal phalanx of middle finger | phalange distale du majeur | FMA23947 |
+| distal phalanx of right big toe | phalange distale de l'hallux droit | FMA32650 |
+| distal phalanx of right fourth toe | phalange distale du quatrième orteil droit | FMA32656 |
+| distal phalanx of right index finger | phalange distale de l'index droit | FMA24460 |
+| distal phalanx of right little finger | phalange distale de l'auriculaire droit | FMA24463 |
+| distal phalanx of right little toe | phalange distale du petit orteil droit | FMA32658 |
+| distal phalanx of right middle finger | phalange distale du majeur droit | FMA24461 |
+| distal phalanx of right ring finger | phalange distale de l'annulaire droit | FMA24462 |
+| distal phalanx of right second toe | phalange distale du deuxième orteil droit | FMA32652 |
+| distal phalanx of right third toe | phalange distale du troisième orteil droit | FMA32654 |
+| distal phalanx of right thumb | phalange distale du pouce droit | FMA24459 |
+| distal phalanx of ring finger | phalange distale de l'annulaire | FMA23948 |
+| distal phalanx of second toe | phalange distale du deuxième orteil | FMA32628 |
+| distal phalanx of third toe | phalange distale du troisième orteil | FMA32629 |
+| distal phalanx of thumb | phalange distale du pouce | FMA23945 |
+| eighth rib | huitième côte | FMA8120 |
+| eighth thoracic intervertebral symphysis | huitième symphyse intervertébrale thoracique | FMA26100 |
+| eighth thoracic vertebra | huitième vertèbre thoracique | FMA9991 |
+| eleventh rib | onzième côte | FMA8499 |
+| eleventh thoracic intervertebral symphysis | onzième symphyse intervertébrale thoracique | FMA26103 |
+| eleventh thoracic vertebra | onzième vertèbre thoracique | FMA10059 |
+| ethmoid | os ethmoïde | FMA52740 |
+| external nose | nez externe | FMA59515 |
+| false rib | fausse côte | FMA7594 |
+| fascia lata of left thigh | fascia lata de la cuisse gauche | FMA51045 |
+| fascia lata of right thigh | fascia lata de la cuisse droite | FMA51044 |
+| femur | fémur | FMA9611 |
+| fibula | fibula | FMA24479 |
+| fibularis brevis | muscle court fibulaire | FMA22540 |
+| fibularis longus | muscle long fibulaire | FMA22539 |
+| fibularis tertius | muscle troisième fibulaire | FMA22538 |
+| fifth cervical intervertebral symphysis | cinquième symphyse intervertébrale cervicale | FMA26084 |
+| fifth cervical vertebra | cinquième vertèbre cervicale | FMA12523 |
+| fifth costal cartilage | cinquième cartilage costal | FMA7795 |
+| fifth lumbar intervertebral symphysis | cinquième symphyse intervertébrale lombaire | FMA26109 |
+| fifth lumbar vertebra | cinquième vertèbre lombaire | FMA13076 |
+| fifth metacarpal bone | cinquième métacarpien | FMA23903 |
+| fifth metatarsal bone | cinquième métatarsien | FMA24506 |
+| fifth rib | cinquième côte | FMA7776 |
+| fifth thoracic intervertebral symphysis | cinquième symphyse intervertébrale thoracique | FMA26097 |
+| fifth thoracic vertebra | cinquième vertèbre thoracique | FMA9922 |
+| first costal cartilage | premier cartilage costal | FMA7603 |
+| first lumbar intervertebral symphysis | première symphyse intervertébrale lombaire | FMA26105 |
+| first lumbar vertebra | première vertèbre lombaire | FMA13072 |
+| first metacarpal bone | premier métacarpien | FMA23899 |
+| first metatarsal bone | premier métatarsien | FMA24502 |
+| first rib | première côte | FMA7597 |
+| first thoracic intervertebral symphysis | première symphyse intervertébrale thoracique | FMA26089 |
+| first thoracic vertebra | première vertèbre thoracique | FMA9165 |
+| flat bone | os plat | FMA7476 |
+| floating rib | côte flottante | FMA7595 |
+| fourth cervical intervertebral symphysis | quatrième symphyse intervertébrale cervicale | FMA26083 |
+| fourth cervical vertebra | quatrième vertèbre cervicale | FMA12522 |
+| fourth costal cartilage | quatrième cartilage costal | FMA7768 |
+| fourth lumbar intervertebral symphysis | quatrième symphyse intervertébrale lombaire | FMA26108 |
+| fourth lumbar vertebra | quatrième vertèbre lombaire | FMA13075 |
+| fourth metacarpal bone | quatrième métacarpien | FMA23902 |
+| fourth metatarsal bone | quatrième métatarsien | FMA24505 |
+| fourth rib | quatrième côte | FMA7749 |
+| fourth thoracic intervertebral symphysis | quatrième symphyse intervertébrale thoracique | FMA26096 |
+| fourth thoracic vertebra | quatrième vertèbre thoracique | FMA9248 |
+| frontal bone | os frontal | FMA52734 |
+| gingiva | gencive | FMA59762 |
+| gingiva of lower jaw | gencive de la mâchoire inférieure | FMA59764 |
+| gingiva of upper jaw | gencive de la mâchoire supérieure | FMA59763 |
+| hamate | hamatum | FMA23730 |
+| hip bone | os coxal | FMA16585 |
+| humerus | humérus | FMA13303 |
+| hyoid bone | os hyoïde | FMA52749 |
+| iliotibial tract | tractus ilio-tibial | FMA51048 |
+| incisor tooth | incisive | FMA12823 |
+| intermediate cuneiform bone | os cunéiforme intermédiaire | FMA24519 |
+| intervertebral disk | disque intervertébral | FMA10446 |
+| intervertebral disk of axis | disque intervertébral de l'axis | FMA25058 |
+| intervertebral disk of cervical vertebra | disque intervertébral de la vertèbre cervicale | FMA13895 |
+| intervertebral disk of eighth thoracic vertebra | disque intervertébral de l'huitième vertèbre thoracique | FMA13505 |
+| intervertebral disk of eleventh thoracic vertebra | disque intervertébral de l'onzième vertèbre thoracique | FMA13508 |
+| intervertebral disk of fifth cervical vertebra | disque intervertébral de la cinquième vertèbre cervicale | FMA13898 |
+| intervertebral disk of fifth lumbar vertebra | disque intervertébral de la cinquième vertèbre lombaire | FMA16037 |
+| intervertebral disk of fifth thoracic vertebra | disque intervertébral de la cinquième vertèbre thoracique | FMA13502 |
+| intervertebral disk of first lumbar vertebra | disque intervertébral de la première vertèbre lombaire | FMA16033 |
+| intervertebral disk of first thoracic vertebra | disque intervertébral de la première vertèbre thoracique | FMA10458 |
+| intervertebral disk of fourth cervical vertebra | disque intervertébral de la quatrième vertèbre cervicale | FMA13897 |
+| intervertebral disk of fourth lumbar vertebra | disque intervertébral de la quatrième vertèbre lombaire | FMA16036 |
+| intervertebral disk of fourth thoracic vertebra | disque intervertébral de la quatrième vertèbre thoracique | FMA13501 |
+| intervertebral disk of lumbar vertebra | disque intervertébral de la vertèbre lombaire | FMA13894 |
+| intervertebral disk of ninth thoracic vertebra | disque intervertébral de la neuvième vertèbre thoracique | FMA13506 |
+| intervertebral disk of second lumbar vertebra | disque intervertébral de la deuxième vertèbre lombaire | FMA16034 |
+| intervertebral disk of second thoracic vertebra | disque intervertébral de la deuxième vertèbre thoracique | FMA13495 |
+| intervertebral disk of seventh cervical vertebra | disque intervertébral de la septième vertèbre cervicale | FMA13900 |
+| intervertebral disk of seventh thoracic vertebra | disque intervertébral de la septième vertèbre thoracique | FMA13504 |
+| intervertebral disk of sixth cervical vertebra | disque intervertébral de la sixième vertèbre cervicale | FMA13899 |
+| intervertebral disk of sixth thoracic vertebra | disque intervertébral de la sixième vertèbre thoracique | FMA13503 |
+| intervertebral disk of tenth thoracic vertebra | disque intervertébral de la dixième vertèbre thoracique | FMA13507 |
+| intervertebral disk of third cervical vertebra | disque intervertébral de la troisième vertèbre cervicale | FMA13896 |
+| intervertebral disk of third lumbar vertebra | disque intervertébral de la troisième vertèbre lombaire | FMA16035 |
+| intervertebral disk of third thoracic vertebra | disque intervertébral de la troisième vertèbre thoracique | FMA13500 |
+| intervertebral disk of thoracic vertebra | disque intervertébral de la vertèbre thoracique | FMA10455 |
+| intervertebral symphysis | symphyse intervertébrale | FMA25511 |
+| intervertebral symphysis of axis | symphyse intervertébrale de l'axis | FMA25571 |
+| investing fascia of left free lower limb | fascia de la partie libre du membre inférieur gauche | FMA58430 |
+| investing fascia of left lower limb | fascia du membre inférieur gauche | FMA58419 |
+| investing fascia of left thigh | fascia de la cuisse gauche | FMA58743 |
+| investing fascia of right free lower limb | fascia de la partie libre du membre inférieur droit | FMA58429 |
+| investing fascia of right lower limb | fascia du membre inférieur droit | FMA58418 |
+| investing fascia of right thigh | fascia de la cuisse droite | FMA58742 |
+| irregular bone | os irrégulier | FMA7477 |
+| laryngeal cartilage | cartilage du larynx | FMA55108 |
+| lateral cuneiform bone | os cunéiforme latéral | FMA24520 |
+| left arytenoid cartilage | cartilage aryténoïde gauche | FMA55114 |
+| left big toe | hallux gauche | FMA60336 |
+| left bony pectoral girdle | ceinture pectorale osseuse gauche | FMA25573 |
+| left calcaneus | calcanéus gauche | FMA24498 |
+| left capitate | capitatum gauche | FMA24447 |
+| left cheek | joue gauche | FMA53638 |
+| left clavicle | clavicule gauche | FMA13323 |
+| left corniculate cartilage | cartilage corniculé gauche | FMA55116 |
+| left cuboid bone | os cuboïde gauche | FMA24529 |
+| left cuneiform cartilage | cartilage cunéiforme gauche | FMA55118 |
+| left eighth rib | huitième côte gauche | FMA8310 |
+| left eleventh rib | onzième côte gauche | FMA8532 |
+| left femur | fémur gauche | FMA24475 |
+| left fibula | fibula gauche | FMA24481 |
+| left fibularis brevis | muscle court fibulaire gauche | FMA22555 |
+| left fibularis longus | muscle long fibulaire gauche | FMA22553 |
+| left fibularis tertius | muscle troisième fibulaire gauche | FMA22551 |
+| left fifth costal cartilage | cinquième cartilage costal gauche | FMA8112 |
+| left fifth metacarpal bone | cinquième métacarpien gauche | FMA24473 |
+| left fifth metatarsal bone | cinquième métatarsien gauche | FMA24516 |
+| left fifth rib | cinquième côte gauche | FMA8093 |
+| left first costal cartilage | premier cartilage costal gauche | FMA8005 |
+| left first metacarpal bone | premier métacarpien gauche | FMA24465 |
+| left first metatarsal bone | premier métatarsien gauche | FMA24508 |
+| left first rib | première côte gauche | FMA7987 |
+| left foot | pied gauche | FMA11344 |
+| left foot proper | pied gauche proprement dit | FMA73087 |
+| left forearm | avant-bras gauche | FMA11346 |
+| left fourth costal cartilage | quatrième cartilage costal gauche | FMA8167 |
+| left fourth metacarpal bone | quatrième métacarpien gauche | FMA24471 |
+| left fourth metatarsal bone | quatrième métatarsien gauche | FMA24514 |
+| left fourth rib | quatrième côte gauche | FMA8148 |
+| left fourth toe | quatrième orteil gauche | FMA60342 |
+| left free lower limb | partie libre du membre inférieur gauche | FMA24883 |
+| left free upper limb | partie libre du membre supérieur gauche | FMA24881 |
+| left hamate | hamatum gauche | FMA24449 |
+| left hand | main gauche | FMA9714 |
+| left hand proper | main gauche proprement dite | FMA61069 |
+| left hip | hanche gauche | FMA24966 |
+| left hip bone | os coxal gauche | FMA16587 |
+| left humerus | humérus gauche | FMA23131 |
+| left iliotibial tract | tractus ilio-tibial gauche | FMA58777 |
+| left index finger | index gauche | FMA60334 |
+| left intermediate cuneiform bone | os cunéiforme intermédiaire gauche | FMA24524 |
+| left knee | genou gauche | FMA24978 |
+| left lateral cuneiform bone | os cunéiforme latéral gauche | FMA24526 |
+| left leg | jambe gauche | FMA24981 |
+| left levator scapulae | muscle élévateur de la scapula gauche | FMA32541 |
+| left little finger | auriculaire gauche | FMA60328 |
+| left little toe | petit orteil gauche | FMA60344 |
+| left lower central secondary incisor tooth | incisive centrale permanente inférieure gauche | FMA57143 |
+| left lower first secondary molar tooth | première molaire permanente inférieure gauche | FMA55704 |
+| left lower first secondary premolar tooth | première prémolaire permanente inférieure gauche | FMA55693 |
+| left lower lateral secondary incisor tooth | incisive latérale permanente inférieure gauche | FMA57141 |
+| left lower limb | membre inférieur gauche | FMA7188 |
+| left lower second secondary molar tooth | deuxième molaire permanente inférieure gauche | FMA55703 |
+| left lower second secondary premolar tooth | deuxième prémolaire permanente inférieure gauche | FMA55692 |
+| left lower secondary canine tooth | canine permanente inférieure gauche | FMA55687 |
+| left lunate | lunatum gauche | FMA24438 |
+| left major alar cartilage | grand cartilage alaire gauche | FMA59506 |
+| left maxilla | maxillaire gauche | FMA53650 |
+| left medial cuneiform bone | os cunéiforme médial gauche | FMA24522 |
+| left middle finger | majeur gauche | FMA60332 |
+| left nasal bone | os nasal gauche | FMA53648 |
+| left ninth rib | neuvième côte gauche | FMA8391 |
+| left palatine bone | os palatin gauche | FMA53656 |
+| left parietal bone | os pariétal gauche | FMA52789 |
+| left patella | patella gauche | FMA24487 |
+| left pelvic girdle | ceinture pelvienne gauche | FMA16583 |
+| left pisiform | pisiforme gauche | FMA24442 |
+| left radius | radius gauche | FMA23465 |
+| left ring finger | annulaire gauche | FMA60330 |
+| left scaphoid | scaphoïde gauche | FMA24436 |
+| left scapula | scapula gauche | FMA13396 |
+| left second costal cartilage | deuxième cartilage costal gauche | FMA8031 |
+| left second metacarpal bone | deuxième métacarpien gauche | FMA24467 |
+| left second metatarsal bone | deuxième métatarsien gauche | FMA24510 |
+| left second rib | deuxième côte gauche | FMA8012 |
+| left second toe | deuxième orteil gauche | FMA60338 |
+| left seventh costal cartilage | septième cartilage costal gauche | FMA8275 |
+| left seventh rib | septième côte gauche | FMA8256 |
+| left side of bony pelvis | côté gauche du pelvis osseux | FMA20227 |
+| left side of rib cage | côté gauche de la cage thoracique | FMA20225 |
+| left sixth costal cartilage | sixième cartilage costal gauche | FMA8221 |
+| left sixth rib | sixième côte gauche | FMA8202 |
+| left subscapularis | muscle subscapulaire gauche | FMA13415 |
+| left talus | talus gauche | FMA24483 |
+| left temporal bone | os temporal gauche | FMA52739 |
+| left tenth rib | dixième côte gauche | FMA8472 |
+| left thigh | cuisse gauche | FMA24969 |
+| left third costal cartilage | troisième cartilage costal gauche | FMA8058 |
+| left third metacarpal bone | troisième métacarpien gauche | FMA24469 |
+| left third metatarsal bone | troisième métatarsien gauche | FMA24512 |
+| left third rib | troisième côte gauche | FMA8039 |
+| left third toe | troisième orteil gauche | FMA60340 |
+| left thumb | pouce gauche | FMA60326 |
+| left tibia | tibia gauche | FMA24478 |
+| left tibialis anterior | muscle tibial antérieur gauche | FMA22545 |
+| left tibialis posterior | muscle tibial postérieur gauche | FMA65019 |
+| left trapezium | trapèze gauche | FMA24444 |
+| left trapezoid | trapézoïde gauche | FMA24445 |
+| left triquetral | triquetrum gauche | FMA24440 |
+| left twelfth rib | douzième côte gauche | FMA8534 |
+| left ulna | ulna gauche | FMA23468 |
+| left upper central secondary incisor tooth | incisive centrale permanente supérieure gauche | FMA55682 |
+| left upper first secondary molar tooth | première molaire permanente supérieure gauche | FMA55699 |
+| left upper first secondary premolar tooth | première prémolaire permanente supérieure gauche | FMA55690 |
+| left upper lateral secondary incisor tooth | incisive latérale permanente supérieure gauche | FMA55683 |
+| left upper limb | membre supérieur gauche | FMA7186 |
+| left upper second secondary molar tooth | deuxième molaire permanente supérieure gauche | FMA55700 |
+| left upper second secondary premolar tooth | deuxième prémolaire permanente supérieure gauche | FMA55691 |
+| left upper secondary canine tooth | canine permanente supérieure gauche | FMA55799 |
+| left wrist | poignet gauche | FMA24941 |
+| left zygomatic bone | os zygomatique gauche | FMA52893 |
+| levator scapulae | muscle élévateur de la scapula | FMA32519 |
+| long bone | os long | FMA7474 |
+| lower central secondary incisor tooth | incisive centrale permanente inférieure | FMA55723 |
+| lower first secondary molar tooth | première molaire permanente inférieure | FMA55814 |
+| lower first secondary premolar tooth | première prémolaire permanente inférieure | FMA55803 |
+| lower jaw | mâchoire inférieure | FMA54398 |
+| lower lateral secondary incisor tooth | incisive latérale permanente inférieure | FMA55725 |
+| lower limb | membre inférieur | FMA7184 |
+| lower second secondary molar tooth | deuxième molaire permanente inférieure | FMA55815 |
+| lower second secondary premolar tooth | deuxième prémolaire permanente inférieure | FMA55804 |
+| lower secondary canine tooth | canine permanente inférieure | FMA55715 |
+| lower secondary incisor tooth | incisive permanente inférieure | FMA55713 |
+| lower secondary molar tooth | molaire permanente inférieure | FMA55721 |
+| lower secondary premolar tooth | prémolaire permanente inférieure | FMA55717 |
+| lumbar vertebra | vertèbre lombaire | FMA9921 |
+| lumbar vertebral column | colonne vertébrale lombaire | FMA16203 |
+| lunate | lunatum | FMA23712 |
+| major alar cartilage | grand cartilage alaire | FMA59504 |
+| mandible | mandibule | FMA52748 |
+| mandibular part of mouth | partie mandibulaire de la bouche | FMA59398 |
+| manubrium | manubrium | FMA7486 |
+| maxilla | maxillaire | FMA9711 |
+| maxillary part of mouth | partie maxillaire de la bouche | FMA59399 |
+| medial cuneiform bone | os cunéiforme médial | FMA24518 |
+| metacarpal bone | métacarpien | FMA9612 |
+| metatarsal bone | métatarsien | FMA24492 |
+| middle phalanx of fourth toe | phalange moyenne du quatrième orteil | FMA32625 |
+| middle phalanx of index finger | phalange moyenne de l'index | FMA23933 |
+| middle phalanx of left fourth toe | phalange moyenne du quatrième orteil gauche | FMA32647 |
+| middle phalanx of left index finger | phalange moyenne de l'index gauche | FMA23938 |
+| middle phalanx of left little finger | phalange moyenne de l'auriculaire gauche | FMA23944 |
+| middle phalanx of left little toe | phalange moyenne du petit orteil gauche | FMA230988 |
+| middle phalanx of left middle finger | phalange moyenne du majeur gauche | FMA23940 |
+| middle phalanx of left ring finger | phalange moyenne de l'annulaire gauche | FMA23942 |
+| middle phalanx of left second toe | phalange moyenne du deuxième orteil gauche | FMA32643 |
+| middle phalanx of left third toe | phalange moyenne du troisième orteil gauche | FMA32645 |
+| middle phalanx of little finger | phalange moyenne de l'auriculaire | FMA23936 |
+| middle phalanx of little toe | phalange moyenne du petit orteil | FMA230984 |
+| middle phalanx of middle finger | phalange moyenne du majeur | FMA23934 |
+| middle phalanx of right fourth toe | phalange moyenne du quatrième orteil droit | FMA32646 |
+| middle phalanx of right index finger | phalange moyenne de l'index droit | FMA24455 |
+| middle phalanx of right little finger | phalange moyenne de l'auriculaire droit | FMA24458 |
+| middle phalanx of right little toe | phalange moyenne du petit orteil droit | FMA230986 |
+| middle phalanx of right middle finger | phalange moyenne du majeur droit | FMA24456 |
+| middle phalanx of right ring finger | phalange moyenne de l'annulaire droit | FMA24457 |
+| middle phalanx of right second toe | phalange moyenne du deuxième orteil droit | FMA32642 |
+| middle phalanx of right third toe | phalange moyenne du troisième orteil droit | FMA32644 |
+| middle phalanx of ring finger | phalange moyenne de l'annulaire | FMA23935 |
+| middle phalanx of second toe | phalange moyenne du deuxième orteil | FMA32623 |
+| middle phalanx of third toe | phalange moyenne du troisième orteil | FMA32624 |
+| molar tooth | molaire | FMA55638 |
+| muscle of lateral compartment of leg | muscle du compartiment latéral de la jambe | FMA22473 |
+| musculoskeletal system | appareil locomoteur | FMA7482 |
+| nasal bone | os nasal | FMA52745 |
+| nasal skeleton | squelette nasal | FMA60116 |
+| navicular bone of foot | os naviculaire du pied | FMA24499 |
+| navicular bone of left foot | os naviculaire du pied gauche | FMA24501 |
+| navicular bone of right foot | os naviculaire du pied droit | FMA24500 |
+| neck | cou | FMA7155 |
+| neurocranium | neurocrâne | FMA53672 |
+| ninth rib | neuvième côte | FMA8337 |
+| ninth thoracic intervertebral symphysis | neuvième symphyse intervertébrale thoracique | FMA26101 |
+| ninth thoracic vertebra | neuvième vertèbre thoracique | FMA10014 |
+| nose | nez | FMA46472 |
+| occipital bone | os occipital | FMA52735 |
+| occipital part of head | partie occipitale de la tête | FMA49187 |
+| organ with cavitated organ parts | organe à parties cavitaires | FMA55673 |
+| organ with organ cavity | organe à cavité | FMA55672 |
+| osseous skeleton of external nose | squelette osseux du nez externe | FMA59655 |
+| osseous skeleton of nose | squelette osseux du nez | FMA59654 |
+| palatine bone | os palatin | FMA52746 |
+| parietal bone | os pariétal | FMA9613 |
+| patella | patella | FMA24485 |
+| patellar part of left knee | partie patellaire du genou gauche | FMA79066 |
+| patellar part of right knee | partie patellaire du genou droit | FMA79065 |
+| pelvic girdle | ceinture pelvienne | FMA16581 |
+| pelvic skeleton | squelette pelvien | FMA72062 |
+| phalanx of big toe | phalange de l'hallux | FMA32884 |
+| phalanx of finger | phalange du doigt | FMA23914 |
+| phalanx of fourth toe | phalange du quatrième orteil | FMA32901 |
+| phalanx of index finger | phalange de l'index | FMA35480 |
+| phalanx of little finger | phalange de l'auriculaire | FMA35489 |
+| phalanx of little toe | phalange du petit orteil | FMA32902 |
+| phalanx of middle finger | phalange du majeur | FMA35483 |
+| phalanx of ring finger | phalange de l'annulaire | FMA35486 |
+| phalanx of second toe | phalange du deuxième orteil | FMA32899 |
+| phalanx of third toe | phalange du troisième orteil | FMA32900 |
+| phalanx of thumb | phalange du pouce | FMA35477 |
+| phalanx of toe | phalange de l'orteil | FMA24493 |
+| pisiform | pisiforme | FMA23718 |
+| pneumatized bone | os pneumatique | FMA7478 |
+| posterior abdominal wall | paroi abdominale postérieure | FMA14628 |
+| posterior chest | thorax postérieur | FMA87552 |
+| posterior part of pelvis | partie postérieure du pelvis | FMA24228 |
+| posterior thoracic wall | paroi thoracique postérieure | FMA73103 |
+| premolar tooth | prémolaire | FMA55637 |
+| process of organ | processus d'organe | FMA67601 |
+| proximal carpal bone | os de la rangée proximale du carpe | FMA33302 |
+| proximal phalanx of big toe | phalange proximale de l'hallux | FMA43252 |
+| proximal phalanx of fourth toe | phalange proximale du quatrième orteil | FMA32620 |
+| proximal phalanx of index finger | phalange proximale de l'index | FMA23919 |
+| proximal phalanx of left big toe | phalange proximale de l'hallux gauche | FMA43254 |
+| proximal phalanx of left fourth toe | phalange proximale du quatrième orteil gauche | FMA32639 |
+| proximal phalanx of left index finger | phalange proximale de l'index gauche | FMA71915 |
+| proximal phalanx of left little finger | phalange proximale de l'auriculaire gauche | FMA66791 |
+| proximal phalanx of left little toe | phalange proximale du petit orteil gauche | FMA32641 |
+| proximal phalanx of left middle finger | phalange proximale du majeur gauche | FMA71908 |
+| proximal phalanx of left ring finger | phalange proximale de l'annulaire gauche | FMA71916 |
+| proximal phalanx of left second toe | phalange proximale du deuxième orteil gauche | FMA32635 |
+| proximal phalanx of left third toe | phalange proximale du troisième orteil gauche | FMA32637 |
+| proximal phalanx of left thumb | phalange proximale du pouce gauche | FMA65470 |
+| proximal phalanx of little finger | phalange proximale de l'auriculaire | FMA23922 |
+| proximal phalanx of little toe | phalange proximale du petit orteil | FMA32621 |
+| proximal phalanx of middle finger | phalange proximale du majeur | FMA23920 |
+| proximal phalanx of right big toe | phalange proximale de l'hallux droit | FMA43253 |
+| proximal phalanx of right fourth toe | phalange proximale du quatrième orteil droit | FMA32638 |
+| proximal phalanx of right index finger | phalange proximale de l'index droit | FMA24451 |
+| proximal phalanx of right little finger | phalange proximale de l'auriculaire droit | FMA24454 |
+| proximal phalanx of right little toe | phalange proximale du petit orteil droit | FMA32640 |
+| proximal phalanx of right middle finger | phalange proximale du majeur droit | FMA24452 |
+| proximal phalanx of right ring finger | phalange proximale de l'annulaire droit | FMA24453 |
+| proximal phalanx of right second toe | phalange proximale du deuxième orteil droit | FMA32634 |
+| proximal phalanx of right third toe | phalange proximale du troisième orteil droit | FMA32636 |
+| proximal phalanx of right thumb | phalange proximale du pouce droit | FMA24450 |
+| proximal phalanx of ring finger | phalange proximale de l'annulaire | FMA23921 |
+| proximal phalanx of second toe | phalange proximale du deuxième orteil | FMA32618 |
+| proximal phalanx of third toe | phalange proximale du troisième orteil | FMA32619 |
+| proximal phalanx of thumb | phalange proximale du pouce | FMA23918 |
+| radius | radius | FMA23463 |
+| rib | côte | FMA7574 |
+| rib cage | cage thoracique | FMA7480 |
+| right arytenoid cartilage | cartilage aryténoïde droit | FMA55113 |
+| right big toe | hallux droit | FMA60335 |
+| right bony pectoral girdle | ceinture pectorale osseuse droite | FMA25572 |
+| right calcaneus | calcanéus droit | FMA24497 |
+| right capitate | capitatum droit | FMA24446 |
+| right cheek | joue droite | FMA53637 |
+| right clavicle | clavicule droite | FMA13322 |
+| right corniculate cartilage | cartilage corniculé droit | FMA55115 |
+| right cuboid bone | os cuboïde droit | FMA24528 |
+| right cuneiform cartilage | cartilage cunéiforme droit | FMA55117 |
+| right eighth rib | huitième côte droite | FMA8283 |
+| right eleventh rib | onzième côte droite | FMA8531 |
+| right femur | fémur droit | FMA24474 |
+| right fibula | fibula droite | FMA24480 |
+| right fibularis brevis | muscle court fibulaire droit | FMA22554 |
+| right fibularis longus | muscle long fibulaire droit | FMA22552 |
+| right fibularis tertius | muscle troisième fibulaire droit | FMA22550 |
+| right fifth costal cartilage | cinquième cartilage costal droit | FMA8070 |
+| right fifth metacarpal bone | cinquième métacarpien droit | FMA24472 |
+| right fifth metatarsal bone | cinquième métatarsien droit | FMA24515 |
+| right fifth rib | cinquième côte droite | FMA8066 |
+| right first costal cartilage | premier cartilage costal droit | FMA7875 |
+| right first metacarpal bone | premier métacarpien droit | FMA24464 |
+| right first metatarsal bone | premier métatarsien droit | FMA24507 |
+| right first rib | première côte droite | FMA7857 |
+| right foot | pied droit | FMA11343 |
+| right foot proper | pied droit proprement dit | FMA73086 |
+| right forearm | avant-bras droit | FMA11345 |
+| right fourth costal cartilage | quatrième cartilage costal droit | FMA7976 |
+| right fourth metacarpal bone | quatrième métacarpien droit | FMA24470 |
+| right fourth metatarsal bone | quatrième métatarsien droit | FMA24513 |
+| right fourth rib | quatrième côte droite | FMA7957 |
+| right fourth toe | quatrième orteil droit | FMA60341 |
+| right free lower limb | partie libre du membre inférieur droit | FMA24882 |
+| right free upper limb | partie libre du membre supérieur droit | FMA24880 |
+| right hamate | hamatum droit | FMA24448 |
+| right hand | main droite | FMA9713 |
+| right hand proper | main droite proprement dite | FMA61068 |
+| right hip | hanche droite | FMA24965 |
+| right hip bone | os coxal droit | FMA16586 |
+| right humerus | humérus droit | FMA23130 |
+| right iliotibial tract | tractus ilio-tibial droit | FMA58776 |
+| right index finger | index droit | FMA60333 |
+| right intermediate cuneiform bone | os cunéiforme intermédiaire droit | FMA24523 |
+| right knee | genou droit | FMA24977 |
+| right lateral cuneiform bone | os cunéiforme latéral droit | FMA24525 |
+| right leg | jambe droite | FMA24980 |
+| right levator scapulae | muscle élévateur de la scapula droite | FMA32540 |
+| right little finger | auriculaire droit | FMA60327 |
+| right little toe | petit orteil droit | FMA60343 |
+| right lower central secondary incisor tooth | incisive centrale permanente inférieure droite | FMA57142 |
+| right lower first secondary molar tooth | première molaire permanente inférieure droite | FMA55705 |
+| right lower first secondary premolar tooth | première prémolaire permanente inférieure droite | FMA55694 |
+| right lower lateral secondary incisor tooth | incisive latérale permanente inférieure droite | FMA57140 |
+| right lower limb | membre inférieur droit | FMA7187 |
+| right lower second secondary molar tooth | deuxième molaire permanente inférieure droite | FMA55706 |
+| right lower second secondary premolar tooth | deuxième prémolaire permanente inférieure droite | FMA55695 |
+| right lower secondary canine tooth | canine permanente inférieure droite | FMA55686 |
+| right lunate | lunatum droit | FMA24437 |
+| right major alar cartilage | grand cartilage alaire droit | FMA59505 |
+| right maxilla | maxillaire droit | FMA53649 |
+| right medial cuneiform bone | os cunéiforme médial droit | FMA24521 |
+| right middle finger | majeur droit | FMA60331 |
+| right nasal bone | os nasal droit | FMA53647 |
+| right ninth rib | neuvième côte droite | FMA8364 |
+| right palatine bone | os palatin droit | FMA53655 |
+| right parietal bone | os pariétal droit | FMA52788 |
+| right patella | patella droite | FMA24486 |
+| right pelvic girdle | ceinture pelvienne droite | FMA16582 |
+| right pisiform | pisiforme droit | FMA24441 |
+| right radius | radius droit | FMA23464 |
+| right ring finger | annulaire droit | FMA60329 |
+| right scaphoid | scaphoïde droit | FMA24435 |
+| right scapula | scapula droite | FMA13395 |
+| right second costal cartilage | deuxième cartilage costal droit | FMA7886 |
+| right second metacarpal bone | deuxième métacarpien droit | FMA24466 |
+| right second metatarsal bone | deuxième métatarsien droit | FMA24509 |
+| right second rib | deuxième côte droite | FMA7882 |
+| right second toe | deuxième orteil droit | FMA60337 |
+| right seventh costal cartilage | septième cartilage costal droit | FMA8248 |
+| right seventh rib | septième côte droite | FMA8229 |
+| right shoulder | épaule droite | FMA33642 |
+| right side of bony pelvis | côté droit du pelvis osseux | FMA20226 |
+| right side of rib cage | côté droit de la cage thoracique | FMA20224 |
+| right sixth costal cartilage | sixième cartilage costal droit | FMA8194 |
+| right sixth rib | sixième côte droite | FMA8175 |
+| right subscapularis | muscle subscapulaire droit | FMA13414 |
+| right talus | talus droit | FMA24482 |
+| right temporal bone | os temporal droit | FMA52738 |
+| right tenth rib | dixième côte droite | FMA8445 |
+| right thigh | cuisse droite | FMA24968 |
+| right third costal cartilage | troisième cartilage costal droit | FMA7913 |
+| right third metacarpal bone | troisième métacarpien droit | FMA24468 |
+| right third metatarsal bone | troisième métatarsien droit | FMA24511 |
+| right third rib | troisième côte droite | FMA7909 |
+| right third toe | troisième orteil droit | FMA60339 |
+| right thumb | pouce droit | FMA60325 |
+| right tibia | tibia droit | FMA24477 |
+| right tibialis anterior | muscle tibial antérieur droit | FMA22544 |
+| right tibialis posterior | muscle tibial postérieur droit | FMA65018 |
+| right trapezium | trapèze droit | FMA24443 |
+| right trapezoid | trapézoïde droit | FMA23725 |
+| right triquetral | triquetrum droit | FMA24439 |
+| right twelfth rib | douzième côte droite | FMA8533 |
+| right ulna | ulna droite | FMA23467 |
+| right upper central secondary incisor tooth | incisive centrale permanente supérieure droite | FMA55681 |
+| right upper first secondary molar tooth | première molaire permanente supérieure droite | FMA55698 |
+| right upper first secondary premolar tooth | première prémolaire permanente supérieure droite | FMA55689 |
+| right upper lateral secondary incisor tooth | incisive latérale permanente supérieure droite | FMA55680 |
+| right upper limb | membre supérieur droit | FMA7185 |
+| right upper second secondary molar tooth | deuxième molaire permanente supérieure droite | FMA55697 |
+| right upper second secondary premolar tooth | deuxième prémolaire permanente supérieure droite | FMA55688 |
+| right upper secondary canine tooth | canine permanente supérieure droite | FMA55798 |
+| right wrist | poignet droit | FMA24940 |
+| right zygomatic bone | os zygomatique droit | FMA52892 |
+| root of nose | racine du nez | FMA59516 |
+| sacrum | sacrum | FMA16202 |
+| scaphoid | scaphoïde | FMA23709 |
+| scapula | scapula | FMA13394 |
+| second costal cartilage | deuxième cartilage costal | FMA7703 |
+| second lumbar intervertebral symphysis | deuxième symphyse intervertébrale lombaire | FMA26106 |
+| second lumbar vertebra | deuxième vertèbre lombaire | FMA13073 |
+| second metacarpal bone | deuxième métacarpien | FMA23900 |
+| second metatarsal bone | deuxième métatarsien | FMA24503 |
+| second rib | deuxième côte | FMA7620 |
+| second thoracic intervertebral symphysis | deuxième symphyse intervertébrale thoracique | FMA26094 |
+| second thoracic vertebra | deuxième vertèbre thoracique | FMA9187 |
+| secondary canine tooth | canine permanente | FMA84203 |
+| secondary incisor tooth | incisive permanente | FMA84201 |
+| secondary molar tooth | molaire permanente | FMA84207 |
+| septum of internal nose | septum du nez interne | FMA59665 |
+| sesamoid bone | os sésamoïde | FMA32672 |
+| sesamoid bone of foot | os sésamoïde du pied | FMA45096 |
+| sesamoid bone of left foot | os sésamoïde du pied gauche | FMA45098 |
+| sesamoid bone of right foot | os sésamoïde du pied droit | FMA45097 |
+| set of cervical vertebrae | ensemble des vertèbres cervicales | FMA72063 |
+| set of lumbar vertebrae | ensemble des vertèbres lombaires | FMA72065 |
+| set of thoracic vertebrae | ensemble des vertèbres thoraciques | FMA72064 |
+| seventh cervical intervertebral symphysis | septième symphyse intervertébrale cervicale | FMA26086 |
+| seventh cervical vertebra | septième vertèbre cervicale | FMA12525 |
+| seventh costal cartilage | septième cartilage costal | FMA7849 |
+| seventh rib | septième côte | FMA7830 |
+| seventh thoracic intervertebral symphysis | septième symphyse intervertébrale thoracique | FMA26099 |
+| seventh thoracic vertebra | septième vertèbre thoracique | FMA9968 |
+| short bone | os court | FMA7475 |
+| sixth cervical intervertebral symphysis | sixième symphyse intervertébrale cervicale | FMA26085 |
+| sixth cervical vertebra | sixième vertèbre cervicale | FMA12524 |
+| sixth costal cartilage | sixième cartilage costal | FMA7822 |
+| sixth rib | sixième côte | FMA8147 |
+| sixth thoracic intervertebral symphysis | sixième symphyse intervertébrale thoracique | FMA26098 |
+| sixth thoracic vertebra | sixième vertèbre thoracique | FMA9945 |
+| skeletal system | système squelettique | FMA23881 |
+| skeletal system of thorax | système squelettique du thorax | FMA7481 |
+| skeletal system of trunk | système squelettique du tronc | FMA87598 |
+| skeleton (in vivo) | squelette | FMA23876 |
+| skeleton of left hand proper | squelette de la main gauche proprement dite | FMA79182 |
+| skeleton of left pectoral girdle | squelette de la ceinture pectorale gauche | FMA24164 |
+| skeleton of mouth | squelette de la bouche | FMA61670 |
+| skeleton of right hand proper | squelette de la main droite proprement dite | FMA79181 |
+| skeleton of right pectoral girdle | squelette de la ceinture pectorale droite | FMA24163 |
+| sphenoid bone | os sphénoïde | FMA52736 |
+| sternal part of chest | région sternale | FMA24866 |
+| sternum | sternum | FMA7485 |
+| subscapularis | muscle subscapulaire | FMA13413 |
+| talus | talus | FMA9708 |
+| tarsal bone | os du tarse | FMA24491 |
+| temporal bone | os temporal | FMA52737 |
+| tenth rib | dixième côte | FMA8418 |
+| tenth thoracic intervertebral symphysis | dixième symphyse intervertébrale thoracique | FMA26102 |
+| tenth thoracic vertebra | dixième vertèbre thoracique | FMA10037 |
+| third cervical intervertebral symphysis | troisième symphyse intervertébrale cervicale | FMA26078 |
+| third cervical vertebra | troisième vertèbre cervicale | FMA12521 |
+| third costal cartilage | troisième cartilage costal | FMA7741 |
+| third lumbar intervertebral symphysis | troisième symphyse intervertébrale lombaire | FMA26107 |
+| third lumbar vertebra | troisième vertèbre lombaire | FMA13074 |
+| third metacarpal bone | troisième métacarpien | FMA23901 |
+| third metatarsal bone | troisième métatarsien | FMA24504 |
+| third rib | troisième côte | FMA7638 |
+| third thoracic intervertebral symphysis | troisième symphyse intervertébrale thoracique | FMA26095 |
+| third thoracic vertebra | troisième vertèbre thoracique | FMA9209 |
+| thoracic vertebra | vertèbre thoracique | FMA9139 |
+| thoracic vertebral column | colonne vertébrale thoracique | FMA9140 |
+| thoracic wall | paroi thoracique | FMA10428 |
+| thyroid cartilage | cartilage thyroïde | FMA55099 |
+| tibia | tibia | FMA24476 |
+| tibialis anterior | muscle tibial antérieur | FMA22532 |
+| tibialis posterior | muscle tibial postérieur | FMA51099 |
+| tooth | dent | FMA12516 |
+| trapezium | trapèze | FMA23721 |
+| trapezoid | trapézoïde | FMA23724 |
+| triquetral | triquetrum | FMA23715 |
+| true rib | vraie côte | FMA7592 |
+| twelfth rib | douzième côte | FMA8515 |
+| twelfth thoracic vertebra | douzième vertèbre thoracique | FMA10081 |
+| typical rib | côte typique | FMA7593 |
+| ulna | ulna | FMA23466 |
+| upper central secondary incisor tooth | incisive centrale permanente supérieure | FMA55722 |
+| upper first secondary molar tooth | première molaire permanente supérieure | FMA55811 |
+| upper first secondary premolar tooth | première prémolaire permanente supérieure | FMA55801 |
+| upper jaw | mâchoire supérieure | FMA54397 |
+| upper lateral secondary incisor tooth | incisive latérale permanente supérieure | FMA55724 |
+| upper second secondary molar tooth | deuxième molaire permanente supérieure | FMA55812 |
+| upper second secondary premolar tooth | deuxième prémolaire permanente supérieure | FMA55802 |
+| upper secondary canine tooth | canine permanente supérieure | FMA55714 |
+| upper secondary incisor tooth | incisive permanente supérieure | FMA55712 |
+| upper secondary molar tooth | molaire permanente supérieure | FMA55720 |
+| upper secondary premolar tooth | prémolaire permanente supérieure | FMA55716 |
+| vertebra | vertèbre | FMA9914 |
+| vertebral column | colonne vertébrale | FMA13478 |
+| vomer | vomer | FMA9710 |
+| wall of abdomen | paroi de l'abdomen | FMA259054 |
+| wall of abdomen proper | paroi de l'abdomen proprement dit | FMA10429 |
+| xiphoid process | processus xiphoïde | FMA7488 |
+| zone of bone organ | zone d'os | FMA10483 |
+| zone of fascia lata | zone du fascia lata | FMA58775 |
+| zone of investing fascia | zone du fascia | FMA57965 |
+| zone of investing fascia of free lower limb | zone du fascia de la partie libre du membre inférieur | FMA58420 |
+| zone of investing fascia of lower limb | zone du fascia du membre inférieur | FMA58421 |
+| zone of investing fascia of thigh | zone du fascia de la cuisse | FMA58741 |
+| zone of sternum | zone du sternum | FMA12215 |
+| zygomatic bone | os zygomatique | FMA52747 |
+
+## Veines — 3/406
 
 | Anglais | Français | Réf. |
 |---|---|---|
@@ -1714,7 +1714,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | left ulnar vein | *(non traduit)* | FMA22952 |
 | left upper lobar vein | *(non traduit)* | FMA8657 |
 | lingular vein | *(non traduit)* | FMA8658 |
-| liver | *(non traduit)* | FMA7197 |
+| liver | foie | FMA7197 |
 | lumbar vein | *(non traduit)* | FMA15370 |
 | medial basal segmental vein | *(non traduit)* | FMA13289 |
 | medial brachial vein | *(non traduit)* | FMA78021 |
@@ -1732,7 +1732,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | middle colic vein | *(non traduit)* | FMA15406 |
 | middle hepatic vein | *(non traduit)* | FMA14340 |
 | middle lobar vein | *(non traduit)* | FMA8656 |
-| middle lobe of lung | *(non traduit)* | FMA7383 |
+| middle lobe of lung | lobe moyen du poumon | FMA7383 |
 | musculophrenic vein | *(non traduit)* | FMA4732 |
 | obturator vein | *(non traduit)* | FMA18914 |
 | palmar metacarpal vein | *(non traduit)* | FMA22919 |
@@ -1940,14 +1940,14 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | trunk of segmental pulmonary vein | *(non traduit)* | FMA68878 |
 | trunk of systemic vein | *(non traduit)* | FMA62512 |
 | ulnar vein | *(non traduit)* | FMA22950 |
-| upper lobe of left lung | *(non traduit)* | FMA7370 |
+| upper lobe of left lung | lobe supérieur du poumon gauche | FMA7370 |
 | vascular tree | *(non traduit)* | FMA3710 |
 | vein | *(non traduit)* | FMA50723 |
 | venous anastomosis | *(non traduit)* | FMA3729 |
 | venous tree organ | *(non traduit)* | FMA14284 |
 | venous trunk | *(non traduit)* | FMA30314 |
 
-## Artères — 0/833
+## Artères — 36/833
 
 | Anglais | Français | Réf. |
 |---|---|---|
@@ -1957,11 +1957,11 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | acromial branch of left thoraco-acromial artery | *(non traduit)* | FMA23069 |
 | acromial branch of right thoraco-acromial artery | *(non traduit)* | FMA23068 |
 | acromial branch of thoraco-acromial artery | *(non traduit)* | FMA23065 |
-| anastomosis | *(non traduit)* | FMA3726 |
-| anatomical entity | *(non traduit)* | FMA62955 |
-| anatomical junction | *(non traduit)* | FMA5898 |
-| anatomical set | *(non traduit)* | FMA55652 |
-| anatomical structure | *(non traduit)* | FMA67135 |
+| anastomosis | anastomose | FMA3726 |
+| anatomical entity | entité anatomique | FMA62955 |
+| anatomical junction | jonction anatomique | FMA5898 |
+| anatomical set | ensemble anatomique | FMA55652 |
+| anatomical structure | structure anatomique | FMA67135 |
 | anterior basal segmental artery | *(non traduit)* | FMA8717 |
 | anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA13914 |
 | anterior branch of anterior segmental artery | *(non traduit)* | FMA68682 |
@@ -1969,7 +1969,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | anterior branch of right anterior segmental artery | *(non traduit)* | FMA68683 |
 | anterior cecal artery | *(non traduit)* | FMA14816 |
 | anterior cerebral artery | *(non traduit)* | FMA50028 |
-| anterior chest | *(non traduit)* | FMA24816 |
+| anterior chest | thorax antérieur | FMA24816 |
 | anterior choroidal artery | *(non traduit)* | FMA50087 |
 | anterior circumflex humeral artery | *(non traduit)* | FMA22680 |
 | anterior communicating artery | *(non traduit)* | FMA50169 |
@@ -2001,7 +2001,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | anterolateral central branch of left middle cerebral artery | *(non traduit)* | FMA50378 |
 | anterolateral central branch of middle cerebral artery | *(non traduit)* | FMA50376 |
 | anterolateral central branch of right middle cerebral artery | *(non traduit)* | FMA50377 |
-| aorta | *(non traduit)* | FMA3734 |
+| aorta | aorte | FMA3734 |
 | apical part of apical segmental artery | *(non traduit)* | FMA68661 |
 | apical part of posterior segmental artery | *(non traduit)* | FMA68669 |
 | apical part of right apical segmental artery | *(non traduit)* | FMA68662 |
@@ -2030,9 +2030,9 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | basal branch of anterior basal segmental artery | *(non traduit)* | FMA68722 |
 | basal branch of right anterior basal segmental artery | *(non traduit)* | FMA68723 |
 | basilar artery | *(non traduit)* | FMA50542 |
-| body cavity content | *(non traduit)* | FMA260456 |
-| body compartment | *(non traduit)* | FMA7563 |
-| body proper | *(non traduit)* | FMA231424 |
+| body cavity content | contenu de cavité corporelle | FMA260456 |
+| body compartment | compartiment du corps | FMA7563 |
+| body proper | corps proprement dit | FMA231424 |
 | brachial artery | *(non traduit)* | FMA22689 |
 | brachiocephalic artery | *(non traduit)* | FMA3932 |
 | branch of anterior cerebral artery | *(non traduit)* | FMA50031 |
@@ -2082,7 +2082,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | bronchial artery | *(non traduit)* | FMA68109 |
 | bronchial branch of arch of aorta | *(non traduit)* | FMA14177 |
 | callosomarginal artery | *(non traduit)* | FMA50330 |
-| cardinal organ part | *(non traduit)* | FMA82472 |
+| cardinal organ part | partie cardinale d'organe | FMA82472 |
 | cardiovascular system | *(non traduit)* | FMA7161 |
 | caudal pancreatic artery | *(non traduit)* | FMA14793 |
 | caudate lobe branch of left hepatic artery | *(non traduit)* | FMA70455 |
@@ -2097,13 +2097,13 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | common iliac artery | *(non traduit)* | FMA14764 |
 | common interosseous artery | *(non traduit)* | FMA22806 |
 | compartment of abdomen | *(non traduit)* | FMA85031 |
-| compartment of thorax | *(non traduit)* | FMA85008 |
+| compartment of thorax | compartiment du thorax | FMA85008 |
 | content of abdomen | *(non traduit)* | FMA259248 |
-| content of inferior mediastinum | *(non traduit)* | FMA79275 |
-| content of mediastinum | *(non traduit)* | FMA79273 |
-| content of middle mediastinum | *(non traduit)* | FMA79278 |
-| content of superior mediastinum | *(non traduit)* | FMA79274 |
-| content of thorax | *(non traduit)* | FMA79269 |
+| content of inferior mediastinum | contenu du médiastin inférieur | FMA79275 |
+| content of mediastinum | contenu du médiastin | FMA79273 |
+| content of middle mediastinum | contenu du médiastin moyen | FMA79278 |
+| content of superior mediastinum | contenu du médiastin supérieur | FMA79274 |
+| content of thorax | contenu du thorax | FMA79269 |
 | conus branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3868 |
 | coronary artery | *(non traduit)* | FMA49893 |
 | costocervical trunk | *(non traduit)* | FMA10636 |
@@ -2145,10 +2145,10 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | fourth common palmar digital artery | *(non traduit)* | FMA85108 |
 | gastroduodenal artery | *(non traduit)* | FMA14775 |
 | great pancreatic artery | *(non traduit)* | FMA14792 |
-| heart | *(non traduit)* | FMA7088 |
+| heart | cœur | FMA7088 |
 | hepatic artery | *(non traduit)* | FMA14769 |
 | hepatic artery proper | *(non traduit)* | FMA14772 |
-| human body | *(non traduit)* | FMA20394 |
+| human body | corps humain | FMA20394 |
 | hypothalamic branch of left posterior communicating artery | *(non traduit)* | FMA50429 |
 | hypothalamic branch of posterior communicating artery | *(non traduit)* | FMA50427 |
 | hypothalamic branch of right posterior communicating artery | *(non traduit)* | FMA50428 |
@@ -2162,7 +2162,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | inferior lateral genicular artery | *(non traduit)* | FMA43888 |
 | inferior lingular artery | *(non traduit)* | FMA8640 |
 | inferior medial genicular artery | *(non traduit)* | FMA43889 |
-| inferior mediastinum | *(non traduit)* | FMA9828 |
+| inferior mediastinum | médiastin inférieur | FMA9828 |
 | inferior mesenteric artery | *(non traduit)* | FMA14750 |
 | inferior pancreatic artery | *(non traduit)* | FMA14790 |
 | inferior pancreaticoduodenal artery | *(non traduit)* | FMA14805 |
@@ -2320,7 +2320,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | left renal artery | *(non traduit)* | FMA14753 |
 | left second common palmar digital artery | *(non traduit)* | FMA85120 |
 | left second posterior intercostal artery | *(non traduit)* | FMA4112 |
-| left side of heart | *(non traduit)* | FMA7166 |
+| left side of heart | cœur gauche | FMA7166 |
 | left splenial artery | *(non traduit)* | FMA50685 |
 | left subclavian artery | *(non traduit)* | FMA4694 |
 | left subcostal artery | *(non traduit)* | FMA4654 |
@@ -2352,7 +2352,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | marginal artery of colon | *(non traduit)* | FMA14831 |
 | marginal branch of right coronary artery | *(non traduit)* | FMA3818 |
 | marginal colic artery | *(non traduit)* | FMA14824 |
-| material anatomical entity | *(non traduit)* | FMA67165 |
+| material anatomical entity | entité anatomique matérielle | FMA67165 |
 | medial basal segmental artery | *(non traduit)* | FMA8716 |
 | medial branch of left pontine artery | *(non traduit)* | FMA50567 |
 | medial branch of left superior cerebellar artery | *(non traduit)* | FMA50582 |
@@ -2377,7 +2377,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | medial segmental artery | *(non traduit)* | FMA68193 |
 | medial segmental hepatic artery | *(non traduit)* | FMA70448 |
 | medial superior segmental hepatic artery | *(non traduit)* | FMA70449 |
-| mediastinum | *(non traduit)* | FMA9826 |
+| mediastinum | médiastin | FMA9826 |
 | mediobasal branch of posterior basal segmental artery | *(non traduit)* | FMA68740 |
 | mediobasal branch of right posterior basal segmental artery | *(non traduit)* | FMA68741 |
 | middle colic artery | *(non traduit)* | FMA14810 |
@@ -2385,7 +2385,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | middle collateral branch of right deep brachial artery | *(non traduit)* | FMA23124 |
 | middle genicular artery | *(non traduit)* | FMA22536 |
 | middle lobar artery | *(non traduit)* | FMA68196 |
-| middle mediastinum | *(non traduit)* | FMA9839 |
+| middle mediastinum | médiastin moyen | FMA9839 |
 | middle suprarenal artery | *(non traduit)* | FMA14754 |
 | middle temporal branch of lateral occipital artery | *(non traduit)* | FMA50649 |
 | middle temporal branch of left lateral occipital artery | *(non traduit)* | FMA50681 |
@@ -2395,7 +2395,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | middle temporal branch of right middle cerebral artery | *(non traduit)* | FMA50467 |
 | musculophrenic artery | *(non traduit)* | FMA10645 |
 | ophthalmic artery | *(non traduit)* | FMA49868 |
-| organ region | *(non traduit)* | FMA67619 |
+| organ region | région d'organe | FMA67619 |
 | organ segment | *(non traduit)* | FMA86140 |
 | palmar metacarpal artery | *(non traduit)* | FMA22863 |
 | pancreatic artery | *(non traduit)* | FMA70471 |
@@ -2406,7 +2406,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | pectoral branch of right thoraco-acromial artery | *(non traduit)* | FMA23063 |
 | pectoral branch of thoraco-acromial artery | *(non traduit)* | FMA23062 |
 | pericallosal artery | *(non traduit)* | FMA50337 |
-| physical anatomical entity | *(non traduit)* | FMA61775 |
+| physical anatomical entity | entité anatomique physique | FMA61775 |
 | plantar arch | *(non traduit)* | FMA43942 |
 | plantar metatarsal artery | *(non traduit)* | FMA43956 |
 | polar temporal artery | *(non traduit)* | FMA50379 |
@@ -2489,7 +2489,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | right anterior ulnar recurrent artery | *(non traduit)* | FMA22801 |
 | right apical segmental artery | *(non traduit)* | FMA8617 |
 | right arcuate artery | *(non traduit)* | FMA69494 |
-| right arm | *(non traduit)* | FMA24895 |
+| right arm | bras droit | FMA24895 |
 | right arteria princeps pollicis | *(non traduit)* | FMA22905 |
 | right arteria radialis indicis | *(non traduit)* | FMA22777 |
 | right axillary artery | *(non traduit)* | FMA22655 |
@@ -2542,9 +2542,9 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | right lateral tarsal artery | *(non traduit)* | FMA69490 |
 | right lateral thoracic artery | *(non traduit)* | FMA22675 |
 | right lobe branch of right hepatic artery | *(non traduit)* | FMA71708 |
-| right lobe of liver | *(non traduit)* | FMA13362 |
+| right lobe of liver | lobe droit du foie | FMA13362 |
 | right lower lobar artery | *(non traduit)* | FMA68200 |
-| right lung | *(non traduit)* | FMA7309 |
+| right lung | poumon droit | FMA7309 |
 | right medial frontobasal artery | *(non traduit)* | FMA50343 |
 | right medial occipital artery | *(non traduit)* | FMA50645 |
 | right medial plantar artery | *(non traduit)* | FMA43929 |
@@ -2573,14 +2573,14 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | right posterior ulnar recurrent artery | *(non traduit)* | FMA22804 |
 | right prefrontal artery | *(non traduit)* | FMA50445 |
 | right pulmonary artery | *(non traduit)* | FMA50872 |
-| right pulmopleural compartment | *(non traduit)* | FMA85055 |
+| right pulmopleural compartment | compartiment pulmo-pleural droit | FMA85055 |
 | right radial artery | *(non traduit)* | FMA22733 |
 | right radial recurrent artery | *(non traduit)* | FMA22764 |
 | right recurrent interosseous artery | *(non traduit)* | FMA268667 |
 | right renal artery | *(non traduit)* | FMA14752 |
 | right second common palmar digital artery | *(non traduit)* | FMA85119 |
 | right second posterior intercostal artery | *(non traduit)* | FMA5041 |
-| right side of heart | *(non traduit)* | FMA7165 |
+| right side of heart | cœur droit | FMA7165 |
 | right splenial artery | *(non traduit)* | FMA50684 |
 | right subclavian artery | *(non traduit)* | FMA3953 |
 | right subcostal artery | *(non traduit)* | FMA4634 |
@@ -2630,8 +2630,8 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | set of dorsal digital arteries | *(non traduit)* | FMA70801 |
 | set of dorsal metacarpal arteries | *(non traduit)* | FMA70800 |
 | set of oesophageal branches of thoracic aorta | *(non traduit)* | FMA71537 |
-| set of organ parts | *(non traduit)* | FMA228667 |
-| set of organ regions | *(non traduit)* | FMA78562 |
+| set of organ parts | ensemble de parties d'organe | FMA228667 |
+| set of organ regions | ensemble de régions d'organe | FMA78562 |
 | set of perforating arteries | *(non traduit)* | FMA70815 |
 | set of plantar digital arteries proper | *(non traduit)* | FMA71564 |
 | set of posterior temporal branches of lateral occipital artery | *(non traduit)* | FMA71502 |
@@ -2698,7 +2698,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | superior lateral genicular artery | *(non traduit)* | FMA22585 |
 | superior lingular artery | *(non traduit)* | FMA8639 |
 | superior medial genicular artery | *(non traduit)* | FMA22584 |
-| superior mediastinum | *(non traduit)* | FMA9827 |
+| superior mediastinum | médiastin supérieur | FMA9827 |
 | superior mesenteric artery | *(non traduit)* | FMA14749 |
 | superior pancreaticoduodenal artery | *(non traduit)* | FMA70437 |
 | superior rectal artery | *(non traduit)* | FMA14832 |
@@ -2728,7 +2728,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | third right anterior branch of anterior interventricular branch of left coronary artery | *(non traduit)* | FMA3876 |
 | thoracic segment of trunk | *(non traduit)* | FMA259209 |
 | thoracodorsal artery | *(non traduit)* | FMA66320 |
-| thorax | *(non traduit)* | FMA9576 |
+| thorax | thorax | FMA9576 |
 | thyrocervical trunk | *(non traduit)* | FMA3990 |
 | transverse cervical artery | *(non traduit)* | FMA10664 |
 | trunk | *(non traduit)* | FMA7181 |
@@ -2768,7 +2768,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | ulnar artery | *(non traduit)* | FMA22796 |
 | ulnar recurrent artery | *(non traduit)* | FMA77140 |
 | upper lobar artery | *(non traduit)* | FMA8702 |
-| upper lobe of right lung | *(non traduit)* | FMA7333 |
+| upper lobe of right lung | lobe supérieur du poumon droit | FMA7333 |
 | ureteric segment of left renal artery | *(non traduit)* | FMA70493 |
 | ureteric segment of renal artery | *(non traduit)* | FMA70491 |
 | ureteric segment of right renal artery | *(non traduit)* | FMA70492 |
@@ -2785,7 +2785,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | zone of posterior cerebral artery | *(non traduit)* | FMA50589 |
 | zone of trunk of lateral plantar artery | *(non traduit)* | FMA69559 |
 
-## Muscles — 0/721
+## Muscles — 21/721
 
 | Anglais | Français | Réf. |
 |---|---|---|
@@ -2813,7 +2813,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | anterior abdominal wall | *(non traduit)* | FMA14627 |
 | anterior papillary muscle of right ventricle | *(non traduit)* | FMA7260 |
 | anterior suboccipital muscle | *(non traduit)* | FMA64875 |
-| anterior superficial chest wall | *(non traduit)* | FMA50063 |
+| anterior superficial chest wall | paroi thoracique superficielle antérieure | FMA50063 |
 | anterior wall of left ventricle | *(non traduit)* | FMA9560 |
 | anterior wall of right ventricle | *(non traduit)* | FMA9553 |
 | anterolateral head of lateral papillary muscle of left ventricle | *(non traduit)* | FMA7265 |
@@ -2841,7 +2841,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | descending part of right trapezius | *(non traduit)* | FMA33586 |
 | descending part of trapezius | *(non traduit)* | FMA32557 |
 | diaphragm | *(non traduit)* | FMA13295 |
-| digastric | *(non traduit)* | FMA46291 |
+| digastric | muscle digastrique | FMA46291 |
 | extensor carpi radialis brevis | *(non traduit)* | FMA38497 |
 | extensor carpi radialis longus | *(non traduit)* | FMA38494 |
 | extensor carpi ulnaris | *(non traduit)* | FMA38506 |
@@ -2912,7 +2912,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | hypothenar muscle | *(non traduit)* | FMA64917 |
 | iliacus | *(non traduit)* | FMA22310 |
 | iliococcygeus | *(non traduit)* | FMA19092 |
-| iliocostalis | *(non traduit)* | FMA77177 |
+| iliocostalis | muscle ilio-costal | FMA77177 |
 | iliocostalis cervicis | *(non traduit)* | FMA22704 |
 | iliocostalis lumborum | *(non traduit)* | FMA22702 |
 | iliocostalis thoracis | *(non traduit)* | FMA22703 |
@@ -2928,7 +2928,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | intercostal muscle | *(non traduit)* | FMA13354 |
 | intermediate postvertebral muscle | *(non traduit)* | FMA32560 |
 | internal intercostal muscle | *(non traduit)* | FMA9757 |
-| interosseous of foot | *(non traduit)* | FMA37456 |
+| interosseous of foot | muscle interosseux du pied | FMA37456 |
 | interspinalis muscle | *(non traduit)* | FMA22841 |
 | interspinalis thoracis | *(non traduit)* | FMA22846 |
 | intertransversarius muscle | *(non traduit)* | FMA22848 |
@@ -2960,7 +2960,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | left adductor magnus | *(non traduit)* | FMA22460 |
 | left adductor minimus | *(non traduit)* | FMA43887 |
 | left anconeus | *(non traduit)* | FMA37706 |
-| left arm | *(non traduit)* | FMA24896 |
+| left arm | bras gauche | FMA24896 |
 | left aryepiglotticus | *(non traduit)* | FMA46605 |
 | left brachialis | *(non traduit)* | FMA37669 |
 | left brachioradialis | *(non traduit)* | FMA38487 |
@@ -3029,7 +3029,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | left opponens pollicis | *(non traduit)* | FMA37391 |
 | left palmaris longus | *(non traduit)* | FMA38464 |
 | left pectineus | *(non traduit)* | FMA22451 |
-| left pectoral girdle | *(non traduit)* | FMA23219 |
+| left pectoral girdle | ceinture pectorale gauche | FMA23219 |
 | left pectoral part of chest | *(non traduit)* | FMA61473 |
 | left pectoralis major | *(non traduit)* | FMA13374 |
 | left pectoralis minor | *(non traduit)* | FMA13376 |
@@ -3097,14 +3097,14 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | long head of right biceps femoris | *(non traduit)* | FMA45888 |
 | long head of right triceps brachii | *(non traduit)* | FMA37699 |
 | long head of triceps brachii | *(non traduit)* | FMA37692 |
-| longissimus | *(non traduit)* | FMA77178 |
+| longissimus | muscle longissimus | FMA77178 |
 | longissimus capitis | *(non traduit)* | FMA22714 |
 | longissimus cervicis | *(non traduit)* | FMA22711 |
 | longissimus thoracis | *(non traduit)* | FMA22709 |
 | longus capitis | *(non traduit)* | FMA46308 |
 | lumbar intertransversarius | *(non traduit)* | FMA22849 |
 | lumbar rotator | *(non traduit)* | FMA23084 |
-| lumbrical of foot | *(non traduit)* | FMA37453 |
+| lumbrical of foot | muscle lombrical du pied | FMA37453 |
 | medial head of flexor hallucis brevis | *(non traduit)* | FMA45969 |
 | medial head of gastrocnemius | *(non traduit)* | FMA45956 |
 | medial head of left flexor hallucis brevis | *(non traduit)* | FMA45972 |
@@ -3116,7 +3116,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | medial head of triceps brachii | *(non traduit)* | FMA37693 |
 | medial lumbar intertransversarius | *(non traduit)* | FMA22851 |
 | medial rectus | *(non traduit)* | FMA49037 |
-| mouth | *(non traduit)* | FMA49184 |
+| mouth | bouche | FMA49184 |
 | muscle of abdomen | *(non traduit)* | FMA9620 |
 | muscle of anterior abdominal wall | *(non traduit)* | FMA20278 |
 | muscle of anterior compartment of arm | *(non traduit)* | FMA37711 |
@@ -3152,7 +3152,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | muscle of upper limb | *(non traduit)* | FMA9621 |
 | muscle of vertebral column | *(non traduit)* | FMA22594 |
 | muscle organ | *(non traduit)* | FMA5022 |
-| musculature | *(non traduit)* | FMA32558 |
+| musculature | musculature | FMA32558 |
 | musculature of abdomen | *(non traduit)* | FMA86917 |
 | musculature of anterior abdominal wall | *(non traduit)* | FMA78435 |
 | musculature of chest | *(non traduit)* | FMA74779 |
@@ -3169,7 +3169,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | myocardium of left ventricle proper | *(non traduit)* | FMA83448 |
 | myocardium of right ventricle | *(non traduit)* | FMA9535 |
 | myocardium of right ventricle proper | *(non traduit)* | FMA83447 |
-| nonparenchymatous organ | *(non traduit)* | FMA55665 |
+| nonparenchymatous organ | organe non parenchymateux | FMA55665 |
 | oblique arytenoid | *(non traduit)* | FMA46583 |
 | oblique head of adductor hallucis | *(non traduit)* | FMA46014 |
 | oblique head of adductor pollicis | *(non traduit)* | FMA46119 |
@@ -3193,8 +3193,8 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | opponens digiti minimi of right foot | *(non traduit)* | FMA86034 |
 | opponens digiti minimi of right hand | *(non traduit)* | FMA37400 |
 | opponens pollicis | *(non traduit)* | FMA37379 |
-| organ | *(non traduit)* | FMA67498 |
-| organ zone | *(non traduit)* | FMA55268 |
+| organ | organe | FMA67498 |
+| organ zone | zone d'organe | FMA55268 |
 | palmaris longus | *(non traduit)* | FMA38462 |
 | papillary muscle of left ventricle | *(non traduit)* | FMA9352 |
 | papillary muscle of right ventricle | *(non traduit)* | FMA7259 |
@@ -3203,12 +3203,12 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | pectoral part of left pectoral girdle | *(non traduit)* | FMA33645 |
 | pectoral part of right pectoral girdle | *(non traduit)* | FMA33644 |
 | pectoralis minor | *(non traduit)* | FMA13109 |
-| pelvic wall | *(non traduit)* | FMA10430 |
-| pelvis | *(non traduit)* | FMA9578 |
+| pelvic wall | paroi pelvienne | FMA10430 |
+| pelvis | pelvis | FMA9578 |
 | perineal muscle | *(non traduit)* | FMA9623 |
 | perineum | *(non traduit)* | FMA9579 |
 | piriformis | *(non traduit)* | FMA19082 |
-| plantar interosseous of foot | *(non traduit)* | FMA37458 |
+| plantar interosseous of foot | muscle interosseux plantaire | FMA37458 |
 | plantaris | *(non traduit)* | FMA22543 |
 | platysma | *(non traduit)* | FMA45738 |
 | popliteus | *(non traduit)* | FMA22590 |
@@ -3308,7 +3308,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | right opponens pollicis | *(non traduit)* | FMA37390 |
 | right palmaris longus | *(non traduit)* | FMA38463 |
 | right pectineus | *(non traduit)* | FMA22450 |
-| right pectoral girdle | *(non traduit)* | FMA23218 |
+| right pectoral girdle | ceinture pectorale droite | FMA23218 |
 | right pectoral part of chest | *(non traduit)* | FMA61472 |
 | right pectoralis major | *(non traduit)* | FMA13373 |
 | right pectoralis minor | *(non traduit)* | FMA13375 |
@@ -3380,7 +3380,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | second plantar interosseous of left foot | *(non traduit)* | FMA37744 |
 | second plantar interosseous of right foot | *(non traduit)* | FMA37743 |
 | semimembranosus | *(non traduit)* | FMA22438 |
-| semispinalis | *(non traduit)* | FMA22823 |
+| semispinalis | muscle semi-épineux | FMA22823 |
 | semispinalis capitis | *(non traduit)* | FMA22830 |
 | semispinalis cervicis | *(non traduit)* | FMA22829 |
 | semispinalis thoracis | *(non traduit)* | FMA22828 |
@@ -3403,7 +3403,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | set of lumbricals of hand | *(non traduit)* | FMA71318 |
 | set of lumbricals of left hand | *(non traduit)* | FMA42399 |
 | set of lumbricals of right hand | *(non traduit)* | FMA42398 |
-| set of organs | *(non traduit)* | FMA70779 |
+| set of organs | ensemble d'organes | FMA70779 |
 | set of palmar interossei of hand | *(non traduit)* | FMA71320 |
 | set of palmar interossei of left hand | *(non traduit)* | FMA42403 |
 | set of palmar interossei of right hand | *(non traduit)* | FMA42402 |
@@ -3418,7 +3418,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | short head of right biceps femoris | *(non traduit)* | FMA45891 |
 | soft palate | *(non traduit)* | FMA55021 |
 | soleus | *(non traduit)* | FMA22542 |
-| solid organ | *(non traduit)* | FMA55670 |
+| solid organ | organe plein | FMA55670 |
 | spinal part of deltoid | *(non traduit)* | FMA34679 |
 | spinal part of left deltoid | *(non traduit)* | FMA34685 |
 | spinal part of right deltoid | *(non traduit)* | FMA34684 |
@@ -3440,7 +3440,7 @@ Généré par `node scripts/anatomy-review.mjs` à partir de `locales/anatomy-fr
 | subclavius | *(non traduit)* | FMA13410 |
 | subendocardial layer of myocardium of left ventricle | *(non traduit)* | FMA84857 |
 | subendocardial layer of myocardium of right ventricle | *(non traduit)* | FMA84856 |
-| superficial chest wall | *(non traduit)* | FMA50061 |
+| superficial chest wall | paroi thoracique superficielle | FMA50061 |
 | superficial head of flexor pollicis brevis | *(non traduit)* | FMA46104 |
 | superficial head of left flexor pollicis brevis | *(non traduit)* | FMA65199 |
 | superficial head of right flexor pollicis brevis | *(non traduit)* | FMA65198 |
